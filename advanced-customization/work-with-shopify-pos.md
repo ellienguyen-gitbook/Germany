@@ -1,112 +1,112 @@
-# Work with Shopify POS
+# Mit Shopify POS arbeiten
 
-BOGOS allows you to **run gift with purchase offers directly on Shopify Point of Sales (POS)**, making it easy to reward customers in your physical stores just like you do online.
+BOGOS ermöglicht es Ihnen, **Gift-with-Purchase-Angebote direkt am Shopify Point of Sale (POS)** durchzuführen, sodass Sie Kunden in Ihren physischen Geschäften genauso einfach belohnen können wie online.
 
 {% hint style="info" %}
-**Before diving in, please read these notes first:**
+**Bevor Sie beginnen, lesen Sie bitte zunächst diese Hinweise:**
 
-1. **All products involved** in the offers must be published to the POS channel.
-2. Both **Gift Clone and Gift Function** mechanisms support Shopify POS.
-3. **For offers applying to collections** (only selected collections, all except selected collections), you must publish both these collections and all their products to your Online Store.
-4. POS currently **DOESN'T support** gift offers with:
+1. **Alle an den Angeboten beteiligten Produkte** müssen für den POS-Kanal veröffentlicht sein.
+2. Sowohl die Mechanismen **Gift Clone als auch Gift Function** unterstützen Shopify POS.
+3. **Bei Angeboten, die für Sammlungen gelten** (nur ausgewählte Sammlungen, alle außer ausgewählte Sammlungen), müssen Sie sowohl diese Sammlungen als auch alle ihre Produkte für Ihren Online-Shop veröffentlichen.
+4. POS unterstützt derzeit **KEINE** Geschenkangebote mit:
 
-* Sub-conditions (except for Sales Channels).
-* Gift products as gift cards (due to Shopify rules).
+* Unterbedingungen (außer für Vertriebskanäle).
+* Geschenkprodukten als Geschenkkarten (aufgrund der Shopify-Regeln).
 {% endhint %}
 
 {% embed url="https://youtu.be/P4uPN8PXNCA" %}
 
-## Set up BOGOS on Shopify POS
+## BOGOS auf Shopify POS einrichten
 
-Please have **BOGOS installed** in your Admin and **Shopify POS installed** on your device (iOS or Android).&#x20;
+Bitte stellen Sie sicher, dass **BOGOS in Ihrem Adminbereich installiert** ist und **Shopify POS auf Ihrem Gerät installiert** ist (iOS oder Android).&#x20;
 
-**Once it's done:**
+**Sobald das erledigt ist:**
 
-1. On your device, open the Shopify POS app.
-2. From the POS Home screen, tap Add tile
-3. Tap the App option
-4. Select BOGOS.io: Free gift on the screen
-5. Add the BOGOS POS UI extension
-6. Click Save.
+1. Öffnen Sie auf Ihrem Gerät die Shopify-POS-App.
+2. Tippen Sie im POS-Startbildschirm auf Kachel hinzufügen
+3. Tippen Sie auf die Option App
+4. Wählen Sie auf dem Bildschirm BOGOS.io: Free gift
+5. Fügen Sie die BOGOS-POS-UI-Erweiterung hinzu
+6. Klicken Sie auf Speichern.
 
 <figure><img src="../.gitbook/assets/unknown (166).png" alt=""><figcaption></figcaption></figure>
 
-## Add gift(s) to an order on POS
+## Geschenk(e) zu einer Bestellung am POS hinzufügen
 
-**To do this:**
+**So gehen Sie vor:**
 
-1. Publish a gift offer(s) in BOGOS app.
-2. Publish all products involved in the offer to the POS channel.
-3. Open Shopify POS. You can then add gifts to the cart based on your offer setup:
+1. Veröffentlichen Sie ein oder mehrere Geschenkangebote in der BOGOS-App.
+2. Veröffentlichen Sie alle am Angebot beteiligten Produkte für den POS-Kanal.
+3. Öffnen Sie Shopify POS. Sie können dann Geschenke basierend auf Ihrer Angebotseinrichtung zum Warenkorb hinzufügen:
 
-* [Automatically add gift(s) to cart](work-with-shopify-pos.md#automatically-add-gift-s-to-cart-on-pos)
-* [Choose gift(s) from a list](work-with-shopify-pos.md#choose-a-gift-s-from-a-list-on-pos)
+* [Geschenk(e) automatisch zum Warenkorb hinzufügen](work-with-shopify-pos.md#automatically-add-gift-s-to-cart-on-pos)
+* [Geschenk(e) aus einer Liste auswählen](work-with-shopify-pos.md#choose-a-gift-s-from-a-list-on-pos)
 
 {% hint style="warning" %}
-For the Gift Clone mechanism, gift clone products are usually created after you create an offer. Therefore, please double-check if the **gift clone products are published** on the POS channel.
+Beim Gift-Clone-Mechanismus werden Geschenk-Klonprodukte in der Regel erst nach der Erstellung eines Angebots angelegt. Prüfen Sie daher unbedingt, ob die **Geschenk-Klonprodukte für den POS-Kanal veröffentlicht** sind.
 {% endhint %}
 
-### Automatically add gift(s) to cart on POS
+### Geschenk(e) automatisch zum Warenkorb am POS hinzufügen
 
-When the POS cart meets your offer conditions, a gift(s) will be automatically added to the order.
+Wenn der POS-Warenkorb Ihre Angebotsbedingungen erfüllt, wird der Bestellung automatisch ein oder mehrere Geschenke hinzugefügt.
 
-**To use this option:**
+**So verwenden Sie diese Option:**
 
-1. Double-check if you enable 'Automatically add gift to cart' setting under Settings → Gift Condition.
+1. Überprüfen Sie, ob die Einstellung „Geschenk automatisch zum Warenkorb hinzufügen“ unter Einstellungen → Geschenkbedingung aktiviert ist.
 
 <figure><img src="../.gitbook/assets/unknown (167).png" alt=""><figcaption></figcaption></figure>
 
-2. When creating the offer, choose 'Automatically add all gifts'.
+2. Wählen Sie bei der Erstellung des Angebots „Alle Geschenke automatisch hinzufügen“.
 
 <figure><img src="../.gitbook/assets/unknown (168).png" alt="" width="495"><figcaption></figcaption></figure>
 
-_For details, please visit_ [_Create Gift Offer_](../detailed-guide/gift-offer/create-gift-offer.md#id-4.-select-gifts) _guide._
+_Weitere Details finden Sie im Leitfaden_ [_Geschenkangebot erstellen_](../detailed-guide/gift-offer/create-gift-offer.md#id-4.-select-gifts)_._
 
-### Choose a gift(s) from a list on POS
+### Ein Geschenk/Geschenke aus einer Liste am POS auswählen
 
-When the POS cart meets your offer conditions, customers will receive a real-time notification and can pick the one(s) they like from a gift list.&#x20;
+Wenn der POS-Warenkorb Ihre Angebotsbedingungen erfüllt, erhalten Kunden eine Echtzeit-Benachrichtigung und können das/die gewünschte(n) Geschenk(e) aus einer Geschenkliste auswählen.&#x20;
 
-**To add gifts to their order:**
+**So fügen Sie Geschenke zu ihrer Bestellung hinzu:**
 
-1. Add products to your cart. Make sure the cart reaches the condition of your offer
-2. Navigate to the POS Home screen > Tap Bogos Pos
-3. From the list of available gift products, click Claim gift
-4. The gift is now added. Complete the order and checkout
+1. Fügen Sie Produkte zu Ihrem Warenkorb hinzu. Stellen Sie sicher, dass der Warenkorb die Bedingung Ihres Angebots erreicht
+2. Navigieren Sie zum POS-Startbildschirm > Tippen Sie auf Bogos Pos
+3. Klicken Sie in der Liste der verfügbaren Geschenkprodukte auf Geschenk einlösen
+4. Das Geschenk ist nun hinzugefügt. Schließen Sie die Bestellung ab und gehen Sie zur Kasse
 
 <figure><img src="../.gitbook/assets/unknown (169).png" alt=""><figcaption></figcaption></figure>
 
-**To use this option, when creating the offer:**
+**So verwenden Sie diese Option bei der Erstellung des Angebots:**
 
-1. Select “Number of gifts customer will receive”.
-2. Enter the number of gifts you want customers to be eligible to claim.
+1. Wählen Sie „Anzahl der Geschenke, die der Kunde erhält“.
+2. Geben Sie die Anzahl der Geschenke ein, für die Kunden berechtigt sein sollen.
 
 <figure><img src="../.gitbook/assets/unknown (170).png" alt="" width="496"><figcaption></figcaption></figure>
 
-_For details, please visit_ [_Create Gift Offer_](../detailed-guide/gift-offer/create-gift-offer.md#id-4.-select-gifts) _guide._
+_Weitere Details finden Sie im Leitfaden_ [_Geschenkangebot erstellen_](../detailed-guide/gift-offer/create-gift-offer.md#id-4.-select-gifts)_._
 
-### Run gift offer only on POS channel/ specific POS locations
+### Geschenkangebot nur auf dem POS-Kanal/bestimmten POS-Standorten ausführen
 
-This feature creates gift offers that are exclusively available on POS or specific locations, meaning they can only be available when buying via your specific physical stores.
+Diese Funktion erstellt Geschenkangebote, die ausschließlich auf POS oder bestimmten Standorten verfügbar sind, das heißt, sie sind nur beim Kauf über Ihre bestimmten physischen Geschäfte verfügbar.
 
-To set it up:
+So richten Sie es ein:
 
-1. Open BOGOS app > Create a new or select an existing gift offer.
-2. Add Offer sub-condition > Add Sales channel condition
-3. Enable Point of sale channel
-4. Select your desired POS location (optional)
-5. Click Publish your offer.
+1. Öffnen Sie die BOGOS-App > erstellen Sie ein neues Geschenkangebot oder wählen Sie ein bestehendes aus.
+2. Fügen Sie eine Unterbedingung des Angebots hinzu > Fügen Sie die Bedingung Vertriebskanal hinzu
+3. Aktivieren Sie Kanalpunkt
+4. Wählen Sie Ihren gewünschten POS-Standort aus (optional)
+5. Klicken Sie auf Ihr Angebot veröffentlichen.
 
 <figure><img src="../.gitbook/assets/unknown (68).png" alt=""><figcaption></figcaption></figure>
 
-### Manage Gift Inventory on POS
+### Geschenkbestand am POS verwalten
 
-**For Gift Function mechanisms**, gift quantities are auto-synchronized with your inventory setup in Shopify. If inventory reaches 0, the offer won't run on POS.
+**Bei Gift-Function-Mechanismen** werden die Geschenkmengen automatisch mit Ihrer Bestandseinrichtung in Shopify synchronisiert. Wenn der Bestand 0 erreicht, läuft das Angebot nicht auf POS.
 
-**For the Gift Clone mechanism**, gift quantity follows your setup in Settings:
+**Beim Gift-Clone-Mechanismus** folgt die Geschenkmenge Ihrer Einrichtung in den Einstellungen:
 
-* _Sync clone products’ quantity with originals automatically_: Gift quantity in POS stays in sync with the original product inventory.
-* _Input gift product’s inventory manually:_ You manually control the gift quantity independently from the original product.
+* _Menge der Klonprodukte automatisch mit den Originalen synchronisieren_: Die Geschenkmenge in POS bleibt mit dem Original-Produktbestand synchron.
+* _Bestand des Geschenkprodukts manuell eingeben:_ Sie steuern die Geschenkmenge manuell, unabhängig vom Originalprodukt.
 
 <figure><img src="../.gitbook/assets/unknown (171).png" alt=""><figcaption></figcaption></figure>
 
-_For details on Gift inventory management, please visit_ [_Settings_](../detailed-guide/settings.md#id-5.-gift-inventory-management) _guide._
+_Weitere Details zur Verwaltung des Geschenkbestands finden Sie im Leitfaden_ [_Einstellungen_](../detailed-guide/settings.md#id-5.-gift-inventory-management)_._

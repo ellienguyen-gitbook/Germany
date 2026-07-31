@@ -4,85 +4,85 @@ description: >-
   page.
 ---
 
-# Customize Classic bundle
+# Classic Bundle anpassen
 
 {% embed url="https://youtu.be/_oPn7GqUGAk" %}
 
-## 1. Customize Widget Position <a href="#how-to-enable-the-bundle" id="how-to-enable-the-bundle"></a>
+## 1. Widget-Position anpassen <a href="#how-to-enable-the-bundle" id="how-to-enable-the-bundle"></a>
 
-By default, the bundle will show up on the product pages of the corresponding products.
+Standardmäßig erscheint das Bundle auf den Produktseiten der entsprechenden Produkte.
 
-If you:
+Wenn Sie:
 
-* Don't see the widgets on storefront
-* Want to change the widgets' position
-* Want to add Classic Bundle widget onto other pages (homepage, cart page,...)
+* die Widgets nicht im Onlineshop sehen
+* die Position der Widgets ändern möchten
+* das Classic-Bundle-Widget auf anderen Seiten hinzufügen möchten (Startseite, Warenkorbseite, ...)
 
-_Please visit our \[_[_Adjust BOGOS Blocks_](../../quick-start-guide/adjust-bogos-blocks.md)_] guide._
+_Besuchen Sie bitte unsere Anleitung \[_[_BOGOS-Blöcke anpassen_](../../quick-start-guide/adjust-bogos-blocks.md)_]._
 
-## 2. Customization Options <a href="#customization-options" id="customization-options"></a>
+## 2. Anpassungsoptionen <a href="#customization-options" id="customization-options"></a>
 
-### 2.1. Content <a href="#content" id="content"></a>
+### 2.1. Inhalt <a href="#content" id="content"></a>
 
-<figure><img src="https://bogos-guideline.gitbook.io/~gitbook/image?url=https%3A%2F%2F1174860429-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FBQEzvXIQmpPrTmxjT8T6%252Fuploads%252FUFidGSkHoH0w9M630JrS%252Fbundle%2520content.jpg%3Falt%3Dmedia%26token%3D6da1a501-22b0-46ed-ad85-66f2dad25f1d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9ad8fc95&#x26;sv=1" alt=""><figcaption><p>Customize Classic bundle - Content</p></figcaption></figure>
+<figure><img src="https://bogos-guideline.gitbook.io/~gitbook/image?url=https%3A%2F%2F1174860429-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FBQEzvXIQmpPrTmxjT8T6%252Fuploads%252FUFidGSkHoH0w9M630JrS%252Fbundle%2520content.jpg%3Falt%3Dmedia%26token%3D6da1a501-22b0-46ed-ad85-66f2dad25f1d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9ad8fc95&#x26;sv=1" alt=""><figcaption><p>Classic Bundle anpassen - Inhalt</p></figcaption></figure>
 
-Customize how the content displays on the bundle widget here:
+Passen Sie hier an, wie der Inhalt im Bundle-Widget angezeigt wird:
 
-* Show description: Display the bundle description
-* Show discount price on each item: Display the strike-through price of the bundled product
-* Show discount amount on 'Add to cart' button
-* Total price text
-* Button text
-* Select variant text
+* Beschreibung anzeigen: Zeigt die Bundle-Beschreibung an
+* Rabattpreis für jeden Artikel anzeigen: Zeigt den durchgestrichenen Preis des gebündelten Produkts an
+* Rabattbetrag auf der Schaltfläche „Zum Warenkorb hinzufügen“ anzeigen
+* Gesamtpreistext
+* Schaltflächentext
+* Text „Variante auswählen“
 
-### 2.2. Color <a href="#color" id="color"></a>
+### 2.2. Farbe <a href="#color" id="color"></a>
 
-BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
+BOGOS ermöglicht Ihnen, die Farben aller Elemente mit einer der folgenden 4 Methoden anzupassen:
 
-* Choose a **ready-made color set** from the dropdown.
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-classic-bundle.md#ai-theme-detector) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* Wählen Sie ein **vorgefertigtes Farbset** aus dem Dropdown-Menü.
+* **Passen Sie jedes Farbfeld manuell an** für alle verfügbaren Farben.
+* Verwenden Sie den [KI-Theme-Detektor](customize-classic-bundle.md#ai-theme-detector), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Shops zu generieren.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+BOGOS KI scannt Ihren Onlineshop und erkennt die Primär-, Sekundär- und Textfarben Ihrer Marke und generiert dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Shop darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit BOGOS KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stiftsymbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit BOGOS KI erneut erkennt, oder passen Sie **manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden**, um die Farben in der Widget-Vorschau anzuwenden.
 
-## 3. Add the Classic Bundle to Other Pages Besides the Product Page
+## 3. Das Classic Bundle zu anderen Seiten außer der Produktseite hinzufügen
 
 {% hint style="info" %}
-You can place the Classic Bundle block on any page of your store, except the Checkout page.
+Sie können den Classic-Bundle-Block auf jeder Seite Ihres Shops platzieren, außer der Checkout-Seite.
 {% endhint %}
 
-**Step 1:** Navigate to your **Online Stores** in the **Shopify navigation menu** => choose **Themes** => **Customize**
+**Schritt 1:** Navigieren Sie im **Shopify-Navigationsmenü** zu Ihren **Onlineshops** => wählen Sie **Themes** => **Anpassen**
 
-**Step 2:** In the **Shopify Theme Editor**, go to the page where you want to add the **Classic Bundle** block.
+**Schritt 2:** Gehen Sie im **Shopify-Theme-Editor** zu der Seite, auf der Sie den **Classic-Bundle**-Block hinzufügen möchten.
 
-Then, on the left panel, scroll down, click **Add section**, choose **Apps**, find and select **BOGOS: Classic Bundle** block.
+Scrollen Sie dann im linken Bereich nach unten, klicken Sie auf **Abschnitt hinzufügen**, wählen Sie **Apps** und suchen und wählen Sie den Block **BOGOS: Classic Bundle** aus.
 
 <figure><img src="../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
 
-**Step 3:** In the top-right panel, complete the setup fields.
+**Schritt 3:** Füllen Sie im oberen rechten Bereich die Einrichtungsfelder aus.
 
 <figure><img src="../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
 
-* **Offer ID:** Enter the ID of the bundle offer you want to display.
-* **Product show:** Select a product from your store. All Classic Bundle offers linked to this product will be displayed on the current page.
+* **Angebots-ID:** Geben Sie die ID des Bundle-Angebots ein, das Sie anzeigen möchten.
+* **Produkt anzeigen:** Wählen Sie ein Produkt aus Ihrem Shop aus. Alle mit diesem Produkt verknüpften Classic-Bundle-Angebote werden auf der aktuellen Seite angezeigt.

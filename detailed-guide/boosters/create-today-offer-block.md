@@ -1,123 +1,123 @@
-# Create Today Offer Block
+# Today Offer Block erstellen
 
-The Today Offer Block is a block that you can embed in any page of your store to keep customers informed and engaged about your ongoing promotions.
+Der Today Offer Block ist ein Block, den Sie auf jeder Seite Ihres Shops einbetten können, um Kunden über Ihre laufenden Aktionen zu informieren und einzubinden.
 
-You can choose to display all available offers (gifts, bundles, discounts), or just the ones you select, keeping customers informed and driving engagement with your ongoing promotions.
+Sie können wählen, ob alle verfügbaren Angebote (Geschenke, Bündel, Rabatte) oder nur die von Ihnen ausgewählten angezeigt werden, um Kunden informiert zu halten und die Interaktion mit Ihren laufenden Aktionen zu fördern.
 
 <figure><img src="../../.gitbook/assets/unknown (129).png" alt=""><figcaption></figcaption></figure>
 
-**Note:**&#x20;
+**Hinweis:**&#x20;
 
-* After setting up your Today Offer Block, you have to [**add it to your theme**](create-today-offer-block.md#add-block-to-your-theme) to make it appear on your storefront.
-* You can create multiple blocks, each with different offers and color settings, and display them on different pages.
+* Nachdem Sie Ihren Today Offer Block eingerichtet haben, müssen Sie [**ihn zu Ihrem Theme hinzufügen**](create-today-offer-block.md#add-block-to-your-theme), damit er in Ihrem Storefront erscheint.
+* Sie können mehrere Blöcke mit jeweils unterschiedlichen Angeboten und Farbeinstellungen erstellen und auf verschiedenen Seiten anzeigen.
 
 {% embed url="https://youtu.be/ykj6ujX5j9Q?si=8B904veHO7Ckn1OZ&t=221" %}
 
-## Set up Offer List
+## Angebotsliste einrichten
 
-### 1. General
+### 1. Allgemein
 
-First, fill in the General information for your widget:
+Füllen Sie zunächst die allgemeinen Informationen für Ihr Widget aus:
 
 <figure><img src="../../.gitbook/assets/unknown (130).png" alt=""><figcaption></figcaption></figure>
 
-**Booster name:** Edit the name of your Today Offer block for internal use only. This helps you manage it easily within the system and won’t be visible to customers.
+**Booster-Name:** Bearbeiten Sie den Namen Ihres Today Offer Blocks nur zur internen Verwendung. Dies hilft Ihnen, ihn im System einfach zu verwalten, und ist für Kunden nicht sichtbar.
 
-**Booster title:** Edit the name of your Today Offer block that will be visible to customers.
+**Booster-Titel:** Bearbeiten Sie den Namen Ihres Today Offer Blocks, der für Kunden sichtbar sein wird.
 
-**Booster subtitle (optional):** Add an optional description below the block title, used to provide additional context or details for the offer.
+**Booster-Untertitel (optional):** Fügen Sie eine optionale Beschreibung unterhalb des Blocktitels hinzu, um zusätzlichen Kontext oder Details zum Angebot bereitzustellen.
 
-### 2. Offer Card
+### 2. Angebotskarte
 
 <figure><img src="../../.gitbook/assets/unknown (131).png" alt=""><figcaption></figcaption></figure>
 
-First, decide on the **offer card layout** for your Today Offer block. You can choose between:
+Entscheiden Sie zunächst über das **Layout der Angebotskarte** für Ihren Today Offer Block. Sie können zwischen folgenden Optionen wählen:
 
-* **Thumbnail:** Displays the offer with a product thumbnail.
-* **Product Preview:** Allows customers to preview the products included in your offer.
+* **Thumbnail:** Zeigt das Angebot mit einem Produkt-Thumbnail an.
+* **Produktvorschau:** Ermöglicht es Kunden, die in Ihrem Angebot enthaltenen Produkte in der Vorschau zu sehen.
 
-Then, choose which offers to display on your block using 1 of these 2 methods:
+Wählen Sie dann mit 1 der 2 folgenden Methoden, welche Angebote in Ihrem Block angezeigt werden sollen:
 
-* **Automatically select:** Display all your active Gifts, Bundles, and Discounts. You can also untick any offer type if you want to exclude it from your block.
-* **Manually select:** Display only specific offers you select. If you pick deactivated offers, the block will only show them when they are activated.
+* **Automatisch auswählen:** Zeigt alle Ihre aktiven Geschenke, Bündel und Rabatte an. Sie können auch jeden Angebotstyp abwählen, wenn Sie ihn aus Ihrem Block ausschließen möchten.
+* **Manuell auswählen:** Zeigt nur die von Ihnen ausgewählten spezifischen Angebote an. Wenn Sie deaktivierte Angebote auswählen, zeigt der Block sie erst an, wenn sie aktiviert werden.
 
 <figure><img src="../../.gitbook/assets/unknown (132).png" alt=""><figcaption></figcaption></figure>
 
-In **Customize offer display**, click "Edit offer display" to edit each offer's content and choose which product to preview. Follow these steps:
+Klicken Sie unter **Angebotsanzeige anpassen** auf „Angebotsanzeige bearbeiten“, um den Inhalt jedes Angebots zu bearbeiten und auszuwählen, welches Produkt in der Vorschau angezeigt werden soll. Folgen Sie diesen Schritten:
 
-1. Select the offer you want to edit.
-2. Edit its title and description that will be shown to customers on the Today Offer block.
-3. Add a redirect link: When customers click on that button, they’ll be redirected to the page you link to (a product page, collection page,...). You can also edit the button text.
-4. The last option will appear differently depending on the card style you choose above:
+1. Wählen Sie das Angebot aus, das Sie bearbeiten möchten.
+2. Bearbeiten Sie den Titel und die Beschreibung, die Kunden im Today Offer Block angezeigt werden.
+3. Fügen Sie einen Weiterleitungslink hinzu: Wenn Kunden auf diese Schaltfläche klicken, werden sie zu der von Ihnen verlinkten Seite weitergeleitet (eine Produktseite, Sammlungsseite usw.). Sie können auch den Schaltflächentext bearbeiten.
+4. Die letzte Option erscheint je nach dem oben gewählten Kartenstil unterschiedlich:
 
-▶ **If you choose “Thumbnail”**, you can choose a thumbnail for your offer with 3 options below:
+▶ **Wenn Sie „Thumbnail“ wählen**, können Sie ein Thumbnail für Ihr Angebot mit 3 Optionen unten auswählen:
 
 <figure><img src="../../.gitbook/assets/unknown (133).png" alt=""><figcaption></figcaption></figure>
 
-* **One Product Image:** Select one product to show as the offer thumbnail.
-* **Product Image Group:** Choose up to 4 products to show as the offer thumbnail.
-* **Custom Image:** Select from available icons or upload your own image. We recommend using .jpg or .png files with a maximum size of 100 KB for fast loading.
+* **Ein Produktbild:** Wählen Sie ein Produkt aus, das als Angebots-Thumbnail angezeigt wird.
+* **Produktbildgruppe:** Wählen Sie bis zu 4 Produkte aus, die als Angebots-Thumbnail angezeigt werden.
+* **Benutzerdefiniertes Bild:** Wählen Sie aus verfügbaren Symbolen oder laden Sie Ihr eigenes Bild hoch. Wir empfehlen die Verwendung von .jpg- oder .png-Dateien mit einer maximalen Größe von 100 KB für ein schnelles Laden.
 
-▶ **If you choose “Product preview”**, you can edit the “Product list label”, which will show a label above the product list.
+▶ **Wenn Sie „Produktvorschau“ wählen**, können Sie das „Produktlisten-Etikett“ bearbeiten, das oberhalb der Produktliste angezeigt wird.
 
 <figure><img src="../../.gitbook/assets/unknown (134).png" alt=""><figcaption></figcaption></figure>
 
-**Note:** If you don’t edit the offer display, BOGOS will display the offer name (you set up when creating offers) as the title, and randomly select a product for the image preview.
+**Hinweis:** Wenn Sie die Angebotsanzeige nicht bearbeiten, zeigt BOGOS den Angebotsnamen (den Sie bei der Erstellung von Angeboten festgelegt haben) als Titel an und wählt zufällig ein Produkt für die Bildvorschau aus.
 
-### 3. Content
+### 3. Inhalt
 
 <figure><img src="../../.gitbook/assets/unknown (135).png" alt=""><figcaption></figcaption></figure>
 
-To attract customers' attention and provide more details about the promotion, you can:
+Um die Aufmerksamkeit der Kunden zu gewinnen und mehr Details zur Aktion bereitzustellen, können Sie:
 
-* **Show offer description:** Displays a brief description of the offer under the title (e.g., "Best products selected for you").
-* **Show label in product list** (only for "product preview"): Shows a label above the product list (e.g., "Buy at least 2 items from the bundle").
+* **Angebotsbeschreibung anzeigen:** Zeigt eine kurze Beschreibung des Angebots unter dem Titel an (z. B. „Beste für Sie ausgewählte Produkte“).
+* **Etikett in der Produktliste anzeigen** (nur für „Produktvorschau“): Zeigt ein Etikett oberhalb der Produktliste an (z. B. „Kaufen Sie mindestens 2 Artikel aus dem Bündel“).
 
-## Set up Block Style
+## Blockstil einrichten
 
 ### 1. Layout
 
 <figure><img src="../../.gitbook/assets/unknown (136).png" alt=""><figcaption></figcaption></figure>
 
-**On desktop**, you can choose either of two display layouts:
+**Auf dem Desktop** können Sie zwischen zwei Anzeigelayouts wählen:
 
-* 2 offers per row
-* 3 offers per row
+* 2 Angebote pro Zeile
+* 3 Angebote pro Zeile
 
-**On mobile**, the block will automatically show 1 offer per row.
+**Auf Mobilgeräten** zeigt der Block automatisch 1 Angebot pro Zeile an.
 
-### 2. Color
+### 2. Farbe
 
 <figure><img src="../../.gitbook/assets/unknown (137).png" alt=""><figcaption></figcaption></figure>
 
-Here, you can easily customize the colors of all the block elements to match your store’s branding. There are 3 options:
+Hier können Sie die Farben aller Blockelemente einfach an das Branding Ihres Shops anpassen. Es gibt 3 Optionen:
 
-* **Block:** Change the overall color of the Today Offer block.
-* **Offer card:** Adjust the color of the offer card that shows the details of each offer.
-* **Button:** If you set a redirect link for your offers, you can customize the button color.
+* **Block:** Ändern Sie die Gesamtfarbe des Today Offer Blocks.
+* **Angebotskarte:** Passen Sie die Farbe der Angebotskarte an, die die Details jedes Angebots anzeigt.
+* **Taste:** Wenn Sie einen Weiterleitungslink für Ihre Angebote festgelegt haben, können Sie die Farbe der Schaltfläche anpassen.
 
-Feel free to play around with these settings and see the live results!
+Probieren Sie diese Einstellungen aus und sehen Sie sich die Live-Ergebnisse an!
 
-## Add Block To Your Theme
+## Block zu Ihrem Theme hinzufügen
 
-After setting up your Today Offer block, follow these steps to make it **show up on your store**:
+Nachdem Sie Ihren Today Offer Block eingerichtet haben, folgen Sie diesen Schritten, damit er **in Ihrem Shop erscheint**:
 
-1. **Online Store > Customize**
-2. **Go to any page** where you want the block to appear (Home page, Cart page, Product page, Collection page).
-3. Click **“Add section”** > **Apps** > Find **“BOGOS: Today Offer Block”**.
+1. **Online-Shop > Anpassen**
+2. **Gehen Sie zu einer beliebigen Seite**, auf der der Block erscheinen soll (Startseite, Warenkorbseite, Produktseite, Sammlungsseite).
+3. Klicken Sie auf **„Abschnitt hinzufügen“** > **Apps** > Suchen Sie **„BOGOS: Today Offer Block“**.
 
 <figure><img src="../../.gitbook/assets/unknown (138).png" alt=""><figcaption></figcaption></figure>
 
-4. **Drag and drop** the block wherever you want it.
-5. **To choose which block to display** if you want to show only one, instead of displaying all blocks by default, follow these steps:
+4. **Ziehen Sie den Block per Drag-and-Drop** an die gewünschte Position.
+5. **Um auszuwählen, welcher Block angezeigt werden soll**, falls Sie nur einen anzeigen möchten, anstatt standardmäßig alle Blöcke anzuzeigen, folgen Sie diesen Schritten:
 
-Go back to the Today Offer block setup in the BOGOS app > **Copy the block’s ID** (e.g., 53).
+Gehen Sie zurück zur Einrichtung des Today Offer Blocks in der BOGOS-App > **Kopieren Sie die ID des Blocks** (z. B. 53).
 
 <figure><img src="../../.gitbook/assets/unknown (139).png" alt=""><figcaption></figcaption></figure>
 
-\> Navigate to your theme editor&#x20;
+\> Navigieren Sie zu Ihrem Theme-Editor&#x20;
 
-\> Click on the Today Offer block > Paste the ID into the “Booster ID” field (e.g., 53).
+\> Klicken Sie auf den Today Offer Block > Fügen Sie die ID in das Feld „Booster-ID“ ein (z. B. 53).
 
 <figure><img src="../../.gitbook/assets/unknown (140).png" alt=""><figcaption></figcaption></figure>
 
@@ -125,42 +125,42 @@ Go back to the Today Offer block setup in the BOGOS app > **Copy the block’s I
 
 <details>
 
-<summary><strong>How to add the Today Offer block to my Shopify theme?</strong></summary>
+<summary><strong>Wie füge ich den Today Offer Block zu meinem Shopify-Theme hinzu?</strong></summary>
 
-In BOGOS app, please create & save your Today Offer Block (choose offers, layout, colors) first. Then, follow the steps below:
+Erstellen und speichern Sie in der BOGOS-App zunächst Ihren Today Offer Block (wählen Sie Angebote, Layout, Farben). Folgen Sie dann den Schritten unten:
 
-Step 1: In Shopify admin go to Online Store → Themes → Customize.
+Schritt 1: Gehen Sie im Shopify-Adminbereich zu Online-Shop → Themes → Anpassen.
 
-Step 2: Open the page where you want it (Home, Product, Collection, Cart, etc.).
+Schritt 2: Öffnen Sie die Seite, auf der Sie ihn haben möchten (Startseite, Produkt, Sammlung, Warenkorb usw.).
 
-Step 3: In the left sidebar, click “Add section” → Apps → select “BOGOS: Today Offer Block”.
+Schritt 3: Klicken Sie in der linken Seitenleiste auf „Abschnitt hinzufügen“ → Apps → wählen Sie „BOGOS: Today Offer Block“.
 
 <div align="left"><img src="../../.gitbook/assets/unknown (232).png" alt="" height="456" width="165"></div>
 
 <div align="left"><img src="../../.gitbook/assets/unknown (236).png" alt="" height="380" width="366"></div>
 
-Step 4: Drag it to the desired position and click Save.
+Schritt 4: Ziehen Sie ihn an die gewünschte Position und klicken Sie auf Speichern.
 
 <div align="left"><img src="../../.gitbook/assets/unknown (237).png" alt="" height="379" width="240"></div>
 
-In case you want to show only one specific block
+Falls Sie nur einen bestimmten Block anzeigen möchten
 
-* Back in BOGOS, copy that block’s ID (e.g. 53).
-* Return to the theme editor, click the Today Offer Block section, paste the ID into the “Booster ID” field, then Save.
+* Kopieren Sie in BOGOS die ID dieses Blocks (z. B. 53).
+* Kehren Sie zum Theme-Editor zurück, klicken Sie auf den Abschnitt Today Offer Block, fügen Sie die ID in das Feld „Booster-ID“ ein und klicken Sie dann auf Speichern.
 
 <div align="left"><img src="../../.gitbook/assets/unknown (238).png" alt="" height="258" width="265"></div>
 
-**How to find the Booster ID?**
+**Wie finde ich die Booster-ID?**
 
-Step 1: Open the BOGOS app in your Shopify admin.
+Schritt 1: Öffnen Sie die BOGOS-App in Ihrem Shopify-Adminbereich.
 
 <div align="left"><img src="../../.gitbook/assets/unknown (242).png" alt="" height="256" width="194"></div>
 
-Step 2: Go to Boosters > Today Offer block you want to show
+Schritt 2: Gehen Sie zu Booster > der Today Offer Block, den Sie anzeigen möchten
 
 <div align="left"><img src="../../.gitbook/assets/unknown (243).png" alt="" height="112" width="485"></div>
 
-Step 3: Look at your browser URL—the numeric value at the very end is the ID
+Schritt 3: Schauen Sie sich die Browser-URL an – der numerische Wert ganz am Ende ist die ID
 
 <div align="left"><img src="../../.gitbook/assets/unknown (245).png" alt="" height="171" width="496"></div>
 
@@ -168,44 +168,44 @@ Step 3: Look at your browser URL—the numeric value at the very end is the ID
 
 <details>
 
-<summary><strong>How to customize the image of the gift product on the Today offer Block?</strong></summary>
+<summary><strong>Wie passe ich das Bild des Geschenkprodukts im Today Offer Block an?</strong></summary>
 
-The image of the Today Offer block is set according to the image of the first product selected in the offer. If you want to change the image, please follow the steps below:
+Das Bild des Today Offer Blocks wird gemäß dem Bild des ersten im Angebot ausgewählten Produkts festgelegt. Wenn Sie das Bild ändern möchten, folgen Sie bitte den Schritten unten:
 
-Step 1: Open BOGOS app → Boosters > Today Offer Block.
+Schritt 1: Öffnen Sie die BOGOS-App → Booster > Today Offer Block.
 
 <div align="left"><img src="../../.gitbook/assets/unknown (246).png" alt="" height="178" width="530"></div>
 
-Step 2: Open the Today offer Block you want to adjust image. In your block, go to **Offer Card** and make sure layout = **Thumbnail.**
+Schritt 2: Öffnen Sie den Today Offer Block, dessen Bild Sie anpassen möchten. Gehen Sie in Ihrem Block zu **Angebotskarte** und stellen Sie sicher, dass Layout = **Thumbnail** ist.
 
 <div align="left"><img src="../../.gitbook/assets/unknown (247).png" alt="" height="295" width="411"></div>
 
-Step 3: Under **Customize offer display**, click **Edit offer display.**
+Schritt 3: Klicken Sie unter **Angebotsanzeige anpassen** auf **Angebotsanzeige bearbeiten**.
 
 <div align="left"><img src="../../.gitbook/assets/unknown (248).png" alt="" height="435" width="282"></div>
 
-Step 4: Select the offer you want → in the thumbnail section choose:
+Schritt 4: Wählen Sie das gewünschte Angebot aus → wählen Sie im Thumbnail-Bereich:
 
 <div align="left"><img src="../../.gitbook/assets/unknown (249).png" alt="" height="363" width="609"></div>
 
-* **One Product Image** or **Product Image Group**, then pick the product(s), or
-* **Custom Image** and upload your own.  &#x20;
+* **Ein Produktbild** oder **Produktbildgruppe**, und wählen Sie dann das/die Produkt(e) aus, oder
+* **Benutzerdefiniertes Bild** und laden Sie Ihr eigenes hoch.  &#x20;
 
-Step 5: Save the block, then refresh your storefront to see the new image.&#x20;
+Schritt 5: Speichern Sie den Block und aktualisieren Sie dann Ihren Storefront, um das neue Bild zu sehen.&#x20;
 
 {% hint style="warning" %}
-Note: If you don’t edit the offer display, BOGOS will auto‑pick a product image for you.
+Hinweis: Wenn Sie die Angebotsanzeige nicht bearbeiten, wählt BOGOS automatisch ein Produktbild für Sie aus.
 {% endhint %}
 
 </details>
 
 <details>
 
-<summary><strong>When my offer is deactivated or expires, will it automatically hide on the Today Offer Block?</strong></summary>
+<summary><strong>Wenn mein Angebot deaktiviert wird oder abläuft, wird es dann automatisch im Today Offer Block ausgeblendet?</strong></summary>
 
-Yes. The Today Offer Block only shows active offers. Please note that:
+Ja. Der Today Offer Block zeigt nur aktive Angebote an. Bitte beachten Sie:
 
-* Deactivated or expired offers are automatically hidden from the block on your storefront.
-* If you manually selected offers, they’ll still be listed in the block setup, but won’t display to customers until you activate them again
+* Deaktivierte oder abgelaufene Angebote werden automatisch aus dem Block auf Ihrem Storefront ausgeblendet.
+* Wenn Sie Angebote manuell ausgewählt haben, bleiben sie weiterhin in der Blockeinrichtung aufgeführt, werden Kunden jedoch erst wieder angezeigt, wenn Sie sie erneut aktivieren
 
 </details>

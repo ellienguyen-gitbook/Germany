@@ -1,179 +1,179 @@
-# Create Today Offer Widget
+# Widget „Heutiges Angebot“ erstellen
 
-If you want to grab your customers' attention by notifying them about your current deals, use the Today Offer widget!
+Wenn Sie die Aufmerksamkeit Ihrer Kunden gewinnen möchten, indem Sie sie über Ihre aktuellen Deals informieren, verwenden Sie das Widget „Heutiges Angebot“!
 
-You can choose to display all available offers (gifts, bundles, discounts), or just the ones you select, keeping customers informed and driving engagement with your ongoing promotions.
+Sie können wählen, ob alle verfügbaren Angebote (Geschenke, Bundles, Rabatte) angezeigt werden sollen, oder nur die von Ihnen ausgewählten, um Kunden zu informieren und das Engagement für Ihre laufenden Aktionen zu fördern.
 
 <figure><img src="../../.gitbook/assets/unknown (119).png" alt=""><figcaption></figcaption></figure>
 
-**Note:**&#x20;
+**Hinweis:**&#x20;
 
-* You can create only 1 Today Offer widget.
-* The Today Offer widget will only display active offers. If you deactivate any offers, they will automatically disappear from the widget.
-* If you're using the old version, located in the “Customize” field, please deactivate it first before using this new version.
+* Sie können nur 1 Widget „Heutiges Angebot“ erstellen.
+* Das Widget „Heutiges Angebot“ zeigt nur aktive Angebote an. Wenn Sie Angebote deaktivieren, verschwinden sie automatisch aus dem Widget.
+* Wenn Sie die alte Version verwenden, die sich im Bereich „Anpassen“ befindet, deaktivieren Sie diese bitte zuerst, bevor Sie diese neue Version verwenden.
 
 {% embed url="https://youtu.be/ykj6ujX5j9Q?si=9eMuKTYwCoc1aMvi" %}
 
-## Set up Offer List
+## Angebotsliste einrichten
 
-### 1. General
+### 1. Allgemein
 
-First, fill in the General information for your widget:
+Füllen Sie zunächst die allgemeinen Informationen für Ihr Widget aus:
 
 <figure><img src="../../.gitbook/assets/unknown (120).png" alt=""><figcaption></figcaption></figure>
 
-**Booster name:** Edit the name of your Today Offer widget for internal use only. This helps you manage it easily within the system and won’t be visible to customers.
+**Booster-Name:** Bearbeiten Sie den Namen Ihres Widgets „Heutiges Angebot“ nur für interne Zwecke. Dies hilft Ihnen, es einfach im System zu verwalten, und wird Kunden nicht angezeigt.
 
-**Booster title:** Edit the title of your Today Offer widget that will be visible to customers.
+**Booster-Titel:** Bearbeiten Sie den Titel Ihres Widgets „Heutiges Angebot“, der für Kunden sichtbar ist.
 
-**Booster subtitle (optional):** Add an optional description below the booster title, used to provide additional context or details for the offer.
+**Booster-Untertitel (optional):** Fügen Sie unter dem Booster-Titel eine optionale Beschreibung hinzu, die zusätzlichen Kontext oder Details zum Angebot bietet.
 
-### 2. Offer Card
+### 2. Angebotskarte
 
 <figure><img src="../../.gitbook/assets/unknown (121).png" alt=""><figcaption></figcaption></figure>
 
-First, decide on the card layout for your Today Offer Widget. You can choose between:
+Entscheiden Sie sich zunächst für das Kartenlayout Ihres Widgets „Heutiges Angebot“. Sie können zwischen Folgendem wählen:
 
-* **Thumbnail:** Displays the offer with a product thumbnail.
-* **Product Preview:** Allows customers to preview the products included in your offer.
+* **Miniaturansicht:** Zeigt das Angebot mit einer Produkt-Miniaturansicht an.
+* **Produktvorschau:** Ermöglicht Kunden, die im Angebot enthaltenen Produkte in der Vorschau zu sehen.
 
-Then, choose which offers to display on your widget using 1 of these 2 methods:
+Wählen Sie dann mit einer der folgenden 2 Methoden, welche Angebote in Ihrem Widget angezeigt werden sollen:
 
-* **Automatically select:** Display all your active Gifts, Bundles, and Discounts. You can also untick any offer type if you want to exclude it from your widget.
-* **Manually select:** Display only specific offers you select. If you pick deactivated offers, the widget will only show them when they are activated.
+* **Automatisch auswählen:** Zeigt alle Ihre aktiven Geschenke, Bundles und Rabatte an. Sie können auch jeden Angebotstyp abwählen, wenn Sie ihn aus Ihrem Widget ausschließen möchten.
+* **Manuell auswählen:** Zeigt nur die von Ihnen ausgewählten Angebote an. Wenn Sie deaktivierte Angebote auswählen, zeigt das Widget sie erst an, wenn sie aktiviert werden.
 
-In **“Customize offer display”**, click "Edit offer display" to edit each offer's content and choose which product to preview. Follow these steps:
+Klicken Sie unter **„Angebotsanzeige anpassen“** auf „Angebotsanzeige bearbeiten“, um den Inhalt jedes Angebots zu bearbeiten und auszuwählen, welches Produkt in der Vorschau angezeigt werden soll. Folgen Sie diesen Schritten:
 
 <figure><img src="../../.gitbook/assets/unknown (122).png" alt=""><figcaption></figcaption></figure>
 
-1. Select the offer you want to edit.
-2. Edit its title and description that will be shown to customers on the Today Offer Widget.
-3. Add a redirect link: When customers click on that button, they’ll be redirected to the page you link to (a product page, collection page,...). You can also edit the button text.
-4. The last option will appear differently depending on the card style you choose above:
+1. Wählen Sie das Angebot aus, das Sie bearbeiten möchten.
+2. Bearbeiten Sie dessen Titel und Beschreibung, die den Kunden im Widget „Heutiges Angebot“ angezeigt werden.
+3. Fügen Sie einen Weiterleitungslink hinzu: Wenn Kunden auf diese Schaltfläche klicken, werden sie zu der von Ihnen verlinkten Seite weitergeleitet (eine Produktseite, Sammlungsseite usw.). Sie können auch den Schaltflächentext bearbeiten.
+4. Die letzte Option erscheint je nach dem oben gewählten Kartenstil unterschiedlich:
 
-▶ **If you choose “Thumbnail”**, you can set a thumbnail for your offer with 3 options below:
+▶ **Wenn Sie „Miniaturansicht“ wählen**, können Sie eine Miniaturansicht für Ihr Angebot mit den folgenden 3 Optionen festlegen:
 
 <figure><img src="../../.gitbook/assets/unknown (123).png" alt=""><figcaption></figcaption></figure>
 
-* **One Product Image:** Select a product to show as the offer thumbnail.
-* **Product Image Group:** Choose up to 4 products to show as the offer thumbnail.
-* **Custom Image:** Select from available icons or upload your own image. We recommend using .jpg or .png files with a maximum size of 100 KB for fast loading.
+* **Ein Produktbild:** Wählen Sie ein Produkt aus, das als Angebots-Miniaturansicht angezeigt werden soll.
+* **Produktbildgruppe:** Wählen Sie bis zu 4 Produkte aus, die als Angebots-Miniaturansicht angezeigt werden sollen.
+* **Benutzerdefiniertes Bild:** Wählen Sie aus verfügbaren Symbolen oder laden Sie Ihr eigenes Bild hoch. Wir empfehlen die Verwendung von .jpg- oder .png-Dateien mit einer maximalen Größe von 100 KB für schnelles Laden.
 
-▶ **If you choose “Product preview”**, you can edit the “Product list label”, which will show above the product list.
+▶ **Wenn Sie „Produktvorschau“ wählen**, können Sie das „Produktlistenetikett“ bearbeiten, das über der Produktliste angezeigt wird.
 
 <figure><img src="../../.gitbook/assets/unknown (124).png" alt=""><figcaption></figcaption></figure>
 
-**Note:** If you don’t edit the offer display, BOGOS will display the offer name (you set up when creating offers) as the title, and randomly select a product for the image preview.
+**Hinweis:** Wenn Sie die Angebotsanzeige nicht bearbeiten, zeigt BOGOS den Angebotsnamen (den Sie bei der Erstellung von Angeboten festgelegt haben) als Titel an und wählt zufällig ein Produkt für die Bildvorschau aus.
 
-### 3. Content
+### 3. Inhalt
 
 <figure><img src="../../.gitbook/assets/unknown (125).png" alt=""><figcaption></figcaption></figure>
 
-To attract customers' attention and provide more details about the promotion, you can:
+Um die Aufmerksamkeit der Kunden zu gewinnen und weitere Details zur Aktion bereitzustellen, können Sie:
 
-* **Show offer description:** Displays a brief description of the offer under the title (e.g., "Best products selected for you").
-* **Show label in product list** (only available when choosing "product preview"): Shows a label above the product list (e.g., "Buy at least 2 items from the bundle").
+* **Angebotsbeschreibung anzeigen:** Zeigt eine kurze Beschreibung des Angebots unter dem Titel an (z. B. „Die besten Produkte für Sie ausgewählt“).
+* **Etikett in der Produktliste anzeigen** (nur verfügbar bei Auswahl von „Produktvorschau“): Zeigt ein Etikett über der Produktliste an (z. B. „Kaufen Sie mindestens 2 Artikel aus dem Bundle“).
 
-## Set up Widget Style
+## Widget-Stil einrichten
 
-### 1. Icon
+### 1. Symbol
 
 <figure><img src="../../.gitbook/assets/unknown (126).png" alt=""><figcaption></figcaption></figure>
 
-**Widget style:** Choose to show only the icon or display both the icon and the title text. You can customize the title text in the “Widget title text” field.
+**Widget-Stil:** Wählen Sie, ob nur das Symbol oder sowohl das Symbol als auch der Titeltext angezeigt werden sollen. Sie können den Titeltext im Feld „Widget-Titeltext“ anpassen.
 
-**Widget position:** Place the widget in the bottom right or bottom left corner.
+**Widget-Position:** Platzieren Sie das Widget in der unteren rechten oder unteren linken Ecke.
 
-**Select icon:**&#x20;
+**Symbol auswählen:**&#x20;
 
-* Choose the icon for your Today Offer widget from a set of default BOGOS icons or upload your own custom icon.&#x20;
-* You can also adjust the icon size and padding to fit your design.
+* Wählen Sie das Symbol für Ihr Widget „Heutiges Angebot“ aus einer Reihe von Standard-BOGOS-Symbolen aus oder laden Sie Ihr eigenes benutzerdefiniertes Symbol hoch.&#x20;
+* Sie können auch die Symbolgröße und den Innenabstand an Ihr Design anpassen.
 
-### 2. Page display
+### 2. Seitenanzeige
 
-This option lets you control where the Today Offer widget appears on your store:
+Mit dieser Option können Sie steuern, wo das Widget „Heutiges Angebot“ in Ihrem Shop erscheint:
 
 <figure><img src="../../.gitbook/assets/unknown (127).png" alt=""><figcaption></figcaption></figure>
 
-**Show on all pages:** Displays the widget across your store.
+**Auf allen Seiten anzeigen:** Zeigt das Widget in Ihrem gesamten Shop an.
 
-**Show on specific pages:** Tick the pages where you want the widget to appear (you can choose multiple pages):
+**Auf bestimmten Seiten anzeigen:** Kreuzen Sie die Seiten an, auf denen das Widget erscheinen soll (Sie können mehrere Seiten auswählen):
 
-* Home page: Show the widget on your homepage
-* Cart page: Show the widget on the cart page
-* Product page: Show the widget on all the product pages
-* Collection page: Show the widget on all the collection pages
-* Custom page: Show or hide the Today Offer widget on specific pages. There are 4 options to choose from:
-  * Equal to: Enter the exact URL where you want the widget to show (a link to a specific collection, a specific product page,...). _Example: https://my-beauty.myshopify.com/collections/hydrogen_
-  * Not equal to: Enter the URL where you do NOT want the widget to show. _Example: https://my-beauty.myshopify.com/collections/hydrogen_
-  * Contains: Enter a term. The widget will show only on pages with that term in the URL. _Example: "summer-sale"._
-  * Not contains: Enter a term to hide the widget on pages with that term in the URL. _Example: "summer-sale"._
+* Startseite: Zeigt das Widget auf Ihrer Startseite an
+* Warenkorbseite: Zeigt das Widget auf der Warenkorbseite an
+* Produktseite: Zeigt das Widget auf allen Produktseiten an
+* Sammlungsseite: Zeigt das Widget auf allen Sammlungsseiten an
+* Benutzerdefinierte Seite: Zeigt das Widget „Heutiges Angebot“ auf bestimmten Seiten an oder blendet es dort aus. Es stehen 4 Optionen zur Auswahl:
+  * Gleich: Geben Sie die genaue URL ein, auf der das Widget angezeigt werden soll (ein Link zu einer bestimmten Sammlung, einer bestimmten Produktseite usw.). _Beispiel: https://my-beauty.myshopify.com/collections/hydrogen_
+  * Ungleich: Geben Sie die URL ein, auf der das Widget NICHT angezeigt werden soll. _Beispiel: https://my-beauty.myshopify.com/collections/hydrogen_
+  * Enthält: Geben Sie einen Begriff ein. Das Widget wird nur auf Seiten angezeigt, deren URL diesen Begriff enthält. _Beispiel: „summer-sale“._
+  * Enthält nicht: Geben Sie einen Begriff ein, um das Widget auf Seiten auszublenden, deren URL diesen Begriff enthält. _Beispiel: „summer-sale“._
 
-### 3. Color
+### 3. Farbe
 
 <figure><img src="../../.gitbook/assets/unknown (128).png" alt=""><figcaption></figcaption></figure>
 
-Here, you can easily customize the colors of all the widget elements to match your store’s branding. There are 4 options:
+Hier können Sie die Farben aller Widget-Elemente ganz einfach an das Branding Ihres Shops anpassen. Es gibt 4 Optionen:
 
-* **Widget color:** Change the overall color of the Today Offer widget.
-* **Offer card:** Adjust the color of the offer card that shows the details of each offer.
-* **Button:** If you set a redirect link for your offers, you can customize the button color.
-* **Dot notification:** Modify the color of the notification dot, which shows how many active deals are available in your store.
+* **Widget-Farbe:** Ändert die Gesamtfarbe des Widgets „Heutiges Angebot“.
+* **Angebotskarte:** Passt die Farbe der Angebotskarte an, die die Details jedes Angebots anzeigt.
+* **Schaltfläche:** Wenn Sie einen Weiterleitungslink für Ihre Angebote festgelegt haben, können Sie die Schaltflächenfarbe anpassen.
+* **Benachrichtigungspunkt:** Ändert die Farbe des Benachrichtigungspunkts, der anzeigt, wie viele aktive Deals in Ihrem Shop verfügbar sind.
 
-Feel free to play around with these settings and see the live results!
+Probieren Sie diese Einstellungen gerne aus und sehen Sie sich die Live-Ergebnisse an!
 
 ## FAQs
 
 <details>
 
-<summary><strong>How to show all gift products in the Today Offer widget?</strong></summary>
+<summary><strong>Wie zeige ich alle Geschenkprodukte im Widget „Heutiges Angebot“ an?</strong></summary>
 
-To show all your gift offers inside the Today Offer widget:
+So zeigen Sie alle Ihre Geschenkangebote im Widget „Heutiges Angebot“ an:
 
-1. Go to BOGOS app → Booster →  Today Offer (widget).
-2. In Offer Card → choose card layout (Thumbnail or Product preview).
+1. Gehen Sie zur BOGOS-App → Booster → Heutiges Angebot (Widget).
+2. Wählen Sie unter Angebotskarte → das Kartenlayout aus (Miniaturansicht oder Produktvorschau).
 
 ![](<../../.gitbook/assets/unknown (219).png>)
 
-3. Under “Choose which offers to display”, select **Automatically select** and keep **Gifts** (and any other types you want) checked.
-4. Make sure all the relevant gift offers are **Active** so they appear in the widget.
+3. Wählen Sie unter „Wählen Sie, welche Angebote angezeigt werden sollen“ **Automatisch auswählen** und behalten Sie **Geschenke** (und alle anderen gewünschten Typen) angekreuzt bei.
+4. Stellen Sie sicher, dass alle relevanten Geschenkangebote **Aktiv** sind, damit sie im Widget erscheinen.
 
-The widget will then list all active gift offers (with their gifts previewed, depending on the layout).
+Das Widget listet dann alle aktiven Geschenkangebote auf (mit einer Vorschau der Geschenke, je nach Layout).
 
 </details>
 
 <details>
 
-<summary><strong>How to add a clickable link/button to the Today Offer widget?</strong></summary>
+<summary><strong>Wie füge ich dem Widget „Heutiges Angebot“ einen anklickbaren Link/eine Schaltfläche hinzu?</strong></summary>
 
-To add a clickable link/button to the Today Offer widget:
+So fügen Sie dem Widget „Heutiges Angebot“ einen anklickbaren Link/eine Schaltfläche hinzu:
 
-1. Open Booster > Today Offer (widget) > Offer List.
-2. In “Customize offer display”, click **Edit offer display**.
+1. Öffnen Sie Booster > Heutiges Angebot (Widget) > Angebotsliste.
+2. Klicken Sie unter „Angebotsanzeige anpassen“ auf **Angebotsanzeige bearbeiten**.
 
 ![](<../../.gitbook/assets/unknown (220).png>)
 
-3. Select the specific offer card you want to edit.
-4. In the settings for that offer, find Add a redirect link:
+3. Wählen Sie die bestimmte Angebotskarte aus, die Sie bearbeiten möchten.
+4. Suchen Sie in den Einstellungen für dieses Angebot „Weiterleitungslink hinzufügen“:
 
-* Paste your target URL (product, collection, landing page, etc.).
-* Edit the button text if needed (e.g., “Shop now”, “View offer”).
+* Fügen Sie Ihre Ziel-URL ein (Produkt, Sammlung, Landingpage usw.).
+* Bearbeiten Sie den Schaltflächentext bei Bedarf (z. B. „Jetzt einkaufen“, „Angebot ansehen“).
 
 ![](<../../.gitbook/assets/unknown (221).png>)
 
-5. Save your changes; the button will now appear inside that offer’s card on the Today Offer widget.
+5. Speichern Sie Ihre Änderungen; die Schaltfläche erscheint nun in der Karte dieses Angebots im Widget „Heutiges Angebot“.
 
 </details>
 
 <details>
 
-<summary><strong>How to translate the texts on the Today Offer on another language site?</strong></summary>
+<summary><strong>Wie übersetze ich die Texte des „Heutigen Angebots“ auf einer anderssprachigen Website?</strong></summary>
 
 {% hint style="warning" %}
-Note: Product names shown inside the widget come from your products and may not be translatable via BOGOS (handled by your store/translation app instead).
+Hinweis: Produktnamen, die im Widget angezeigt werden, stammen aus Ihren Produkten und sind möglicherweise nicht über BOGOS übersetzbar (dies wird stattdessen von Ihrem Shop/Ihrer Übersetzungs-App übernommen).
 {% endhint %}
 
-In order to change the language of today offer, please go to Translation section in our app and then add the language translation > choose Today offer to translate.&#x20;
+Um die Sprache des heutigen Angebots zu ändern, gehen Sie bitte zum Bereich Übersetzung in unserer App, fügen Sie dann die Sprachübersetzung hinzu > wählen Sie „Heutiges Angebot“ zum Übersetzen aus.&#x20;
 
 ![](<../../.gitbook/assets/unknown (222).png>)
 

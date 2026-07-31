@@ -1,132 +1,132 @@
-# Customize Gift slider
+# Geschenkschieberegler anpassen
 
-Customize Gift Slider is designed to help you adjust the text, colors, layout, and product display of your gift slider. The slider displays all the gift products that customers are eligible to receive and will appear when customers meet the conditions of the offers.
+Die Anpassung des Geschenkschiebereglers hilft Ihnen, Text, Farben, Layout und Produktanzeige Ihres Geschenkschiebereglers anzupassen. Der Schieberegler zeigt alle Geschenkprodukte an, die Kunden erhalten können, und erscheint, wenn Kunden die Bedingungen der Angebote erfüllen.
 
 {% embed url="https://youtu.be/Qh_bjkchzpo" %}
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-## 1. Customization options <a href="#h.7t9zvvzdp0pq" id="h.7t9zvvzdp0pq"></a>
+## 1. Anpassungsoptionen <a href="#h.7t9zvvzdp0pq" id="h.7t9zvvzdp0pq"></a>
 
-### 1.1. General <a href="#h.3qozp25yjgx2" id="h.3qozp25yjgx2"></a>
+### 1.1. Allgemein <a href="#h.3qozp25yjgx2" id="h.3qozp25yjgx2"></a>
 
-**Gift display:** Gift display let you control how free gifts will be presented to your customers. There are two main option for you to choose.
+**Geschenkpräsentation:** Die Geschenkpräsentation ermöglicht es Ihnen, zu steuern, wie kostenlose Geschenke Ihren Kunden präsentiert werden. Es gibt zwei Hauptoptionen zur Auswahl.
 
-* By products: Show gifts as individual products, with variants grouped under each product.
+* Nach Produkten: Geschenke als einzelne Produkte anzeigen, wobei Varianten unter jedem Produkt gruppiert werden.
 
 <figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-* By variants: Display each variant (like size or color) as a separate gift choice.
+* Nach Varianten: Jede Variante (z. B. Größe oder Farbe) als separate Geschenkauswahl anzeigen.
 
 <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-**Grouping**: Grouping controls how free gifts are organized and displayed when multiple offers are active.
+**Gruppierung**: Die Gruppierung steuert, wie kostenlose Geschenke organisiert und angezeigt werden, wenn mehrere Angebote aktiv sind.
 
-* Show gifts by offers: Gifts are grouped based on the offer they belong to, useful when multiple promotions run at once.
+* Geschenke nach Angeboten anzeigen: Geschenke werden basierend auf dem Angebot, zu dem sie gehören, gruppiert, nützlich, wenn mehrere Aktionen gleichzeitig laufen.
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
-* Show all gifts at once: All eligible gifts appear in a single list for quicker browsing.
+* Alle Geschenke auf einmal anzeigen: Alle berechtigten Geschenke erscheinen in einer einzigen Liste zum schnelleren Durchsuchen.
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-**Products per row**: Adjust how many gift items appear in one row to ensure a clean layout.
+**Produkte pro Reihe**: Passen Sie an, wie viele Geschenkartikel in einer Reihe erscheinen, um ein übersichtliches Layout zu gewährleisten.
 
-### 1.2. Advanced <a href="#h.4iowmdam2shk" id="h.4iowmdam2shk"></a>
+### 1.2. Erweitert <a href="#h.4iowmdam2shk" id="h.4iowmdam2shk"></a>
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-**Product display**: This lets you set up how gift products are visually presented, helping customers better interact with the gift offer.
+**Produktpräsentation**: Damit legen Sie fest, wie Geschenkprodukte visuell präsentiert werden, um Kunden eine bessere Interaktion mit dem Geschenkangebot zu ermöglichen.
 
-* Show product title: Display the main product name.
-* Show variant title: Show the variant name (e.g., size, color)
+* Produkttitel anzeigen: Zeigt den Hauptproduktnamen an.
+* Variantentitel anzeigen: Zeigt den Variantennamen an (z. B. Größe, Farbe)
 
-**Additional display**: Improve clarity and user navigation with optional display enhancements.
+**Zusätzliche Anzeige**: Verbessern Sie die Übersichtlichkeit und Benutzerführung mit optionalen Anzeigeerweiterungen.
 
-* Show number of gifts can be added: Let customers see how many gift items they can select within the offer.
-* Show pagination: Add pagination when there are various gift items, keeping the display neat.
+* Anzahl der hinzufügbaren Geschenke anzeigen: Lässt Kunden sehen, wie viele Geschenkartikel sie im Rahmen des Angebots auswählen können.
+* Seitennummerierung anzeigen: Fügt eine Seitennummerierung hinzu, wenn mehrere Geschenkartikel vorhanden sind, um die Anzeige übersichtlich zu halten.
 
-**Switch to disable slider**: This checkbox lets customers temporarily disable the slider. Set the time duration in minutes.
+**Schieberegler deaktivieren umschalten**: Mit diesem Kontrollkästchen können Kunden den Schieberegler vorübergehend deaktivieren. Legen Sie die Zeitdauer in Minuten fest.
 
-**Allow adding multiple gift**: Enable customers to select more than one gift.
+**Erlauben Sie das Hinzufügen mehrerer Geschenke**: Ermöglicht Kunden, mehr als ein Geschenk auszuwählen.
 
-### 1.3. Page Display <a href="#h.xshwd5hzjfmm" id="h.xshwd5hzjfmm"></a>
+### 1.3. Seitenanzeige <a href="#h.xshwd5hzjfmm" id="h.xshwd5hzjfmm"></a>
 
 <figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
-**Show on all pages**: Display the offer widget across your entire store site.
+**Auf allen Seiten anzeigen**: Zeigt das Angebots-Widget in Ihrem gesamten Shop an.
 
-**Show on specific pages**: Choose exactly where the offer will be displayed
+**Auf bestimmten Seiten anzeigen**: Wählen Sie genau aus, wo das Angebot angezeigt werden soll
 
-* Homepage
-* Cart page
-* Product page
-* Collection page
-* Custom page
+* Startseite
+* Warenkorbseite
+* Produktseite
+* Sammlungsseite
+* Benutzerdefinierte Seite
 
 ### 1.4. Text <a href="#h.fyb024kjj98l" id="h.fyb024kjj98l"></a>
 
 <figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-* **Gift slider title**: This is the headline that appears at the top of the gift slider window.
-* **Add to cart button**: Name of add to cart button.
-* **Disable slider text**: The name of a checkbox that lets customers disable the gift slider and not show it again for a few minutes.
+* **Titel des Geschenk-Sliders**: Dies ist die Überschrift, die oben im Fenster des Geschenkschiebereglers erscheint.
+* **Schaltfläche „Zum Warenkorb hinzufügen“**: Name der Schaltfläche „Zum Warenkorb hinzufügen“.
+* **Slider-Text deaktivieren**: Der Name eines Kontrollkästchens, mit dem Kunden den Geschenkschieberegler deaktivieren können, sodass er einige Minuten lang nicht erneut angezeigt wird.
 
-### 1.5. Color  <a href="#h.ajm0shjqjvk8" id="h.ajm0shjqjvk8"></a>
+### 1.5. Farbe  <a href="#h.ajm0shjqjvk8" id="h.ajm0shjqjvk8"></a>
 
-BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
+BOGOS ermöglicht Ihnen, die Farben aller Elemente mit einer der folgenden 4 Methoden anzupassen:
 
-* Choose a **ready-made color set** from the dropdown.
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-gift-slider.md#ai-theme-detector) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* Wählen Sie ein **vorgefertigtes Farbset** aus dem Dropdown-Menü.
+* **Passen Sie jedes Farbfeld manuell an** für alle verfügbaren Farben.
+* Verwenden Sie den [KI-Theme-Detektor](customize-gift-slider.md#ai-theme-detector), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Shops zu generieren.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+BOGOS KI scannt Ihren Onlineshop und erkennt die Primär-, Sekundär- und Textfarben Ihrer Marke und generiert dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Shop darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit BOGOS KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stiftsymbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit BOGOS KI erneut erkennt, oder passen Sie **manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden**, um die Farben in der Widget-Vorschau anzuwenden.
 
-### 1.6. Embedded Gift Slider into a Product Page <a href="#h.bqt56rm4ft9m" id="h.bqt56rm4ft9m"></a>
+### 1.6. Geschenkschieberegler in eine Produktseite einbetten <a href="#h.bqt56rm4ft9m" id="h.bqt56rm4ft9m"></a>
 
 <figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
-If you don't want to use the gift slider as a pop-up, click Open theme editor to customize your preferred display option (available on Homepage, Collection, Product, and Cart pages only). &#x20;
+Wenn Sie den Geschenkschieberegler nicht als Pop-up verwenden möchten, klicken Sie auf Theme-Editor öffnen, um Ihre bevorzugte Anzeigeoption anzupassen (nur auf Startseite, Sammlung, Produkt und Warenkorbseite verfügbar). &#x20;
 
-* **Step 1**: In the Theme Editor window, navigate to the block you want to add the Gift slider widget
-* **Step 2**: In the left sidebar, go to Apps and click Add block.
+* **Schritt 1**: Navigieren Sie im Theme-Editor-Fenster zu dem Block, dem Sie das Geschenkschieberegler-Widget hinzufügen möchten
+* **Schritt 2**: Gehen Sie in der linken Seitenleiste zu Apps und klicken Sie auf Block hinzufügen.
 
 <figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
-* **Step 3**: When the window opens, go to Apps, enter "Gift slider" in the search bar, and select BOGOS: Gift Slider.
+* **Schritt 3**: Wenn sich das Fenster öffnet, gehen Sie zu Apps, geben Sie „Gift slider“ in die Suchleiste ein und wählen Sie BOGOS: Gift Slider aus.
 
 <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-* **Step 4**: Move the placeholder of Gift slider to your desired position to attract customers and then click Save.
+* **Schritt 4**: Verschieben Sie den Platzhalter des Geschenkschiebereglers an die gewünschte Position, um Kunden anzuziehen, und klicken Sie dann auf Speichern.
 
-## 2. Add the Gift Slider to Other Store Pages
+## 2. Den Geschenkschieberegler zu anderen Shop-Seiten hinzufügen
 
-**Step 1:** Navigate to your **Online Stores** in the **Shopify navigation menu** => choose **Themes** => **Customize**
+**Schritt 1:** Navigieren Sie im **Shopify-Navigationsmenü** zu Ihren **Onlineshops** => wählen Sie **Themes** => **Anpassen**
 
-**Step 2:** In the **Shopify Theme Editor**, go to the page where you want to add the Gift slider block.
+**Schritt 2:** Gehen Sie im **Shopify-Theme-Editor** zu der Seite, auf der Sie den Geschenkschieberegler-Block hinzufügen möchten.
 
-Then, on the left panel, scroll down, click **Add section**, choose **Apps**, find and select **BOGOS: Gift slider** block.<br>
+Scrollen Sie dann im linken Bereich nach unten, klicken Sie auf **Abschnitt hinzufügen**, wählen Sie **Apps** und suchen und wählen Sie den Block **BOGOS: Gift slider** aus.<br>
 
 <figure><img src="../../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
 
@@ -134,9 +134,9 @@ Then, on the left panel, scroll down, click **Add section**, choose **Apps**, fi
 
 <details>
 
-<summary><strong>Are there options to help customers quickly find gifts, products, or variants on the gift slider?</strong></summary>
+<summary><strong>Gibt es Optionen, die Kunden helfen, Geschenke, Produkte oder Varianten im Geschenkschieberegler schnell zu finden?</strong></summary>
 
-Yes! Please contact our support team to enable the “Search” option on the gift slider. Once enabled, customers can easily search by product or variant name.
+Ja! Bitte kontaktieren Sie unser Support-Team, um die Option „Suche“ im Geschenkschieberegler zu aktivieren. Nach der Aktivierung können Kunden problemlos nach Produkt- oder Variantennamen suchen.
 
 ![](<../../.gitbook/assets/unknown (205).png>)
 
@@ -144,23 +144,23 @@ Yes! Please contact our support team to enable the “Search” option on the gi
 
 <details>
 
-<summary><strong>Is it possible to show the gift pop-up in the cart drawer?</strong></summary>
+<summary><strong>Ist es möglich, das Geschenk-Pop-up im Warenkorb-Drawer anzuzeigen?</strong></summary>
 
-Currently, we can add our gift pop-up in only compatible cart drawer. If you want to do this request, please contact us via live chat, our technical team will check your cart first and then work on it.
+Derzeit können wir unser Geschenk-Pop-up nur in kompatiblen Warenkorb-Drawern hinzufügen. Wenn Sie diese Anfrage stellen möchten, kontaktieren Sie uns bitte über den Live-Chat, unser technisches Team wird zunächst Ihren Warenkorb prüfen und dann daran arbeiten.
 
 </details>
 
 <details>
 
-<summary><strong>I want to control how often the gift popup appears, is that possible?</strong></summary>
+<summary><strong>Ich möchte steuern, wie oft das Geschenk-Pop-up erscheint, ist das möglich?</strong></summary>
 
-Yes, you can partially control it using the built‑in “disable slider” option:
+Ja, Sie können dies teilweise mit der integrierten Option „Slider deaktivieren“ steuern:
 
-Here are the steps to turn on this feature:&#x20;
+Hier sind die Schritte, um diese Funktion zu aktivieren:&#x20;
 
-* Go to BOGOS → Customize → Gift Slider.
-* In Advanced settings, enable “Switch to disable slider”.
-* Set the time duration (minutes) – during this time, if the customer ticks that switch, the popup won’t appear again.
+* Gehen Sie zu BOGOS → Anpassen → Geschenkschieberegler.
+* Aktivieren Sie in den erweiterten Einstellungen „Schieberegler deaktivieren umschalten“.
+* Legen Sie die Zeitdauer (Minuten) fest – während dieser Zeit erscheint das Pop-up nicht erneut, wenn der Kunde diesen Schalter aktiviert.
 
 <div align="left"><img src="../../.gitbook/assets/unknown.png" alt="" height="321" width="624"></div>
 
@@ -168,31 +168,31 @@ Here are the steps to turn on this feature:&#x20;
 
 <details>
 
-<summary><strong>Can I automatically hide/disable out-of-stock products from gift selection?</strong></summary>
+<summary><strong>Kann ich ausverkaufte Produkte automatisch aus der Geschenkauswahl ausblenden/deaktivieren?</strong></summary>
 
-With **Cloned gift logic**, yes but not by “hiding” them inside the slider settings; you control it via inventory behavior:
+Mit der **Klon-Geschenk-Logik**, ja, aber nicht durch „Ausblenden“ innerhalb der Slider-Einstellungen; Sie steuern es über das Lagerverhalten:
 
-Checklist:
+Checkliste:
 
-* In BOGOS → Settings → Gift inventory management, choose “Sync gift products’ quantity with original products’ quantity”.
-* For When the gift is out of stock, select “Stop the offers” (not “Continue selling”).
-* Make sure the original product (or cloned gift product, if you use manual inventory) has correct stock in Shopify.
+* Wählen Sie unter BOGOS → Einstellungen → Geschenk-Lagerverwaltung „Menge der Geschenkprodukte mit der Menge der Originalprodukte synchronisieren“.
+* Wählen Sie für „Wenn das Geschenk nicht vorrätig ist“ die Option „Angebote stoppen“ (nicht „Weiterverkaufen“).
+* Stellen Sie sicher, dass das Originalprodukt (oder das geklonte Geschenkprodukt, wenn Sie manuelles Inventar verwenden) den korrekten Lagerbestand in Shopify hat.
 
-With “Stop the offers” on, once a gift is out of stock, that offer stops, so the out‑of‑stock gift will no longer be available for selection.&#x20;
+Mit aktivierter Option „Angebote stoppen“ wird das Angebot gestoppt, sobald ein Geschenk nicht mehr vorrätig ist, sodass das ausverkaufte Geschenk nicht mehr zur Auswahl steht.&#x20;
 
-With **Gift function logic**, the out of stock gift will be hidden automatically in the gift slider so you don’t need to do anything.
+Mit der **Geschenkfunktions-Logik** wird das ausverkaufte Geschenk automatisch im Geschenkschieberegler ausgeblendet, sodass Sie nichts weiter tun müssen.
 
-If you need more granular per‑variant hiding inside one offer, contact BOGOS support via Live chat for a custom review.
+Wenn Sie ein granulareres Ausblenden pro Variante innerhalb eines Angebots benötigen, kontaktieren Sie den BOGOS-Support über den Live-Chat für eine individuelle Überprüfung.
 
 </details>
 
 <details>
 
-<summary><strong>How to change the order of gift items in the gift pop-up?</strong></summary>
+<summary><strong>Wie ändere ich die Reihenfolge der Geschenkartikel im Geschenk-Pop-up?</strong></summary>
 
-In order to change the order of gift items in the gift pop-up, please help me follow these steps:&#x20;
+Um die Reihenfolge der Geschenkartikel im Geschenk-Pop-up zu ändern, folgen Sie bitte diesen Schritten:&#x20;
 
-1. Going to the offer you create > go to Gift selection
-2. Click at the first icon in front of the gift product title as in my screenshot to change product order
+1. Gehen Sie zum Angebot, das Sie erstellt haben > gehen Sie zu Geschenkauswahl
+2. Klicken Sie auf das erste Symbol vor dem Titel des Geschenkprodukts, wie in meinem Screenshot dargestellt, um die Produktreihenfolge zu ändern
 
 </details>

@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# Detailed doc
+# Detaillierte Dokumentation
 

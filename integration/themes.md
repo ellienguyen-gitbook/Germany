@@ -1,37 +1,37 @@
 # Themes
 
-### What each tool does
+### Was jedes Tool leistet
 
 #### BOGOS:
 
-* Create, run, and manage offer types: Free Gifts, Bundles, Upsell & Discounts.
-* Display and manage promotion widgets: Gift sliders, bundle page, discount widget, and promotional messages.
-* Apply eligibility rules: Control which customers, products, collections, or cart conditions qualify for each promotion.
+* Erstellen, ausführen und verwalten Sie Angebotstypen: Kostenlose Geschenke, Bundles, Upsell & Rabatte.
+* Anzeigen und verwalten Sie Aktions-Widgets: Geschenkschieberegler, Bundle-Seite, Rabatt-Widget und Werbenachrichten.
+* Wenden Sie Berechtigungsregeln an: Steuern Sie, welche Kunden, Produkte, Sammlungen oder Warenkorbbedingungen für jede Aktion qualifiziert sind.
 
 #### Theme:&#x20;
 
-* Controls the store’s visual layout, templates, and interactive components (including the cart drawer, product pages, and cart/checkout display).&#x20;
-* The theme determines where and how UI elements appear and how customers interact with the cart.
+* Steuert das visuelle Layout, die Vorlagen und interaktiven Komponenten des Shops (einschließlich Warenkorb-Drawer, Produktseiten und Warenkorb-/Checkout-Anzeige).&#x20;
+* Das Theme bestimmt, wo und wie UI-Elemente erscheinen und wie Kunden mit dem Warenkorb interagieren.
 
-### What the integration enables
+### Was die Integration ermöglicht
 
-**Smooth gift handling in the cart drawer:** &#x20;
+**Reibungslose Geschenkverwaltung im Warenkorb-Drawer:** &#x20;
 
-When BOGOS adds or removes a gift, the theme’s cart drawer updates correctly (shows the gift, remove controls, updated totals) without forcing a page reload or extra merchant setup.\
+Wenn BOGOS ein Geschenk hinzufügt oder entfernt, aktualisiert sich der Warenkorb-Drawer des Themes korrekt (zeigt das Geschenk, Entfernen-Steuerelemente, aktualisierte Summen), ohne einen erzwungenen Seiten-Reload oder zusätzlichen Aufwand für den Händler.\
 \
-**Secure, reliable display:**&#x20;
+**Sichere, zuverlässige Anzeige:**&#x20;
 
-Theme-level integration ensures BOGOS elements render within the store templates safely (avoids broken snippets or missing widgets) so gifts and messages show only when appropriate.\
+Die Integration auf Theme-Ebene stellt sicher, dass BOGOS-Elemente sicher innerhalb der Shop-Vorlagen gerendert werden (vermeidet fehlerhafte Snippets oder fehlende Widgets), sodass Geschenke und Nachrichten nur dann angezeigt werden, wenn es angemessen ist.\
 \
-**Less manual configuration:**&#x20;
+**Weniger manuelle Konfiguration:**&#x20;
 
-Merchants don’t need to edit theme code to get working gift flows—integration handles placement and behavior so offers work out of the box.\
+Händler müssen keinen Theme-Code bearbeiten, um funktionierende Geschenkabläufe zu erhalten – die Integration übernimmt Platzierung und Verhalten, sodass Angebote sofort funktionieren.\
 \
-**Consistent UX across devices:**&#x20;
+**Einheitliche Nutzererfahrung auf allen Geräten:**&#x20;
 
-Because the theme controls responsive behavior, BOGOS gift interactions (drawer behavior, messages, remove controls) remain consistent on desktop and mobile, reducing confusion and cart friction.
+Da das Theme das responsive Verhalten steuert, bleiben die Geschenkinteraktionen von BOGOS (Drawer-Verhalten, Nachrichten, Entfernen-Steuerelemente) auf Desktop und Mobilgeräten konsistent, was Verwirrung und Reibung im Warenkorb reduziert.
 
-### Integrated Labels & Badges apps
+### Integrierte Labels- & Badges-Apps
 
 * [Zest – Shopify Theme](https://themes.shopify.com/themes/zest/styles/gusto?utm_source=BOGOS\&utm_medium=inapp\&utm_campaign=partnership)
 * [Soul by Halo Themes](https://themes.shopify.com/themes/soul/styles/elegant?locale=en\&surface_detail=templates\&surface_inter_position=1\&surface_intra_position=21\&surface_type=templates)

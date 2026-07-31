@@ -2,41 +2,41 @@
 icon: toggle-large-off
 ---
 
-# Uninstall or Turn off BOGOS
+# BOGOS deinstallieren oder deaktivieren
 
 {% hint style="info" %}
-Before proceeding, we recommend **contacting our support team** for a better guidance.
+Bevor Sie fortfahren, empfehlen wir Ihnen, **unser Support-Team zu kontaktieren**, um eine bessere Anleitung zu erhalten.
 {% endhint %}
 
-## Before turning off or uninstalling BOGOS
+## Bevor Sie BOGOS deaktivieren oder deinstallieren
 
-Before that, please ensure:
+Stellen Sie zuvor bitte Folgendes sicher:
 
-* All related orders are fulfilled.
-* **All offers are turned off.** If the option “Delete gift products after turning off offers” in Settings isn't enabled, you must manually delete all offers instead.
+* Alle zugehörigen Bestellungen sind abgeschlossen.
+* **Alle Angebote sind deaktiviert.** Wenn die Option „Geschenkprodukte nach Deaktivierung der Angebote löschen“ in den Einstellungen nicht aktiviert ist, müssen Sie stattdessen alle Angebote manuell löschen.
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-## 1. Turn off app status
+## 1. App-Status deaktivieren
 
-To turn off the app status:
+So deaktivieren Sie den App-Status:
 
-1. Open BOGOS app
-2. Navigate to Settings > General > Click Disable
-3. Turn off app embed > Save
+1. Öffnen Sie die BOGOS-App
+2. Navigieren Sie zu Einstellungen > Allgemein > Klicken Sie auf Deaktivieren
+3. Schalten Sie die App-Einbettung aus > Speichern
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-## 2. Uninstall
+## 2. Deinstallieren
 
 {% hint style="warning" %}
-Resetting the app will clear all data associated with BOGOS and **can't be reversed**.
+Das Zurücksetzen der App löscht alle mit BOGOS verbundenen Daten und **kann nicht rückgängig gemacht werden**.
 {% endhint %}
 
-To avoid unexpected issues, please reset the BOGOS app to remove all app code and cloned gift products before uninstalling:
+Um unerwartete Probleme zu vermeiden, setzen Sie bitte die BOGOS-App zurück, um alle App-Codes und geklonten Geschenkprodukte zu entfernen, bevor Sie die App deinstallieren:
 
-1. Open BOGOS app
-2. Navigate to Settings > Reset app data > Reset app
-3. Uninstall BOGOS app from your Shopify admin.
+1. Öffnen Sie die BOGOS-App
+2. Navigieren Sie zu Einstellungen > App-Daten zurücksetzen > App zurücksetzen
+3. Deinstallieren Sie die BOGOS-App aus Ihrem Shopify-Adminbereich.
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>

@@ -4,166 +4,166 @@ description: >-
   page.
 ---
 
-# Customize Volume Discount
+# Mengenrabatt anpassen
 
-BOGOS provides 2 widget types for Volume Discount offers:&#x20;
+BOGOS bietet 2 Widget-Typen für Mengenrabatt-Angebote:&#x20;
 
-1. Quantity Options
-2. Quantity Discount Table
+1. Mengenoptionen
+2. Mengenrabatt-Tabelle
 
-Each widget has its own content and display settings, allowing you to control exactly what customers see.
+Jedes Widget verfügt über eigene Inhalts- und Anzeigeeinstellungen, sodass Sie genau steuern können, was Kunden sehen.
 
-## 1. Quantity options
+## 1. Mengenoptionen
 
-### 1.1 Content
+### 1.1 Inhalt
 
 <figure><img src="../../.gitbook/assets/unknown (18).png" alt=""><figcaption></figcaption></figure>
 
-**Show description:** Enable to display a description below the title (e.g, Best deals selected for you!).
+**Beschreibung anzeigen:** Aktivieren, um eine Beschreibung unter dem Titel anzuzeigen (z. B. „Die besten Angebote für Sie ausgewählt!“).
 
-**Each tier will show** (choose between):
+**Jede Stufe zeigt** (Auswahl zwischen):
 
-* Total price: Shows the full price of each tier (e.g: $50)
-* Price per item: Shows the price for each item of each tier. Enter per item text to make it clearer (e,g: $10 per item)
+* Gesamtpreis: Zeigt den vollen Preis jeder Stufe an (z. B.: 50 $)
+* Preis pro Artikel: Zeigt den Preis für jeden Artikel jeder Stufe an. Geben Sie den Text „pro Artikel“ ein, um es klarer zu machen (z. B.: 10 $ pro Artikel)
 
-**Options to change text:**
+**Optionen zur Textänderung:**
 
 <figure><img src="../../.gitbook/assets/unknown (19).png" alt=""><figcaption></figcaption></figure>
 
-* Text format: Edit the discount label shown on each tier. Keep the variable \{{discountAmount\}} to dynamically display the discount value.
-* Total price text: The label shown next to the total price.
-* Button text (the text on the button of the widget): The text displayed on the widget's action button.
-* Select variant text: The text shown when customers need to select a product variant.
+* Textformat: Bearbeiten Sie das auf jeder Stufe angezeigte Rabattlabel. Behalten Sie die Variable \{{discountAmount\}} bei, um den Rabattwert dynamisch anzuzeigen.
+* Gesamtpreistext: Das Label, das neben dem Gesamtpreis angezeigt wird.
+* Schaltflächentext (der Text auf der Schaltfläche des Widgets): Der auf der Aktionsschaltfläche des Widgets angezeigte Text.
+* Text „Variante auswählen“: Der Text, der angezeigt wird, wenn Kunden eine Produktvariante auswählen müssen.
 
-**Shipping discount:** select available shipping icons or upload your own (Accepts image, gif.)
+**Versandrabatt:** Wählen Sie verfügbare Versandsymbole aus oder laden Sie Ihr eigenes hoch (akzeptiert Bild, GIF.)
 
 <figure><img src="../../.gitbook/assets/unknown (20).png" alt=""><figcaption></figcaption></figure>
 
-**Subscription:** display subscription options within the widget (if you're set up in Create Volume Discount).
+**Abonnement:** Zeigt Abonnementoptionen innerhalb des Widgets an (falls Sie dies in „Mengenrabatt erstellen“ eingerichtet haben).
 
-1\. Select a layout: choose between Radio or Checkbox.
+1\. Wählen Sie ein Layout: Wählen Sie zwischen Radio-Button oder Kontrollkästchen.
 
-2\. Edit the following text fields:
+2\. Bearbeiten Sie die folgenden Textfelder:
 
-* Subscription title: The heading shown above the subscription options.
-* Option label: The label text for each subscription option.
+* Abonnementtitel: Die Überschrift, die über den Abonnementoptionen angezeigt wird.
+* Optionsbeschriftung: Der Beschriftungstext für jede Abonnementoption.
 
 <figure><img src="../../.gitbook/assets/unknown (21).png" alt=""><figcaption></figcaption></figure>
 
-### 1.2 Color
+### 1.2 Farbe
 
-BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
+BOGOS ermöglicht Ihnen, die Farben aller Elemente mit einer der folgenden 4 Methoden anzupassen:
 
-* Choose a **ready-made color set** from the dropdown.
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-volume-discount.md#ai-theme-detector) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* Wählen Sie ein **vorgefertigtes Farbset** aus dem Dropdown-Menü.
+* **Passen Sie jedes Farbfeld manuell an** für alle verfügbaren Farben.
+* Verwenden Sie den [KI-Theme-Detektor](customize-volume-discount.md#ai-theme-detector), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Shops zu generieren.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+BOGOS KI scannt Ihren Onlineshop und erkennt die Primär-, Sekundär- und Textfarben Ihrer Marke und generiert dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Shop darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit BOGOS KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stiftsymbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit BOGOS KI erneut erkennt, oder passen Sie **manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden**, um die Farben in der Widget-Vorschau anzuwenden.
 
-## 2. Quantity discount table
+## 2. Mengenrabatt-Tabelle
 
-### 2.1 Content
+### 2.1 Inhalt
 
 <figure><img src="../../.gitbook/assets/unknown (26).png" alt=""><figcaption></figcaption></figure>
 
-**Show description:** Enable to display a description below the title (e.g, Best deals selected for you!).
+**Beschreibung anzeigen:** Aktivieren, um eine Beschreibung unter dem Titel anzuzeigen (z. B. „Die besten Angebote für Sie ausgewählt!“).
 
-**Each tier will show** (choose among):
+**Jede Stufe zeigt** (Auswahl unter):
 
-* Discount value: Shows the discount of each tier (e.g, 20% OFF)
-* Discount value with label: Shows the discount of each tier with a background color.
-* Total price: Shows the full price of each tier (e.g: $50)
-* Price per item: Shows the price for each item of each tier. Enter per item text to make it clearer (e,g: $10 per item)
+* Rabattwert: Zeigt den Rabatt jeder Stufe an (z. B. 20 % RABATT)
+* Rabattwert mit Label: Zeigt den Rabatt jeder Stufe mit einer Hintergrundfarbe an.
+* Gesamtpreis: Zeigt den vollen Preis jeder Stufe an (z. B.: 50 $)
+* Preis pro Artikel: Zeigt den Preis für jeden Artikel jeder Stufe an. Geben Sie den Text „pro Artikel“ ein, um es klarer zu machen (z. B.: 10 $ pro Artikel)
 
-**Text format:** Edit the discount label shown on each tier. Keep the variable \{{discountAmount\}} to dynamically display the discount value.
+**Textformat:** Bearbeiten Sie das auf jeder Stufe angezeigte Rabattlabel. Behalten Sie die Variable \{{discountAmount\}} bei, um den Rabattwert dynamisch anzuzeigen.
 
 <figure><img src="../../.gitbook/assets/unknown (27).png" alt=""><figcaption></figcaption></figure>
 
-**Shipping discount:** select available shipping icons or upload your own (Accepts image, gif.)
+**Versandrabatt:** Wählen Sie verfügbare Versandsymbole aus oder laden Sie Ihr eigenes hoch (akzeptiert Bild, GIF.)
 
 <figure><img src="../../.gitbook/assets/unknown (28).png" alt=""><figcaption></figcaption></figure>
 
-### 2.2 Display
+### 2.2 Anzeige
 
 <figure><img src="../../.gitbook/assets/unknown (29).png" alt=""><figcaption></figcaption></figure>
 
-**Widget header & description**: Select their alignment on the widget among Left, Center, or Right.
+**Widget-Kopfzeile & Beschreibung**: Wählen Sie deren Ausrichtung im Widget zwischen Links, Zentriert oder Rechts.
 
-**Body style**: Choose how the table rows are visually separated between Line or Zebra.
+**Hauptteilstil**: Wählen Sie, wie die Tabellenzeilen visuell getrennt werden, zwischen Linie oder Zebra.
 
-**Hide lines between column** (optional): Remove the vertical dividers between table columns for a cleaner appearance.
+**Linien zwischen Spalten ausblenden** (optional): Entfernen Sie die vertikalen Trennlinien zwischen den Tabellenspalten für ein übersichtlicheres Erscheinungsbild.
 
-### 2.3 Color
+### 2.3 Farbe
 
-BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
+BOGOS ermöglicht Ihnen, die Farben aller Elemente mit einer der folgenden 4 Methoden anzupassen:
 
-* Choose a **ready-made color set** from the dropdown.
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-volume-discount.md#ai-theme-detector-1) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* Wählen Sie ein **vorgefertigtes Farbset** aus dem Dropdown-Menü.
+* **Passen Sie jedes Farbfeld manuell an** für alle verfügbaren Farben.
+* Verwenden Sie den [KI-Theme-Detektor](customize-volume-discount.md#ai-theme-detector-1), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Shops zu generieren.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+BOGOS KI scannt Ihren Onlineshop und erkennt die Primär-, Sekundär- und Textfarben Ihrer Marke und generiert dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Shop darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit BOGOS KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stiftsymbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit BOGOS KI erneut erkennt, oder passen Sie **manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden**, um die Farben in der Widget-Vorschau anzuwenden.
 
-## 3. Add Volume Discount to other pages besides Product Page
+## 3. Mengenrabatt zu anderen Seiten außer der Produktseite hinzufügen
 
 {% hint style="info" %}
-You can place the Volume díccount block on any page of your store, except the Checkout page.
+Sie können den Mengenrabatt-Block auf jeder Seite Ihres Shops platzieren, außer der Checkout-Seite.
 {% endhint %}
 
-**Step 1:** Navigate to your **Online Stores** in the **Shopify navigation menu** => choose **Themes** => **Customize**
+**Schritt 1:** Navigieren Sie im **Shopify-Navigationsmenü** zu Ihren **Onlineshops** => wählen Sie **Themes** => **Anpassen**
 
-**Step 2:** In the **Shopify Theme Editor**, go to the page where you want to add the **Volume discount** block.
+**Schritt 2:** Gehen Sie im **Shopify-Theme-Editor** zu der Seite, auf der Sie den **Mengenrabatt**-Block hinzufügen möchten.
 
-Then, on the left panel, scroll down, click **Add section**, choose **Apps**, find and select **BOGOS: Volume Discount** block.
+Scrollen Sie dann im linken Bereich nach unten, klicken Sie auf **Abschnitt hinzufügen**, wählen Sie **Apps** und suchen und wählen Sie den Block **BOGOS: Volume Discount** aus.
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-**Step 3**: In the top-right panel, complete the setup fields.
+**Schritt 3**: Füllen Sie im oberen rechten Bereich die Einrichtungsfelder aus.
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-* **Offer ID**: Enter the ID of the Volume discount offer you want to display.
-* **Product show**: Select a product from your store. All Volume discount offers linked to this product will be displayed on the current page.
+* **Angebots-ID**: Geben Sie die ID des Mengenrabatt-Angebots ein, das Sie anzeigen möchten.
+* **Produkt anzeigen**: Wählen Sie ein Produkt aus Ihrem Shop aus. Alle mit diesem Produkt verknüpften Mengenrabatt-Angebote werden auf der aktuellen Seite angezeigt.
 
-For more details, please visit our \[[Adjust BOGOS Blocks](../../quick-start-guide/adjust-bogos-blocks.md)].
+Weitere Details finden Sie in unserer Anleitung \[[BOGOS-Blöcke anpassen](../../quick-start-guide/adjust-bogos-blocks.md)].

@@ -1,211 +1,211 @@
-# Create Discount on Cheapest/Most Expensive Item
+# Rabatt auf günstigsten/teuersten Artikel erstellen
 
 {% embed url="https://youtu.be/Due8rU6VqB8?si=yA54zHhoV3q_QIkS" %}
 
-This feature allows you to apply a discount on either the cheapest or the most expensive item in the customer’s cart.
+Mit dieser Funktion können Sie einen Rabatt entweder auf den günstigsten oder den teuersten Artikel im Warenkorb des Kunden anwenden.
 
-To get started, follow these steps:
+Um zu beginnen, befolgen Sie diese Schritte:
 
-* Find **Create offer** in **All offers** section or **BOGOS dashboard.**
-* Choose the **Discount offer.**
-* Click **Discount on Cheapest/Most expensive Item**, then select **Create discount.**
+* Finden Sie **Angebot erstellen** im Bereich **Alle Angebote** oder im **BOGOS-Dashboard.**
+* Wählen Sie das **Rabattangebot.**
+* Klicken Sie auf **Rabatt auf günstigsten/teuersten Artikel**, und wählen Sie dann **Rabatt erstellen.**
 
-Then fill in the details to complete your offer setup.
+Füllen Sie dann die Details aus, um Ihre Angebotseinrichtung abzuschließen.
 
-### 1. Offer information&#x20;
+### 1. Angebotsinformationen&#x20;
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqNcvmaFprT1PZerj919znbObL8pojws70jG3ScU1PZgh2AUamCq_GblwqzDxAHf723J6mjWGCEY1urVoqLPm5wxN9I28gKVp5jMT3PUY4jc96aAZ3QJIvi3mFuFECruVHAoXXcw?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-#### **1.1. Offer name**
+#### **1.1. Angebotsname**
 
-The internal name of the offer. It won’t be shown to customers, only stored in the All Offers section for management.
+Der interne Name des Angebots. Er wird Kunden nicht angezeigt und nur im Bereich Alle Angebote zur Verwaltung gespeichert.
 
-#### **1.2. Display on widget**&#x20;
+#### **1.2. Anzeige im Widget**&#x20;
 
-* **Widget title:** The public title displayed on the store that customers will see.
-* **Block description:** Details about the offer to help customers better understand it.
+* **Widget-Titel:** Der öffentliche Titel, der im Shop angezeigt wird und den Kunden sehen.
+* **Blockbeschreibung:** Details zum Angebot, die den Kunden helfen, es besser zu verstehen.
 
-#### **1.3. Start time and End time**
+#### **1.3. Startzeit und Endzeit**
 
-* **Start time:** The exact time the offer begins.
-* **End time:** The exact time the offer ends.
+* **Startzeit:** Der genaue Zeitpunkt, zu dem das Angebot beginnt.
+* **Endzeit:** Der genaue Zeitpunkt, zu dem das Angebot endet.
 
-#### 1.4. Show countdown timer (optional)
+#### 1.4. Countdown-Timer anzeigen (optional)
 
-Enable a countdown timer on the widget to motivate customers to buy before the offer ends.
+Aktivieren Sie einen Countdown-Timer im Widget, um Kunden zu motivieren, vor Ablauf des Angebots zu kaufen.
 
-* This option is disabled by default. It becomes available once you set an End time or enable Recurring time.
-* Without Recurring time, the countdown runs based on the End time.
-* When Recurring time is set, the countdown runs based on each recurring session's End time (in days).
+* Diese Option ist standardmäßig deaktiviert. Sie wird verfügbar, sobald Sie eine Endzeit festlegen oder die wiederkehrende Zeit aktivieren.
+* Ohne wiederkehrende Zeit läuft der Countdown basierend auf der Endzeit.
+* Wenn die wiederkehrende Zeit festgelegt ist, läuft der Countdown basierend auf der Endzeit jeder wiederkehrenden Sitzung (in Tagen).
 
-#### 1.5. Recurring time (optional)
+#### 1.5. Wiederkehrende Zeit (optional)
 
-Enable the offer on a repeating schedule within its active period, ideal for daily flash sales, weekend promotions, or monthly campaigns. When enabled, the active period's End time is automatically synced with the recurrence end date.
+Aktivieren Sie das Angebot nach einem wiederkehrenden Zeitplan innerhalb seines aktiven Zeitraums, ideal für tägliche Blitzangebote, Wochenendaktionen oder monatliche Kampagnen. Wenn aktiviert, wird die Endzeit des aktiven Zeitraums automatisch mit dem Enddatum der Wiederholung synchronisiert.
 
-To set it up, configure the following:
+Zur Einrichtung konfigurieren Sie Folgendes:
 
-**1.5.1. Frequency**
+**1.5.1. Häufigkeit**
 
-Select how often the offer repeats: Daily, Weekly, or Monthly.
+Wählen Sie, wie oft sich das Angebot wiederholt: Täglich, Wöchentlich oder Monatlich.
 
-* **Daily:** The offer runs every day within the chosen time window.
+* **Täglich:** Das Angebot läuft jeden Tag innerhalb des gewählten Zeitfensters.
 
 <figure><img src="../../.gitbook/assets/image (442).png" alt=""><figcaption></figcaption></figure>
 
-* **Weekly:** The offer runs on selected days of the week.&#x20;
+* **Wöchentlich:** Das Angebot läuft an ausgewählten Wochentagen.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
 
-* **Monthly:** The offer runs on a specific day each month. If you select day 29, 30, or 31, the offer will repeat on the month's last day if that date doesn't exist.
+* **Monatlich:** Das Angebot läuft an einem bestimmten Tag jeden Monats. Wenn Sie Tag 29, 30 oder 31 auswählen, wiederholt sich das Angebot am letzten Tag des Monats, falls dieses Datum nicht existiert.
 
 <figure><img src="../../.gitbook/assets/image (445).png" alt=""><figcaption></figcaption></figure>
 
-**1.5.2. Start time (in day) / End time (in day)**
+**1.5.2. Startzeit (in Tagen) / Endzeit (in Tagen)**
 
-The daily time window when the offer is active during each recurring session (e.g., 09:00 to 11:00). Times are set to your store's current timezone.
+Das tägliche Zeitfenster, in dem das Angebot während jeder wiederkehrenden Sitzung aktiv ist (z. B. 09:00 bis 11:00 Uhr). Die Zeiten richten sich nach der aktuellen Zeitzone Ihres Shops.
 
-**1.5.3. End recurring when**
+**1.5.3. Wiederholung beenden, wenn**
 
-Choose when the recurrence stops.
+Wählen Sie, wann die Wiederholung endet.
 
-* **No end date:** The offer keeps recurring until you manually deactivate it.
-* **On date:** The offer stops on a specific date. If you already set an End time, this field defaults to that date, but you can still change it.
-* **After N times:** The offer stops after it has run a set number of times.
+* **Kein Enddatum:** Das Angebot wiederholt sich weiter, bis Sie es manuell deaktivieren.
+* **Am Datum:** Das Angebot endet an einem bestimmten Datum. Wenn Sie bereits eine Endzeit festgelegt haben, wird dieses Feld standardmäßig auf dieses Datum gesetzt, Sie können es aber weiterhin ändern.
+* **Nach N Malen:** Das Angebot endet, nachdem es eine festgelegte Anzahl von Malen gelaufen ist.
 
 {% hint style="warning" %}
-When created with Recurring time enabled, the offer appears with Scheduled status so you can track upcoming runs.&#x20;
+Wenn das Angebot mit aktivierter wiederkehrender Zeit erstellt wird, erscheint es mit dem Status Geplant, damit Sie kommende Durchläufe verfolgen können.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-If an offer expires while a customer is still in the checkout process, the discount is automatically removed, and products are charged at their original price.&#x20;
+Wenn ein Angebot abläuft, während sich ein Kunde noch im Checkout-Prozess befindet, wird der Rabatt automatisch entfernt und die Produkte werden zum Originalpreis berechnet.&#x20;
 {% endhint %}
 
-### 2. Offers&#x20;
+### 2. Angebote&#x20;
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKhIcXfKM6FgLqG_FM5eDjVV4ExOxJ8pfJpuaUiIkC-8woNlvt8ogZYZ7-4s9_IeDXvWw_O7RmInYGXs5ISBQJKy0plTUaDO14mGHoJ5a2yQdFbrQwu8tV0MkZS9A6y6QVhE85eA?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-This section lets you choose which products the offer applies to:
+In diesem Abschnitt wählen Sie aus, für welche Produkte das Angebot gilt:
 
-* **Any products:** Applies to all products in your store.
-* **All except selected products:** Applies to all products except the specific products you select.
-* **All except selected types/vendors/collections:** Applies to everything except the types, vendors, or collections you select.
-* **Selected products:** Applies only to the chosen products.
-* **Products in selected types/vendors/collections:** Applies only to products within the chosen types, vendors, or collections.
+* **Beliebige Produkte:** Gilt für alle Produkte in Ihrem Shop.
+* **Alle außer ausgewählten Produkten:** Gilt für alle Produkte außer den von Ihnen ausgewählten.
+* **Alle außer ausgewählten Typen/Anbietern/Kollektionen:** Gilt für alles außer den von Ihnen ausgewählten Typen, Anbietern oder Kollektionen.
+* **Ausgewählte Produkte:** Gilt nur für die ausgewählten Produkte.
+* **Produkte in ausgewählten Typen/Anbietern/Kollektionen:** Gilt nur für Produkte innerhalb der ausgewählten Typen, Anbieter oder Kollektionen.
 
-Enabling the **Count unique products only** option changes how item quantities are counted for the offer:
+Durch Aktivieren der Option **Nur eindeutige Produkte zählen** ändert sich die Art und Weise, wie Artikelmengen für das Angebot gezählt werden:
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMpeHm8wBHTQwjsyIWsuJGGYCH1q1KAxFshgLddGblFFk80TVU6qABQEbk9JX8Urv332fpihkF5r0SXG8LbkW--tDn78YATJlU5W-qNui9I8lx2SbS0GTJSuEUF8CCML62PWUzxw?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-* **Unique by product:** Each product is counted once, even if it has multiple variants or quantities.
+* **Eindeutig nach Produkt:** Jedes Produkt wird einmal gezählt, auch wenn es mehrere Varianten oder Mengen hat.
 
-_Example: 2×T-shirt (Red), 2×T-shirt (Blue), 2×Shoes (Size 42), 1×Hat (Black) = 3 products counted (T-shirt, Shoes, Hat)._
+_Beispiel: 2×T-Shirt (Rot), 2×T-Shirt (Blau), 2×Schuhe (Größe 42), 1×Mütze (Schwarz) = 3 gezählte Produkte (T-Shirt, Schuhe, Mütze)._
 
-* **Unique by variant:** Each variant is counted once, even if it appears multiple times.
+* **Eindeutig nach Variante:** Jede Variante wird einmal gezählt, auch wenn sie mehrfach vorkommt.
 
-_Example: 2×T-shirt (Red), 2×T-shirt (Blue), 2×Shoes (Size 42), 1×Hat (Black) = 4 variants counted  (T-shirt Red, T-shirt Blue, Shoes Size 42, Hat Black)._
+_Beispiel: 2×T-Shirt (Rot), 2×T-Shirt (Blau), 2×Schuhe (Größe 42), 1×Mütze (Schwarz) = 4 gezählte Varianten (T-Shirt Rot, T-Shirt Blau, Schuhe Größe 42, Mütze Schwarz)._
 
-### 3. Add sub-conditions
+### 3. Unterbedingungen hinzufügen
 
-Sub-conditions add extra rules to decide who can see and get your offers. Therefore, only targeted customers can see and apply the offer, while others won't see it at all.
+Unterbedingungen fügen zusätzliche Regeln hinzu, um zu bestimmen, wer Ihre Angebote sehen und erhalten kann. Dadurch können nur die gezielt angesprochenen Kunden das Angebot sehen und in Anspruch nehmen, während andere es überhaupt nicht sehen.
 
 {% hint style="info" %}
-* These sub-conditions are optional. If you don't add any, the offer will be available to all customers.
-* You can combine multiple sub-conditions. Customers must meet all selected criteria to qualify.
+* Diese Unterbedingungen sind optional. Wenn Sie keine hinzufügen, ist das Angebot für alle Kunden verfügbar.
+* Sie können mehrere Unterbedingungen kombinieren. Kunden müssen alle ausgewählten Kriterien erfüllen, um sich zu qualifizieren.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (154).png" alt="" width="503"><figcaption></figcaption></figure>
 
-1. _Specific link address_ – Apply offers to customers accessing your store from a specific link. Perfect for email campaigns, social posts, or affiliates.
-2. _Order history_ – Target customers based on purchase behavior. Best for rewarding first-time buyers, high spenders, and more.
-3. _Customer tags_ – Show or hide offers based on customer tags.
-4. _Customer location_ – Run country-specific promotions based on the customer’s IP address.
-5. _Markets_ – Run region-specific offers based on your Shopify Markets.
+1. _Spezifische Link-Adresse_ – Wenden Sie Angebote auf Kunden an, die über einen bestimmten Link auf Ihren Shop zugreifen. Perfekt für E-Mail-Kampagnen, Social-Media-Beiträge oder Affiliates.
+2. _Bestellhistorie_ – Zielen Sie Kunden basierend auf ihrem Kaufverhalten an. Ideal, um Erstkäufer, Vielkäufer und mehr zu belohnen.
+3. _Kunden-Tags_ – Zeigen oder verbergen Sie Angebote basierend auf Kunden-Tags.
+4. _Kundenstandort_ – Führen Sie länderspezifische Aktionen basierend auf der IP-Adresse des Kunden durch.
+5. _Märkte_ – Führen Sie regionsspezifische Angebote basierend auf Ihren Shopify-Märkten durch.
 
-♦️ For more details, visit our \[[Sub-Condition](../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)] guide.
+♦️ Weitere Details finden Sie in unserem \[[Unterbedingung](../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)]-Leitfaden.
 
-### 4. Tiers
+### 4. Stufen
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJuXCBuSq1hInWb63o-YQ9WX1nVnhM49_ryLojenY6sU6rLBgIverKQtaZ6GKo7Q8JwY4PhVFD_3csBQZSStpNZK5yp6XTTjsEHc4JWSl5g18wNxL9y7P5SdGqEXI-1m2WVwRrAw?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-This section controls how the discount is applied based on the number of items a customer buys.&#x20;
+Dieser Abschnitt steuert, wie der Rabatt basierend auf der Anzahl der vom Kunden gekauften Artikel angewendet wird.&#x20;
 
-**Discount on:** Choose whether the discount applies to the cheapest item or the most expensive item in the cart.
+**Rabatt auf:** Wählen Sie, ob der Rabatt auf den günstigsten oder den teuersten Artikel im Warenkorb angewendet wird.
 
-**Tier set up:** Complete the essential fields for each tier
+**Stufen-Einrichtung:** Füllen Sie die wesentlichen Felder für jede Stufe aus
 
-* **Number of items required:** The number of items a customer must buy to qualify for the offer.
-* **Number of discounted items:** The number of items that will receive the discount.
-* **Type & Value:** Select the discount type (Percentage or Amount) and enter the value. If you choose "amount", and also sell in different currencies (set up in Shopify Markets), you can “add currency” and **custom how much discount amount to offer in each currency**, instead of using Shopify’s exchange rates (e.g., SGD 10, CN¥8, A$12).
+* **Erforderliche Artikelanzahl:** Die Anzahl der Artikel, die ein Kunde kaufen muss, um sich für das Angebot zu qualifizieren.
+* **Anzahl der rabattierten Artikel:** Die Anzahl der Artikel, die den Rabatt erhalten.
+* **Art & Wert:** Wählen Sie die Rabattart (Prozentsatz oder Betrag) und geben Sie den Wert ein. Wenn Sie „Betrag“ wählen und auch in verschiedenen Währungen verkaufen (eingerichtet in Shopify Markets), können Sie „Währung hinzufügen“ und **den Rabattbetrag für jede Währung individuell festlegen**, anstatt die Wechselkurse von Shopify zu verwenden (z. B. SGD 10, CN¥8, A$12).
 
 <figure><img src="../../.gitbook/assets/unknown (118).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* **Label text:** The message shown to customers in the tier widget, explaining the offer.
-* **Add tier:** Add more discount tiers to encourage larger purchases with bigger rewards.
-* **Multiply last tier:** When enabled, the multiply logic applies only to the last tier.
+* **Beschriftungstext:** Die Nachricht, die Kunden im Stufen-Widget angezeigt wird und das Angebot erklärt.
+* **Stufe hinzufügen:** Fügen Sie weitere Rabattstufen hinzu, um größere Käufe mit größeren Belohnungen zu fördern.
+* **Letzte Stufe multiplizieren:** Wenn aktiviert, gilt die Multiplikationslogik nur für die letzte Stufe.
 
 {% hint style="warning" %}
-Within an offer, only the tier with the highest quantity can be applied with **multiply** function. Our system will automatically detect and apply this tier, even if it is not the last one.&#x20;
+Innerhalb eines Angebots kann nur die Stufe mit der höchsten Menge mit der **Multiplikations**-Funktion angewendet werden. Unser System erkennt diese Stufe automatisch und wendet sie an, auch wenn es nicht die letzte ist.&#x20;
 {% endhint %}
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOJshF0z0Q2dHzsAsMVrSNkBs6xKn4kkRHdKAl0ZL0tUA930ugDW7WZaXpVbeYAVLZsG2nAR6ptDEF4zwjw-MjtufpAU97JDv-VqtRerxaP-oWtp7eBVrlxM_yXg6R8yRsROn7GA?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-### 5. Discount code&#x20;
+### 5. Rabattcode&#x20;
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFNBqJ54z9rZ1ZNeW1V9w6QGDsTqFffyYbv7RJxaLs8CTcc7mpYsdXe4jELh4It1X7w6H0uAAMpqbiQpcW42rdvN3dJ0CG0MjOryAhlFTFyUAxpkuI4Uh3PRW5De8i3BljDuCj?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-* **Add a discount code:** Create a custom code name that matches your brand.
+* **Rabattcode hinzufügen:** Erstellen Sie einen benutzerdefinierten Codenamen, der zu Ihrer Marke passt.
 
 {% hint style="warning" %}
-In case you left unchecked, BOGOS will automatically apply its default discount code.
+Falls Sie dies nicht aktivieren, wendet BOGOS automatisch seinen Standard-Rabattcode an.
 {% endhint %}
 
-* **Combination with other discounts:** By default, BOGOS discount offers work with other discounts,including Order discounts and Shipping discounts. Untick one of these checkbox to disable the combination with that type of discount.
+* **Kombination mit anderen Rabatten:** Standardmäßig funktionieren BOGOS-Rabattangebote mit anderen Rabatten, einschließlich Bestellrabatten und Versandrabatten. Deaktivieren Sie eines dieser Kontrollkästchen, um die Kombination mit dieser Rabattart zu deaktivieren.
 
-## FAQs
+## Häufig gestellte Fragen
 
 <details>
 
-<summary><strong>Can we apply the cheapest discount for customers without them purchasing from the Cheapest discount widget?</strong></summary>
+<summary><strong>Können wir den günstigsten Rabatt für Kunden anwenden, ohne dass sie über das Günstigster-Rabatt-Widget kaufen?</strong></summary>
 
-Yes. The “Discount on Cheapest/Most Expensive Item” works on the cart, not only via its widget.
+Ja. „Rabatt auf günstigsten/teuersten Artikel“ funktioniert im Warenkorb, nicht nur über sein Widget.
 
-As long as:
+Solange:
 
-* The Discount on Cheapest/Most Expensive Item offer is active, and
-* The cart meets the tier conditions (products included in the offer + number of items required),
+* Das Angebot Rabatt auf günstigsten/teuersten Artikel aktiv ist, und
+* Der Warenkorb die Stufenbedingungen erfüllt (im Angebot enthaltene Produkte + erforderliche Artikelanzahl),
 
-BOGOS will automatically apply the Cheapest discount‑item discount on cart even if the customer never adds products through the Cheapest Discount widget. The widget is only for promoting/visualizing the deal.
+wendet BOGOS automatisch den Rabatt auf den günstigsten Artikel im Warenkorb an, selbst wenn der Kunde die Produkte nie über das Günstigster-Rabatt-Widget hinzugefügt hat. Das Widget dient nur der Bewerbung/Visualisierung des Angebots.
 
 </details>
 
 <details>
 
-<summary><strong>Is it possible to ONLY apply the cheapest discount to different products?</strong></summary>
+<summary><strong>Ist es möglich, den günstigsten Rabatt NUR auf unterschiedliche Produkte anzuwenden?</strong></summary>
 
-Yes. You can limit the Cheapest discount to only a specific group of different products.&#x20;
+Ja. Sie können den Günstigster-Rabatt auf nur eine bestimmte Gruppe unterschiedlicher Produkte beschränken.&#x20;
 
-Step 1: In your Discount on Cheapest/Most Expensive Item offer
+Schritt 1: In Ihrem Angebot Rabatt auf günstigsten/teuersten Artikel
 
-Step 2: Tick the box Count unique products only
+Schritt 2: Aktivieren Sie das Kästchen Nur eindeutige Produkte zählen
 
-* Unique by product
-* Unique by variant
+* Eindeutig nach Produkt
+* Eindeutig nach Variante
 
 </details>
 
 <details>
 
-<summary><strong>Is there any way to run the Cheapest Discounts for customers from specific countries?</strong></summary>
+<summary><strong>Gibt es eine Möglichkeit, die Günstigster-Rabatte für Kunden aus bestimmten Ländern durchzuführen?</strong></summary>
 
-Yes. You can target Cheapest/Most Expensive Item discounts by customer country.
+Ja. Sie können Rabatte auf den günstigsten/teuersten Artikel nach Kundenland ausrichten.
 
-Please follow the steps:&#x20;
+Bitte befolgen Sie die Schritte:&#x20;
 
-Step 1: Go to BOGOS > Create offer > Discount offer > Discount on Cheapest/Most expensive Item.
+Schritt 1: Gehen Sie zu BOGOS > Angebot erstellen > Rabattangebot > Rabatt auf günstigsten/teuersten Artikel.
 
-Step 2: Set up your tiers as usual (Cheapest discount/most expensive, items required, discount type/value, etc.).
+Schritt 2: Richten Sie Ihre Stufen wie gewohnt ein (günstigster/teuerster Rabatt, erforderliche Artikel, Rabattart/-wert usw.).
 
-Step 3: Add the Customer Location sub-condition.
+Schritt 3: Fügen Sie die Unterbedingung Kundenstandort hinzu.
 
 <div align="left"><img src="../../.gitbook/assets/unknown (253).png" alt="" height="179" width="316"></div>
 
@@ -213,37 +213,37 @@ Step 3: Add the Customer Location sub-condition.
 
 <div align="left"><img src="../../.gitbook/assets/unknown (255).png" alt="" height="153" width="328"></div>
 
-* Choose the country/countries you want to include, or
-* Choose them and tick “Exclude customers from selected locations” if you want to block them instead.
+* Wählen Sie das/die Land/Länder, das/die Sie einschließen möchten, oder
+* Wählen Sie sie aus und aktivieren Sie „Kunden aus ausgewählten Standorten ausschließen“, wenn Sie sie stattdessen blockieren möchten.
 
-Step 4: Save and activate the offer
+Schritt 4: Speichern und aktivieren Sie das Angebot
 
-This way, the Cheapest Item discount only runs for customers from the selected countries.
+Auf diese Weise läuft der Rabatt auf den günstigsten Artikel nur für Kunden aus den ausgewählten Ländern.
 
 </details>
 
 <details>
 
-<summary><strong>Can I exclude wholesale customers from my Cheapest Discount offers?</strong></summary>
+<summary><strong>Kann ich Großhandelskunden von meinen Günstigster-Rabatt-Angeboten ausschließen?</strong></summary>
 
-Yes sure, please follow the steps below:
+Ja, sicher, bitte befolgen Sie die untenstehenden Schritte:
 
-Step 1: Go to BOGOS > Create offer > Discount offer > Discount on Cheapest/Most expensive Items.
+Schritt 1: Gehen Sie zu BOGOS > Angebot erstellen > Rabattangebot > Rabatt auf günstigsten/teuersten Artikel.
 
-Step 2: Set up your tiers as usual (Cheapest discount/most expensive, items required, discount type/value, etc.)
+Schritt 2: Richten Sie Ihre Stufen wie gewohnt ein (günstigster/teuerster Rabatt, erforderliche Artikel, Rabattart/-wert usw.)
 
-Step 3: Add Sub-condition > Select Customers tag > Add the Wholesale tag
+Schritt 3: Fügen Sie eine Unterbedingung hinzu > Wählen Sie Kunden-Tag > Fügen Sie das Tag Großhandel hinzu
 
 <div align="left"><img src="../../.gitbook/assets/unknown (256).png" alt="" height="161" width="261"></div>
 
 <div align="left"><img src="../../.gitbook/assets/unknown (257).png" alt="" height="287" width="283"></div>
 
-Step 4: Tick the checkbox Exclude customers with these tags
+Schritt 4: Aktivieren Sie das Kontrollkästchen Kunden mit diesen Tags ausschließen
 
 <div align="left"><img src="../../.gitbook/assets/unknown (258).png" alt="" height="249" width="369"></div>
 
 {% hint style="warning" %}
-Please note that customers have to log in their customer accounts to see the offer. In case you want to allow non-login customers to get discounts, please tick the box Consider no-login as a customer with no tags
+Bitte beachten Sie, dass Kunden sich in ihrem Kundenkonto anmelden müssen, um das Angebot zu sehen. Falls Sie nicht angemeldeten Kunden erlauben möchten, Rabatte zu erhalten, aktivieren Sie bitte das Kästchen Nicht angemeldet als Kunden ohne Tags behandeln
 {% endhint %}
 
 <div align="left"><img src="../../.gitbook/assets/unknown (259).png" alt="" height="259" width="365"></div>
@@ -252,15 +252,15 @@ Please note that customers have to log in their customer accounts to see the off
 
 <details>
 
-<summary><strong>How to achieve the offer: Buy 2 get 1 free, Buy 4 get 2, and so on?</strong></summary>
+<summary><strong>Wie erreicht man das Angebot: Kaufe 2, erhalte 1 gratis, Kaufe 4, erhalte 2, und so weiter?</strong></summary>
 
-Please follow the steps here:
+Bitte befolgen Sie die hier beschriebenen Schritte:
 
-Step 1: Go to BOGOS > Create offer > Discount offer > Discount on Cheapest/Most expensive Items.
+Schritt 1: Gehen Sie zu BOGOS > Angebot erstellen > Rabattangebot > Rabatt auf günstigsten/teuersten Artikel.
 
-Step 2: Set up your tiers as usual (Cheapest discount/most expensive, items required, discount type/value, etc.)
+Schritt 2: Richten Sie Ihre Stufen wie gewohnt ein (günstigster/teuerster Rabatt, erforderliche Artikel, Rabattart/-wert usw.)
 
-Step 3: Under Tiers, please tick the box Multiply last tier
+Schritt 3: Aktivieren Sie unter Stufen das Kästchen Letzte Stufe multiplizieren
 
 <div align="left"><img src="../../.gitbook/assets/unknown (260).png" alt="" height="299" width="292"></div>
 

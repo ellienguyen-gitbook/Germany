@@ -7,50 +7,50 @@ description: >-
 
 # Judge.me
 
-[**Judge.me**](https://apps.shopify.com/judgeme?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=help_docs) is the most popular, user-friendly product review app designed to help merchants collect, display, and leverage authentic customer feedback. By showcasing social proof, you create a stronger sense of credibility and urgency, encouraging shoppers to take action.
+[**Judge.me**](https://apps.shopify.com/judgeme?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=help_docs) ist die beliebteste, benutzerfreundliche Produktbewertungs-App, die Händlern dabei hilft, authentisches Kundenfeedback zu sammeln, anzuzeigen und zu nutzen. Durch die Präsentation von Social Proof schaffen Sie ein stärkeres Gefühl von Glaubwürdigkeit und Dringlichkeit und ermutigen Käufer zum Handeln.
 
-**Judge.me key features:**
+**Wichtige Funktionen von Judge.me:**
 
-* Unlimited review requests – Collect reviews through email and SMS with no limits.
-* Photo & video reviews – Let customers share their real experiences with visual proof.
-* Widgets & customization – Easily display reviews with customizable, SEO-friendly widgets.
-* Review curation – Highlight top reviews and manage feedback directly in your dashboard.
-* Social proof sharing – Automatically share reviews on social media to increase reach.
+* Unbegrenzte Bewertungsanfragen – Sammeln Sie Bewertungen per E-Mail und SMS ohne Einschränkungen.
+* Foto- & Videobewertungen – Lassen Sie Kunden ihre echten Erfahrungen mit visuellem Nachweis teilen.
+* Widgets & Anpassung – Zeigen Sie Bewertungen ganz einfach mit anpassbaren, SEO-freundlichen Widgets an.
+* Bewertungskuratierung – Heben Sie Top-Bewertungen hervor und verwalten Sie Feedback direkt in Ihrem Dashboard.
+* Social-Proof-Sharing – Teilen Sie Bewertungen automatisch in sozialen Medien, um die Reichweite zu erhöhen.
 
-_Judge.me and BOGOS integration is only available for stores with Judge.me's Awesome plan._
+_Die Integration von Judge.me und BOGOS ist nur für Shops mit dem Awesome-Plan von Judge.me verfügbar._
 
 {% hint style="warning" %}
-Judge.me and BOGOS integration is only available for stores with Judge.me's Awesome plan.
+Die Integration von Judge.me und BOGOS ist nur für Shops mit dem Awesome-Plan von Judge.me verfügbar.
 {% endhint %}
 
 {% embed url="https://youtu.be/HZzd0aamHsE" %}
 
-## How to integrate BOGOS with Judgeme
+## Wie man BOGOS mit Judge.me integriert
 
-**Step 1:** **Install BOGOS** from [Shopify app store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=judgeme) and set up your gift offers
+**Schritt 1: Installieren Sie BOGOS** aus dem [Shopify App Store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=judgeme) und richten Sie Ihre Geschenkangebote ein
 
-**Step 2:** **Install Judge.me** from the [Shopify app store.](https://apps.shopify.com/judgeme?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=help_docs)
+**Schritt 2: Installieren Sie Judge.me** aus dem [Shopify App Store.](https://apps.shopify.com/judgeme?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=help_docs)
 
-**Step 3: Enable the Integration**
+**Schritt 3: Aktivieren Sie die Integration**
 
-* Open the BOGOS app > Go to Integration > Connect with Judge.me > I have already installed.
+* Öffnen Sie die BOGOS-App > Gehen Sie zu Integration > Mit Judge.me verbinden > Ich habe es bereits installiert.
 
 <figure><img src="../../.gitbook/assets/unknown (83).png" alt=""><figcaption></figcaption></figure>
 
-* Turn on the toggle to enable the Judge.me integration
+* Aktivieren Sie den Schalter, um die Judge.me-Integration zu aktivieren
 
 <figure><img src="../../.gitbook/assets/unknown (84).png" alt=""><figcaption></figcaption></figure>
 
-**Step 4:** Click **Authorize** when prompted on the **Judge.me Authorization** screen to activate the integration.
+**Schritt 4:** Klicken Sie auf **Autorisieren**, wenn Sie auf dem Bildschirm **Judge.me-Autorisierung** dazu aufgefordert werden, um die Integration zu aktivieren.
 
 <figure><img src="../../.gitbook/assets/unknown (85).png" alt=""><figcaption></figcaption></figure>
 
-**Step 5: Configure Judge.me Settings**
+**Schritt 5: Konfigurieren Sie die Judge.me-Einstellungen**
 
-Reopen the Judge.me Integration tab in BOGOS and select the options you want:
+Öffnen Sie den Judge.me-Integrationstab in BOGOS erneut und wählen Sie die gewünschten Optionen aus:
 
-* Collect reviews through gift products: Reviews collected from cloned gift products will sync with the original.
-* Display star ratings: Show star ratings on the Gift Slider or Bundle Widget.
+* Bewertungen über Geschenkprodukte sammeln: Bewertungen, die von geklonten Geschenkprodukten gesammelt werden, werden mit dem Original synchronisiert.
+* Sternebewertungen anzeigen: Zeigt Sternebewertungen im Geschenkschieberegler oder Bundle-Widget an.
 
 <figure><img src="../../.gitbook/assets/unknown (86).png" alt=""><figcaption></figcaption></figure>
 

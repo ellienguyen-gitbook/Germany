@@ -1,51 +1,51 @@
 ---
 description: >-
-  With BOGOS and Langify integration, you can seamlessly translate all BOGOS
-  widget content on your store into any language.
+  Mit der Integration von BOGOS und Langify können Sie alle Inhalte des
+  BOGOS-Widgets in Ihrem Store nahtlos in jede Sprache übersetzen.
 ---
 
 # Langify
 
-[Langify](https://apps.shopify.com/langify?utm_source=gitbook\&utm_medium=integration\&utm_campaign=BOGOS) is a leading, easy-to-use translation app designed to help Shopify merchants reach international audiences by translating store content into multiple languages without requiring multiple stores or complex setups.
+[Langify](https://apps.shopify.com/langify?utm_source=gitbook\&utm_medium=integration\&utm_campaign=BOGOS) ist eine führende, einfach zu bedienende Übersetzungs-App, die Shopify-Händlern dabei hilft, internationale Zielgruppen zu erreichen, indem Store-Inhalte in mehrere Sprachen übersetzt werden – ohne mehrere Stores oder komplexe Einrichtungen zu benötigen.
 
-**Langify key features:**
+**Wichtige Funktionen von Langify:**
 
-* AI and manual translations – Combine the power of AI automation with precise manual control to ensure accurate, high-quality translations.
-* Exclusive switcher configurator – Customize your language switcher to perfectly match your store’s design and branding.
-* Third-party app translation – Translate content from other apps seamlessly, ensuring a fully localized shopping experience.
-* SEO optimization – Boost your international visibility with SEO-friendly subfolders and custom domain options.
+* KI- und manuelle Übersetzungen – Kombiniert die Leistungsfähigkeit der KI-Automatisierung mit präziser manueller Kontrolle, um genaue, hochwertige Übersetzungen sicherzustellen.
+* Exklusiver Switcher-Konfigurator – Passen Sie Ihren Sprachumschalter perfekt an das Design und Branding Ihres Stores an.
+* Übersetzung von Drittanbieter-Apps – Übersetzen Sie Inhalte aus anderen Apps nahtlos und sorgen Sie so für ein vollständig lokalisiertes Einkaufserlebnis.
+* SEO-Optimierung – Steigern Sie Ihre internationale Sichtbarkeit mit SEO-freundlichen Unterordnern und benutzerdefinierten Domain-Optionen.
 
-## How to integrate BOGOS with Langify
+## So integrieren Sie BOGOS mit Langify
 
-**Step 1:** **Install BOGOS** from [Shopify app store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Langify) and set up offers
+**Schritt 1:** **Installieren Sie BOGOS** aus dem [Shopify App Store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Langify) und richten Sie Angebote ein
 
-**Step 2:** **Enable Langify** integration in BOGOS
+**Schritt 2:** **Aktivieren Sie die Langify**-Integration in BOGOS
 
-In BOGOS App > Go to Translation > Tick By 3rd-party integration > Click Connect Langify
+In der BOGOS-App > Gehen Sie zu Übersetzung > Aktivieren Sie Per Drittanbieter-Integration > Klicken Sie auf Langify verbinden
 
 <figure><img src="../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
 
-**Step 3:** **Install Langify** from the [Shopify app store](https://apps.shopify.com/langify?utm_source=gitbook\&utm_medium=integration\&utm_campaign=BOGOS)
+**Schritt 3:** **Installieren Sie Langify** aus dem [Shopify App Store](https://apps.shopify.com/langify?utm_source=gitbook\&utm_medium=integration\&utm_campaign=BOGOS)
 
-**Step 4: Enable BOGOS** integration in Langify
+**Schritt 4: Aktivieren Sie die BOGOS**-Integration in Langify
 
-In Langify app > Go to Apps > Integrated Apps > Enable the toggle of BOGOS app
+In der Langify-App > Gehen Sie zu Apps > Integrierte Apps > Aktivieren Sie den Schalter der BOGOS-App
 
 <figure><img src="../../.gitbook/assets/unknown.jpeg" alt=""><figcaption></figcaption></figure>
 
-**Step 5:** Set up the language in Langify app [here](https://support.langify-app.com/support/solutions/articles/11000081178-first-steps)
+**Schritt 5:** Richten Sie die Sprache in der Langify-App [hier](https://support.langify-app.com/support/solutions/articles/11000081178-first-steps) ein
 
-**Step 6:** Translate BOGOS widgets&#x20;
+**Schritt 6:** Übersetzen Sie BOGOS-Widgets&#x20;
 
-In Langify app > Go to Apps > Integrated Apps > Bogos Freegifts
+In der Langify-App > Gehen Sie zu Apps > Integrierte Apps > Bogos Freegifts
 
 <figure><img src="../../.gitbook/assets/unknown (142).png" alt=""><figcaption></figcaption></figure>
 
-Click on the widget you want to translate > Translate
+Klicken Sie auf das Widget, das Sie übersetzen möchten > Übersetzen
 
 <figure><img src="../../.gitbook/assets/unknown (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-_Note: You can use the machine translation option to translate automatically, or enter your own translation manually in the field._
+_Hinweis: Sie können die Option Maschinelle Übersetzung verwenden, um automatisch zu übersetzen, oder Ihre eigene Übersetzung manuell in das Feld eingeben._
 
 <figure><img src="../../.gitbook/assets/unknown (143).png" alt=""><figcaption></figcaption></figure>
 

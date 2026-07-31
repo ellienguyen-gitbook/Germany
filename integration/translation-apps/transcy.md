@@ -1,53 +1,53 @@
 ---
 description: >-
-  With BOGOS and Transcy integration, you can seamlessly translate all the
-  content of BOGOS's widget on Store—such as the Gift Slider, Today’s Offer, and
-  every BOGOS offer's message—into any language.
+  Mit der Integration von BOGOS und Transcy können Sie alle Inhalte des
+  BOGOS-Widgets in Ihrem Store – wie den Gift Slider, Today's Offer und jede
+  Nachricht eines BOGOS-Angebots – nahtlos in jede Sprache übersetzen.
 ---
 
 # Transcy
 
-**Transcy** is the top-rated translation and localization app designed to help merchants create fully multilingual Shopify stores. With its automated translation engine, advanced customization, and seamless app compatibility, Transcy makes it simple to deliver engaging shopping experiences across global markets.
+**Transcy** ist die bestbewertete Übersetzungs- und Lokalisierungs-App, die Händlern dabei hilft, vollständig mehrsprachige Shopify-Stores zu erstellen. Mit seiner automatisierten Übersetzungs-Engine, erweiterten Anpassungsmöglichkeiten und nahtloser App-Kompatibilität macht Transcy es einfach, ansprechende Einkaufserlebnisse auf globalen Märkten zu bieten.
 
-**Transcy key features:**
+**Wichtige Funktionen von Transcy:**
 
-* Automatic translation – Automatically translate products, pages, and apps into multiple languages.
-* Built-in currency converter – Automatically detect visitor’s location and display prices in their currency.
-* Customizable translation – Fine-tune translations for brand tone, keywords, or regional nuances.
-* SEO-friendly translations – Ensure translated pages are indexed properly for global search engines.
+* Automatische Übersetzung – Übersetzen Sie Produkte, Seiten und Apps automatisch in mehrere Sprachen.
+* Integrierter Währungsumrechner – Erkennt automatisch den Standort des Besuchers und zeigt Preise in dessen Währung an.
+* Anpassbare Übersetzung – Feinabstimmung der Übersetzungen für Markenton, Keywords oder regionale Nuancen.
+* SEO-freundliche Übersetzungen – Stellt sicher, dass übersetzte Seiten von globalen Suchmaschinen korrekt indexiert werden.
 
 {% embed url="https://youtu.be/9anaiLwaTYc?si=ujDbywMLEwD8YGBq" %}
 
-## How to integrate BOGOS with Transcy
+## So integrieren Sie BOGOS mit Transcy
 
-**Step 1:** **Install BOGOS** from [Shopify app store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Transcy) and set up offers
+**Schritt 1:** **Installieren Sie BOGOS** aus dem [Shopify App Store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Transcy) und richten Sie Angebote ein
 
-**Step 2:** **Install Transcy** from the [Shopify app store.](https://apps.shopify.com/transcy-multiple-languages?utm_source=gitbook\&utm_medium=integration\&utm_campaign=BOGOS)
+**Schritt 2:** **Installieren Sie Transcy** aus dem [Shopify App Store.](https://apps.shopify.com/transcy-multiple-languages?utm_source=gitbook\&utm_medium=integration\&utm_campaign=BOGOS)
 
-**Step 3: Enable Transcy integration in BOGOS**
+**Schritt 3: Aktivieren Sie die Transcy-Integration in BOGOS**
 
-In BOGOS App, navigate to the Translation page:
+Navigieren Sie in der BOGOS-App zur Seite Übersetzung:
 
-* Tick By 3rd-party integration
-* Select Transcy App as the integration option
+* Aktivieren Sie Per Drittanbieter-Integration
+* Wählen Sie Transcy App als Integrationsoption
 
 <figure><img src="../../.gitbook/assets/unknown (79).png" alt=""><figcaption></figcaption></figure>
 
-**Step 4: Translate with Transcy**
+**Schritt 4: Mit Transcy übersetzen**
 
-Inside the Transcy App:
+In der Transcy-App:
 
-* Go to Translation page
-* Tick Transcy Integration
-* Open Edit Translation
+* Gehen Sie zur Seite Übersetzung
+* Aktivieren Sie Transcy-Integration
+* Öffnen Sie Übersetzung bearbeiten
 
 <figure><img src="../../.gitbook/assets/unknown (80).png" alt=""><figcaption></figcaption></figure>
 
-* Choose Transcy integrations and tick BOGOS.io Free Gift BOGO Bundle.&#x20;
+* Wählen Sie Transcy-Integrationen und aktivieren Sie BOGOS.io Free Gift BOGO Bundle.&#x20;
 
 <figure><img src="../../.gitbook/assets/unknown (81).png" alt=""><figcaption></figcaption></figure>
 
-* Select AI Engines, then click Translate Now.
+* Wählen Sie AI Engines und klicken Sie dann auf Jetzt übersetzen.
 
 <figure><img src="../../.gitbook/assets/unknown (82).png" alt=""><figcaption></figcaption></figure>
 

@@ -1,12 +1,12 @@
-# Customize using BOGOS template
+# Anpassung mit BOGOS-Vorlage
 
-### Step 1
+### Schritt 1
 
-Create file _freegifts-snippet.liquid_ and include it in the _theme.liquid_
+Erstellen Sie die Datei _freegifts-snippet.liquid_ und binden Sie sie in _theme.liquid_ ein
 
-### Step 2
+### Schritt 2
 
-Add the content below into the file _freegifts-snippet_
+Fügen Sie den folgenden Inhalt in die Datei _freegifts-snippet_ ein
 
 ```liquid
 {% comment %}

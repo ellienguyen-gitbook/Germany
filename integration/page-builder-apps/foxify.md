@@ -1,35 +1,35 @@
 ---
 description: >-
-  With BOGOS and Foxify integration, you can seamlessly implement front-end
-  offer elements across various pages.
+  Mit der Integration von BOGOS und Foxify können Sie nahtlos Frontend-Angebotselemente
+  auf verschiedenen Seiten implementieren.
 ---
 
 # Foxify
 
-Foxify is a flexible, high-performance page builder designed to help merchants create visually stunning, conversion-driven Shopify stores. With an intuitive drag-and-drop editor, ready-to-use templates, and built-in sales tools, Foxify makes it easy to design and optimize every page for maximum engagement.
+Foxify ist ein flexibler, leistungsstarker Page Builder, der Händlern dabei hilft, visuell beeindruckende, konversionsstarke Shopify-Stores zu erstellen. Mit einem intuitiven Drag-and-Drop-Editor, gebrauchsfertigen Vorlagen und integrierten Verkaufstools macht Foxify es einfach, jede Seite für maximales Engagement zu gestalten und zu optimieren.
 
-**Foxify key features:**
+**Wichtigste Funktionen von Foxify:**
 
-* Drag-and-drop editor – Easily place images, text, videos, buttons, and more without coding.
-* AI-powered tools – FoxStudio 🔥 helps write text, translate pages, and improve SEO in seconds.
-* SEO & analytics – Optimize visibility with the SEO checker and track views, sales, and conversions.
-* Page revisions – Roll back to earlier versions anytime if changes don’t work out.
-* Mobile-first design – All templates are fully responsive, with easy adjustments for fine-tuning.
-* Seamless compatibility – Works with Online Store 2.0 themes and integrates with popular apps like Judge.me, Loox, and Growave.
+* Drag-and-Drop-Editor – Platzieren Sie ganz einfach Bilder, Texte, Videos, Schaltflächen und mehr ohne Programmierung.
+* KI-gestützte Tools – FoxStudio 🔥 hilft dabei, Texte zu verfassen, Seiten zu übersetzen und SEO in Sekundenschnelle zu verbessern.
+* SEO & Analytics – Optimieren Sie die Sichtbarkeit mit dem SEO-Checker und verfolgen Sie Aufrufe, Verkäufe und Conversions.
+* Seitenversionen – Setzen Sie jederzeit auf frühere Versionen zurück, falls Änderungen nicht funktionieren.
+* Mobile-First-Design – Alle Vorlagen sind vollständig responsiv, mit einfachen Anpassungen für die Feinabstimmung.
+* Nahtlose Kompatibilität – Funktioniert mit Online Store 2.0-Themes und integriert sich mit beliebten Apps wie Judge.me, Loox und Growave.
 
-## How to integrate BOGOS with Foxify
+## So integrieren Sie BOGOS mit Foxify
 
-**Step 1:** Install Foxify from the [Shopify app store.](https://apps.shopify.com/foxify-builder?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration)
+**Schritt 1:** Installieren Sie Foxify aus dem [Shopify App Store.](https://apps.shopify.com/foxify-builder?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration)
 
 <figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:** Create your Foxify page with this [quick guide](https://www.google.com/url?q=https://docs.foxecom.com/foxify-app/page-management/page-creation\&sa=D\&source=editors\&ust=1756899435984628\&usg=AOvVaw1Qwpx1kO0njXAi8iMcBuxq).
+**Schritt 2:** Erstellen Sie Ihre Foxify-Seite mit dieser [Kurzanleitung](https://www.google.com/url?q=https://docs.foxecom.com/foxify-app/page-management/page-creation\&sa=D\&source=editors\&ust=1756899435984628\&usg=AOvVaw1Qwpx1kO0njXAi8iMcBuxq).
 
-**Step 3:** Install BOGOS from the [Shopify app store](https://www.google.com/url?q=https://apps.shopify.com/freegifts?utm_source%3DBOGOS.io%26utm_medium%3Dhelpdoc\&sa=D\&source=editors\&ust=1756899435984943\&usg=AOvVaw04fo8H2DJRhkLGKR58OH0f) and set up your promotion offers.
+**Schritt 3:** Installieren Sie BOGOS aus dem [Shopify App Store](https://www.google.com/url?q=https://apps.shopify.com/freegifts?utm_source%3DBOGOS.io%26utm_medium%3Dhelpdoc\&sa=D\&source=editors\&ust=1756899435984943\&usg=AOvVaw04fo8H2DJRhkLGKR58OH0f) und richten Sie Ihre Werbeangebote ein.
 
 <figure><img src="../../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
-**Step 4:** In your **Foxify editor**, go to **Elements** > **App blocks** > **BOGOS**, then simply drag and drop the BOGOS elements onto your pages or templates.
+**Schritt 4:** Gehen Sie in Ihrem **Foxify-Editor** zu **Elements** > **App blocks** > **BOGOS** und ziehen Sie einfach die BOGOS-Elemente per Drag-and-Drop auf Ihre Seiten oder Vorlagen.
 
 <figure><img src="../../.gitbook/assets/unknown (87).png" alt=""><figcaption></figcaption></figure>
 

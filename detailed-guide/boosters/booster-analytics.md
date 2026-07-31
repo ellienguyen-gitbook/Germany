@@ -1,41 +1,41 @@
-# Booster Analytics
+# Booster-Analyse
 
-Booster Analytics provides a performance overview for each booster, helping you evaluate how well they are working and optimize your boosters for better results.
+Die Booster-Analyse bietet eine Leistungsübersicht für jeden Booster und hilft Ihnen zu bewerten, wie gut sie funktionieren, und Ihre Booster für bessere Ergebnisse zu optimieren.
 
 ![](<../../.gitbook/assets/unknown (350).png>)
 
-To view it, go to **Boosters**. Each booster row shows its Impression count. Click the **“Analytics” icon** to expand and see the full set of metrics for that booster as cards.
+Um sie anzuzeigen, gehen Sie zu **Booster**. Jede Booster-Zeile zeigt ihre Impressionen-Anzahl. Klicken Sie auf das **„Analyse“-Symbol**, um alle Kennzahlen für diesen Booster als Karten anzuzeigen.
 
 ![](<../../.gitbook/assets/unknown (351).png>)
 
 {% hint style="warning" %}
-This report shows analytics from the past 30 days.
+Dieser Bericht zeigt die Analyse der letzten 30 Tage.
 {% endhint %}
 
-### Metrics by Booster Type
+### Kennzahlen nach Booster-Typ
 
-The metrics shown depend on the booster type. The sections below explain what each metric means.
+Die angezeigten Kennzahlen hängen vom Booster-Typ ab. Die folgenden Abschnitte erklären, was jede Kennzahl bedeutet.
 
-#### 1. Progress Bar
+#### 1. Fortschrittsbalken
 
-<table><thead><tr><th width="162.5390625">Metric</th><th>Definition</th></tr></thead><tbody><tr><td>Impressions</td><td><ul><li>The number of sessions in which the Progress bar is rendered on screen. </li><li>Each session is counted once, and reloading the page doesn’t add a new count.</li></ul></td></tr><tr><td>Reach threshold</td><td><ul><li>The percentage of sessions in which shoppers saw the bar and reached the cart value required to unlock the offer.</li><li>Calculated as: (Sessions in which shoppers reached a threshold ÷ Sessions in which shoppers saw the bar) × 100. </li><li>A session is counted when it first reaches a threshold or later qualifies for a higher tier. </li><li>If the cart value drops back to a lower tier, no new event is recorded.</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="162.5390625">Kennzahl</th><th>Definition</th></tr></thead><tbody><tr><td>Impressionen</td><td><ul><li>Die Anzahl der Sitzungen, in denen der Fortschrittsbalken auf dem Bildschirm angezeigt wurde. </li><li>Jede Sitzung wird einmal gezählt, und ein erneutes Laden der Seite fügt keine neue Zählung hinzu.</li></ul></td></tr><tr><td>Zielerreichung</td><td><ul><li>Der Prozentsatz der Sitzungen, in denen Käufer den Balken gesehen und den für das Freischalten des Angebots erforderlichen Warenkorbwert erreicht haben.</li><li>Berechnet als: (Sitzungen, in denen Käufer einen Schwellenwert erreicht haben ÷ Sitzungen, in denen Käufer den Balken gesehen haben) × 100. </li><li>Eine Sitzung wird gezählt, wenn sie erstmals einen Schwellenwert erreicht oder sich später für eine höhere Stufe qualifiziert. </li><li>Wenn der Warenkorbwert wieder auf eine niedrigere Stufe fällt, wird kein neues Ereignis aufgezeichnet.</li></ul></td></tr></tbody></table>
 
-#### 2. Announcement Bar
+#### 2. Ankündigungsleiste
 
-<table><thead><tr><th width="162.5390625">Metric</th><th>Definition</th></tr></thead><tbody><tr><td>Impressions</td><td>The number of unique sessions in which the Announcement bar was rendered.</td></tr><tr><td>Click-through rate</td><td><ul><li>The percentage of sessions in which shoppers clicked the redirect button after the Announcement Bar was displayed.</li><li>Calculated as: (Sessions in which shoppers clicked redirect ÷ Sessions in which shoppers saw the bar) × 100.</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="162.5390625">Kennzahl</th><th>Definition</th></tr></thead><tbody><tr><td>Impressionen</td><td>Die Anzahl der eindeutigen Sitzungen, in denen die Ankündigungsleiste angezeigt wurde.</td></tr><tr><td>Klickrate</td><td><ul><li>Der Prozentsatz der Sitzungen, in denen Käufer nach der Anzeige der Ankündigungsleiste auf die Weiterleitungsschaltfläche geklickt haben.</li><li>Berechnet als: (Sitzungen, in denen Käufer auf Weiterleitung geklickt haben ÷ Sitzungen, in denen Käufer die Leiste gesehen haben) × 100.</li></ul></td></tr></tbody></table>
 
-#### 3. Today offer - block&#x20;
+#### 3. Heute-Angebot – Block&#x20;
 
-<table><thead><tr><th width="162.5390625">Metric</th><th>Definition</th></tr></thead><tbody><tr><td>Impressions</td><td>The number of unique sessions in which shoppers saw the Today offer - block on the page.</td></tr><tr><td>Scroll visibility</td><td><ul><li>The percentage of sessions in which shoppers opened the page and scrolled far enough to bring the block into view (at least 50% of the block visible in the viewport).</li><li>Calculated as: (Sessions in which shoppers scrolled to the block ÷ Sessions in which shoppers opened the page) × 100.</li></ul></td></tr><tr><td>Click-through rate</td><td><ul><li>The percentage of sessions in which shoppers scrolled to the block and clicked the redirect button.</li><li>Calculated as: (Sessions in which shoppers clicked redirect ÷ Sessions in which shoppers scrolled to the block) × 100.</li></ul><div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>The denominator is sessions in which shoppers actually saw the block, not all sessions in which shoppers opened the page.</p></div></td></tr></tbody></table>
+<table><thead><tr><th width="162.5390625">Kennzahl</th><th>Definition</th></tr></thead><tbody><tr><td>Impressionen</td><td>Die Anzahl der eindeutigen Sitzungen, in denen Käufer den Heute-Angebot-Block auf der Seite gesehen haben.</td></tr><tr><td>Scroll-Sichtbarkeit</td><td><ul><li>Der Prozentsatz der Sitzungen, in denen Käufer die Seite geöffnet und weit genug gescrollt haben, um den Block sichtbar zu machen (mindestens 50 % des Blocks im sichtbaren Bereich).</li><li>Berechnet als: (Sitzungen, in denen Käufer zum Block gescrollt haben ÷ Sitzungen, in denen Käufer die Seite geöffnet haben) × 100.</li></ul></td></tr><tr><td>Klickrate</td><td><ul><li>Der Prozentsatz der Sitzungen, in denen Käufer zum Block gescrollt und auf die Weiterleitungsschaltfläche geklickt haben.</li><li>Berechnet als: (Sitzungen, in denen Käufer auf Weiterleitung geklickt haben ÷ Sitzungen, in denen Käufer zum Block gescrollt haben) × 100.</li></ul><div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>Der Nenner umfasst Sitzungen, in denen Käufer den Block tatsächlich gesehen haben, nicht alle Sitzungen, in denen Käufer die Seite geöffnet haben.</p></div></td></tr></tbody></table>
 
-#### 4. Today offer - widget
+#### 4. Heute-Angebot – Widget
 
-<table><thead><tr><th width="162.5390625">Metric</th><th>Definition</th></tr></thead><tbody><tr><td>Impressions</td><td>The number of unique sessions in which shoppers saw the Today offer - widget on screen, whether open or closed.</td></tr><tr><td>Open rate</td><td><ul><li>The percentage of sessions in which shoppers saw the widget and clicked to open it.</li><li>Calculated as: (Sessions in which shoppers clicked to open the widget ÷ Sessions in which shoppers saw the widget) × 100.</li><li>Each session is counted once regardless of how many times shoppers open or close the widget. This rate will never exceed 100%.</li></ul></td></tr><tr><td>Click-through rate</td><td><ul><li>The percentage of sessions in which shoppers saw the widget and clicked the redirect button.</li><li>Calculated as: (Sessions in which shoppers clicked the redirect button ÷ Sessions in which shoppers saw the widget) × 100.</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="162.5390625">Kennzahl</th><th>Definition</th></tr></thead><tbody><tr><td>Impressionen</td><td>Die Anzahl der eindeutigen Sitzungen, in denen Käufer das Heute-Angebot-Widget auf dem Bildschirm gesehen haben, ob geöffnet oder geschlossen.</td></tr><tr><td>Öffnungsrate</td><td><ul><li>Der Prozentsatz der Sitzungen, in denen Käufer das Widget gesehen und zum Öffnen geklickt haben.</li><li>Berechnet als: (Sitzungen, in denen Käufer zum Öffnen des Widgets geklickt haben ÷ Sitzungen, in denen Käufer das Widget gesehen haben) × 100.</li><li>Jede Sitzung wird einmal gezählt, unabhängig davon, wie oft Käufer das Widget öffnen oder schließen. Diese Rate übersteigt nie 100 %.</li></ul></td></tr><tr><td>Klickrate</td><td><ul><li>Der Prozentsatz der Sitzungen, in denen Käufer das Widget gesehen und auf die Weiterleitungsschaltfläche geklickt haben.</li><li>Berechnet als: (Sitzungen, in denen Käufer auf die Weiterleitungsschaltfläche geklickt haben ÷ Sitzungen, in denen Käufer das Widget gesehen haben) × 100.</li></ul></td></tr></tbody></table>
 
-#### 5. Offer page
+#### 5. Angebotsseite
 
-<table><thead><tr><th width="162.5390625">Metric</th><th>Definition</th></tr></thead><tbody><tr><td>Impressions</td><td>The number of unique sessions in which shoppers loaded the Offer page.</td></tr><tr><td>Bounce rate</td><td><ul><li>The percentage of sessions in which shoppers left the Offer page within 5 seconds without taking any action (no click, no scroll).</li><li>Calculated as: (Sessions in which shoppers left early ÷ Sessions in which shoppers loaded the page) × 100.</li></ul><div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>Bounce rate is not tracked when the Offer page is added as a Theme Block.</p></div></td></tr><tr><td>Click-through rate</td><td><ul><li>The percentage of sessions in which shoppers loaded the page and clicked at least one redirect button or Add button within an offer.</li><li>Calculated as: (Sessions in which shoppers clicked redirect or Add ÷ Sessions in which shoppers loaded the page) × 100.</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="162.5390625">Kennzahl</th><th>Definition</th></tr></thead><tbody><tr><td>Impressionen</td><td>Die Anzahl der eindeutigen Sitzungen, in denen Käufer die Angebotsseite geladen haben.</td></tr><tr><td>Absprungrate</td><td><ul><li>Der Prozentsatz der Sitzungen, in denen Käufer die Angebotsseite innerhalb von 5 Sekunden verlassen haben, ohne eine Aktion auszuführen (kein Klick, kein Scrollen).</li><li>Berechnet als: (Sitzungen, in denen Käufer frühzeitig verlassen haben ÷ Sitzungen, in denen Käufer die Seite geladen haben) × 100.</li></ul><div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>Die Absprungrate wird nicht erfasst, wenn die Angebotsseite als Theme-Block hinzugefügt wird.</p></div></td></tr><tr><td>Klickrate</td><td><ul><li>Der Prozentsatz der Sitzungen, in denen Käufer die Seite geladen und mindestens auf eine Weiterleitungsschaltfläche oder Hinzufügen-Schaltfläche innerhalb eines Angebots geklickt haben.</li><li>Berechnet als: (Sitzungen, in denen Käufer auf Weiterleitung oder Hinzufügen geklickt haben ÷ Sitzungen, in denen Käufer die Seite geladen haben) × 100.</li></ul></td></tr></tbody></table>
 
-### Need Help?
+### Brauchen Sie Hilfe?
 
-If you need any assistance, feel free to reach out to our customer support team via live chat within the BOGOS app.
+Wenn Sie Unterstützung benötigen, wenden Sie sich gerne über den Live-Chat innerhalb der BOGOS-App an unser Kundensupport-Team.

@@ -1,28 +1,28 @@
-# Translation apps
+# Übersetzungs-Apps
 
-### What each tool does
+### Was jedes Tool leistet
 
 #### BOGOS:
 
-* Create, run, and manage offer types: Free Gifts, Bundles, Upsell & Discounts.
-* Display and manage promotion widgets: Gift sliders, bundle page, discount widget, and promotional messages.
-* Apply eligibility rules: Control which customers, products, collections, or cart conditions qualify for each promotion.
+* Erstellen, ausführen und verwalten Sie Angebotstypen: Werbegeschenke, Bündel, Upsell & Rabatte.
+* Anzeigen und verwalten von Werbe-Widgets: Geschenkschieberegler, Bundle-Seite, Rabatt-Widget und Werbebotschaften.
+* Anwenden von Berechtigungsregeln: Steuern Sie, welche Kunden, Produkte, Sammlungen oder Warenkorbbedingungen für jede Werbeaktion qualifiziert sind.
 
-#### Translation app:&#x20;
+#### Übersetzungs-App:&#x20;
 
-Translates and manages store content in multiple languages, ensuring shoppers see a localized experience based on their language or region.
+Übersetzt und verwaltet Shop-Inhalte in mehreren Sprachen und stellt sicher, dass Käufer ein lokalisiertes Erlebnis basierend auf ihrer Sprache oder Region sehen.
 
-### What the integration enables
+### Was die Integration ermöglicht
 
-**Translate BOGOS elements:**&#x20;
+**BOGOS-Elemente übersetzen:**&#x20;
 
-All key BOGOS text displays and widgets can be translated automatically or manually.
+Alle wichtigen BOGOS-Textanzeigen und -Widgets können automatisch oder manuell übersetzt werden.
 
-**Centralized translation management**
+**Zentralisierte Übersetzungsverwaltung**
 
-Instead of editing content separately inside BOGOS, merchants can manage all translations in one place via their chosen translation app.
+Anstatt Inhalte separat innerhalb von BOGOS zu bearbeiten, können Händler alle Übersetzungen an einem Ort über ihre gewählte Übersetzungs-App verwalten.
 
-### Integrated Translation Apps
+### Integrierte Übersetzungs-Apps
 
 [Weglot – Translate Your Store](https://apps.shopify.com/weglot?utm_source=partners\&utm_medium=integration\&utm_campaign=bogos)
 

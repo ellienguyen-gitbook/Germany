@@ -1,260 +1,260 @@
 ---
-description: Overview of creating a Bundle builder with BOGOS
+description: Überblick über die Erstellung eines Bundle-Builders mit BOGOS
 ---
 
-# Create Bundle Builder
+# Bundle-Builder erstellen
 
 {% embed url="https://youtu.be/N6XmiirL3wY" %}
 
-This feature allows store owners to create a "Build your own bundle" page for customers to create a bundle customized to their needs. This feature is designed to enhance customer engagement and increase average order value by offering tailored bundling options.
+Diese Funktion ermöglicht es Shopbetreibern, eine „Stellen Sie Ihr eigenes Bundle zusammen"-Seite zu erstellen, auf der Kunden ein an ihre Bedürfnisse angepasstes Bundle zusammenstellen können. Diese Funktion wurde entwickelt, um das Kundenengagement zu steigern und den durchschnittlichen Bestellwert durch maßgeschneiderte Bündelungsoptionen zu erhöhen.
 
-## 1. Bundle information
+## 1. Bundle-Informationen
 
-The **Bundle Information** section allows you to configure the foundational details of your Bundle builder. Each input field is explained below to help you set up your bundle effectively.
+Der Abschnitt **Bundle-Informationen** ermöglicht es Ihnen, die grundlegenden Details Ihres Bundle-Builders zu konfigurieren. Jedes Eingabefeld wird im Folgenden erläutert, damit Sie Ihr Bundle effektiv einrichten können.
 
 <figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
-### **1.1. Bundle name**
+### **1.1. Bundle-Name**
 
-A unique identifier for your bundle. This name will not be visible to customers but is used internally for easy management.
+Eine eindeutige Kennung für Ihr Bundle. Dieser Name wird Kunden nicht angezeigt, sondern dient intern der einfachen Verwaltung.
 
-### **1.2. Page heading**
+### **1.2. Seitenüberschrift**
 
 <figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
-The title displayed at the top of your Bundle builder, visible to customers.
+Der Titel, der oben in Ihrem Bundle-Builder angezeigt wird und für Kunden sichtbar ist.
 
-### **1.3. Page sub-heading**
+### **1.3. Seitenunterüberschrift**
 
 <figure><img src="../../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
-A subtitle displayed beneath the heading, providing additional information about the bundle.
+Ein Untertitel, der unter der Überschrift angezeigt wird und zusätzliche Informationen zum Bundle liefert.
 
-### **1.4. Start & End time**
+### **1.4. Start- & Endzeit**
 
-The date and time when the bundle offer will become active.
+Das Datum und die Uhrzeit, zu der das Bundle-Angebot aktiv wird.
 
-The date and time when the bundle offer will expire.
+Das Datum und die Uhrzeit, zu der das Bundle-Angebot abläuft.
 
-### **1.6. Steps**
+### **1.6. Schritte**
 
-* **One step per page:** Displays one product selection step at a time, creating a step-by-step flow for customers.
-* **Multiple steps in one page:** Displays all steps on a single page, allowing customers to complete their selections in one view.
+* **Ein Schritt pro Seite:** Zeigt jeweils einen Produktauswahlschritt an und erstellt so einen schrittweisen Ablauf für Kunden.
+* **Mehrere Schritte auf einer Seite:** Zeigt alle Schritte auf einer einzigen Seite an, sodass Kunden ihre Auswahl in einer Ansicht abschließen können.
 
-### **1.7. Banner Image**
+### **1.7. Bannerbild**
 
-An image displayed at the top of the Bundle builder to visually enhance its appeal.
+Ein Bild, das oben im Bundle-Builder angezeigt wird, um dessen Attraktivität visuell zu steigern.
 
-**Image Specifications:**
+**Bildspezifikationen:**
 
-* Dimensions: 1200 x 800 pixels
-* File size: Under 1 MB
-* Formats supported: GIF, JPG, PNG
+* Abmessungen: 1200 x 800 Pixel
+* Dateigröße: Unter 1 MB
+* Unterstützte Formate: GIF, JPG, PNG
 
-## 2. Add sub-conditions
+## 2. Unterbedingungen hinzufügen
 
-Sub-conditions add extra rules to decide who can see and get your offers. Therefore, only targeted customers can see and apply the offer, while others won't see it at all.
+Unterbedingungen fügen zusätzliche Regeln hinzu, um zu entscheiden, wer Ihre Angebote sehen und erhalten kann. Dadurch können nur gezielte Kunden das Angebot sehen und anwenden, während andere es überhaupt nicht sehen.
 
 {% hint style="info" %}
-* These sub-conditions are optional. If you don't add any, the offer will be available to all customers.
-* You can combine multiple sub-conditions. Customers must meet all selected criteria to qualify.
+* Diese Unterbedingungen sind optional. Wenn Sie keine hinzufügen, ist das Angebot für alle Kunden verfügbar.
+* Sie können mehrere Unterbedingungen kombinieren. Kunden müssen alle ausgewählten Kriterien erfüllen, um berechtigt zu sein.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/unknown (154).png" alt="" width="503"><figcaption></figcaption></figure>
 
-1. _Specific link address_ – Apply offers to customers accessing your store from a specific link. Perfect for email campaigns, social posts, or affiliates.
-2. _Order history_ – Target customers based on purchase behavior. Best for rewarding first-time buyers, high spenders, and more.
-3. _Customer tags_ – Show or hide offers based on customer tags.
-4. _Customer location_ – Run country-specific promotions based on the customer’s IP address.
-5. _Markets_ – Run region-specific offers based on your Shopify Markets.
+1. _Spezifische Link-Adresse_ – Wenden Sie Angebote auf Kunden an, die über einen bestimmten Link auf Ihren Shop zugreifen. Perfekt für E-Mail-Kampagnen, Social-Media-Beiträge oder Affiliates.
+2. _Bestellverlauf_ – Zielen Sie auf Kunden basierend auf ihrem Kaufverhalten ab. Am besten geeignet, um Erstkäufer, Vielkäufer und mehr zu belohnen.
+3. _Kunden-Tags_ – Zeigen oder verbergen Sie Angebote basierend auf Kunden-Tags.
+4. _Kundenstandort_ – Führen Sie länderspezifische Aktionen basierend auf der IP-Adresse des Kunden durch.
+5. _Märkte_ – Führen Sie regionsspezifische Angebote basierend auf Ihren Shopify Markets durch.
 
-♦️ For more details, visit our \[[Sub-Condition](../../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)] guide.
+♦️ Weitere Details finden Sie in unserem Leitfaden \[[Unterbedingung](../../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)].
 
-## 3. Bundle structure
+## 3. Bundle-Struktur
 
 <figure><img src="../../../.gitbook/assets/Max quantity.jpg" alt=""><figcaption></figcaption></figure>
 
-### **3.1. Step title**
+### **3.1. Schritttitel**
 
 <figure><img src="../../../.gitbook/assets/image (269).png" alt="" width="563"><figcaption></figcaption></figure>
 
-This is the title for the current step in the bundle creation process, visible to customers; use it to clearly indicate the purpose of the step (e.g., "Step 1: Choose Your Main Items").
+Dies ist der Titel für den aktuellen Schritt im Bundle-Erstellungsprozess, der für Kunden sichtbar ist. Verwenden Sie ihn, um den Zweck des Schritts klar anzugeben (z. B. „Schritt 1: Wählen Sie Ihre Hauptartikel").
 
-Note: To edit the "Step" label text on the Bundle builder progress bar, please visit [Customize](../../customize/customize-bundle-builder.md#id-2.1.1.-bundle-product).
+Hinweis: Um den Text des „Schritt"-Labels auf der Fortschrittsleiste des Bundle-Builders zu bearbeiten, besuchen Sie bitte [Anpassen](../../customize/customize-bundle-builder.md#id-2.1.1.-bundle-product).
 
 <figure><img src="../../../.gitbook/assets/image (272).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### **3.2. Step sub-title (optional)**
+### **3.2. Schrittuntertitel (optional)**
 
 <figure><img src="../../../.gitbook/assets/image (260).png" alt="" width="563"><figcaption></figcaption></figure>
 
-A brief description or instruction for the step, displayed beneath the step title, guiding customers (e.g., "Choose two items from the products listed below").
+Eine kurze Beschreibung oder Anweisung für den Schritt, die unter dem Schritttitel angezeigt wird und Kunden anleitet (z. B. „Wählen Sie zwei Artikel aus den unten aufgeführten Produkten").
 
-### **3.3. Select a list of products**
+### **3.3. Eine Produktliste auswählen**
 
-Allows you to choose a predefined product list or collection for this step by selecting an existing list of products.
+Ermöglicht es Ihnen, für diesen Schritt eine vordefinierte Produktliste oder Kollektion auszuwählen, indem Sie eine bestehende Produktliste wählen.
 
-* Selected products: Enables you to select specific products for this step by clicking **Select Products** and choosing individual items to display to customers.
-* Selected collections: Allow selecting collections as a list of products for this step.
+* Ausgewählte Produkte: Ermöglicht es Ihnen, bestimmte Produkte für diesen Schritt auszuwählen, indem Sie auf **Produkte auswählen** klicken und einzelne Artikel wählen, die Kunden angezeigt werden sollen.
+* Ausgewählte Kollektionen: Ermöglicht die Auswahl von Kollektionen als Produktliste für diesen Schritt.
 
-### 3.4. Advanced settings
+### 3.4. Erweiterte Einstellungen
 
 <figure><img src="../../../.gitbook/assets/unknown (39).png" alt=""><figcaption></figcaption></figure>
 
-* **Search bar:** Enable this to display a search bar on the Bundle builder, allowing customers to quickly find products by name.
-* **Sort by:** Choose the sorting options customers can use from Name, Date, Price, and Best Selling. The data is synced with your product information.
+* **Suchleiste:** Aktivieren Sie dies, um eine Suchleiste im Bundle-Builder anzuzeigen, damit Kunden Produkte schnell nach Namen finden können.
+* **Sortieren nach:** Wählen Sie die Sortieroptionen, die Kunden verwenden können, aus Name, Datum, Preis und Meistverkauft. Die Daten werden mit Ihren Produktinformationen synchronisiert.
 
 {% hint style="info" %}
-If you wanna choose "Best Selling" as the sort option, it's best to select only one collection in “Select a list of products” to ensure everything works smoothly.
+Wenn Sie „Meistverkauft" als Sortieroption wählen möchten, empfiehlt es sich, nur eine Kollektion unter „Eine Produktliste auswählen" auszuwählen, damit alles reibungslos funktioniert.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/unknown (38).png" alt=""><figcaption></figcaption></figure>
 
-* **Filter by**: Add this option to let customers filter products more easily based on: Category, Collection, Product tag, Product type, or Price range.&#x20;
+* **Filtern nach**: Fügen Sie diese Option hinzu, damit Kunden Produkte einfacher filtern können, basierend auf: Kategorie, Kollektion, Produkt-Tag, Produkttyp oder Preisbereich.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (353).png" alt="" width="476"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Filter label** is the title of the filter option that customers will see on your storefront. Use simple words to make it clear.&#x20;
+**Filterbezeichnung** ist der Titel der Filteroption, den Kunden in Ihrem Onlineshop sehen. Verwenden Sie einfache Wörter, um sie klar verständlich zu machen.&#x20;
 {% endhint %}
 
-**Some key notes to keep in mind:**
+**Einige wichtige Hinweise, die Sie beachten sollten:**
 
-* All filter options are automatically detected from your store setup and can be combined.
-* For each filter’s value, you can select only one option at a time.
-* For the Price range filter, simply add a label, and customers can then set their own price range freely.
+* Alle Filteroptionen werden automatisch aus Ihrer Shop-Einrichtung erkannt und können kombiniert werden.
+* Für jeden Filterwert können Sie jeweils nur eine Option auswählen.
+* Für den Preisbereichsfilter fügen Sie einfach eine Bezeichnung hinzu, und Kunden können dann ihren eigenen Preisbereich frei festlegen.
 
-**Set minimum quantity (optional):** Defines the minimum number of products a customer must select in this step by enabling the option and specifying the required quantity (e.g., 2 items).
+**Mindestmenge festlegen (optional):** Definiert die Mindestanzahl an Produkten, die ein Kunde in diesem Schritt auswählen muss, indem Sie die Option aktivieren und die erforderliche Menge angeben (z. B. 2 Artikel).
 
-This minimum quantity sets the number of items customers must purchase to proceed to the next step. It differs from the [minimum quantity required to unlock a discount tier.](./#id-3.2.-quantity)
+Diese Mindestmenge legt die Anzahl der Artikel fest, die Kunden kaufen müssen, um zum nächsten Schritt zu gelangen. Sie unterscheidet sich von der [Mindestmenge, die zum Freischalten einer Rabattstufe erforderlich ist.](./#id-3.2.-quantity)
 
-**Set maximum quantity (optional):** Defines the maximum number of products a customer can select in this step by enabling the option and specifying the required quantity.
+**Maximale Menge festlegen (optional):** Definiert die Höchstanzahl an Produkten, die ein Kunde in diesem Schritt auswählen kann, indem Sie die Option aktivieren und die erforderliche Menge angeben.
 
-This maximum quantity limits the number of items customers can purchase in the bundle. If customers try to exceed this limit on the Bundle builder, they won't be able to add more items.
+Diese Höchstmenge begrenzt die Anzahl der Artikel, die Kunden im Bundle kaufen können. Wenn Kunden versuchen, dieses Limit auf dem Bundle-Builder zu überschreiten, können sie keine weiteren Artikel hinzufügen.
 
-However, if customers manually adjust the quantity in their cart to surpass this limitation, the system will create a separate product at the original price.
+Wenn Kunden jedoch die Menge in ihrem Warenkorb manuell anpassen, um diese Einschränkung zu überschreiten, erstellt das System ein separates Produkt zum ursprünglichen Preis.
 
 {% hint style="info" %}
-In case your bundle offer has 2 or more products, and you don't know which specific product your customer has adjusted to surpass the maximum quantity, we will select the product with the highest price to revert to the original price.
+Falls Ihr Bundle-Angebot 2 oder mehr Produkte enthält und Sie nicht wissen, welches bestimmte Produkt Ihr Kunde angepasst hat, um die maximale Menge zu überschreiten, wählen wir das Produkt mit dem höchsten Preis aus, um es auf den ursprünglichen Preis zurückzusetzen.
 {% endhint %}
 
-### **3.5. Additional Features**
+### **3.5. Zusätzliche Funktionen**
 
-* **Add Step**: Lets you create additional steps for the bundle, each with unique titles, sub-titles, and product settings.
-* **Remove Step**: The trash icon next to a step lets you delete it if it’s no longer needed.
+* **Schritt hinzufügen**: Ermöglicht es Ihnen, zusätzliche Schritte für das Bundle zu erstellen, jeweils mit eigenen Titeln, Untertiteln und Produkteinstellungen.
+* **Schritt entfernen**: Das Papierkorb-Symbol neben einem Schritt ermöglicht es Ihnen, diesen zu löschen, wenn er nicht mehr benötigt wird.
 
-## 4. Bundle discount
+## 4. Bundle-Rabatt
 
 <figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-### **4.1. Label text**
+### **4.1. Beschriftungstext**
 
-Specifies the discount label that will be visible to customers (e.g., "10% OFF" or "Buy More, Save More").
+Legt die Rabattbeschriftung fest, die für Kunden sichtbar ist (z. B. „10 % RABATT" oder „Mehr kaufen, mehr sparen").
 
-### **4.2. Quantity**
+### **4.2. Menge**
 
-Defines the minimum number of items the customer must select to qualify for this discount tier.
+Definiert die Mindestanzahl an Artikeln, die der Kunde auswählen muss, um sich für diese Rabattstufe zu qualifizieren.
 
-Note: the minimum quantity of a subsequent tier (e.g. tier 2) has to be equal to or larger than a previous one.
+Hinweis: Die Mindestmenge einer nachfolgenden Stufe (z. B. Stufe 2) muss gleich oder größer sein als die vorherige.
 
-### **4.3. Discount type**
+### **4.3. Rabattart**
 
-**>Product discount:** Allows you to choose the type of discount&#x20;
+**>Produktrabatt:** Ermöglicht es Ihnen, die Art des Rabatts auszuwählen&#x20;
 
-* Percentage: for a percentage-based discount
-* Amount: for a fixed monetary discount
-* Fixed price: offer products at a certain price point
-* Free gift: automatically add a free gift to cart
+* Prozentsatz: für einen prozentualen Rabatt
+* Betrag: für einen festen Geldrabatt
+* Festpreis: Angebot von Produkten zu einem bestimmten Preispunkt
+* Kostenloses Geschenk: fügt automatisch ein kostenloses Geschenk zum Warenkorb hinzu
 
-If you choose **"amount"** or **"fixed price",** and also sell in different currencies (set up in Shopify Markets), you can “add currency” and **custom how much discount amount to offer in each currency**, instead of using Shopify’s exchange rates (e.g., SGD 10, CN¥8, A$12).
+Wenn Sie **„Betrag"** oder **„Festpreis"** wählen und außerdem in verschiedenen Währungen verkaufen (eingerichtet in Shopify Markets), können Sie „Währung hinzufügen" und **individuell festlegen, wie viel Rabattbetrag in jeder Währung angeboten werden soll**, anstatt die Wechselkurse von Shopify zu verwenden (z. B. SGD 10, CN¥8, A$12).
 
 <figure><img src="../../../.gitbook/assets/unknown (74).png" alt="" width="506"><figcaption></figcaption></figure>
 
-Note:
+Hinweis:
 
-* **Flexible discount updates**: When the quantity of items in a bundle changes (excluding free gifts), the discount will automatically update to reflect the changes.
-* **Line item updates for free gift discounts**: If a gift is added using a free gift discount, the product will appear with its original price (not zero) in the cart. For carts that don’t support line item updates, increasing the quantity of the gift will not create a separate line item but will update the existing one correctly at checkout.
+* **Flexible Rabattaktualisierungen**: Wenn sich die Anzahl der Artikel in einem Bundle ändert (mit Ausnahme von kostenlosen Geschenken), wird der Rabatt automatisch aktualisiert, um die Änderungen widerzuspiegeln.
+* **Aktualisierungen von Positionen bei Rabatten für kostenlose Geschenke**: Wenn ein Geschenk mithilfe eines Rabatts für kostenlose Geschenke hinzugefügt wird, erscheint das Produkt mit seinem ursprünglichen Preis (nicht null) im Warenkorb. Bei Warenkörben, die keine Aktualisierung von Positionen unterstützen, wird durch Erhöhen der Menge des Geschenks keine separate Position erstellt, sondern die bestehende beim Checkout korrekt aktualisiert.
 
-**>Add shipping discount**
+**>Versandrabatt hinzufügen**
 
 <figure><img src="../../../.gitbook/assets/unknown (113).png" alt="" width="461"><figcaption></figcaption></figure>
 
-There are two types of shipping discount:
+Es gibt zwei Arten von Versandrabatten:
 
-* Percentage: A percentage of the shipping cost will be deducted.
-* Amount: A fixed amount will be deducted from the total shipping cost. If you sell in different currencies (set up in Shopify Markets), you can “add currency” and custom how much shipping discount amount to offer in each currency, instead of using Shopify’s exchange rates (e.g., SGD 10, €8, A$12).
+* Prozentsatz: Ein Prozentsatz der Versandkosten wird abgezogen.
+* Betrag: Ein fester Betrag wird von den gesamten Versandkosten abgezogen. Wenn Sie in verschiedenen Währungen verkaufen (eingerichtet in Shopify Markets), können Sie „Währung hinzufügen" und individuell festlegen, wie viel Versandrabatt in jeder Währung angeboten werden soll, anstatt die Wechselkurse von Shopify zu verwenden (z. B. SGD 10, €8, A$12).
 
-**Label on widget**: This text informs customers whether the bundle includes a shipping discount.
+**Beschriftung im Widget**: Dieser Text informiert Kunden darüber, ob das Bundle einen Versandrabatt enthält.
 
-### **4.4. Value**
+### **4.4. Wert**
 
-Specifies the value of the discount; for a percentage, enter the percentage amount (e.g., 10), and for a fixed amount, enter the monetary value (e.g., $10).
+Legt den Wert des Rabatts fest; geben Sie für einen Prozentsatz den prozentualen Betrag ein (z. B. 10) und für einen festen Betrag den Geldwert (z. B. 10 $).
 
-### **4.5. Add tier**
+### **4.5. Stufe hinzufügen**
 
-Enables you to create additional discount tiers to offer varied discounts based on the number of items purchased.
+Ermöglicht es Ihnen, zusätzliche Rabattstufen zu erstellen, um je nach Anzahl der gekauften Artikel unterschiedliche Rabatte anzubieten.
 
-### **4.6. Remove tier**
+### **4.6. Stufe entfernen**
 
-The trash icon allows you to delete an existing tier if it is no longer needed.
+Das Papierkorb-Symbol ermöglicht es Ihnen, eine bestehende Stufe zu löschen, wenn sie nicht mehr benötigt wird.
 
-## 5. Advanced configuration (optional)
+## 5. Erweiterte Konfiguration (optional)
 
 <figure><img src="../../../.gitbook/assets/Jump.JPG" alt=""><figcaption></figcaption></figure>
 
-## 6. Discount code
+## 6. Rabattcode
 
-#### Add a custom discount code
+#### Benutzerdefinierten Rabattcode hinzufügen
 
-This section allows you to customize the discount code name to match your brand.
+Dieser Abschnitt ermöglicht es Ihnen, den Namen des Rabattcodes an Ihre Marke anzupassen.
 
 <figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The discount code name must be under 256 characters and unique across all Shopify discounts.
+Der Name des Rabattcodes muss unter 256 Zeichen liegen und über alle Shopify-Rabatte hinweg eindeutig sein.
 {% endhint %}
 
-#### Combinations
+#### Kombinationen
 
-This option allows you to directly navigate customers to the next step if their carts meet the minimum number of products you established previously.&#x20;
+Diese Option ermöglicht es, Kunden direkt zum nächsten Schritt zu führen, wenn ihre Warenkörbe die zuvor festgelegte Mindestanzahl an Produkten erfüllen.&#x20;
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure></div>
 
-If you skip the minimum quantity condition, customers will be guided to the second step as soon as they add any item to their cart. This will only happen once.&#x20;
+Wenn Sie die Mindestmengenbedingung überspringen, werden Kunden zum zweiten Schritt geführt, sobald sie einen Artikel zu ihrem Warenkorb hinzufügen. Dies geschieht nur einmal.&#x20;
 
 {% hint style="info" %}
-Note: This section only applies to the Minimum quantity option.
+Hinweis: Dieser Abschnitt gilt nur für die Option „Mindestmenge".
 {% endhint %}
 
-### **6.1. Order discounts**
+### **6.1. Bestellrabatte**
 
-Indicates if the bundle discount can be combined with order-level discounts, such as promotional codes or automatic discounts.
+Gibt an, ob der Bundle-Rabatt mit Rabatten auf Bestellebene kombiniert werden kann, wie z. B. Aktionscodes oder automatischen Rabatten.
 
-### **6.2. Shipping discounts**
+### **6.2. Versandrabatte**
 
-Indicates if the bundle discount can be combined with shipping discounts, such as free or reduced shipping promotions.
+Gibt an, ob der Bundle-Rabatt mit Versandrabatten kombiniert werden kann, wie z. B. kostenlosen oder reduzierten Versandaktionen.
 
-## 7. Bundle builder summary
+## 7. Bundle-Builder-Zusammenfassung
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure></div>
 
-The Bundle builder **Summary** panel on the right updates dynamically as you configure your steps. It displays the number of steps, selected products, and added discounts for easy tracking.
+Das Panel **Zusammenfassung** des Bundle-Builders auf der rechten Seite aktualisiert sich dynamisch, während Sie Ihre Schritte konfigurieren. Es zeigt die Anzahl der Schritte, ausgewählten Produkte und hinzugefügten Rabatte zur einfachen Nachverfolgung an.
 
 ## FAQs
 
 <details>
 
-<summary><strong>Can we not show the out-of-stock products in each step?</strong></summary>
+<summary><strong>Können wir die nicht vorrätigen Produkte in jedem Schritt nicht anzeigen?</strong></summary>
 
-That is **certainly possible**! As this involves a tailored customization, we’d like to involve our engineering team to ensure it's executed perfectly. Please contact us through Live Chat so we can begin to work on it.
+Das ist **durchaus möglich**! Da dies eine maßgeschneiderte Anpassung erfordert, möchten wir unser Entwicklerteam einbeziehen, um sicherzustellen, dass sie perfekt umgesetzt wird. Bitte kontaktieren Sie uns über den Live-Chat, damit wir mit der Arbeit daran beginnen können.
 
 </details>
 
 <details>
 
-<summary><strong>Is it possible to limit the number of products a customer can select in each step?</strong></summary>
+<summary><strong>Ist es möglich, die Anzahl der Produkte zu begrenzen, die ein Kunde in jedem Schritt auswählen kann?</strong></summary>
 
-**Yes**. In the Advanced settings of each step, you can set a **Minimum quantity** (the number of items required to proceed) and a **Maximum quantity** (the limit of items allowed in that step). And if customers buy more than the maximum quantity or fewer than the minimum quantity in each step, they won’t get the discount on the Bundle builder.&#x20;
+**Ja**. In den erweiterten Einstellungen jedes Schritts können Sie eine **Mindestmenge** (die Anzahl der erforderlichen Artikel, um fortzufahren) und eine **Maximale Menge** (die Obergrenze der in diesem Schritt erlaubten Artikel) festlegen. Und wenn Kunden in jedem Schritt mehr als die Maximalmenge oder weniger als die Mindestmenge kaufen, erhalten sie den Rabatt im Bundle-Builder nicht.&#x20;
 
 ![](<../../../.gitbook/assets/unknown (206).png>)<br>
 
@@ -262,20 +262,20 @@ That is **certainly possible**! As this involves a tailored customization, we’
 
 <details>
 
-<summary><strong>How can I show the</strong> Bundle builder <strong>on my online store?</strong></summary>
+<summary><strong>Wie kann ich den</strong> Bundle-Builder <strong>in meinem Onlineshop anzeigen?</strong></summary>
 
-There are 2 ways to show the Bundle builders in your store:&#x20;
+Es gibt 2 Möglichkeiten, die Bundle-Builder in Ihrem Shop anzuzeigen:&#x20;
 
-* **Add a button on related product pages:** In the Create/Edit Bundle builder, check on "Show a button on product page"
+* **Eine Schaltfläche auf zugehörigen Produktseiten hinzufügen:** Aktivieren Sie im Bundle-Builder erstellen/bearbeiten die Option „Schaltfläche auf Produktseite anzeigen"
 
 ![](<../../../.gitbook/assets/unknown (207).png>)
 
-* Add bundle to your store's navigation:&#x20;
-  * Copy your bundle's link in Edit Bundle builder
+* Bundle zur Navigation Ihres Shops hinzufügen:&#x20;
+  * Kopieren Sie den Link Ihres Bundles in Bundle-Builder bearbeiten
 
 ![](<../../../.gitbook/assets/unknown (210).png>)
 
-* Go to your store Content > Menus > Main menu > Add menu item > Insert Label and copy the bundle link and Save
+* Gehen Sie zu Ihrem Shop unter Inhalt > Menüs > Hauptmenü > Menüpunkt hinzufügen > Beschriftung einfügen und den Bundle-Link einfügen sowie Speichern
 
 ![](<../../../.gitbook/assets/unknown (211).png>)
 

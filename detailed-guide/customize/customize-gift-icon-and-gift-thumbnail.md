@@ -1,101 +1,101 @@
-# Customize Gift icon & Gift thumbnail
+# Geschenksymbol & Miniaturansicht des Geschenks anpassen
 
-The gift icon showcases the products customers need to buy to get a gift. It will appear on the product page and collection page.
+Das Geschenksymbol zeigt die Produkte an, die Kunden kaufen müssen, um ein Geschenk zu erhalten. Es erscheint auf der Produktseite und der Sammlungsseite.
 
 {% embed url="https://www.youtube.com/watch?v=r914Alo7JZ8" %}
 
-## 1. Gift icon <a href="#how-to-enable-the-gift-icon" id="how-to-enable-the-gift-icon"></a>
+## 1. Geschenksymbol <a href="#how-to-enable-the-gift-icon" id="how-to-enable-the-gift-icon"></a>
 
-### 1.1 How to enable the gift icon <a href="#how-to-enable-the-gift-icon" id="how-to-enable-the-gift-icon"></a>
+### 1.1 Wie man das Geschenksymbol aktiviert <a href="#how-to-enable-the-gift-icon" id="how-to-enable-the-gift-icon"></a>
 
-To enable the gift icon, please create the offer using Narrow by specific products.
+Um das Geschenksymbol zu aktivieren, erstellen Sie bitte das Angebot mit „Narrow by specific products“.
 
-Here is an example of how it looks like on your storefront:
+Hier ist ein Beispiel, wie es in Ihrem Storefront aussieht:
 
 <figure><img src="https://bogos-guideline.gitbook.io/~gitbook/image?url=https%3A%2F%2F1174860429-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FBQEzvXIQmpPrTmxjT8T6%252Fuploads%252FWEGJXE7hlf8M0wCiUE9U%252Fgift%2520icon.png%3Falt%3Dmedia%26token%3Db8d26b1a-0af0-4e6e-acd0-3d4052fba736&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=dc7a5978&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-### 1.2 Customize gift icon <a href="#customization-options" id="customization-options"></a>
+### 1.2 Geschenksymbol anpassen <a href="#customization-options" id="customization-options"></a>
 
 <figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
-You can select among our default icons or upload one of your own.
+Sie können aus unseren Standardsymbolen auswählen oder eines Ihrer eigenen hochladen.
 
-Adjust how the gift icon shows up:
+Passen Sie an, wie das Geschenksymbol angezeigt wird:
 
-* Show on Product paActivate or deactivate showing gift icon on Product pages/Collection pages
-  * Gift icon size: Set the size of the icon
+* Auf Produktseite anzeigen: Aktivieren oder deaktivieren Sie die Anzeige des Geschenksymbols auf Produktseiten/Sammlungsseiten
+  * Größe des Geschenksymbols: Legen Sie die Größe des Symbols fest
 
-## 2. Gift thumbnail <a href="#product-page" id="product-page"></a>
+## 2. Miniaturansicht des Geschenks <a href="#product-page" id="product-page"></a>
 
 <figure><img src="../../.gitbook/assets/unknown (176).png" alt=""><figcaption></figcaption></figure>
 
-### **2.1 General**
+### **2.1 Allgemein**
 
-**Show on Product page:**
+**Auf Produktseite anzeigen:**
 
-* Enable this option to display gift thumbnails directly on product pages.&#x20;
-* Disable it if you want to hide it on your product pages.
+* Aktivieren Sie diese Option, um Geschenk-Miniaturansichten direkt auf Produktseiten anzuzeigen.&#x20;
+* Deaktivieren Sie sie, wenn Sie sie auf Ihren Produktseiten ausblenden möchten.
 
-**Gift Display:**
+**Geschenkanzeige:**
 
-* _By product:_ Show customers the main product image you set.
-* _By variant_**:** Show customers the exact image of the selected gift variant. Best for gifts with multiple colors or styles.
+* _Nach Produkt:_ Zeigt Kunden das von Ihnen festgelegte Hauptproduktbild an.
+* _Nach Variante_**:** Zeigt Kunden das genaue Bild der ausgewählten Geschenkvariante an. Am besten geeignet für Geschenke mit mehreren Farben oder Stilen.
 
-**How to show multiple offers:** If multiple gift offers apply to the same product, choose how the gift thumbnails should appear:
+**Wie mehrere Angebote angezeigt werden:** Wenn mehrere Geschenkangebote auf dasselbe Produkt zutreffen, wählen Sie, wie die Geschenk-Miniaturansichten angezeigt werden sollen:
 
-* _Together:_ All gifts from different offers are displayed together in one row.
-* _Separated_: Gifts are grouped and displayed separately for each offer.
+* _Zusammen:_ Alle Geschenke aus verschiedenen Angeboten werden zusammen in einer Zeile angezeigt.
+* _Getrennt_: Geschenke werden gruppiert und für jedes Angebot separat angezeigt.
 
-**Show countdown timer:** If you set an end time for your gift offer, enable this option to display a countdown timer for urgency.
+**Countdown-Timer anzeigen:** Wenn Sie eine Endzeit für Ihr Geschenkangebot festgelegt haben, aktivieren Sie diese Option, um einen Countdown-Timer zur Erzeugung von Dringlichkeit anzuzeigen.
 
-**Show number of gift items:** Enable this setting if you want customers to see how many gifts are included in the offer.
+**Anzahl der Geschenkartikel anzeigen:** Aktivieren Sie diese Einstellung, wenn Kunden sehen sollen, wie viele Geschenke im Angebot enthalten sind.
 
 ### **2.2 Text**
 
-Customize the text displayed in the thumbnail:
+Passen Sie den in der Miniaturansicht angezeigten Text an:
 
-* Countdown text: Edit the message shown with the countdown timer.
-* Number of items text: Edit the message that shows the number of gift items.
+* Countdown-Text: Bearbeiten Sie die Nachricht, die zusammen mit dem Countdown-Timer angezeigt wird.
+* Text für Anzahl der Artikel: Bearbeiten Sie die Nachricht, die die Anzahl der Geschenkartikel anzeigt.
 
-### **2.3 Color**
+### **2.3 Farbe**
 
-BOGOS allows you to customize the colors of all elements with any of the 3 methods below:
+BOGOS ermöglicht es Ihnen, die Farben aller Elemente mit einer der 3 folgenden Methoden anzupassen:
 
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-gift-icon-and-gift-thumbnail.md#ai-theme-detector) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* **Passen Sie manuell** jedes Farbfeld für alle verfügbaren Farben an.
+* Verwenden Sie den [KI-Theme-Detektor](customize-gift-icon-and-gift-thumbnail.md#ai-theme-detector), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Stores zu erstellen.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+Die BOGOS-KI scannt Ihren Onlineshop und erkennt die primäre, sekundäre und Textfarbe Ihrer Marke und erstellt dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Store darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit der BOGOS-KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stift-Symbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit die BOGOS-KI erneut erkennt, oder **passen Sie manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden für Vorschau**, um die Farben auf die Widget-Vorschau anzuwenden.
 
-## &#x20;FAQs
+## &#x20;Häufig gestellte Fragen
 
 <details>
 
-<summary><strong>How to edit text in the Gift icon?</strong></summary>
+<summary><strong>Wie bearbeite ich Text im Geschenksymbol?</strong></summary>
 
-You can’t edit text inside the small Gift icon itself; it’s just an icon image that you can change (Customize → Gift icon & Gift thumbnail → Gift icon).
+Sie können den Text innerhalb des kleinen Geschenksymbols selbst nicht bearbeiten; es ist nur ein Symbolbild, das Sie ändern können (Anpassen → Geschenksymbol & Miniaturansicht des Geschenks → Geschenksymbol).
 
-You can create your own icon image and then upload in our app to use as in my screenshot:
+Sie können Ihr eigenes Symbolbild erstellen und es dann in unserer App hochladen, um es wie in meinem Screenshot zu verwenden:
 
 <div align="left"><img src="../../.gitbook/assets/unknown (261).png" alt="" height="330" width="301"></div>
 
@@ -103,25 +103,25 @@ You can create your own icon image and then upload in our app to use as in my sc
 
 <details>
 
-<summary><strong>How can we change the position of the gift icon?</strong></summary>
+<summary><strong>Wie können wir die Position des Geschenksymbols ändern?</strong></summary>
 
-Currently it is our customization. If you want to change the position of gift image, please contact our customer support via Live chat so our technical team can check your theme and work on it
-
-</details>
-
-<details>
-
-<summary><strong>What is the size of the BOGOS gift icon in pixels?</strong></summary>
-
-The default size of our gift icon is 50x50 pixels.
+Derzeit ist dies unsere Anpassung. Wenn Sie die Position des Geschenkbildes ändern möchten, kontaktieren Sie bitte unseren Kundensupport über den Live-Chat, damit unser technisches Team Ihr Theme prüfen und daran arbeiten kann
 
 </details>
 
 <details>
 
-<summary><strong>How can I remove the gift icon?</strong></summary>
+<summary><strong>Wie groß ist das BOGOS-Geschenksymbol in Pixeln?</strong></summary>
 
-In order to hide the gift icon, you can go to Customize section → Select “Gift icon & Gift thumbnail” and then untick “Show on product page” or “Show on collection page” as in my screenshot:
+Die Standardgröße unseres Geschenksymbols beträgt 50x50 Pixel.
+
+</details>
+
+<details>
+
+<summary><strong>Wie kann ich das Geschenksymbol entfernen?</strong></summary>
+
+Um das Geschenksymbol auszublenden, gehen Sie zum Abschnitt Anpassen → Wählen Sie „Geschenksymbol & Miniaturansicht des Geschenks“ und deaktivieren Sie dann „Auf Produktseite anzeigen“ oder „Auf Sammlungsseite anzeigen“ wie in meinem Screenshot:
 
 <div align="left"><img src="../../.gitbook/assets/unknown (262).png" alt="" height="410" width="311"></div>
 
@@ -129,16 +129,16 @@ In order to hide the gift icon, you can go to Customize section → Select “Gi
 
 <details>
 
-<summary><strong>Is it possible to add the gift product title and price in the gift thumbnail?</strong></summary>
+<summary><strong>Ist es möglich, den Geschenkprodukttitel und den Preis in der Geschenk-Miniaturansicht hinzuzufügen?</strong></summary>
 
-Yes it is possible and it is our plus customization. In order to add the gift product title and price in the gift thumbnail, please contact our customer support via Live chat so our technical team can work on it.
+Ja, das ist möglich und es ist unsere Plus-Anpassung. Um den Geschenkprodukttitel und den Preis in der Geschenk-Miniaturansicht hinzuzufügen, kontaktieren Sie bitte unseren Kundensupport über den Live-Chat, damit unser technisches Team daran arbeiten kann.
 
 </details>
 
 <details>
 
-<summary><strong>How can we add a gift thumbnail to the landing page?</strong></summary>
+<summary><strong>Wie können wir eine Geschenk-Miniaturansicht zur Landingpage hinzufügen?</strong></summary>
 
-The gift thumbnails are displayed based on **Product IDs**; however, since the landing page lacks this data, we cannot include the thumbnails at this time
+Die Geschenk-Miniaturansichten werden basierend auf **Produkt-IDs** angezeigt; da der Landingpage jedoch diese Daten fehlen, können wir die Miniaturansichten derzeit nicht einbinden
 
 </details>

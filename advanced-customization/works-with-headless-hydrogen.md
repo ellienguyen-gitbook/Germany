@@ -1,87 +1,87 @@
 ---
 description: >-
-  This doc guides you on how to integrate BOGOS with your headless/Hydrogen
-  store.
+  Diese Anleitung zeigt Ihnen, wie Sie BOGOS in Ihren Headless-/Hydrogen-Shop
+  integrieren.
 ---
 
-# Works with Headless/Hydrogen
+# Funktioniert mit Headless/Hydrogen
 
-### Overview
+### Überblick
 
-BOGOS offers two integration approaches for headless stores, each designed for different use cases and technical requirements. This guide breaks down both methods so you can choose the one that fits your setup:
+BOGOS bietet zwei Integrationsansätze für Headless-Shops, die jeweils für unterschiedliche Anwendungsfälle und technische Anforderungen konzipiert sind. Diese Anleitung erläutert beide Methoden, damit Sie die für Ihre Einrichtung passende auswählen können:
 
-[Option 1: API Integration (Maximum Flexibility)](works-with-headless-hydrogen.md#option-1-api-integration-maximum-flexibility)
+[Option 1: API-Integration (maximale Flexibilität)](works-with-headless-hydrogen.md#option-1-api-integration-maximum-flexibility)
 
-[Option 2: JS/SDK Integration (Faster Implementation)](works-with-headless-hydrogen.md#option-2-js-sdk-integration-faster-implementation)
+[Option 2: JS/SDK-Integration (schnellere Implementierung)](works-with-headless-hydrogen.md#option-2-js-sdk-integration-faster-implementation)
 
-### Option 1: API Integration (Maximum Flexibility)
+### Option 1: API-Integration (maximale Flexibilität)
 
-**Documentation:** [https://bogos-api-integration.gitbook.io/bogos-api-integration/integration-steps/gift-offer](https://bogos-api-integration.gitbook.io/bogos-api-integration/integration-steps/gift-offer)
+**Dokumentation:** [https://bogos-api-integration.gitbook.io/bogos-api-integration/integration-steps/gift-offer](https://bogos-api-integration.gitbook.io/bogos-api-integration/integration-steps/gift-offer)
 
-**Best for:** Developers who need complete control and are building for any platform (web, mobile app, or third-party integrations)
+**Am besten geeignet für:** Entwickler, die vollständige Kontrolle benötigen und für eine beliebige Plattform entwickeln (Web, mobile App oder Drittanbieter-Integrationen)
 
-**What offers is supported**
+**Welche Angebote werden unterstützt**
 
-The API integration supports **all BOGOS offer types**, including gift offers, bundles, upsells, discount offers, and boosters. This approach gives you direct access to BOGOS's core functionality through API endpoints.
+Die API-Integration unterstützt **alle BOGOS-Angebotstypen**, einschließlich Geschenkangebote, Bündel, Upsells, Rabattangebote und Booster. Dieser Ansatz gibt Ihnen direkten Zugriff auf die Kernfunktionen von BOGOS über API-Endpunkte.
 
-**Advantages**
+**Vorteile**
 
-* **Complete customization** - Build exactly what you need
-* **Platform agnostic** - Works with web apps, mobile apps, and third-party integrations
-* **Full control** - Implement the logic exactly how you want it
+* **Vollständige Anpassung** - Erstellen Sie genau das, was Sie brauchen
+* **Plattformunabhängig** - Funktioniert mit Web-Apps, mobilen Apps und Drittanbieter-Integrationen
+* **Volle Kontrolle** - Implementieren Sie die Logik genau so, wie Sie es möchten
 
-**Technical Requirements**
+**Technische Anforderungen**
 
-Your development team needs solid expertise in:
+Ihr Entwicklungsteam benötigt fundierte Kenntnisse in:
 
-* Shopify platform architecture
-* Storefront API implementation
-* BOGOS app features and offer mechanics
+* Shopify-Plattformarchitektur
+* Storefront-API-Implementierung
+* BOGOS-App-Funktionen und Angebotsmechanik
 
-This isn't a plug-and-play solution. You're building the integration from the ground up, which means your developers need to understand both the Shopify ecosystem and how BOGOS promotions work under the hood.
-
-***
-
-### Option 2: JS/SDK Integration (Faster Implementation)
-
-**Documentation:** [https://bogos-api-integration.gitbook.io/bogos-api-integration/bogos-js-sdk](https://bogos-api-integration.gitbook.io/bogos-api-integration/bogos-js-sdk)
-
-**Best for:** Web applications where speed of implementation matters and you want working code examples
-
-**What offers is supported**
-
-The JS/SDK supports all BOGOS offer types, giving you full coverage of BOGOS features with less implementation work.
-
-**Advantages**
-
-* **Faster development** - Pre-built SDK handles the heavy lifting
-* **Concrete examples** - Demo code gets you started quickly
-* **Less detailed knowledge required** - Still need Shopify & storefront API expertise, but don't need to know every detail of BOGOS internals
-
-**Limitations**
-
-* **Web apps only** - Not compatible with native mobile applications
+Dies ist keine Plug-and-Play-Lösung. Sie bauen die Integration von Grund auf, was bedeutet, dass Ihre Entwickler sowohl das Shopify-Ökosystem als auch die Funktionsweise von BOGOS-Aktionen im Detail verstehen müssen.
 
 ***
 
-### Getting Started
+### Option 2: JS/SDK-Integration (schnellere Implementierung)
 
-**Step 1:** Review your technical requirements
+**Dokumentation:** [https://bogos-api-integration.gitbook.io/bogos-api-integration/bogos-js-sdk](https://bogos-api-integration.gitbook.io/bogos-api-integration/bogos-js-sdk)
 
-* What platforms do you need to support?
-* What types of offers will you run during BFCM?
-* What's your development timeline?
+**Am besten geeignet für:** Webanwendungen, bei denen die Implementierungsgeschwindigkeit wichtig ist und Sie funktionierende Codebeispiele wünschen
 
-**Step 2:** Assess your team's expertise
+**Welche Angebote werden unterstützt**
 
-* How familiar are they with Shopify's architecture?
-* Do they have bandwidth to build from scratch (API) or need faster implementation (SDK)?
+Das JS/SDK unterstützt alle BOGOS-Angebotstypen und bietet Ihnen mit weniger Implementierungsaufwand volle Abdeckung der BOGOS-Funktionen.
 
-**Step 3:** Choose your Integration Method
+**Vorteile**
 
-* **API approach:** Start with the API integration guide for your chosen offer type.
-* **SDK approach:** Review the JS/SDK documentation and demo code.
+* **Schnellere Entwicklung** - Ein vorgefertigtes SDK übernimmt die Hauptarbeit
+* **Konkrete Beispiele** - Demo-Code hilft Ihnen bei einem schnellen Einstieg
+* **Weniger detailliertes Fachwissen erforderlich** - Sie benötigen weiterhin Shopify- und Storefront-API-Kenntnisse, müssen aber nicht jedes Detail der BOGOS-Internas kennen
 
-**Step 4:** Check the Docs and ask BOGOS Support Team for your **bogos api-key**
+**Einschränkungen**
 
-**Step 5:** Build using the instructions from your chosen method.
+* **Nur Web-Apps** - Nicht kompatibel mit nativen mobilen Anwendungen
+
+***
+
+### Erste Schritte
+
+**Schritt 1:** Überprüfen Sie Ihre technischen Anforderungen
+
+* Welche Plattformen müssen Sie unterstützen?
+* Welche Arten von Angeboten werden Sie während des BFCM ausführen?
+* Wie sieht Ihr Entwicklungszeitplan aus?
+
+**Schritt 2:** Bewerten Sie das Fachwissen Ihres Teams
+
+* Wie vertraut sind sie mit der Architektur von Shopify?
+* Haben sie die Kapazität, von Grund auf zu entwickeln (API), oder benötigen sie eine schnellere Implementierung (SDK)?
+
+**Schritt 3:** Wählen Sie Ihre Integrationsmethode
+
+* **API-Ansatz:** Beginnen Sie mit der Anleitung zur API-Integration für Ihren gewählten Angebotstyp.
+* **SDK-Ansatz:** Sehen Sie sich die JS/SDK-Dokumentation und den Demo-Code an.
+
+**Schritt 4:** Prüfen Sie die Dokumentation und bitten Sie das BOGOS-Support-Team um Ihren **BOGOS-API-Schlüssel**
+
+**Schritt 5:** Entwickeln Sie anhand der Anweisungen Ihrer gewählten Methode.

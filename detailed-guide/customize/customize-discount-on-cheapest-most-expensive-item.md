@@ -1,87 +1,87 @@
-# Customize Discount on Cheapest/Most expensive item
+# Rabatt auf günstigstes/teuerstes Produkt anpassen
 
-After setting up your discount offer, you can fully customize its widget display by following these simple steps:
+Nachdem Sie Ihr Rabattangebot eingerichtet haben, können Sie die Anzeige des Widgets vollständig anpassen, indem Sie diesen einfachen Schritten folgen:
 
-* Step 1: Navigate to **Customize** from the **BOGOS Sidebar**.
-* Setp 2: Find **Discount and select Discount on Cheapest/Most expensive item** from the **Discount** customize.&#x20;
+* Schritt 1: Navigieren Sie zu **Anpassen** in der **BOGOS-Seitenleiste**.
+* Schritt 2: Suchen Sie **Rabatt** und wählen Sie **Rabatt auf günstigstes/teuerstes Produkt** aus der Rabatt-Anpassung aus.&#x20;
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfzBFHbwxPpuCCz9mCSdyMj6BI-RDXmvIPNtZjApJKiaDK8gI5Fxuj5Mfzqmt4Ax3aVgqGrbIcj0qyRb21DbiGl-Nkbcm-uXBZn4Jfj3ljGbchML8HhqJTtnW_0XxXCcmWfst5Wog?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-This offer type includes two main widgets:
+Dieser Angebotstyp umfasst zwei Hauptwidgets:
 
-* **Discount widget**
-* **See All Products modal**
+* **Rabatt-Widget**
+* **„Alle Produkte anzeigen“-Modal**
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcp6_sWyqGyQrJoGRX3JkACxEqtgqgJ_qrrCakw-VGwRMVgz4lR8UPXvEd7ZeRpyrasyXy6UMDcHnymFBTx5eT6KqbQISXVJFrn3S8qCI3x6PxDKwfAKvFdNKwsHylUEwy2M0-N?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-Let’s walk through how to customize each one by clicking on each tab.
+Lassen Sie uns durchgehen, wie Sie jedes einzelne anpassen, indem Sie auf die jeweiligen Tabs klicken.
 
-## 1. Discount widget
+## 1. Rabatt-Widget
 
-### **General**
+### **Allgemein**
 
-This section include key elements:
+Dieser Abschnitt umfasst wichtige Elemente:
 
-* **Number of products displayed:** Set how many selected products appear in the widget.
-* **Product list label:** Add a short call-to-action message encouraging customers to choose a product.
-* **Offer tier style:** There are two options to inform customers about the qualified requirements for each tier:
+* **Anzahl der angezeigten Produkte:** Legen Sie fest, wie viele ausgewählte Produkte im Widget erscheinen.
+* **Produktlisten-Label:** Fügen Sie eine kurze Handlungsaufforderung hinzu, die Kunden ermutigt, ein Produkt auszuwählen.
+* **Angebotsstufen-Stil:** Es gibt zwei Optionen, um Kunden über die erforderlichen Bedingungen für jede Stufe zu informieren:
 
-▶ **Checklist display:** All tiers' announcements show up in turns as checkboxes. Whenever a customer meets the requirement of a tier, its announcement will be crossed out.
+▶ **Checklisten-Anzeige:** Alle Ankündigungen der Stufen werden abwechselnd als Kontrollkästchen angezeigt. Sobald ein Kunde die Bedingung einer Stufe erfüllt, wird deren Ankündigung durchgestrichen.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeDLpxOV9oxNGcDWdoiCp7_a0eEOKeL7rg8Jyd-mH7MJn4P2ZTOFBkWHt_RrL0dMI6HzjkPxTEmZnw3di9Yr6vxO0t7cB6L80yMLWA_syqOLp6lik-ep5DZquE5-MulEUNDgYoIrQ?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-▶ **Bullet list display:** All tiers' announcements show up as a simple list.
+▶ **Aufzählungslisten-Anzeige:** Alle Ankündigungen der Stufen werden als einfache Liste angezeigt.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdA4_VFomna9RB7c1H-B7Ope1ex09Du7qsssEe2uowb0MJRnFfC5dIX18hW6eI9cHEcTLBn3E_wmKmYEtEc7FZEEVPCSQQsYs3mpOm713vBQzN8u2NkT_XsEWHSd5n9mDmpWvO?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-* **Show Add button on each item:** Enable this option to display a button that customers can click and add a product to their cart. You can also customize the button text as needed.&#x20;
-* **Show button to see all products:** Enable this option to display a button that links to the full product list. You can also customize the button text as needed.
+* **Hinzufügen-Button bei jedem Artikel anzeigen:** Aktivieren Sie diese Option, um einen Button anzuzeigen, den Kunden anklicken können, um ein Produkt zum Warenkorb hinzuzufügen. Sie können auch den Button-Text nach Bedarf anpassen.&#x20;
+* **Button „Alle Produkte anzeigen“ anzeigen:** Aktivieren Sie diese Option, um einen Button anzuzeigen, der zur vollständigen Produktliste führt. Sie können auch den Button-Text nach Bedarf anpassen.
 
-### **Color**
+### **Farbe**
 
-BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
+BOGOS ermöglicht es Ihnen, die Farben aller Elemente mit einer der folgenden 4 Methoden anzupassen:
 
-* Choose a **ready-made color set** from the dropdown.
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-discount-on-cheapest-most-expensive-item.md#ai-theme-detector) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* Wählen Sie ein **vorgefertigtes Farbset** aus dem Dropdown-Menü.
+* **Passen Sie jedes Farbfeld manuell an** für alle verfügbaren Farben.
+* Verwenden Sie den [KI-Theme-Detektor](customize-discount-on-cheapest-most-expensive-item.md#ai-theme-detector), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Shops zu generieren.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+Die BOGOS-KI scannt Ihren Onlineshop und erkennt die primären, sekundären und Textfarben Ihrer Marke und generiert dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Shop darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit der BOGOS-KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stift-Symbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, um die BOGOS-KI die Farben neu erkennen zu lassen, oder passen Sie die **Primärfarbe**, **Sekundärfarbe** oder die Textfelder **manuell** an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden**, damit die Vorschau die Farben auf die Widget-Vorschau anwendet.
 
-## 2. See all product modal
+## 2. „Alle Produkte anzeigen“-Modal
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJcajdJECv845ZfwwNVgRJC_SxpHJP2jfXE3jKIN_Mt_b5agCpWlI4aBsaZnWM_DKtS3u1x8-H6ZXrTjnSiMGjP0JvpwyCJMT_nRjkuLrKwSNZ934Jd0zxxW11tO-6Ol908VBADg?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-As you can see, it lets you configure how many products are displayed per load on desktop and mobile, including: **Products per row** and **Number of rows**. Then, BOGOS will automatically count the **Products per load**.
+Wie Sie sehen können, können Sie hier konfigurieren, wie viele Produkte pro Ladevorgang auf Desktop und Mobilgerät angezeigt werden, einschließlich: **Produkte pro Reihe** und **Anzahl der Reihen**. Anschließend zählt BOGOS automatisch die **Produkte pro Ladevorgang**.
 
-## **3. Widget preview**&#x20;
+## **3. Widget-Vorschau**&#x20;
 
-This section allows you to preview the widget on both desktop and mobile, including two display options:
+Dieser Abschnitt ermöglicht es Ihnen, das Widget sowohl auf Desktop als auch auf Mobilgeräten in der Vorschau anzuzeigen, einschließlich zweier Anzeigeoptionen:
 
-* **Compact:** Shows the offer in a smaller, space-saving layout that fits neatly alongside product details.
+* **Kompakt:** Zeigt das Angebot in einem kleineren, platzsparenden Layout, das sich neben den Produktdetails einfügt.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjLjF3Mh0VH6Vg13ysOAEzyT1vLA364Oqdcu_uhp1CNa2WgFfJUkKhQfsPkEGLzDRDv1Qut9pk5njJdkdfVcc_kdtizwFU4gLWyD1tUXQyEFRptTkAT9gnLu-A3YIYIlb3ysmWnQ?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
-* **Fullwidth:** Expands the offer to span the full width for maximum visibility.
+* **Volle Breite:** Erweitert das Angebot auf die volle Breite für maximale Sichtbarkeit.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeGShsZbMOdMtBU58fHugP0TkaQ-ys7msKIduM-CTULHbbZEYBUSevcQ75NNlLuHgAYfyNQDuR8EjD_Uy_La6f14iScTRbCSnOdvGmiwnlTU13sou3f8CfsYjgjEpGhwAZUmaADNw?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>

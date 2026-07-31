@@ -1,14 +1,14 @@
 ---
 description: >-
-  An overview of Analytics feature on BOGOS. BOGOS automatically tracks orders
-  with gifts & bundles created by BOGOS to measure the performance of your
-  campaign.
+  Ein Überblick über die Analytik-Funktion von BOGOS. BOGOS verfolgt automatisch
+  Bestellungen mit Geschenken & Bündeln, die von BOGOS erstellt wurden, um die
+  Leistung Ihrer Kampagne zu messen.
 ---
 
-# Analytics
+# Analytik
 
-In this section:
+In diesem Abschnitt:
 
-* [offer-analytics.md](offer-analytics.md "mention")(for gift offers)
+* [offer-analytics.md](offer-analytics.md "mention")(für Geschenkangebote)
 * [bundle-analytics.md](bundle-analytics.md "mention")
-* [Upsell Analytics](upsell-analytics.md)
+* [Upsell-Analytik](upsell-analytics.md)

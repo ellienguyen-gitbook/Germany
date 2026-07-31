@@ -1,231 +1,231 @@
-# Customize Bundle Product Page
+# Bundle-Produktseite anpassen
 
-This guide explains how to customize the appearance and content of your Bundle Product Page in the BOGOS app.
+Diese Anleitung erklärt, wie Sie das Erscheinungsbild und den Inhalt Ihrer Bundle-Produktseite in der BOGOS-App anpassen können.
 
-**To customize, there are 4 steps:**
+**Zum Anpassen gibt es 4 Schritte:**
 
-1. Set up the [preview and layout options](customize-bundle-product-page.md#preview-and-layout-options).
-2. Choose what you want to customize: [By Offer Customize](customize-bundle-product-page.md#by-offer-customize), [Global Customize](customize-bundle-product-page.md#global-customize), or [Widget on Child Product Page](customize-bundle-product-page.md#widget-on-child-product-page).
-3. Adjust all available settings for the selected area.
-4. Preview your changes, then click Save.
+1. Richten Sie die [Vorschau- und Layout-Optionen](customize-bundle-product-page.md#preview-and-layout-options) ein.
+2. Wählen Sie aus, was Sie anpassen möchten: [By Offer Customize](customize-bundle-product-page.md#by-offer-customize), [Global Customize](customize-bundle-product-page.md#global-customize) oder [Widget on Child Product Page](customize-bundle-product-page.md#widget-on-child-product-page).
+3. Passen Sie alle verfügbaren Einstellungen für den ausgewählten Bereich an.
+4. Sehen Sie sich Ihre Änderungen in der Vorschau an und klicken Sie dann auf Speichern.
 
-## Preview & Layout Options
+## Vorschau & Layout-Optionen
 
-Before customizing anything, please choose the preview settings that best match your store setup. This helps you adjust the display more accurately.
+Bevor Sie etwas anpassen, wählen Sie bitte die Vorschau-Einstellungen, die am besten zu Ihrem Store-Setup passen. Das hilft Ihnen, die Anzeige genauer anzupassen.
 
 ![](<../../.gitbook/assets/unknown (307).png>)
 
-* **Preview option**: Switch between Desktop and Mobile to check how the page looks on each device.
-* **Layout**: Choose which layout you are customizing.
+* **Vorschau-Option**: Wechseln Sie zwischen Desktop und Mobile, um zu prüfen, wie die Seite auf jedem Gerät aussieht.
+* **Layout**: Wählen Sie aus, welches Layout Sie anpassen.
 
-1. The product image appears next to the bundle content (default layout).
-2. The bundle product page is added as a standalone section in your theme (for more details, visit \[[Adjust BOGOS Blocks](../../quick-start-guide/adjust-bogos-blocks.md)]).
+1. Das Produktbild erscheint neben dem Bundle-Inhalt (Standard-Layout).
+2. Die Bundle-Produktseite wird als eigenständiger Abschnitt in Ihrem Theme hinzugefügt (weitere Details finden Sie unter \[[BOGOS-Blöcke anpassen](../../quick-start-guide/adjust-bogos-blocks.md)]).
 
-* **Column ratio**: Choose the width ratio between the product image and the bundle content area to better fit your store layout.
+* **Spaltenverhältnis**: Wählen Sie das Breitenverhältnis zwischen dem Produktbild und dem Bundle-Inhaltsbereich, um es besser an Ihr Store-Layout anzupassen.
 
 ## By Offer Customize
 
-By Offer Customize lets you adjust the design for one specific bundle product page only. Any changes made here **WILL NOT affect any other bundle product pages**.
+Mit By Offer Customize passen Sie das Design nur für eine bestimmte Bundle-Produktseite an. Änderungen, die hier vorgenommen werden, **wirken sich auf KEINE anderen Bundle-Produktseiten aus**.
 
 ![](<../../.gitbook/assets/unknown (308).png>)
 
-**To access this setting:**
+**So greifen Sie auf diese Einstellung zu:**
 
-1. Open BOGOS app > All offers > Open the setup of the bundle product page you want.
-2. Click any **Customize** button > Make sure **By offer customize** is selected.
+1. Öffnen Sie die BOGOS-App > Alle Angebote > Öffnen Sie das Setup der gewünschten Bundle-Produktseite.
+2. Klicken Sie auf eine beliebige **Anpassen**-Schaltfläche > Stellen Sie sicher, dass **By offer customize** ausgewählt ist.
 
-### a) Customize the Pack (Pack Select Field)
+### a) Das Paket anpassen (Pack Select Field)
 
-Fill in or adjust the following:
+Füllen Sie Folgendes aus oder passen Sie es an:
 
 ![](<../../.gitbook/assets/unknown (309).png>)
 
-* **Pack select label**: The text shown above the pack size section to tell customers more details.
-* **Label style**: Choose which part of the pack label is highlighted:
-* **Highlight quantity**: Bold the number of items required for the pack.
-* **Highlight discount**: Bold the discount value.
-* **Text alignment**: Align the pack text to the Left, Center, or Right.
-* **Image orientation**: Choose whether the pack image is Vertical or Horizontal to the text.
-* **Number of packs per row**: Set how many packs appear in each row:
-* **Full-width**: Applies when the bundle product page is added as a standalone block/section in your theme (for more details, visit \[Adjust BOGOS Blocks]).
-* **Compact**: Applies when the bundle content is displayed beside the product image (default layout).
-* **Mobile**: Applies to the mobile display.
+* **Paketauswahl-Beschriftung**: Der Text, der über dem Paketgrößen-Bereich angezeigt wird, um Kunden weitere Details mitzuteilen.
+* **Beschriftungsstil**: Wählen Sie aus, welcher Teil der Paket-Beschriftung hervorgehoben wird:
+* **Menge hervorheben**: Die Anzahl der für das Paket benötigten Artikel wird fett dargestellt.
+* **Rabatt hervorheben**: Der Rabattwert wird fett dargestellt.
+* **Textausrichtung**: Richten Sie den Pakettext links, zentriert oder rechts aus.
+* **Bildausrichtung**: Wählen Sie, ob das Paketbild vertikal oder horizontal zum Text angezeigt wird.
+* **Anzahl der Pakete pro Zeile**: Legen Sie fest, wie viele Pakete pro Zeile angezeigt werden:
+* **Volle Breite**: Gilt, wenn die Bundle-Produktseite als eigenständiger Block/Abschnitt in Ihrem Theme hinzugefügt wird (weitere Details finden Sie unter \[BOGOS-Blöcke anpassen]).
+* **Kompakt**: Gilt, wenn der Bundle-Inhalt neben dem Produktbild angezeigt wird (Standard-Layout).
+* **Mobil**: Gilt für die mobile Anzeige.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-### b)  Customize the Section
+### b) Den Abschnitt anpassen
 
-The Section has two customization areas, and each controls different settings: 1. Product select field or 2. By step.
+Der Abschnitt hat zwei Anpassungsbereiche, die jeweils unterschiedliche Einstellungen steuern: 1. Produktauswahlfeld oder 2. Nach Schritt.
 
-#### _**b.1. Product Select Field**_
+#### _**b.1. Produktauswahlfeld**_
 
-Here, customers can customize the overall product selection area.
+Hier können Kunden den gesamten Produktauswahlbereich anpassen.
 
-Select **Product select fields**, then fill in or adjust the following:
+Wählen Sie **Produktauswahlfelder** aus und füllen Sie Folgendes aus oder passen Sie es an:
 
 ![](<../../.gitbook/assets/unknown (310).png>)
 
-* **Layout**: Choose how steps are displayed between:
-* **Accordion**: Shows steps vertically as expandable sections. Customers can open multiple steps at a time to view and select products.
-* **Tabs**: Shows steps horizontally as tabs. Customers switch between tabs to view and select products.
-* **Step quantity indicator**: Choose how the number of selected items appears on each step header.&#x20;
+* **Layout**: Wählen Sie, wie Schritte angezeigt werden:
+* **Akkordeon**: Zeigt Schritte vertikal als aufklappbare Abschnitte an. Kunden können mehrere Schritte gleichzeitig öffnen, um Produkte anzuzeigen und auszuwählen.
+* **Tabs**: Zeigt Schritte horizontal als Tabs an. Kunden wechseln zwischen Tabs, um Produkte anzuzeigen und auszuwählen.
+* **Schrittmengen-Anzeige**: Wählen Sie aus, wie die Anzahl der ausgewählten Artikel in der Kopfzeile jedes Schritts angezeigt wird.&#x20;
 
 {% hint style="info" %}
-Add items in the preview to check how it looks.&#x20;
+Fügen Sie Artikel in der Vorschau hinzu, um zu prüfen, wie es aussieht.&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/unknown (311).png>)
 
-* **Add item button**: Customize the button customers use to add products to the bundle.&#x20;
-* **Button style**: Choose among Icon & text, Text only, or Icon only.
-* **Button label**: Enter the text shown on the add item button.
-* **Select icon**: Choose an icon to display on the button.
+* **Artikel-hinzufügen-Schaltfläche**: Passen Sie die Schaltfläche an, mit der Kunden Produkte zum Bundle hinzufügen.&#x20;
+* **Schaltflächenstil**: Wählen Sie zwischen Symbol & Text, Nur Text oder Nur Symbol.
+* **Schaltflächenbeschriftung**: Geben Sie den Text ein, der auf der Artikel-hinzufügen-Schaltfläche angezeigt wird.
+* **Symbol auswählen**: Wählen Sie ein Symbol aus, das auf der Schaltfläche angezeigt werden soll.
 
-#### _**b.2. By Step**_
+#### _**b.2. Nach Schritt**_
 
-Here, customers can customize the display of each step separately.&#x20;
+Hier können Kunden die Anzeige jedes Schritts separat anpassen.&#x20;
 
-Click **a step name** (for example, Choose Your Shoe), then fill in or adjust the following:
+Klicken Sie auf **einen Schrittnamen** (zum Beispiel „Wählen Sie Ihren Schuh“) und füllen Sie Folgendes aus oder passen Sie es an:
 
 <img src="../../.gitbook/assets/unknown (312).png" alt="" height="311" width="624">
 
-* **Product card layout**: Choose how each product card is displayed among:
-* **Horizontal**: Best for when customers need to scan options quickly.
-* **Vertical**: Best for visual products where images help customers choose.
-* **Name only**: Best when product images are not important, or when you want a simple, text-focused selection list.
-* **Product card style**:
-  * Minimal card: Shows products with no background.
-  * Card with background: Shows products inside a card with a background for stronger visual separation.&#x20;
-* **Number of products per row**: Set how many products appear per row for:
-* **Full-width**: Applies when the bundle product page is added as a standalone block/section in your theme (for more details, visit \[Adjust BOGOS Blocks]).
-* **Compact**: Applies when the bundle content is displayed beside the product image (default layout).
-* **Mobile**: Applies to the mobile display.
+* **Produktkarten-Layout**: Wählen Sie aus, wie jede Produktkarte angezeigt wird:
+* **Horizontal**: Am besten geeignet, wenn Kunden Optionen schnell überblicken müssen.
+* **Vertikal**: Am besten geeignet für visuelle Produkte, bei denen Bilder Kunden bei der Auswahl helfen.
+* **Nur Name**: Am besten geeignet, wenn Produktbilder nicht wichtig sind, oder wenn Sie eine einfache, textfokussierte Auswahlliste möchten.
+* **Produktkarten-Stil**:
+  * Minimalistische Karte: Zeigt Produkte ohne Hintergrund an.
+  * Karte mit Hintergrund: Zeigt Produkte innerhalb einer Karte mit Hintergrund für eine stärkere visuelle Abgrenzung an.&#x20;
+* **Anzahl der Produkte pro Zeile**: Legen Sie fest, wie viele Produkte pro Zeile angezeigt werden für:
+* **Volle Breite**: Gilt, wenn die Bundle-Produktseite als eigenständiger Block/Abschnitt in Ihrem Theme hinzugefügt wird (weitere Details finden Sie unter \[BOGOS-Blöcke anpassen]).
+* **Kompakt**: Gilt, wenn der Bundle-Inhalt neben dem Produktbild angezeigt wird (Standard-Layout).
+* **Mobil**: Gilt für die mobile Anzeige.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
 ## Global Customize
 
-Global Customize lets you adjust the overall display for ALL bundle product pages on your store.
+Mit Global Customize passen Sie die Gesamtanzeige für ALLE Bundle-Produktseiten in Ihrem Store an.
 
 ![](<../../.gitbook/assets/unknown (317).png>)
 
-### Access this setting
+### Zugriff auf diese Einstellung
 
-You can use either way:&#x20;
+Sie können einen der beiden folgenden Wege nutzen:&#x20;
 
-* Navigate to **All Offers** > Open the setup of any Bundle Product Page > Go to the Display the bundle panel on the right > Open Customize the page dropdown > click Global customize.
-* Navigate to **Customize** > Bundles > Bundle product page > select the Global customize tab.
+* Navigieren Sie zu **Alle Angebote** > Öffnen Sie das Setup einer beliebigen Bundle-Produktseite > Gehen Sie zum Panel „Das Bundle anzeigen“ auf der rechten Seite > Öffnen Sie das Dropdown „Die Seite anpassen“ > klicken Sie auf Global customize.
+* Navigieren Sie zu **Anpassen** > Bundles > Bundle-Produktseite > wählen Sie den Tab Global customize.
 
-### Content
+### Inhalt
 
-**Total price text**: Enter the label shown on the total price line of the bundle page.
+**Gesamtpreis-Text**: Geben Sie die Beschriftung ein, die in der Gesamtpreiszeile der Bundle-Seite angezeigt wird.
 
-**Add bundle button**:
+**Bundle-hinzufügen-Schaltfläche**:
 
-* Button label: Enter the text shown on the add-to-cart button.
-* Show countdown on button: Enable to display a live countdown message on the button as customers add items (e.g: Added 2 items, 1 to go)
+* Schaltflächenbeschriftung: Geben Sie den Text ein, der auf der Schaltfläche „In den Warenkorb legen“ angezeigt wird.
+* Countdown auf Schaltfläche anzeigen: Aktivieren Sie diese Option, um eine Live-Countdown-Nachricht auf der Schaltfläche anzuzeigen, während Kunden Artikel hinzufügen (z. B.: 2 Artikel hinzugefügt, noch 1 fehlt)
 
 {% hint style="info" %}
-Use \{{amount\_added\}} to show the number of items customers have added.
+Verwenden Sie \{{amount\_added\}}, um die Anzahl der von Kunden hinzugefügten Artikel anzuzeigen.
 
-Use \{{amount\_left\}} to show the number of items still needed to unlock the matching pack discount.
+Verwenden Sie \{{amount\_left\}}, um die Anzahl der noch benötigten Artikel anzuzeigen, um den passenden Paketrabatt freizuschalten.
 {% endhint %}
 
-**Product quick view modal**: When customers click a product title, a quick view popup opens with product details.
+**Produkt-Schnellansicht-Modal**: Wenn Kunden auf einen Produkttitel klicken, öffnet sich ein Schnellansicht-Popup mit Produktdetails.
 
-* Go to product text: Enter the label for the link that directs customers to the full product page.
+* Zum-Produkt-Text: Geben Sie die Beschriftung für den Link ein, der Kunden zur vollständigen Produktseite führt.
 
 <img src="../../.gitbook/assets/unknown (314).png" alt="" height="340" width="624">
 
-### Color
+### Farbe
 
-BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
+BOGOS ermöglicht es Ihnen, die Farben aller Elemente mit einer der 4 folgenden Methoden anzupassen:
 
-* Choose a **ready-made color set** from the dropdown.
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-bundle-product-page.md#ai-theme-detector) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* Wählen Sie ein **vorgefertigtes Farbschema** aus dem Dropdown.
+* **Passen Sie manuell** jedes Farbfeld für alle verfügbaren Farben an.
+* Verwenden Sie den [KI-Theme-Detektor](customize-bundle-product-page.md#ai-theme-detector), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Stores zu erstellen.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+Die BOGOS-KI scannt Ihren Onlineshop und erkennt die primäre, sekundäre und Textfarbe Ihrer Marke und erstellt dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Store darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit der BOGOS-KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stift-Symbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit die BOGOS-KI erneut erkennt, oder **passen Sie manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden für Vorschau**, um die Farben auf die Widget-Vorschau anzuwenden.
 
-## Widget on Child Product Page
+## Widget auf der Produktseite des Kindprodukts
 
-The widget appears on the product pages of items included in a bundle. It lets customers know the item is part of a bundle deal and quickly redirects customers to the bundle product page.
+Das Widget erscheint auf den Produktseiten von Artikeln, die in einem Bundle enthalten sind. Es informiert Kunden darüber, dass der Artikel Teil eines Bundle-Angebots ist, und leitet Kunden schnell zur Bundle-Produktseite weiter.
 
 <img src="../../.gitbook/assets/unknown (315).png" alt="" height="288" width="624">
 
-### Access this setting
+### Zugriff auf diese Einstellung
 
-You can use either way:
+Sie können einen der beiden folgenden Wege nutzen:
 
-* Navigate to **All Offers** > Open the setup of any Bundle Product Page > Go to the Display the bundle panel on the right > Open Widget on child product page dropdown > Enable Add widget on child product’s page > Click Widget customize.
-* Navigate to **Customize** > Bundles > Bundle product page > Select the Widget on child product page tab.
+* Navigieren Sie zu **Alle Angebote** > Öffnen Sie das Setup einer beliebigen Bundle-Produktseite > Gehen Sie zum Panel „Das Bundle anzeigen“ auf der rechten Seite > Öffnen Sie das Dropdown „Widget on child product page“ > Aktivieren Sie „Add widget on child product's page“ > Klicken Sie auf Widget customize.
+* Navigieren Sie zu **Anpassen** > Bundles > Bundle-Produktseite > Wählen Sie den Tab Widget on child product page.
 
-### General
+### Allgemein
 
-* **Widget style**: Select from 3 available layout options.
-* **Products per row**: Set how many products appear per row on Desktop and Mobile.
+* **Widget-Stil**: Wählen Sie aus 3 verfügbaren Layout-Optionen.
+* **Produkte pro Zeile**: Legen Sie fest, wie viele Produkte pro Zeile auf Desktop und Mobile angezeigt werden.
 
-### Content
+### Inhalt
 
 ![](<../../.gitbook/assets/unknown (316).png>)
 
-* **Show discount label**: Showcase all the pack sizes alongside the discounts within the widget.
-* **Show product & variant name**: Show the product names and selected variant names included in the bundle.
-* **Label**: Set the heading shown above the widget. Use \{{number\}} to show how many bundle product pages include this product.
-* **Redirect button label**: Set the text for the link that takes customers to the bundle product page.
+* **Rabatt-Beschriftung anzeigen**: Zeigen Sie alle Paketgrößen zusammen mit den Rabatten im Widget an.
+* **Produkt- und Variantenname anzeigen**: Zeigen Sie die Produktnamen und ausgewählten Variantennamen an, die im Bundle enthalten sind.
+* **Beschriftung**: Legen Sie die Überschrift fest, die über dem Widget angezeigt wird. Verwenden Sie \{{number\}}, um anzuzeigen, wie viele Bundle-Produktseiten dieses Produkt enthalten.
+* **Weiterleitungsschaltfläche-Beschriftung**: Legen Sie den Text für den Link fest, der Kunden zur Bundle-Produktseite führt.
 
-### Color
+### Farbe
 
-BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
+BOGOS ermöglicht es Ihnen, die Farben aller Elemente mit einer der 4 folgenden Methoden anzupassen:
 
-* Choose a **ready-made color set** from the dropdown.
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-bundle-product-page.md#ai-theme-detector-1) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* Wählen Sie ein **vorgefertigtes Farbschema** aus dem Dropdown.
+* **Passen Sie manuell** jedes Farbfeld für alle verfügbaren Farben an.
+* Verwenden Sie den [KI-Theme-Detektor](customize-bundle-product-page.md#ai-theme-detector-1), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Stores zu erstellen.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+Die BOGOS-KI scannt Ihren Onlineshop und erkennt die primäre, sekundäre und Textfarbe Ihrer Marke und erstellt dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Store darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit der BOGOS-KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stift-Symbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit die BOGOS-KI erneut erkennt, oder **passen Sie manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden für Vorschau**, um die Farben auf die Widget-Vorschau anzuwenden.
 
-## Need Help?
+## Brauchen Sie Hilfe?
 
-If you need any assistance, feel free to reach out to our customer support team via live chat within the BOGOS app.<br>
+Wenn Sie Unterstützung benötigen, wenden Sie sich gerne über den Live-Chat innerhalb der BOGOS-App an unser Kundensupport-Team.<br>

@@ -4,50 +4,50 @@ description: >-
   page.
 ---
 
-# Customize Checkout Upsell
+# Checkout-Upsell anpassen
 
 <figure><img src="../../.gitbook/assets/unknown (45).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Remember to add the "**BOGOS Checkout Upsell**" block in your theme editor so the upsell widget can appear at checkout. [Here’s how](https://bogos-guideline.gitbook.io/user-guide/user-guide/upsell/create-checkout-upsell#id-7.-enable-the-checkout-upsell-widget).
+Denken Sie daran, den Block „**BOGOS Checkout Upsell**“ in Ihrem Theme-Editor hinzuzufügen, damit das Upsell-Widget beim Checkout erscheinen kann. [So geht's](https://bogos-guideline.gitbook.io/user-guide/user-guide/upsell/create-checkout-upsell#id-7.-enable-the-checkout-upsell-widget).
 {% endhint %}
 
-## 1. General
+## 1. Allgemein
 
 <figure><img src="../../.gitbook/assets/unknown (46).png" alt=""><figcaption></figcaption></figure>
 
-1. **Widget layouts:** There are 2 widget layouts to choose from for displaying upsell products:
+1. **Widget-Layouts:** Es gibt 2 Widget-Layouts zur Auswahl für die Anzeige von Upsell-Produkten:
 
-* **Carousel**: Displays upsell products in a scrollable horizontal format.
-* **Stack**: Displays upsell products in a vertical list.
+* **Karussell**: Zeigt Upsell-Produkte in einem scrollbaren horizontalen Format an.
+* **Stapel**: Zeigt Upsell-Produkte in einer vertikalen Liste an.
 
-2. **Images alignment:** Control how the product image is positioned inside the widget (top, center, bottom).
-3. **Border radius:** Control how rounded the corners of your widget appear.
-4. **Widget position:**
+2. **Bildausrichtung:** Steuern Sie, wie das Produktbild innerhalb des Widgets positioniert wird (oben, mittig, unten).
+3. **Rahmenradius:** Steuern Sie, wie abgerundet die Ecken Ihres Widgets erscheinen.
+4. **Widget-Position:**
 
-To reposition the widget on your checkout page, go to your theme editor and make edits the block "BOGOS Checkout Upsell".
+Um das Widget auf Ihrer Checkout-Seite neu zu positionieren, gehen Sie zu Ihrem Theme-Editor und bearbeiten Sie den Block „BOGOS Checkout Upsell“.
 
-_For more details, read our \[_[_Adjust BOGOS Block_](../../quick-start-guide/adjust-bogos-blocks.md)_]._
+_Weitere Details finden Sie in unserem \[_[_BOGOS-Block anpassen_](../../quick-start-guide/adjust-bogos-blocks.md)_]._
 
-## 2. Widget info
+## 2. Widget-Info
 
-* **Activate upsell message:** Turn this on to display a message at the top of your upsell widget.
-* **Activate compare-at-price:** Turn this on to display the original price of the upsell product before the discount is applied.
-* **Upsell message:** Customize the message displayed at the top of the upsell widget.
-* **Button text:** Choose the text for the button that customers will click to add the upsell product to their checkout summary.
+* **Upsell-Nachricht aktivieren:** Aktivieren Sie dies, um eine Nachricht oben in Ihrem Upsell-Widget anzuzeigen.
+* **Vergleichspreis aktivieren:** Aktivieren Sie dies, um den ursprünglichen Preis des Upsell-Produkts vor Anwendung des Rabatts anzuzeigen.
+* **Upsell-Nachricht:** Passen Sie die Nachricht an, die oben im Upsell-Widget angezeigt wird.
+* **Button-Text:** Wählen Sie den Text für den Button, den Kunden anklicken, um das Upsell-Produkt zu ihrer Checkout-Zusammenfassung hinzuzufügen.
 
-## 3. Color
+## 3. Farbe
 
-The color options are kept simple to match Shopify's checkout style. You can customize these 3 colors:
+Die Farboptionen sind einfach gehalten, um dem Checkout-Stil von Shopify zu entsprechen. Sie können diese 3 Farben anpassen:
 
-* **Button Style:** The button to add the upsell product to the checkout summary.
-* **Background Color:** The background color of the upsell widget.
-* **Price Color:** The discounted price that the customer will pay.
+* **Button-Stil:** Der Button zum Hinzufügen des Upsell-Produkts zur Checkout-Zusammenfassung.
+* **Hintergrundfarbe:** Die Hintergrundfarbe des Upsell-Widgets.
+* **Preisfarbe:** Der rabattierte Preis, den der Kunde zahlen wird.
 
-If you select "**Accent Color**" for the price, BOGOS will sync the price color with the accent color set in your checkout theme.&#x20;
+Wenn Sie „**Akzentfarbe**“ für den Preis auswählen, synchronisiert BOGOS die Preisfarbe mit der in Ihrem Checkout-Theme festgelegten Akzentfarbe.&#x20;
 
-To change it, click at the blue sentence “**Setting your store accent color here**” to be redirected to your theme editor and then adjust the accent color you want.
+Um dies zu ändern, klicken Sie auf den blauen Satz „**Legen Sie hier die Akzentfarbe Ihres Shops fest**“, um zu Ihrem Theme-Editor weitergeleitet zu werden, und passen Sie dann die gewünschte Akzentfarbe an.
 
 {% hint style="warning" %}
-Changing the accent color will also update other elements that use it at your checkout.
+Das Ändern der Akzentfarbe aktualisiert auch andere Elemente, die diese in Ihrem Checkout verwenden.
 {% endhint %}

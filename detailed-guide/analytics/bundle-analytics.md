@@ -1,10 +1,10 @@
 ---
 description: >-
-  Here you can track the overall and individual performance of all your bundle
-  offers created with BOGOS.
+  Hier können Sie die Gesamt- und Einzelleistung aller Ihrer mit BOGOS
+  erstellten Bundle-Angebote verfolgen.
 ---
 
-# Bundle Analytics
+# Bundle Analytik
 
 {% embed url="https://youtu.be/vd_Z9KEHm-8?si=fq5pADgSH6H4vU6O&t=155" %}
 
@@ -12,30 +12,30 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
-### Filter by timeframe&#x20;
+### Nach Zeitraum filtern&#x20;
 
-Filter a fixed timeframe to analyze the performance of campaigns within a period.&#x20;
+Filtern Sie einen festen Zeitraum, um die Leistung von Kampagnen innerhalb eines Zeitraums zu analysieren.&#x20;
 
-### Filter by offer&#x20;
+### Nach Angebot filtern&#x20;
 
-This filter will help you to analyze the performance of each offer.&#x20;
+Dieser Filter hilft Ihnen, die Leistung jedes einzelnen Angebots zu analysieren.&#x20;
 
 {% hint style="info" %}
-All bundles that resulted in an order will appear in the filter to be selected, even deleted/expired bundles.
+Alle Bundles, die zu einer Bestellung geführt haben, erscheinen im Filter zur Auswahl, auch gelöschte/abgelaufene Bundles.
 {% endhint %}
 
-## 2. Big numbers
+## 2. Kennzahlen im Überblick
 
 <figure><img src="../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="246">Field</th><th>Definition</th></tr></thead><tbody><tr><td>Total order revenue</td><td>The total revenue from all orders that include a bundle.</td></tr><tr><td>Total bundle revenue</td><td>The total revenue generated from the bundles within orders.</td></tr><tr><td>Orders with bundles</td><td>The total number of orders that contain at least one bundle</td></tr><tr><td>Average order value (AOV)</td><td>The average revenue per order that contains a bundle (Total order revenue/Orders with bundles)</td></tr><tr><td>Add to cart value</td><td>The average revenue generated each time a customer clicks “Add to Cart” on a bundle (Bundle revenue/number of "Art to cart" clicks)</td></tr><tr><td>Total bundles purchase</td><td>The total number of bundles purchased</td></tr></tbody></table>
+<table><thead><tr><th width="246">Feld</th><th>Definition</th></tr></thead><tbody><tr><td>Gesamter Bestellumsatz</td><td>Der Gesamtumsatz aus allen Bestellungen, die ein Bundle enthalten.</td></tr><tr><td>Gesamter Bundle-Umsatz</td><td>Der Gesamtumsatz, der durch die Bundles innerhalb von Bestellungen generiert wird.</td></tr><tr><td>Bestellungen mit Bundles</td><td>Die Gesamtzahl der Bestellungen, die mindestens ein Bundle enthalten</td></tr><tr><td>Durchschnittlicher Bestellwert (AOV)</td><td>Der durchschnittliche Umsatz pro Bestellung, die ein Bundle enthält (Gesamter Bestellumsatz/Bestellungen mit Bundles)</td></tr><tr><td>Wert „In den Warenkorb legen“</td><td>Der durchschnittliche Umsatz, der jedes Mal generiert wird, wenn ein Kunde auf „In den Warenkorb legen“ bei einem Bundle klickt (Bundle-Umsatz/Anzahl der Klicks auf „In den Warenkorb legen“)</td></tr><tr><td>Gesamtzahl gekaufter Bundles</td><td>Die Gesamtzahl der gekauften Bundles</td></tr></tbody></table>
 
-## 3. Overview funnel
+## 3. Übersichts-Funnel
 
-The overview funnel gives you a view into how your bundles convert through 3 important stages:
+Der Übersichts-Funnel zeigt Ihnen, wie Ihre Bundles in 3 wichtigen Phasen konvertieren:
 
-<table><thead><tr><th width="246">Field</th><th>Definition</th></tr></thead><tbody><tr><td>Bundle view</td><td>The number of times a product page containing a bundle has been viewed.</td></tr><tr><td>Total bundle revenue</td><td>The number of clicks on the “Add to Cart” button from the bundle widget</td></tr><tr><td>Orders</td><td>The total number of orders that include a bundle</td></tr></tbody></table>
+<table><thead><tr><th width="246">Feld</th><th>Definition</th></tr></thead><tbody><tr><td>Bundle-Ansicht</td><td>Die Anzahl der Aufrufe einer Produktseite, die ein Bundle enthält.</td></tr><tr><td>Gesamter Bundle-Umsatz</td><td>Die Anzahl der Klicks auf die Schaltfläche „In den Warenkorb legen“ im Bundle-Widget</td></tr><tr><td>Bestellungen</td><td>Die Gesamtzahl der Bestellungen, die ein Bundle enthalten</td></tr></tbody></table>
 
-## 4. Order details
+## 4. Bestelldetails
 
-<table><thead><tr><th width="129">Field</th><th width="172">Format </th><th>Definition</th></tr></thead><tbody><tr><td>Order</td><td>string</td><td>The name of the order, similar to Orders admin in Shopify</td></tr><tr><td>Date</td><td>date time</td><td>The time when the order is created</td></tr><tr><td>Gift</td><td>text</td><td>Product title of the gift product included in the order</td></tr><tr><td>Total </td><td>currency</td><td>Revenue of the order</td></tr><tr><td>Action</td><td>button</td><td><ul><li>View: Open order details in Shopify Admin </li><li>Delete: Delete order from Analytics</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="129">Feld</th><th width="172">Format </th><th>Definition</th></tr></thead><tbody><tr><td>Bestellung</td><td>string</td><td>Der Name der Bestellung, ähnlich wie im Bestellungen-Admin von Shopify</td></tr><tr><td>Datum</td><td>Datum/Uhrzeit</td><td>Der Zeitpunkt, an dem die Bestellung erstellt wird</td></tr><tr><td>Geschenk</td><td>Text</td><td>Produkttitel des Geschenkprodukts, das in der Bestellung enthalten ist</td></tr><tr><td>Gesamt </td><td>Währung</td><td>Umsatz der Bestellung</td></tr><tr><td>Aktion</td><td>Schaltfläche</td><td><ul><li>Ansehen: Bestelldetails im Shopify Admin öffnen </li><li>Löschen: Bestellung aus der Analytik löschen</li></ul></td></tr></tbody></table>

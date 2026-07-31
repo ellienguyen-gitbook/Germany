@@ -1,19 +1,19 @@
 ---
 description: >-
-  The BOGOS app now includes an Offers by AI feature to help you quickly
-  generate offers based on customer data. This feature uses AI to analyze recent
-  orders and suggest relevant bundle offers.
+  Die BOGOS-App enthält jetzt eine Funktion „Angebote per KI“, die Ihnen hilft,
+  schnell Angebote basierend auf Kundendaten zu generieren. Diese Funktion nutzt
+  KI, um aktuelle Bestellungen zu analysieren und relevante Bundle-Angebote vorzuschlagen.
 ---
 
-# Create with AI
+# Mit KI erstellen
 
 <figure><img src="../../.gitbook/assets/image (237).png" alt="" width="561"><figcaption></figcaption></figure>
 
-* When you click the AI Create Offer button, the app will automatically analyze the last 100 orders from your store.
-* Based on the data, AI will generate bundle offers tailored to your store’s recent purchasing trends.
+* Wenn Sie auf die Schaltfläche KI-Angebot erstellen klicken, analysiert die App automatisch die letzten 100 Bestellungen aus Ihrem Shop.
+* Basierend auf den Daten generiert die KI Bundle-Angebote, die auf die aktuellen Kauftrends Ihres Shops zugeschnitten sind.
 
 {% hint style="info" %}
-AI-generated offers are marked with a unique icon for easy identification. These offers will also appear brighter compared to manually created offers, making them stand out in your offer list.&#x20;
+KI-generierte Angebote sind mit einem eindeutigen Symbol zur einfachen Identifizierung gekennzeichnet. Diese Angebote erscheinen im Vergleich zu manuell erstellten Angeboten außerdem heller, wodurch sie sich in Ihrer Angebotsliste hervorheben.&#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>

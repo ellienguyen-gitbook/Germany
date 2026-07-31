@@ -1,40 +1,40 @@
 ---
 description: >-
-  Here you can track the overall and individual performance of all your gift
-  offers created with BOGOS.
+  Hier können Sie die Gesamt- und Einzelleistung all Ihrer mit BOGOS
+  erstellten Geschenkangebote verfolgen.
 ---
 
-# Offer Analytics
+# Angebotsanalytik
 
 {% embed url="https://youtu.be/vd_Z9KEHm-8?si=hs7-1_v_9n6WSHU9&t=100" %}
 
-## 1. Filter&#x20;
+## 1. Filter
 
 <figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
-### 1.1. Filter by timeframe&#x20;
+### 1.1. Nach Zeitraum filtern
 
-Filter a fixed timeframe to analyze the performance of campaigns within a period.&#x20;
+Filtern Sie einen festen Zeitraum, um die Leistung von Kampagnen innerhalb eines Zeitraums zu analysieren.
 
-### 1.2. Filter by offer&#x20;
+### 1.2. Nach Angebot filtern
 
-This filter will help you to analyze the performance of each offer.&#x20;
+Dieser Filter hilft Ihnen, die Leistung jedes Angebots zu analysieren.
 
 {% hint style="info" %}
-All offers that resulted in an order will appear in the filter to be selected, even deleted/expired offers.&#x20;
+Alle Angebote, die zu einer Bestellung geführt haben, werden im Filter zur Auswahl angezeigt, auch gelöschte/abgelaufene Angebote.
 {% endhint %}
 
-## 2. Big number
+## 2. Große Zahl
 
 <figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
-### 2.1. Total sales&#x20;
+### 2.1. Gesamtumsatz
 
-Total sales = sum of all orders' revenue that have at least 1 gift
+Gesamtumsatz = Summe des Umsatzes aller Bestellungen mit mindestens 1 Geschenk
 
-<table><thead><tr><th width="230">Field</th><th>Definition</th></tr></thead><tbody><tr><td>Total sales</td><td>Sum of all orders' revenue that have at least 1 gift</td></tr><tr><td>Orders </td><td>Number of orders containing at least 1 gift</td></tr><tr><td>Average order value </td><td>Total sales/ Orders</td></tr></tbody></table>
+<table><thead><tr><th width="230">Feld</th><th>Definition</th></tr></thead><tbody><tr><td>Gesamtumsatz</td><td>Summe des Umsatzes aller Bestellungen mit mindestens 1 Geschenk</td></tr><tr><td>Aufträge </td><td>Anzahl der Bestellungen mit mindestens 1 Geschenk</td></tr><tr><td>Durchschnittlicher Bestellwert </td><td>Gesamtumsatz/ Aufträge</td></tr></tbody></table>
 
-## 3. Order details
+## 3. Bestelldetails
 
-<table><thead><tr><th width="129">Field</th><th width="172">Format </th><th>Definition</th></tr></thead><tbody><tr><td>Order</td><td>string</td><td>The name of the order, similar to Orders admin in Shopify</td></tr><tr><td>Date</td><td>date time</td><td>The time when the order is created</td></tr><tr><td>Gift</td><td>text</td><td>Product title of the gift product included in the order</td></tr><tr><td>Total </td><td>currency</td><td>Revenue of the order</td></tr><tr><td>Action</td><td>button</td><td><ul><li>View: Open order details in Shopify Admin </li><li>Delete: Delete order from Analytics</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="129">Feld</th><th width="172">Format </th><th>Definition</th></tr></thead><tbody><tr><td>Bestellung</td><td>string</td><td>Der Name der Bestellung, ähnlich wie im Bestellungs-Admin von Shopify</td></tr><tr><td>Datum</td><td>date time</td><td>Der Zeitpunkt, zu dem die Bestellung erstellt wurde</td></tr><tr><td>Geschenk</td><td>text</td><td>Produkttitel des in der Bestellung enthaltenen Geschenkprodukts</td></tr><tr><td>Gesamt </td><td>currency</td><td>Umsatz der Bestellung</td></tr><tr><td>Aktion</td><td>button</td><td><ul><li>Anzeigen: Bestelldetails im Shopify-Admin öffnen </li><li>Löschen: Bestellung aus der Analytik löschen</li></ul></td></tr></tbody></table>
 

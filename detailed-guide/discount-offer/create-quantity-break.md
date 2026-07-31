@@ -1,70 +1,70 @@
 ---
-description: Overview of creating a Quantity break with BOGOS
+description: Überblick über das Erstellen eines Mengenrabatts (Quantity break) mit BOGOS
 hidden: true
 ---
 
-# Create Quantity break
+# Mengenrabatt (Quantity break) erstellen
 
 {% hint style="warning" %}
-This new feature is replaced by [**Volume discount**](create-volume-discount.md) feature in the **Discount offer** category. As a result, you’ll no longer be able to create new quantity breaks, but you can still edit your existing ones.
+Diese neue Funktion wird durch die Funktion [**Mengenrabatt**](create-volume-discount.md) in der Kategorie **Rabattangebot** ersetzt. Dadurch können Sie keine neuen Mengenrabatte (Quantity breaks) mehr erstellen, aber Sie können Ihre bestehenden weiterhin bearbeiten.
 {% endhint %}
 
-## 1. Bundle information
+## 1. Bundle-Informationen
 
 <figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
-### 1.1. Bundle title&#x20;
+### 1.1. Bundle-Titel&#x20;
 
-The bundle title is the name of the bundle. It is used for internal management only and is not shown to customers.&#x20;
+Der Bundle-Titel ist der Name des Bundles. Er dient nur der internen Verwaltung und wird Kunden nicht angezeigt.&#x20;
 
-### 1.2. Block header
+### 1.2. Blockkopf
 
-The block header is the title of the bundle widget, which will appear on the product page. E.g., Bundle and Save, Buy more save more.
+Der Blockkopf ist der Titel des Bundle-Widgets, der auf der Produktseite erscheint. Z. B. Bundle and Save, Buy more save more.
 
-### 1.3. Block description&#x20;
+### 1.3. Blockbeschreibung&#x20;
 
-The block description is used to provide customers with more information about the bundle. This field is optional.&#x20;
+Die Blockbeschreibung dient dazu, Kunden weitere Informationen über das Bundle bereitzustellen. Dieses Feld ist optional.&#x20;
 
-## 2. Tiers&#x20;
+## 2. Stufen&#x20;
 
 <figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-A quantity break comes with several tiers. Each tier has its number of products and discounts.
+Ein Mengenrabatt (Quantity break) besteht aus mehreren Stufen. Jede Stufe hat ihre eigene Produktanzahl und ihre eigenen Rabatte.
 
-### 2.1. Title&#x20;
+### 2.1. Titel&#x20;
 
-The tier title is the name of the tier. It often represents the number of products in tier. E.g., Single, Double, Uno, Trio. &#x20;
+Der Stufentitel ist der Name der Stufe. Er stellt oft die Anzahl der Produkte in der Stufe dar. Z. B. Single, Double, Uno, Trio. &#x20;
 
-### 2.2. Subtitle&#x20;
+### 2.2. Beschreibungstext&#x20;
 
-The subtitle can provide customers with more information about the tier. It is optional.&#x20;
+Der Beschreibungstext kann Kunden weitere Informationen über die Stufe bereitstellen. Er ist optional.&#x20;
 
-### 2.3. Quantity&#x20;
+### 2.3. Menge&#x20;
 
-The number of products in this tier.&#x20;
+Die Anzahl der Produkte in dieser Stufe.&#x20;
 
-### 2.4. Discount type&#x20;
+### 2.4. Rabattart&#x20;
 
-There are 2 types of discounts for each tier.&#x20;
+Es gibt 2 Arten von Rabatten für jede Stufe.&#x20;
 
-* Percentage&#x20;
-* Amount&#x20;
+* Prozentsatz&#x20;
+* Betrag&#x20;
 
 ### 2.5. Label&#x20;
 
-The label will be displayed above the title. The label can show how much money is saved with the bundle, e.g., 20% off, 30% off.
+Das Label wird über dem Titel angezeigt. Das Label kann anzeigen, wie viel Geld mit dem Bundle gespart wird, z. B. 20 % Rabatt, 30 % Rabatt.
 
 ### 2.6. Tag
 
-The tag will be displayed next to the label. Use the tag to identify each tier.
+Das Tag wird neben dem Label angezeigt. Verwenden Sie das Tag, um jede Stufe zu identifizieren.
 
-### 2.7. Pre-selected
+### 2.7. Vorausgewählt
 
-Pre-selected is used by default to select a tier.
+Vorausgewählt wird standardmäßig verwendet, um eine Stufe auszuwählen.
 
-## 3. Combination
+## 3. Kombination
 
-By default, BOGOS bundles work with any other discounts, such as order discounts and shipping discounts. Untick each checkbox to disable the combination with other discounts.&#x20;
+Standardmäßig funktionieren BOGOS-Bundles mit allen anderen Rabatten, wie Bestellrabatten und Versandrabatten. Deaktivieren Sie jedes Kontrollkästchen, um die Kombination mit anderen Rabatten zu deaktivieren.&#x20;
 
-* Order discounts&#x20;
-* Shipping discount&#x20;
+* Bestellrabatte&#x20;
+* Versandrabatt&#x20;

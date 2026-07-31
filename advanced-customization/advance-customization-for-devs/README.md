@@ -1,2 +1,2 @@
-# Advance customization (for Devs)
+# Erweiterte Anpassung (für Entwickler)
 

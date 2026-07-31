@@ -1,10 +1,10 @@
-# Customize using events
+# Anpassung mithilfe von Events
 
 {% hint style="info" %}
-Note:&#x20;
+Hinweis:&#x20;
 
-* In case you use those events below for customization, please make sure to use CSS to hide BOGOS' default component.&#x20;
-* All customizations should be implemented inside the file snippet/freegifts-snippet.liquid
+* Falls Sie die untenstehenden Events für die Anpassung verwenden, stellen Sie bitte sicher, dass Sie CSS verwenden, um die Standardkomponente von BOGOS auszublenden.&#x20;
+* Alle Anpassungen sollten innerhalb der Datei snippet/freegifts-snippet.liquid implementiert werden
 {% endhint %}
 
 ```typescript
@@ -41,7 +41,7 @@ type CartMessage {
 
 
 
-### 1. Event for customizing the Gift slider
+### 1. Event zur Anpassung des Geschenk-Sliders
 
 ```javascript
 document.addEventListener("fg-gifts:show-slider", (e) => {
@@ -59,7 +59,7 @@ document.addEventListener("fg-gifts:show-slider", (e) => {
 ```
 
 {% hint style="info" %}
-Note: Make sure to use the CSS below to hide BOGOS's default component of the Gift slider
+Hinweis: Stellen Sie sicher, dass Sie das untenstehende CSS verwenden, um die Standardkomponente von BOGOS für den Geschenk-Slider auszublenden
 {% endhint %}
 
 ```css
@@ -68,7 +68,7 @@ Note: Make sure to use the CSS below to hide BOGOS's default component of the Gi
 }
 ```
 
-### 2. Event for customizing the Gift icon, and Gift thumbnail on product page
+### 2. Event zur Anpassung des Geschenksymbols und der Geschenk-Miniaturansicht auf der Produktseite
 
 ```javascript
 document.addEventListener("fg-gifts:gift-icon", (e) => {
@@ -90,7 +90,7 @@ document.addEventListener("fg-gifts:gift-icon", (e) => {
 ```
 
 {% hint style="info" %}
-Note: Make sure to use the CSS below to hide BOGOS's default component of the Gift icon, and Gift thumbnail
+Hinweis: Stellen Sie sicher, dass Sie das untenstehende CSS verwenden, um die Standardkomponente von BOGOS für das Geschenksymbol und die Geschenk-Miniaturansicht auszublenden
 {% endhint %}
 
 ```css
@@ -99,7 +99,7 @@ Note: Make sure to use the CSS below to hide BOGOS's default component of the Gi
 }
 ```
 
-### 3. Event for customizing the Today offer&#x20;
+### 3. Event zur Anpassung des Heutigen Angebots&#x20;
 
 ```javascript
 document.addEventListener("fg-today-offer:render", (e) => {
@@ -116,7 +116,7 @@ document.addEventListener("fg-today-offer:render", (e) => {
 ```
 
 {% hint style="info" %}
-Note: Make sure to use the CSS below to hide BOGOS's default component of the Today offer
+Hinweis: Stellen Sie sicher, dass Sie das untenstehende CSS verwenden, um die Standardkomponente von BOGOS für das Heutige Angebot auszublenden
 {% endhint %}
 
 ```css
@@ -137,7 +137,7 @@ document.addEventListener("fg-today-offer:success", (e) => {
 })
 ```
 
-### 4. Event for customizing the Cart message
+### 4. Event zur Anpassung der Warenkorbnachricht
 
 ```javascript
 document.addEventListener("fg-messages:render", (e) => {
@@ -154,7 +154,7 @@ document.addEventListener("fg-messages:render", (e) => {
 ```
 
 {% hint style="info" %}
-Note: Make sure to use the CSS below to hide BOGOS's default component of the Cart message
+Hinweis: Stellen Sie sicher, dass Sie das untenstehende CSS verwenden, um die Standardkomponente von BOGOS für die Warenkorbnachricht auszublenden
 {% endhint %}
 
 ```css

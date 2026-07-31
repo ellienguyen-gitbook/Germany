@@ -2,167 +2,167 @@
 icon: magnifying-glass-play
 ---
 
-# BOGOS Feature Overview
+# BOGOS Funktionsübersicht
 
-BOGOS supports multiple offer types, helps you create, manage, and optimize promotional campaigns across your store.
+BOGOS unterstützt mehrere Angebotstypen und hilft Ihnen, Werbekampagnen in Ihrem Shop zu erstellen, zu verwalten und zu optimieren.
 
-This page describes the key features available in BOGOS.
+Diese Seite beschreibt die wichtigsten Funktionen von BOGOS.
 
 {% embed url="https://youtu.be/iXhltERkudE" %}
 
-## 1. Available Offer Types
+## 1. Verfügbare Angebotstypen
 
-### a) Gift Offers
+### a) Geschenkangebote
 
-Gift offers help you **reward your shoppers with gifts** based on conditions like cart value, quantity, or selected items. They encourage bigger purchases and strengthen brand perception.
+Geschenkangebote helfen Ihnen, **Ihre Kunden mit Geschenken zu belohnen**, basierend auf Bedingungen wie Warenkorbwert, Menge oder ausgewählten Artikeln. Sie fördern größere Käufe und stärken die Markenwahrnehmung.
 
-You can **auto-add gifts to the cart** or **let customers choose their gift from a pop-up**.
+Sie können **Geschenke automatisch zum Warenkorb hinzufügen** oder **Kunden ihr Geschenk in einem Pop-up auswählen lassen**.
 
-**Types of Gift offers include:**
+**Zu den Geschenkangebotstypen gehören:**
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**Types of discount options include:**
+**Zu den Rabattoptionen gehören:**
 
-* Percentage discount
-* Amount off
-* Shipping discount (as a gift)
+* Prozentrabatt
+* Betragsrabatt
+* Versandrabatt (als Geschenk)
 
-For detailed setup, visit the \[[Gift Offer](../detailed-guide/gift-offer/)] setup guide.
+Für die detaillierte Einrichtung besuchen Sie die Anleitung \[[Geschenkangebot](../detailed-guide/gift-offer/)].
 
-### b) Bundle Offers
+### b) Bundle-Angebote
 
-Bundle offers let you create fixed bundles or allow customers to build their own combinations with flexible discount options. This helps shoppers **naturally discover other complementary products and purchase more.**
+Mit Bundle-Angeboten können Sie feste Pakete erstellen oder Kunden ihre eigenen Kombinationen mit flexiblen Rabattoptionen zusammenstellen lassen. Dies hilft Kunden, **auf natürliche Weise weitere ergänzende Produkte zu entdecken und mehr zu kaufen.**
 
-**Types of Bundle offers include:**
+**Zu den Bundle-Angebotstypen gehören:**
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-**Types of discount options include:**
+**Zu den Rabattoptionen gehören:**
 
-* Percentage
-* Amount
-* Fixed price
-* Free product
-* Shipping discount
-* Tiered discount (except for classic bundle)
+* Prozentsatz
+* Betrag
+* Festpreis
+* Kostenloses Produkt
+* Versandrabatt
+* Gestaffelter Rabatt (außer beim klassischen Bundle)
 
-For detailed setup, visit the \[[Bundle Offer](../detailed-guide/bundle-offer/)] setup guide.
+Für die detaillierte Einrichtung besuchen Sie die Anleitung \[[Bundle-Angebot](../detailed-guide/bundle-offer/)].
 
-### c) Upsell Offers
+### c) Upsell-Angebote
 
-Upsell offers help you **display relevant add-on recommendation**s with different discount types to increase cart size. You can handpick upsell products or let BOGOS suggest them automatically or randomly.
+Upsell-Angebote helfen Ihnen, **relevante Zusatzempfehlungen** mit unterschiedlichen Rabattarten anzuzeigen, um den Warenkorbwert zu erhöhen. Sie können Upsell-Produkte manuell auswählen oder sie automatisch oder zufällig von BOGOS vorschlagen lassen.
 
-**Types of Upsell offers include:**
+**Zu den Upsell-Angebotstypen gehören:**
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-**Types of discount options include:**
+**Zu den Rabattoptionen gehören:**
 
-* Percentage
-* Amount
-* Cheapest item free
+* Prozentsatz
+* Betrag
+* Günstigster Artikel kostenlos
 
-For detailed setup, visit the \[[Upsell Offer](../detailed-guide/upsell-offer/)] setup guide.
+Für die detaillierte Einrichtung besuchen Sie die Anleitung \[[Upsell-Angebot](../detailed-guide/upsell-offer/)].
 
-### d) Discount Offers
+### d) Rabattangebote
 
-Discount offers apply quantity-based discounts that reward customers for buying more. You can set multiple tiers to drive even larger orders.
+Rabattangebote wenden mengenbasierte Rabatte an, die Kunden dafür belohnen, mehr zu kaufen. Sie können mehrere Stufen festlegen, um noch größere Bestellungen zu fördern.
 
-**Types of Discount offers include:**
+**Zu den Rabattangebotstypen gehören:**
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-**Types of discount options include:**
+**Zu den Rabattoptionen gehören:**
 
-* Percentage
-* Amount
-* Fixed price
-* Shipping discount
+* Prozentsatz
+* Betrag
+* Festpreis
+* Versandrabatt
 
-For detailed setup, visit the \[[Discount Offer](../detailed-guide/discount-offer/)] setup guide.
+Für die detaillierte Einrichtung besuchen Sie die Anleitung \[[Rabattangebot](../detailed-guide/discount-offer/)].
 
-## 2. Promotional Tools
+## 2. Werbetools
 
-With BOGOS, you can present and promote offers across your stores using many tools.
+Mit BOGOS können Sie Angebote mit vielen Tools in Ihrem gesamten Shop präsentieren und bewerben.
 
-**Powerful Boosters** to help highlight promotions and motivate customers to complete purchases:
+**Leistungsstarke Booster**, die dabei helfen, Aktionen hervorzuheben und Kunden zum Kaufabschluss zu motivieren:
 
-* Progress bar
-* Today’s Offer widget
-* Today’s Offer block
-* Offer page
+* Fortschrittsanzeige
+* Heute-Angebot-Widget
+* Heute-Angebot-Block
+* Angebotsseite
 
-For detailed setup, visit the \[[Booster\]](../detailed-guide/boosters/) guide.
+Für die detaillierte Einrichtung besuchen Sie die Anleitung \[[Booster]](../detailed-guide/boosters/).
 
-**The offer widgets** help you display the offer wherever you want. These widgets also allow you to customize everything, from text, colors, to display. These include:
+**Die Angebots-Widgets** helfen Ihnen, das Angebot überall anzuzeigen, wo Sie möchten. Diese Widgets ermöglichen es Ihnen außerdem, alles anzupassen, von Text und Farben bis zur Anzeige. Dazu gehören:
 
-* Gift offer widget: gift slider, cart message, icon & gift thumbnai
-* Classic bundle widget
-* Mix and match widget
-* Bundle page widget
-* Frequently Bought Together widget
-* Checkout Upsell widget
-* Thank You Page Upsell widget
-* Volume Discount or Quantity breaks widget
-* Discount on the cheapest/most expensive items widget
+* Geschenkangebot-Widget: Geschenk-Schieberegler, Warenkorbnachricht, Symbol & Geschenk-Thumbnail
+* Klassisches-Bundle-Widget
+* Mischen-und-kombinieren-Widget
+* Bundle-Seiten-Widget
+* Häufig-zusammen-gekauft-Widget
+* Checkout-Upsell-Widget
+* Danke-Seite-Upsell-Widget
+* Mengenrabatt- oder Staffelpreis-Widget
+* Rabatt auf den günstigsten/teuersten Artikel-Widget
 
-For detailed setup, visit the \[[Customize](../detailed-guide/customize/)] guide.
+Für die detaillierte Einrichtung besuchen Sie die Anleitung \[[Anpassen](../detailed-guide/customize/)].
 
-## 3. Offer Management
+## 3. Angebotsverwaltung
 
-BOGOS provides tools to **efficiently launch, manage, and scale offers** across your store with ease:
+BOGOS bietet Tools, um Angebote in Ihrem Shop **effizient zu starten, zu verwalten und zu skalieren**:
 
-* Set [priority rules](../detailed-guide/gift-offer/create-gift-offer.md#id-5.1.-works-with-other-offers) to avoid overlapping offers
-* Combine offers with other discounts
-* Bulk edit offers for easier management
-* Import and export offers to sync across many stores
+* Legen Sie [Prioritätsregeln](../detailed-guide/gift-offer/create-gift-offer.md#id-5.1.-works-with-other-offers) fest, um Überschneidungen von Angeboten zu vermeiden
+* Kombinieren Sie Angebote mit anderen Rabatten
+* Bearbeiten Sie Angebote in großen Mengen für eine einfachere Verwaltung
+* Importieren und exportieren Sie Angebote, um sie über mehrere Shops hinweg zu synchronisieren
 
-## 4. Analytics
+## 4. Analytik
 
-Track what’s working with **real-time trend charts** that visualize performance over time, along with detailed conversion metrics for each offer.
+Verfolgen Sie, was funktioniert, mit **Echtzeit-Trenddiagrammen**, die die Leistung im Zeitverlauf visualisieren, sowie detaillierten Konversionskennzahlen für jedes Angebot.
 
-You can also **export analytics data** for deeper analysis in your preferred external tools.
+Sie können auch **Analysedaten exportieren** für eine tiefergehende Analyse in Ihren bevorzugten externen Tools.
 
-For detailed information, visit the \[[Analytics](../detailed-guide/analytics/)] guide.
+Für detaillierte Informationen besuchen Sie die Anleitung \[[Analytik](../detailed-guide/analytics/)].
 
-## 5. Translation
+## 5. Übersetzung
 
-BOGOS helps you localize your promotions for customers in any market with flexible translation options:
+BOGOS hilft Ihnen, Ihre Aktionen für Kunden in jedem Markt mit flexiblen Übersetzungsoptionen zu lokalisieren:
 
-* Built-in automatic and manual translation options inside the app
-* Integration with third-party translation apps for seamless sync (Transcy, Weglot,...)
+* Integrierte automatische und manuelle Übersetzungsoptionen innerhalb der App
+* Integration mit Drittanbieter-Übersetzungs-Apps für nahtlose Synchronisierung (Transcy, Weglot, …)
 
-For detailed information, visit the \[[Translation](../detailed-guide/translation.md)] guide.
+Für detaillierte Informationen besuchen Sie die Anleitung \[[Übersetzung](../detailed-guide/translation.md)].
 
-## 6. Integrations
+## 6. Integrationen
 
-BOGOS syncs seamlessly with multiple sales channels and third-party integrations to make sure your campaigns run smoothly everywhere shoppers interact, without conflicting with your store setups:
+BOGOS synchronisiert nahtlos mit mehreren Verkaufskanälen und Drittanbieter-Integrationen, damit Ihre Kampagnen überall dort reibungslos laufen, wo Kunden interagieren, ohne mit Ihren Shop-Einstellungen zu kollidieren:
 
-**Sales channels supported:**
+**Unterstützte Verkaufskanäle:**
 
-* Shopify Online Store
+* Shopify Online-Shop
 * Shopify POS
-* Headless / Hydrogen stores
-* Mobile apps: Onemobile
+* Headless-/Hydrogen-Shops
+* Mobile Apps: Onemobile
 
-**Storefront & theme compatibility:**
+**Storefront- und Theme-Kompatibilität:**
 
-* Almost all Shopify themes
-* Stores built with page builders: PageFly, GemPages, EComposer, Foxify,...
+* Fast alle Shopify-Themes
+* Mit Page-Buildern erstellte Shops: PageFly, GemPages, EComposer, Foxify, …
 
-**Third-party integrations:**
+**Drittanbieter-Integrationen:**
 
-* Cart drawer apps: iCart,...
-* Translation apps: Transcy, Weglot, LangWILL, Langify,...
-* Review apps: Judge.me, TrusWILL,...
-* Subscription apps: Appstle, Recurpay,...
-* Other Shopify third-party tools
+* Warenkorb-Drawer-Apps: iCart, …
+* Übersetzungs-Apps: Transcy, Weglot, LangWILL, Langify, …
+* Bewertungs-Apps: Judge.me, TrusWILL, …
+* Abonnement-Apps: Appstle, Recurpay, …
+* Weitere Shopify-Drittanbieter-Tools
 
-For detailed integration information, visit the \[[Integration](https://app.gitbook.com/s/NQLNoTm29nYTk7OOG6Lu/integration)] guide.
+Für detaillierte Integrationsinformationen besuchen Sie die Anleitung \[[Integration](https://app.gitbook.com/s/NQLNoTm29nYTk7OOG6Lu/integration)].
 
-## 7. AI Assistant
+## 7. KI-Assistent
 
-BOGOS includes an AI assistant that instantly transforms your promotion ideas into ready-to-launch offers, while guiding you through any questions you have about the app.
+BOGOS enthält einen KI-Assistenten, der Ihre Werbeideen sofort in einsatzbereite Angebote umwandelt und Sie dabei durch alle Fragen führt, die Sie zur App haben.
 
-For detailed information, visit the \[[AI assistant](../detailed-guide/ai-features/)] guide.
+Für detaillierte Informationen besuchen Sie die Anleitung \[[KI-Assistent](../detailed-guide/ai-features/)].

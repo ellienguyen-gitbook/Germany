@@ -1,61 +1,61 @@
 ---
 description: >-
-  The Cart message will show up on the cart page to notify customers about the
-  offer. It motivates customers to buy more toward the conditions of your offer
-  and will disappear when the job is done!
+  Die Warenkorbnachricht wird auf der Warenkorbseite angezeigt, um Kunden über
+  das Angebot zu informieren. Sie motiviert Kunden, mehr zu kaufen, um die
+  Bedingungen Ihres Angebots zu erfüllen, und verschwindet, wenn dies erreicht ist!
 ---
 
-# Customize Cart message
+# Warenkorbnachricht anpassen
 
 {% embed url="https://www.youtube.com/watch?v=EozMJe_kw1U" %}
 
-## 1. How to enable the cart message <a href="#how-to-enable-the-cart-message" id="how-to-enable-the-cart-message"></a>
+## 1. So aktivieren Sie die Warenkorbnachricht <a href="#how-to-enable-the-cart-message" id="how-to-enable-the-cart-message"></a>
 
-To enable and edit the content of the cart message, please navigate to each offer. Each offer will have a different message; when there are multiple messages, they will take turns showing one at a time.
+Um den Inhalt der Warenkorbnachricht zu aktivieren und zu bearbeiten, navigieren Sie bitte zu jedem Angebot. Jedes Angebot hat eine eigene Nachricht; bei mehreren Nachrichten werden diese abwechselnd nacheinander angezeigt.
 
 <figure><img src="https://bogos-guideline.gitbook.io/~gitbook/image?url=https%3A%2F%2F1174860429-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FBQEzvXIQmpPrTmxjT8T6%252Fuploads%252FJf6l2vA1kTDlCke0wXrR%252FCMM.jpg%3Falt%3Dmedia%26token%3Defaa8f0a-4032-4546-9094-dde0c210d513&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1389ab1&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-Here is an example of how it looks like on your storefront:
+Hier ein Beispiel, wie es in Ihrem Storefront aussieht:
 
 <figure><img src="https://bogos-guideline.gitbook.io/~gitbook/image?url=https%3A%2F%2F1174860429-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FBQEzvXIQmpPrTmxjT8T6%252Fuploads%252FGqGakNfEen1mH8A16UN5%252Fcartmessage.png%3Falt%3Dmedia%26token%3Dcdc7404c-93d1-425d-bf18-19f4c964c5ae&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=104eb58&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-## 2. Customization options <a href="#customization-options" id="customization-options"></a>
+## 2. Anpassungsoptionen <a href="#customization-options" id="customization-options"></a>
 
-Aside from the content of the cart message, you can adjust its appearance on the Customization page.
+Neben dem Inhalt der Warenkorbnachricht können Sie ihr Erscheinungsbild auf der Anpassungsseite ändern.
 
-1. Enable **Show on cart page** to let the message shows on the cart page
-2. Customize the color: BOGOS allows you to customize the colors of all elements with any of the 3 methods below:
+1. Aktivieren Sie **Auf Warenkorbseite anzeigen**, damit die Nachricht auf der Warenkorbseite angezeigt wird
+2. Passen Sie die Farbe an: BOGOS ermöglicht Ihnen, die Farben aller Elemente mit einer der 3 unten stehenden Methoden anzupassen:
 
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-cart-message.md#ai-theme-detector) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* **Passen Sie jedes Farbfeld manuell an** für alle verfügbaren Farben.
+* Verwenden Sie den [KI-Theme-Detektor](customize-cart-message.md#ai-theme-detector), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Shops zu generieren.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+Die BOGOS-KI scannt Ihren Online-Shop und erkennt die primären, sekundären und Textfarben Ihrer Marke und generiert dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Shop darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit der BOGOS-KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stiftsymbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit die BOGOS-KI erneut erkennt, oder **passen Sie manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden** für die Vorschau, um die Farben auf die Widget-Vorschau anzuwenden.
 
-## Countdown message <a href="#countdown-message" id="countdown-message"></a>
+## Countdown-Nachricht <a href="#countdown-message" id="countdown-message"></a>
 
-If you want to have a "countdown message" on the cart page, for example: Spend $xx more to get gift, you can try formatting the cart message this way (as the Cart message is HTML supported)
+Wenn Sie eine „Countdown-Nachricht“ auf der Warenkorbseite haben möchten, zum Beispiel: Geben Sie noch xx $ aus, um ein Geschenk zu erhalten, können Sie versuchen, die Warenkorbnachricht auf diese Weise zu formatieren (da die Warenkorbnachricht HTML unterstützt)
 
-> Spend \{{sca\_min\_total\_with\_currency\}} more to get FREE GIFT&#x20;
+> Geben Sie noch \{{sca\_min\_total\_with\_currency\}} aus, um ein KOSTENLOSES GESCHENK zu erhalten&#x20;
 >
-> Spend \{{sca\_min\_quantity\}} more to get FREE GIFT
+> Geben Sie noch \{{sca\_min\_quantity\}} aus, um ein KOSTENLOSES GESCHENK zu erhalten

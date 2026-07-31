@@ -1,24 +1,24 @@
-# Labels & Badges apps
+# Labels & Badges Apps
 
-### What each tool does
+### Was jedes Tool leistet
 
 #### BOGOS:
 
-* Create, run, and manage offer types: Free Gifts, Bundles, Upsell & Discounts.
-* Display and manage promotion widgets: Gift sliders, bundle page, discount widget, and promotional messages.
-* Apply eligibility rules: Control which customers, products, collections, or cart conditions qualify for each promotion.
+* Erstellen, ausführen und verwalten Sie Angebotstypen: Werbegeschenke, Bündel, Upsell & Rabatte.
+* Anzeigen und verwalten Sie Werbe-Widgets: Geschenkschieberegler, Bundle-Seite, Rabatt-Widget und Werbebotschaften.
+* Wenden Sie Berechtigungsregeln an: Legen Sie fest, welche Kunden, Produkte, Kollektionen oder Warenkorbbedingungen für jede Werbeaktion infrage kommen.
 
-#### Labels & Badges app:
+#### Labels & Badges App:
 
-Highlights products with visual markers like “New,” “Sale,” “Limited Time,” or custom labels, helping merchants draw attention to specific items in their storefront.
+Hebt Produkte mit visuellen Markierungen wie „Neu“, „Sale“, „Limitierte Zeit“ oder benutzerdefinierten Labels hervor und hilft Händlern, die Aufmerksamkeit auf bestimmte Artikel in ihrem Shop zu lenken.
 
-### What the integration enables
+### Was die Integration ermöglicht
 
-**More design options for merchants:**&#x20;
+**Mehr Designoptionen für Händler:**&#x20;
 
-By integrating with a Labels & Badges app, merchants gain access to a wider range of product label styles, colors, and templates to match different campaigns or brand aesthetics.
+Durch die Integration mit einer Labels & Badges App erhalten Händler Zugriff auf eine größere Auswahl an Produktlabel-Stilen, Farben und Vorlagen, um sie an unterschiedliche Kampagnen oder Markenästhetiken anzupassen.
 
-### Integrated Labels & Badges apps
+### Integrierte Labels & Badges Apps
 
 [DECO – Product Labels & Badges](https://partners.secomapp.com/apps/deco/DECO_BOGOS)
 

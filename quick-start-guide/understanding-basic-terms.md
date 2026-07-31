@@ -1,42 +1,42 @@
 ---
-description: Get used to these basic terms in BOGOS before creating offers
+description: Machen Sie sich mit diesen Grundbegriffen in BOGOS vertraut, bevor Sie Angebote erstellen
 hidden: true
 ---
 
-# Understanding basic terms
+# Grundbegriffe verstehen
 
-## On this page
+## Auf dieser Seite
 
-* [Gift product](understanding-basic-terms.md#gift-product)
-* [Cart value condition](understanding-basic-terms.md#cart-value-condition)
-* [Cart quantity condition](understanding-basic-terms.md#cart-quantity-condition)
-* [Specific product condition](understanding-basic-terms.md#specific-product-condition)
+* [Klon-Geschenkprodukt](understanding-basic-terms.md#gift-product)
+* [Warenkorbwert-Bedingung](understanding-basic-terms.md#cart-value-condition)
+* [Warenkorbmenge-Bedingung](understanding-basic-terms.md#cart-quantity-condition)
+* [Bedingung für bestimmtes Produkt](understanding-basic-terms.md#specific-product-condition)
 
-## Gift product
+## Klon-Geschenkprodukt
 
-Gift product is the free/discounted product your customers will receive when their carts meet the conditions of your offer.&#x20;
+Das Klon-Geschenkprodukt ist das kostenlose/rabattierte Produkt, das Ihre Kunden erhalten, wenn ihr Warenkorb die Bedingungen Ihres Angebots erfüllt.
 
-How it is created:
+Wie es erstellt wird:
 
-* When you select a product to be the gift, the app will clone a new product from your original product. That product will be sent to your customer once they meet the condition of your offer.
-* The gift product will be hidden on the online store.
+* Wenn Sie ein Produkt als Geschenk auswählen, klont die App ein neues Produkt aus Ihrem Originalprodukt. Dieses Produkt wird an Ihren Kunden gesendet, sobald er die Bedingung Ihres Angebots erfüllt.
+* Das Klon-Geschenkprodukt wird im Online-Shop ausgeblendet.
 
-## Cart value condition
+## Warenkorbwert-Bedingung
 
-This condition requires customers to reach a certain cart value to get gifts.
+Diese Bedingung erfordert, dass Kunden einen bestimmten Warenkorbwert erreichen, um Geschenke zu erhalten.
 
-> Buy $100 to get gift
+> Kaufen Sie für 100 $, um ein Geschenk zu erhalten
 
-## Cart quantity condition
+## Warenkorbmenge-Bedingung
 
-This condition requires customers to have a certain cart quantity to get gifts.
+Diese Bedingung erfordert, dass Kunden eine bestimmte Warenkorbmenge haben, um Geschenke zu erhalten.
 
-> &#x20;Buy 5 products to get gift
+> Kaufen Sie 5 Produkte, um ein Geschenk zu erhalten
 
-## Specific product condition
+## Bedingung für bestimmtes Produkt
 
-This condition requires customers to purchase specific products to get gifts.
+Diese Bedingung erfordert, dass Kunden bestimmte Produkte kaufen, um Geschenke zu erhalten.
 
-> Buy product A to get gift B
+> Kaufen Sie Produkt A, um Geschenk B zu erhalten
 
-You can start installing BOGOS and create new gift campaigns for your store now!
+Sie können jetzt BOGOS installieren und neue Geschenkkampagnen für Ihren Shop erstellen!

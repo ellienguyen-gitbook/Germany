@@ -1,201 +1,201 @@
 ---
-description: An overview of creating Classic bundle
+description: Ein Überblick über die Erstellung eines Classic Bundles
 ---
 
-# Create Classic Bundle
+# Classic Bundle erstellen
 
 <figure><img src="../../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/xormwYiFkRM?si=n72-y7a_tjnkEIxt" %}
 
-### 1. Bundle information
+### 1. Bundle-Informationen
 
 <figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 
-#### 1.1 Bundle name
+#### 1.1 Bundle-Name
 
-This name is for internal management only and won’t be visible to customers.
+Dieser Name dient nur der internen Verwaltung und wird Kunden nicht angezeigt.
 
-#### 1.2 Bundle title
+#### 1.2 Bundle-Titel
 
-The bundle title is the name of the bundle, it will be displayed on the top of the bundle as the block header
+Der Bundle-Titel ist der Name des Bundles. Er wird oben im Bundle als Blockkopfzeile angezeigt.
 
-#### 1.3 Bundle description&#x20;
+#### 1.3 Bundle-Beschreibung&#x20;
 
-The bundle description provides customers with more information about the deal being offered. This field is optional.&#x20;
+Die Bundle-Beschreibung gibt Kunden weitere Informationen zum angebotenen Deal. Dieses Feld ist optional.&#x20;
 
-#### 1.4 Start time and End time&#x20;
+#### 1.4 Startzeit und Endzeit&#x20;
 
-* **Start time:** The time that bundle becomes active and visible to customers on Online store and product page&#x20;
-* **End time:** The time that the bundle becomes deactivated on the Online store and product page. Leave this field blank to let the bundle work continuously.&#x20;
+* **Startzeit:** Der Zeitpunkt, ab dem das Bundle im Onlineshop und auf der Produktseite aktiv und für Kunden sichtbar wird&#x20;
+* **Endzeit:** Der Zeitpunkt, ab dem das Bundle im Onlineshop und auf der Produktseite deaktiviert wird. Lassen Sie dieses Feld leer, damit das Bundle dauerhaft aktiv bleibt.&#x20;
 
-#### 1.5. Show countdown timer (optional)
+#### 1.5. Countdown-Timer anzeigen (optional)
 
-Enable a countdown timer on the widget to motivate customers to buy before the offer ends.
+Aktivieren Sie einen Countdown-Timer im Widget, um Kunden zum Kauf vor Ablauf des Angebots zu motivieren.
 
-* This option is disabled by default. It becomes available once you set an End time or enable Recurring time.
-* Without Recurring time, the countdown runs based on the End time.
-* When Recurring time is set, the countdown runs based on each recurring session's End time (in days).
+* Diese Option ist standardmäßig deaktiviert. Sie wird verfügbar, sobald Sie eine Endzeit festlegen oder die wiederkehrende Zeit aktivieren.
+* Ohne wiederkehrende Zeit läuft der Countdown basierend auf der Endzeit.
+* Wenn eine wiederkehrende Zeit festgelegt ist, läuft der Countdown basierend auf der Endzeit jeder wiederkehrenden Sitzung (in Tagen).
 
-#### 1.6. Recurring time (optional)
+#### 1.6. Wiederkehrende Zeit (optional)
 
-Enable the offer on a repeating schedule within its active period, ideal for daily flash sales, weekend promotions, or monthly campaigns. When enabled, the active period's End time is automatically synced with the recurrence end date.
+Aktivieren Sie das Angebot nach einem wiederkehrenden Zeitplan innerhalb seines Aktivitätszeitraums – ideal für tägliche Blitzverkäufe, Wochenend-Aktionen oder monatliche Kampagnen. Wenn aktiviert, wird die Endzeit des Aktivitätszeitraums automatisch mit dem Enddatum der Wiederholung synchronisiert.
 
-To set it up, configure the following:
+Zum Einrichten konfigurieren Sie Folgendes:
 
-**1.6.1. Frequency**
+**1.6.1. Häufigkeit**
 
-Select how often the offer repeats: Daily, Weekly, or Monthly.
+Wählen Sie, wie oft sich das Angebot wiederholt: Täglich, Wöchentlich oder Monatlich.
 
-* **Daily:** The offer runs every day within the chosen time window.
+* **Täglich:** Das Angebot läuft jeden Tag innerhalb des gewählten Zeitfensters.
 
 <figure><img src="../../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
 
-* **Weekly:** The offer runs on selected days of the week.&#x20;
+* **Wöchentlich:** Das Angebot läuft an ausgewählten Wochentagen.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
 
-* **Monthly:** The offer runs on a specific day each month. If you select day 29, 30, or 31, the offer will repeat on the month's last day if that date doesn't exist.
+* **Monatlich:** Das Angebot läuft an einem bestimmten Tag jeden Monats. Wenn Sie Tag 29, 30 oder 31 auswählen, wiederholt sich das Angebot am letzten Tag des Monats, falls dieses Datum nicht existiert.
 
 <figure><img src="../../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
 
-**1.6.2. Start time (in day) / End time (in day)**
+**1.6.2. Startzeit (in Tagen) / Endzeit (in Tagen)**
 
-The daily time window when the offer is active during each recurring session (e.g., 09:00 to 11:00). Times are set to your store's current timezone.
+Das tägliche Zeitfenster, in dem das Angebot während jeder wiederkehrenden Sitzung aktiv ist (z. B. 09:00 bis 11:00 Uhr). Die Zeiten werden entsprechend der aktuellen Zeitzone Ihres Shops eingestellt.
 
-**1.6.3. End recurring when**
+**1.6.3. Wiederholung beenden, wenn**
 
-Choose when the recurrence stops.
+Wählen Sie, wann die Wiederholung endet.
 
-* **No end date:** The offer keeps recurring until you manually deactivate it.
-* **On date:** The offer stops on a specific date. If you already set an End time, this field defaults to that date, but you can still change it.
-* **After N times:** The offer stops after it has run a set number of times.
+* **Kein Enddatum:** Das Angebot wiederholt sich weiter, bis Sie es manuell deaktivieren.
+* **Am Datum:** Das Angebot endet an einem bestimmten Datum. Wenn Sie bereits eine Endzeit festgelegt haben, wird dieses Feld standardmäßig auf dieses Datum gesetzt, Sie können es aber weiterhin ändern.
+* **Nach N-mal:** Das Angebot endet, nachdem es eine festgelegte Anzahl von Malen gelaufen ist.
 
 {% hint style="warning" %}
-When created with Recurring time enabled, the offer appears with Scheduled status so you can track upcoming runs.&#x20;
+Wenn ein Angebot mit aktivierter wiederkehrender Zeit erstellt wird, erscheint es mit dem Status „Geplant“, damit Sie kommende Durchläufe verfolgen können.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-If an offer expires while a customer is still in the checkout process, the discount is automatically removed, and products are charged at their original price.&#x20;
+Wenn ein Angebot abläuft, während sich ein Kunde noch im Checkout-Prozess befindet, wird der Rabatt automatisch entfernt und die Produkte werden zum ursprünglichen Preis berechnet.&#x20;
 {% endhint %}
 
-### 2. Add sub-conditions
+### 2. Unterbedingungen hinzufügen
 
-Sub-conditions add extra rules to decide who can see and get your offers. Therefore, only targeted customers can see and apply the offer, while others won't see it at all.
+Unterbedingungen fügen zusätzliche Regeln hinzu, um zu entscheiden, wer Ihre Angebote sehen und erhalten kann. Dadurch können nur die gezielten Kunden das Angebot sehen und anwenden, während andere es überhaupt nicht sehen.
 
 {% hint style="info" %}
-* These sub-conditions are optional. If you don't add any, the offer will be available to all customers.
-* You can combine multiple sub-conditions. Customers must meet all selected criteria to qualify.
+* Diese Unterbedingungen sind optional. Wenn Sie keine hinzufügen, ist das Angebot für alle Kunden verfügbar.
+* Sie können mehrere Unterbedingungen kombinieren. Kunden müssen alle ausgewählten Kriterien erfüllen, um qualifiziert zu sein.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (154).png" alt="" width="503"><figcaption></figcaption></figure>
 
-1. _Specific link address_ – Apply offers to customers accessing your store from a specific link. Perfect for email campaigns, social posts, or affiliates.
-2. _Order history_ – Target customers based on purchase behavior. Best for rewarding first-time buyers, high spenders, and more.
-3. _Customer tags_ – Show or hide offers based on customer tags.
-4. _Customer location_ – Run country-specific promotions based on the customer’s IP address.
-5. _Markets_ – Run region-specific offers based on your Shopify Markets.
+1. _Spezifische Link-Adresse_ – Wenden Sie Angebote auf Kunden an, die über einen bestimmten Link auf Ihren Shop zugreifen. Perfekt für E-Mail-Kampagnen, Social-Media-Beiträge oder Affiliates.
+2. _Bestellverlauf_ – Zielen Sie auf Kunden basierend auf ihrem Kaufverhalten. Ideal, um Erstkäufer, Vielkäufer und mehr zu belohnen.
+3. _Kundentags_ – Angebote basierend auf Kundentags anzeigen oder ausblenden.
+4. _Kundenstandort_ – Führen Sie länderspezifische Werbeaktionen basierend auf der IP-Adresse des Kunden durch.
+5. _Märkte_ – Führen Sie regionsspezifische Angebote basierend auf Ihren Shopify Markets durch.
 
-♦️ For more details, visit our \[[Sub-Condition](../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)] guide.
+♦️ Weitere Details finden Sie in unserem \[[Unterbedingungen](../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)]-Leitfaden.
 
-### 3. Select bundle
+### 3. Bundle auswählen
 
-#### 3.1 Bundle item level:
+#### 3.1 Bundle-Artikelebene:
 
-Select how each item in the bundle is counted.
+Wählen Sie, wie jeder Artikel im Bundle gezählt wird.
 
-* **Product level:** Each product counts as one bundle item. The widget displays each product as a single line item, with an option to select the preferred variant.
+* **Produktebene:** Jedes Produkt zählt als ein Bundle-Artikel. Das Widget zeigt jedes Produkt als einzelne Zeilenposition an, mit der Option, die bevorzugte Variante auszuwählen.
 
 <figure><img src="../../.gitbook/assets/unknown (7).png" alt=""><figcaption></figcaption></figure>
 
-* **Variant level:** Each variant counts as one bundle item and is displayed as a separate line item on the widget.
+* **Variantenebene:** Jede Variante zählt als ein Bundle-Artikel und wird als separate Zeilenposition im Widget angezeigt.
 
 <figure><img src="../../.gitbook/assets/unknown (8).png" alt=""><figcaption></figcaption></figure>
 
-#### 3.2 Bundle discount type
+#### 3.2 Bundle-Rabattart
 
-There are two separate options for you to set up your promotion campaigns.
+Es stehen Ihnen zwei separate Optionen zur Einrichtung Ihrer Werbekampagnen zur Verfügung.
 
 <figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
-**4 discount types**
+**4 Rabattarten**
 
-* Percentage: percentage of the discount will be deducted from the total price of all products in bundle.
-* Amount: an amount of money will be deducted from the total price of all products in bundle.&#x20;
-* Fixed price: A specific price is set for all products in the bundle.
-* Free gift: a free item that's automatically added to customer carts that meet the condition
+* Prozentsatz: Ein Prozentsatz des Rabatts wird vom Gesamtpreis aller Produkte im Bundle abgezogen.
+* Betrag: Ein Geldbetrag wird vom Gesamtpreis aller Produkte im Bundle abgezogen.&#x20;
+* Festpreis: Für alle Produkte im Bundle wird ein bestimmter Preis festgelegt.
+* Gratisgeschenk: ein kostenloser Artikel, der automatisch zu den Warenkörben der Kunden hinzugefügt wird, die die Bedingung erfüllen
 
-**Shipping discount**
+**Versandrabatt**
 
 <figure><img src="../../.gitbook/assets/unknown (111).png" alt=""><figcaption></figcaption></figure>
 
-There are 2 types of shipping discount:
+Es gibt 2 Arten von Versandrabatt:
 
-* Percentage: A percentage of the shipping cost will be deducted.
-* Amount: A fixed amount will be deducted from the total shipping cost.
+* Prozentsatz: Ein Prozentsatz der Versandkosten wird abgezogen.
+* Betrag: Ein fester Betrag wird von den gesamten Versandkosten abgezogen.
 
-**Label on widget:** This text informs customers whether the bundle includes a shipping discount.&#x20;
+**Beschriftung auf dem Widget:** Dieser Text informiert Kunden darüber, ob das Bundle einen Versandrabatt enthält.&#x20;
 
-**Add currency:** If you have Shopify Markets set up, you can customize how much discount amount to offer in each currency, instead of using Shopify’s exchange rates (e.g., SGD 10, CN¥8, A$12).
+**Währung hinzufügen:** Wenn Sie Shopify Markets eingerichtet haben, können Sie anpassen, wie viel Rabattbetrag Sie in jeder Währung anbieten möchten, anstatt Shopifys Wechselkurse zu verwenden (z. B. SGD 10, CN¥8, A$12).
 
 <figure><img src="../../.gitbook/assets/image (377).png" alt="" width="506"><figcaption></figcaption></figure>
 
-### 4. Create a product for this bundle (optional)
+### 4. Ein Produkt für dieses Bundle erstellen (optional)
 
-When enabled, the bundle will have **its own product page** (bundle as a product), in addition to showing a Classic Bundle widget on product pages.
+Wenn aktiviert, erhält das Bundle eine **eigene Produktseite** (Bundle als Produkt) – zusätzlich zur Anzeige eines Classic-Bundle-Widgets auf den Produktseiten.
 
 {% hint style="info" %}
-Due to Shopify rules, a bundle product can’t exceed 30 bundled products, 3 options, and 100 variants.
+Aufgrund der Shopify-Regeln darf ein Bundle-Produkt nicht mehr als 30 gebündelte Produkte, 3 Optionen und 100 Varianten enthalten.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (9).png" alt=""><figcaption></figcaption></figure>
 
-**To set it up:**
+**So richten Sie es ein:**
 
-1. Enable “**Create a product for this bundle**”
+1. Aktivieren Sie „**Ein Produkt für dieses Bundle erstellen**“
 
 <figure><img src="../../.gitbook/assets/unknown (10).png" alt=""><figcaption></figcaption></figure>
 
-2. Edit the bundle **title** & **description.**
-3. Select the bundle product’s **status** (active, draft, unlisted)
-4. **Sync images from bundle items** (optional): Automatically show the main image of each bundled product on the storefront.
-5. **Delete bundle product when deactivate this bundle** (optional): Automatically delete this bundle product from your Shopify store when this Classic Bundle offer is deactivated in BOGOS app.
+2. Bearbeiten Sie den **Titel** & die **Beschreibung** des Bundles.
+3. Wählen Sie den **Status** des Bundle-Produkts aus (aktiv, Entwurf, nicht gelistet)
+4. **Bilder von Bundle-Artikeln synchronisieren** (optional): Zeigt automatisch das Hauptbild jedes gebündelten Produkts im Storefront an.
+5. **Bundle-Produkt beim Deaktivieren dieses Bundles löschen** (optional): Löscht dieses Bundle-Produkt automatisch aus Ihrem Shopify-Shop, wenn dieses Classic-Bundle-Angebot in der BOGOS-App deaktiviert wird.
 
-**After publishing the offer**, you can return to the setup screen to quickly manage the bundle product:
+**Nach der Veröffentlichung des Angebots** können Sie zum Einrichtungsbildschirm zurückkehren, um das Bundle-Produkt schnell zu verwalten:
 
-* **Edit details:** Quickly edit product details such as category, inventory, and publishing channels.
+* **Details bearbeiten:** Bearbeiten Sie schnell Produktdetails wie Kategorie, Lagerbestand und Vertriebskanäle.
 
 <figure><img src="../../.gitbook/assets/unknown (11).png" alt=""><figcaption></figcaption></figure>
 
-* **Sync information:** If you have edited the bundle product directly in Shopify admin, click this to sync the latest Shopify data back to BOGOS app.
-* **Delete product:** Quickly delete the bundle product from Shopify. This doesn’t delete the Classic bundle offer itself.
+* **Informationen synchronisieren:** Wenn Sie das Bundle-Produkt direkt im Shopify-Adminbereich bearbeitet haben, klicken Sie hier, um die neuesten Shopify-Daten zurück in die BOGOS-App zu synchronisieren.
+* **Produkt löschen:** Löschen Sie das Bundle-Produkt schnell aus Shopify. Dadurch wird das Classic-Bundle-Angebot selbst nicht gelöscht.
 
-### 5. Discount code
+### 5. Rabattcode
 
-#### Add a custom discount code
+#### Einen benutzerdefinierten Rabattcode hinzufügen
 
-This section allows you to customize the discount code name to match your brand.
+In diesem Abschnitt können Sie den Namen des Rabattcodes an Ihre Marke anpassen.
 
 <figure><img src="../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" icon="triangle-exclamation" %}
-The discount code name must be under 256 characters and unique across all Shopify discounts.
+Der Name des Rabattcodes muss unter 256 Zeichen liegen und über alle Shopify-Rabatte hinweg eindeutig sein.
 {% endhint %}
 
-### 6. Combination
+### 6. Kombination
 
-By default, BOGOS bundles work with any other discounts. Untick each checkbox to disable the combination with other discounts.&#x20;
+Standardmäßig funktionieren BOGOS-Bundles mit allen anderen Rabatten zusammen. Deaktivieren Sie jedes Kontrollkästchen, um die Kombination mit anderen Rabatten zu deaktivieren.&#x20;
 
-* Order discounts: discount on order level
-* Shipping discount
+* Bestellrabatte: Rabatt auf Bestellebene
+* Versandrabatt
 
 ### FAQs
 
 <details>
 
-<summary><strong>How does the bundle as a product (created using “Create a product for this bundle” in Classic Bundle) track the inventory?</strong></summary>
+<summary><strong>Wie verfolgt das Bundle als Produkt (erstellt mit „Ein Produkt für dieses Bundle erstellen“ im Classic Bundle) den Lagerbestand?</strong></summary>
 
-When a bundle is purchased, the inventory is deducted from each bundled item (e.g. each t-shirt), ensuring accurate stock levels and smooth fulfillment.
+Wenn ein Bundle gekauft wird, wird der Lagerbestand von jedem gebündelten Artikel (z. B. jedem T-Shirt) abgezogen, um genaue Lagerbestände und einen reibungslosen Versand sicherzustellen.
 
 ![](<../../.gitbook/assets/unknown (12).png>)
 
@@ -203,11 +203,11 @@ When a bundle is purchased, the inventory is deducted from each bundled item (e.
 
 <details>
 
-<summary><strong>Can the bundle as a product (created using “Create a product for this bundle” in Classic Bundle) be tracked in Shopify and BOGOS analytics?</strong></summary>
+<summary><strong>Kann das Bundle als Produkt (erstellt mit „Ein Produkt für dieses Bundle erstellen“ im Classic Bundle) in Shopify und BOGOS Analytics nachverfolgt werden?</strong></summary>
 
-Due to Shopify’s limitations, orders with this bundle product won’t be recorded in Shopify analytics.
+Aufgrund von Shopify-Einschränkungen werden Bestellungen mit diesem Bundle-Produkt nicht in Shopify Analytics erfasst.
 
-However, you can still track its performance in BOGOS Analytics with a clear funnel view of how it converts.
+Sie können die Performance jedoch weiterhin in BOGOS Analytics mit einer klaren Trichteransicht verfolgen, wie sie konvertiert.
 
 ![](<../../.gitbook/assets/unknown (13).png>)
 
@@ -215,19 +215,19 @@ However, you can still track its performance in BOGOS Analytics with a clear fun
 
 <details>
 
-<summary><strong>Can I combine a Classic Bundle discount with other Shopify discount codes?</strong></summary>
+<summary><strong>Kann ich einen Classic-Bundle-Rabatt mit anderen Shopify-Rabattcodes kombinieren?</strong></summary>
 
-By default, BOGOS allows you to combine bundle discounts with order discounts and shipping discounts. However, you can choose to disable this feature in the "**Combination**" section of the settings.
+Standardmäßig ermöglicht BOGOS die Kombination von Bundle-Rabatten mit Bestellrabatten und Versandrabatten. Sie können diese Funktion jedoch im Abschnitt „**Kombination**“ der Einstellungen deaktivieren.
 
-If both Classic bundle discount and Shopify discount apply for the same products, Shopify will only apply the highest discount code.
+Wenn sowohl ein Classic-Bundle-Rabatt als auch ein Shopify-Rabatt für dieselben Produkte gelten, wendet Shopify nur den höchsten Rabattcode an.
 
 </details>
 
 <details>
 
-<summary><strong>Can I customize the discount code of my bundle to match my own campaign?</strong></summary>
+<summary><strong>Kann ich den Rabattcode meines Bundles an meine eigene Kampagne anpassen?</strong></summary>
 
-Yes, you can customize the **discount code name** (up to **256 characters**) to better match your brand by going to the Discount code in the offer > tick Add a custom discount code.
+Ja, Sie können den **Namen des Rabattcodes** (bis zu **256 Zeichen**) anpassen, um ihn besser an Ihre Marke anzupassen, indem Sie im Angebot zum Rabattcode gehen > Einen benutzerdefinierten Rabattcode hinzufügen ankreuzen.
 
 ![](<../../.gitbook/assets/unknown (1).png>)
 
@@ -235,20 +235,20 @@ Yes, you can customize the **discount code name** (up to **256 characters**) to 
 
 <details>
 
-<summary><strong>I have activated the classic bundle but I don’t see it. Where is it shown?</strong></summary>
+<summary><strong>Ich habe das Classic Bundle aktiviert, sehe es aber nicht. Wo wird es angezeigt?</strong></summary>
 
-By default, the bundle widget will appear on the product pages of each individual item included in the bundle.
+Standardmäßig erscheint das Bundle-Widget auf den Produktseiten jedes einzelnen im Bundle enthaltenen Artikels.
 
-**In order to make it shown, please follow these steps:**&#x20;
+**Um es sichtbar zu machen, führen Sie bitte diese Schritte aus:**&#x20;
 
-Step 1: Go to Shopify admin > Online Store > Themes > Edit Theme > Product page
+Schritt 1: Gehen Sie zu Shopify-Adminbereich > Onlineshop > Themes > Theme bearbeiten > Produktseite
 
 ![](<../../.gitbook/assets/unknown (2).png>)
 
-Step 2: In product information, add Classic bundle block from BOGOS
+Schritt 2: Fügen Sie im Bereich Produktinformationen den Classic-Bundle-Block von BOGOS hinzu
 
 ![](<../../.gitbook/assets/unknown (3).png>)
 
-Step 3: Click the Save button
+Schritt 3: Klicken Sie auf die Schaltfläche „Speichern“
 
 </details>

@@ -4,45 +4,45 @@ description: >-
   widget
 ---
 
-# Customize Thank You Page Upsell
+# Danke-Seite-Upsell anpassen
 
 <figure><img src="../../.gitbook/assets/unknown (48).png" alt=""><figcaption></figcaption></figure>
 
-### 1. General
+### 1. Allgemein
 
 <figure><img src="../../.gitbook/assets/unknown (50).png" alt=""><figcaption></figcaption></figure>
 
-**Widget layout**
+**Widget-Layout**
 
-* **Carousel:** Displays upsell products in a scrollable horizontal format.
-* **Stack:** Displays upsell products in a vertical list.
+* **Karussell:** Zeigt Upsell-Produkte in einem scrollbaren horizontalen Format an.
+* **Stapel:** Zeigt Upsell-Produkte in einer vertikalen Liste an.
 
-**Images alignment:** Control how the product image is positioned inside the widget (top, center, bottom).
+**Bildausrichtung:** Steuert, wie das Produktbild innerhalb des Widgets positioniert wird (oben, mittig, unten).
 
-**Border radius:** Control how rounded the corners of your widget appear.
+**Randradius:** Steuert, wie abgerundet die Ecken Ihres Widgets erscheinen.
 
-### 2. Widget info
+### 2. Widget-Informationen
 
-**Activate upsell message:** Turn this on to display a message at the top of your upsell widget.
+**Upsell-Nachricht aktivieren:** Aktivieren Sie dies, um oben in Ihrem Upsell-Widget eine Nachricht anzuzeigen.
 
-**Activate compare-at-price:** Turn this on to display the original price of the upsell product before the discount is applied.
+**Vergleichspreis aktivieren:** Aktivieren Sie dies, um den ursprünglichen Preis des Upsell-Produkts vor Anwendung des Rabatts anzuzeigen.
 
-**Upsell message:** Customize the message displayed at the top of the upsell widget.
+**Upsell-Nachricht:** Passen Sie die oben im Upsell-Widget angezeigte Nachricht an.
 
-**Button text:** Choose the text for the button that customers will click to add the upsell product to their checkout summary.
+**Schaltflächentext:** Wählen Sie den Text für die Schaltfläche, auf die Kunden klicken, um das Upsell-Produkt zu ihrer Checkout-Zusammenfassung hinzuzufügen.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0AP7Ir7m2rK7syXr7GfSq03jtNLwd8fD_podKfOnafgeLrT7V7CPJGQg_8Gzt2jRgJZMRL4LZWA48b-jmUT_svF0oIF5fEqImQYclG6vy--7n-k3nyFT53WqWBLxDRHBXfJDh?key=AIxlYn9hwP4xvs3rgpboLynD" alt=""><figcaption></figcaption></figure>
 
-### 3. Color
+### 3. Farbe
 
-**Button Style:** The button to add the upsell product to the checkout summary.
+**Schaltflächenstil:** Die Schaltfläche, um das Upsell-Produkt zur Checkout-Zusammenfassung hinzuzufügen.
 
-**Background Color:** The background color of the upsell widget.
+**Hintergrundfarbe:** Die Hintergrundfarbe des Upsell-Widgets.
 
-**Price Color:** The discounted price that the customer will pay.
+**Preisfarbe:** Der rabattierte Preis, den der Kunde zahlen wird.
 
-If you select **"Accent Color"** for the price, BOGOS will sync the price color with the accent color set in your checkout theme.
+Wenn Sie **„Akzentfarbe“** für den Preis auswählen, synchronisiert BOGOS die Preisfarbe mit der in Ihrem Checkout-Theme festgelegten Akzentfarbe.
 
-To change it, click at the blue sentence **“Setting your store accent color here”** to be redirected to your theme editor and then adjust the accent color you want.
+Um dies zu ändern, klicken Sie auf den blauen Satz **„Legen Sie hier die Akzentfarbe Ihres Shops fest“**, um zu Ihrem Theme-Editor weitergeleitet zu werden, und passen Sie dann die gewünschte Akzentfarbe an.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXffdG5Y3apCo_Z9Svo3jbIqL0TJorZfg6T3PU9F28M58zvYEp-wnARmEsNoeE5kpP3JcTrB1xTJX1HzKNRQgdXzOm8cYYyA_n73IdFiVNY-9zda--xZGHc2PWBuBCAq2JpcQVLALQ?key=AIxlYn9hwP4xvs3rgpboLynD" alt=""><figcaption></figcaption></figure>

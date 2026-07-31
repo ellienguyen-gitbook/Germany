@@ -4,127 +4,127 @@ description: >-
   to target the right customer segments.
 ---
 
-# How to Add BOGOS Sub-conditions to Bundle, Upsell, Discount?
+# Wie fügt man BOGOS-Unterbedingungen zu Bundle, Upsell, Rabatt hinzu?
 
-Overall, sub-conditions **add extra rules to decide who can see and get your offers**. Therefore, only targeted customers can see and apply the offer, while others won't see it at all.
+Insgesamt fügen Unterbedingungen **zusätzliche Regeln hinzu, um zu entscheiden, wer Ihre Angebote sehen und erhalten kann**. Dadurch können nur die angesprochenen Kunden das Angebot sehen und anwenden, während andere es überhaupt nicht sehen.
 
 <figure><img src="../../.gitbook/assets/unknown (148).png" alt="" width="503"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-* These sub-conditions are optional. If you don't add any, the offer will be available to all customers.
-* You can combine multiple sub-conditions in one offer. Customers must meet all of them to qualify for your offer.
+* Diese Unterbedingungen sind optional. Wenn Sie keine hinzufügen, ist das Angebot für alle Kunden verfügbar.
+* Sie können mehrere Unterbedingungen in einem Angebot kombinieren. Kunden müssen alle davon erfüllen, um für Ihr Angebot qualifiziert zu sein.
 {% endhint %}
 
-### Feature List Overview
+### Übersicht der Funktionsliste
 
-See this feature list to understand which sub-conditions are available for each offer type before setting up your promotion:
+Sehen Sie sich diese Funktionsliste an, um zu verstehen, welche Unterbedingungen für jeden Angebotstyp verfügbar sind, bevor Sie Ihre Aktion einrichten:
 
 <figure><img src="../../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure>
 
-_**\*Upsell Trigger:** Set these conditions in Upsell Trigger → Customer trigger in_ [_Checkout Upsell_](../upsell-offer/create-checkout-upsell.md#id-2.4-customer-trigger) _or_ [_Thank You Page Upsell_](../upsell-offer/create-thank-you-page-upsell.md#customer-trigger) _set up, not in the sub-conditions section._
+_**\*Upsell-Auslöser:** Legen Sie diese Bedingungen im Upsell-Auslöser → Kundenauslöser in der Einrichtung von_ [_Checkout-Upsell_](../upsell-offer/create-checkout-upsell.md#id-2.4-customer-trigger) _oder_ [_Danke-Seite-Upsell_](../upsell-offer/create-thank-you-page-upsell.md#customer-trigger) _fest, nicht im Bereich der Unterbedingungen._
 
-### 1. Specific Link Address
+### 1. Spezifische Linkadresse
 
-This condition only allows customers who access your store through a specific link to get your offers. Use this for email campaigns, social media posts, or influencer partnerships to target specific traffic sources.
+Diese Bedingung erlaubt nur Kunden, die Ihren Shop über einen bestimmten Link aufrufen, Ihre Angebote zu erhalten. Verwenden Sie dies für E-Mail-Kampagnen, Social-Media-Beiträge oder Influencer-Partnerschaften, um bestimmte Traffic-Quellen anzusprechen.
 
 <figure><img src="../../.gitbook/assets/unknown (149).png" alt=""><figcaption></figcaption></figure>
 
-_**Create a specific link address for an offer:**_
+_**Eine spezifische Linkadresse für ein Angebot erstellen:**_
 
-1. _Choose a link destination:_ Select where customers should land (home page, collection page, or product page).
-2. _Enter a word to customize_ (e.g., summersale2024): This creates a unique link for your campaign.
-3. _Copy the link generated:_ Copy and share this link in your marketing campaigns. Customers who access your store via this link will get your offers.
+1. _Wählen Sie ein Linkziel:_ Wählen Sie aus, wo Kunden landen sollen (Startseite, Sammlungsseite oder Produktseite).
+2. _Geben Sie ein anzupassendes Wort ein_ (z. B. summersale2024): Dies erstellt einen eindeutigen Link für Ihre Kampagne.
+3. _Kopieren Sie den generierten Link:_ Kopieren und teilen Sie diesen Link in Ihren Marketingkampagnen. Kunden, die über diesen Link auf Ihren Shop zugreifen, erhalten Ihre Angebote.
 
-_**Create many link destinations for an offer:**_
+_**Mehrere Linkziele für ein Angebot erstellen:**_
 
-If you want to have multiple link destinations (not just the one selected above), for example, use this when your campaign promotes multiple products, and you want customers to enter from different product links to get your offer, follow these steps:
+Wenn Sie mehrere Linkziele haben möchten (nicht nur das oben ausgewählte), zum Beispiel wenn Ihre Kampagne mehrere Produkte bewirbt und Sie möchten, dass Kunden über verschiedene Produktlinks einsteigen, um Ihr Angebot zu erhalten, folgen Sie diesen Schritten:
 
-1. _Repeat steps_ to create a specific link address for an offer
-2. _**Copy the parameter**_ and add it to the end of each link.
+1. _Wiederholen Sie die Schritte_ zur Erstellung einer spezifischen Linkadresse für ein Angebot
+2. _**Kopieren Sie den Parameter**_ und fügen Sie ihn am Ende jedes Links hinzu.
 
 {% hint style="info" %}
-If your URL already includes a “?” symbol, **change the “?” in the parameter to “&”.** Examples:
+Wenn Ihre URL bereits ein „?“-Symbol enthält, **ändern Sie das „?“ im Parameter in „&“.** Beispiele:
 
-* Original URL with “?”: https://yourstore.com/product?variant=12345
-* URL with correct parameter: https://yourstore.com/product?variant=1234&#x35;**&**&#x66;reegifts\_code=summersale2024
-* URL with wrong parameter: https://yourstore.com/product?variant=1234&#x35;**?**&#x66;reegifts\_code=summersale2024
+* Ursprüngliche URL mit „?“: https://yourstore.com/product?variant=12345
+* URL mit korrektem Parameter: https://yourstore.com/product?variant=1234&#x35;**&**&#x66;reegifts\_code=summersale2024
+* URL mit falschem Parameter: https://yourstore.com/product?variant=1234&#x35;**?**&#x66;reegifts\_code=summersale2024
 {% endhint %}
 
-### 2. Customers' order history
+### 2. Bestellhistorie der Kunden
 
-This sub-condition targets customers based on their purchase history. Only customers who meet the order requirements you set will be eligible for the offer.
+Diese Unterbedingung spricht Kunden basierend auf ihrer Kaufhistorie an. Nur Kunden, die die von Ihnen festgelegten Bestellanforderungen erfüllen, sind für das Angebot qualifiziert.
 
 {% hint style="info" %}
-This sub-condition requires customers to log in to your store.
+Diese Unterbedingung erfordert, dass Kunden sich in Ihrem Shop anmelden.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (150).png" alt="" width="426"><figcaption></figcaption></figure>
 
-1. **Select when order was created from:** Set a date range to apply the conditions you select below within that timeframe, or leave it blank to apply them across all time.
-2. **Select the conditions you want to apply:**
+1. **Wählen Sie, ab wann die Bestellung erstellt wurde:** Legen Sie einen Datumsbereich fest, um die unten ausgewählten Bedingungen innerhalb dieses Zeitraums anzuwenden, oder lassen Sie es leer, um sie über den gesamten Zeitraum anzuwenden.
+2. **Wählen Sie die Bedingungen aus, die Sie anwenden möchten:**
 
-* _Total spent in order history:_ Target customers based on their total spend on your store (e.g., reward high-spending, VIP customers).
-* _Total spent on last order:_ Target customers based on their most recent order value. (e.g., low spender).
-* _Total number of orders placed:_ Target customers based on how many orders they’ve made (e.g., first-time or repeat buyers).
-* _Limit a number of uses per customer:_ Set how many times each customer can use the offer. After reaching the limit, they won’t qualify again.
+* _Gesamtausgaben in der Bestellhistorie:_ Sprechen Sie Kunden basierend auf ihren Gesamtausgaben in Ihrem Shop an (z. B. Belohnung für ausgabefreudige VIP-Kunden).
+* _Gesamtausgaben der letzten Bestellung:_ Sprechen Sie Kunden basierend auf dem Wert ihrer letzten Bestellung an (z. B. Kunden mit geringen Ausgaben).
+* _Gesamtanzahl aufgegebener Bestellungen:_ Sprechen Sie Kunden basierend auf der Anzahl ihrer Bestellungen an (z. B. Erstkäufer oder Stammkunden).
+* _Anzahl der Nutzungen pro Kunde begrenzen:_ Legen Sie fest, wie oft jeder Kunde das Angebot nutzen kann. Nach Erreichen des Limits qualifizieren sie sich nicht erneut.
 
-### 3. Customer tags
+### 3. Kundentags
 
-This sub-condition lets you control who can receive an offer based on customer tags you set up, such as VIP, wholesale, or low spenders.
+Mit dieser Unterbedingung können Sie steuern, wer ein Angebot erhalten kann, basierend auf den von Ihnen eingerichteten Kundentags, wie z. B. VIP, Großhandel oder Kunden mit geringen Ausgaben.
 
 {% hint style="info" %}
-* Customer tags must be set up in your Shopify admin under Customers before being used in BOGOS.
-* This sub-condition requires customers to log in to your store.
+* Kundentags müssen in Ihrem Shopify-Admin unter Kunden eingerichtet werden, bevor sie in BOGOS verwendet werden können.
+* Diese Unterbedingung erfordert, dass Kunden sich in Ihrem Shop anmelden.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (151).png" alt=""><figcaption></figcaption></figure>
 
-_**▶ To show offers to specific customer tags:**_
+_**▶ So zeigen Sie Angebote für bestimmte Kundentags an:**_
 
-1. _Select tags:_ Enter the customer tags you want to target (e.g., VIP, wholesale, low spender).
-2. BOGOS will apply the offer only to customers whose accounts match these tags.
+1. _Tags auswählen:_ Geben Sie die Kundentags ein, die Sie ansprechen möchten (z. B. VIP, Großhandel, Kunden mit geringen Ausgaben).
+2. BOGOS wendet das Angebot nur auf Kunden an, deren Konten mit diesen Tags übereinstimmen.
 
-_**▶ To exclude offers from specific customer tags:**_
+_**▶ So schließen Sie Angebote für bestimmte Kundentags aus:**_
 
-1. _Select tags:_ Enter the customer tags you want to exclude (e.g., VIP, wholesale, low spender).
-2. _Exclude customers with these tags:_ Customers with the selected tags will not receive the offer. The offer will apply to all other logged-in customers.
-3. _Consider no-login as a customer with no tags (recommended):_ Turn this on to **allow not logged-in** customers to receive the offer as well.
+1. _Tags auswählen:_ Geben Sie die Kundentags ein, die Sie ausschließen möchten (z. B. VIP, Großhandel, Kunden mit geringen Ausgaben).
+2. _Kunden mit diesen Tags ausschließen:_ Kunden mit den ausgewählten Tags erhalten das Angebot nicht. Das Angebot gilt für alle anderen angemeldeten Kunden.
+3. _Nicht angemeldete Nutzer als Kunden ohne Tags betrachten (empfohlen):_ Aktivieren Sie dies, um **auch nicht angemeldeten** Kunden zu erlauben, das Angebot zu erhalten.
 
-### 4. Customer location
+### 4. Kundenstandort
 
-This sub-condition lets you control who can receive an offer based on the customer’s location, helping you run location-specific promotions.
+Mit dieser Unterbedingung können Sie steuern, wer ein Angebot erhalten kann, basierend auf dem Standort des Kunden, sodass Sie standortspezifische Aktionen durchführen können.
 
 {% hint style="info" %}
-If you have set up Shopify Markets and want to apply offers to them, use the [Markets sub-condition](how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md#id-5.-markets) instead.
+Wenn Sie Shopify Markets eingerichtet haben und Angebote darauf anwenden möchten, verwenden Sie stattdessen die [Markets-Unterbedingung](how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md#id-5.-markets).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (152).png" alt=""><figcaption></figcaption></figure>
 
-▶ **To show offers to specific locations:**<br>
+▶ **So zeigen Sie Angebote für bestimmte Standorte an:**<br>
 
-1. _Select location:_ Choose one or more countries where the offer should apply (e.g., France).
-2. _BOGOS will check_ the **customer’s IP address** and apply the offer only if their country matches the selected locations.
+1. _Standort auswählen:_ Wählen Sie ein oder mehrere Länder aus, in denen das Angebot gelten soll (z. B. Frankreich).
+2. _BOGOS prüft_ die **IP-Adresse des Kunden** und wendet das Angebot nur an, wenn dessen Land mit den ausgewählten Standorten übereinstimmt.
 
-**▶ To exclude offers from specific locations:**
+**▶ So schließen Sie Angebote für bestimmte Standorte aus:**
 
-1. _Select location:_ Choose the countries you want to exclude (e.g., France).
-2. _Exclude customers from selected locations:_ Prevent customers from selected locations from receiving the offer. The offer will apply to customers from all other locations instead.
+1. _Standort auswählen:_ Wählen Sie die Länder aus, die Sie ausschließen möchten (z. B. Frankreich).
+2. _Kunden von ausgewählten Standorten ausschließen:_ Verhindern Sie, dass Kunden aus ausgewählten Standorten das Angebot erhalten. Das Angebot gilt stattdessen für Kunden aus allen anderen Standorten.
 
 ### 5. Markets
 
-This sub-condition syncs with your Shopify Markets setup to decide which customers can receive an offer.
+Diese Unterbedingung synchronisiert sich mit Ihrer Shopify-Markets-Einrichtung, um zu entscheiden, welche Kunden ein Angebot erhalten können.
 
 {% hint style="info" %}
-Shopify Markets must be set up in your Shopify admin before being used in BOGOS.
+Shopify Markets muss in Ihrem Shopify-Admin eingerichtet werden, bevor es in BOGOS verwendet werden kann.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (153).png" alt=""><figcaption></figcaption></figure>
 
-**▶ To show offers to specific markets:**
+**▶ So zeigen Sie Angebote für bestimmte Märkte an:**
 
-1. _Select markets:_ Choose one or more Shopify Markets (for example: Europe, Asia).
+1. _Märkte auswählen:_ Wählen Sie einen oder mehrere Shopify Markets aus (zum Beispiel: Europa, Asien).
 
-**▶ To exclude offers from specific markets:**
+**▶ So schließen Sie Angebote für bestimmte Märkte aus:**
 
-1. _Select markets:_ Choose the markets you want to exclude (for example: Europe, Asia).
-2. _Exclude customers from selected markets:_ Enable it to prevent customers from the selected markets from receiving the offer. The offer will apply to customers from all other markets instead.
+1. _Märkte auswählen:_ Wählen Sie die Märkte aus, die Sie ausschließen möchten (zum Beispiel: Europa, Asien).
+2. _Kunden von ausgewählten Märkten ausschließen:_ Aktivieren Sie dies, um zu verhindern, dass Kunden aus den ausgewählten Märkten das Angebot erhalten. Das Angebot gilt stattdessen für Kunden aus allen anderen Märkten.

@@ -1,92 +1,92 @@
-# Customize Today offer (old version)
+# Heute-Angebot anpassen (alte Version)
 
-Today offer widget shows the currently available offers for customers on the Online store. The widget notifies customers of ongoing promotions and encourages them to take advantage of these offers to.
+Das Heute-Angebot-Widget zeigt Kunden im Onlineshop die aktuell verfügbaren Angebote an. Das Widget informiert Kunden über laufende Aktionen und ermutigt sie, diese Angebote zu nutzen.
 
 {% embed url="https://youtu.be/Cln7YR8BSGE" %}
 
 {% hint style="warning" %}
-This is the old version of Today Offer widget. While you can still set it up (for those who are currently using it only), we highly recommend you [set up the latest version](../boosters/create-today-offer-widget.md).
+Dies ist die alte Version des Heute-Angebot-Widgets. Sie können es zwar weiterhin einrichten (nur für diejenigen, die es derzeit verwenden), wir empfehlen jedoch dringend, [die neueste Version einzurichten](../boosters/create-today-offer-widget.md).
 {% endhint %}
 
-## 1. Different components of the Today offer widget <a href="#how-to-enable-the-widget" id="how-to-enable-the-widget"></a>
+## 1. Verschiedene Komponenten des Heute-Angebot-Widgets <a href="#how-to-enable-the-widget" id="how-to-enable-the-widget"></a>
 
-### 1.1. Activate the Today offer widget
+### 1.1. Aktivieren des Heute-Angebot-Widgets
 
-The widget is deactivated by default in your store. To disable/enable it, navigate to General > Activate widget.
+Das Widget ist in Ihrem Shop standardmäßig deaktiviert. Um es zu deaktivieren/aktivieren, navigieren Sie zu Allgemein > Widget aktivieren.
 
 <figure><img src="../../.gitbook/assets/Group 211.png" alt=""><figcaption></figcaption></figure>
 
-### 1.2. Activate the gift notification&#x20;
+### 1.2. Aktivieren der Geschenkbenachrichtigung&#x20;
 
-Gift notification is a syntax-based text that informs your customers of the **number of gifts** and the **discounts** they would receive for each offer. Gift notification [can be edited](customize-today-offer-old-version.md#widget-info).
+Die Geschenkbenachrichtigung ist ein syntaxbasierter Text, der Ihre Kunden über die **Anzahl der Geschenke** und die **Rabatte** informiert, die sie für jedes Angebot erhalten würden. Die Geschenkbenachrichtigung [kann bearbeitet werden](customize-today-offer-old-version.md#widget-info).
 
-To turn Gift notification on, in the same General menu, click on 'Activate gift notification'.
+Um die Geschenkbenachrichtigung zu aktivieren, klicken Sie im selben Menü Allgemein auf „Geschenkbenachrichtigung aktivieren“.
 
 <figure><img src="../../.gitbook/assets/Group 208.png" alt=""><figcaption></figcaption></figure>
 
-### 1.3. Display gift preview
+### 1.3. Geschenkvorschau anzeigen
 
-Gift preview gives your customers a 'sneak-peak' of the gifts they would receive for each offer.
+Die Geschenkvorschau gibt Ihren Kunden einen kleinen Einblick in die Geschenke, die sie für jedes Angebot erhalten würden.
 
-There are some customizable options:
+Es gibt einige anpassbare Optionen:
 
-* Display gift by product or by variant
-* The number of gifts displayed each offer: Maximum number of gifts per offer before 'See more' buttons appears. When your customers click on a 'See more' button, all the gifts of that offer will show within the widget.
+* Geschenk nach Produkt oder nach Variante anzeigen
+* Die Anzahl der angezeigten Geschenke pro Angebot: Maximale Anzahl an Geschenken pro Angebot, bevor die Schaltfläche „Mehr anzeigen“ erscheint. Wenn Ihre Kunden auf die Schaltfläche „Mehr anzeigen“ klicken, werden alle Geschenke dieses Angebots innerhalb des Widgets angezeigt.
 
 <figure><img src="../../.gitbook/assets/Group 209.png" alt=""><figcaption></figcaption></figure>
 
-### 1.4. Add a "Get offer" button
+### 1.4. Eine „Angebot erhalten“-Schaltfläche hinzufügen
 
-This button redirects your customers to a link that you add to make your Today offer a more converting widget.
+Diese Schaltfläche leitet Ihre Kunden zu einem von Ihnen hinzugefügten Link weiter, um Ihr Heute-Angebot in ein konversionsstärkeres Widget zu verwandeln.
 
-This is not added directly in Customize, but rather in the Create offer screen. Please follow [this instruction](../gift-offer/#id-5.3.-today-offer).
+Dies wird nicht direkt unter Anpassen hinzugefügt, sondern auf dem Bildschirm „Angebot erstellen“. Bitte folgen Sie [dieser Anleitung](../gift-offer/#id-5.3.-today-offer).
 
 <figure><img src="../../.gitbook/assets/Group 208 (1).png" alt=""><figcaption></figcaption></figure>
 
-Here is what the full version of Today offer widget looks like on your storefront:
+So sieht die Vollversion des Heute-Angebot-Widgets in Ihrem Onlineshop aus:
 
 <figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
-## 2. Customization options <a href="#customization-options" id="customization-options"></a>
+## 2. Anpassungsoptionen <a href="#customization-options" id="customization-options"></a>
 
-### 2.1. Widget icon <a href="#widget-icon" id="widget-icon"></a>
+### 2.1. Widget-Symbol <a href="#widget-icon" id="widget-icon"></a>
 
-* Activate widget: Show Today offer widget on Online store
-* Select icon: Select from a set of default BOGOS icons or upload your own custom one
-* Widget style: Show only icon or with title text
-* Icon position: Choose a position that fits your store (bottom right or bottom left)
+* Widget aktivieren: Zeigt das Heute-Angebot-Widget im Onlineshop an
+* Symbol auswählen: Wählen Sie aus einer Reihe von Standard-BOGOS-Symbolen aus oder laden Sie Ihr eigenes benutzerdefiniertes Symbol hoch
+* Widget-Stil: Nur Symbol oder mit Titeltext anzeigen
+* Symbolposition: Wählen Sie eine Position, die zu Ihrem Shop passt (unten rechts oder unten links)
 
-### 2.2. Widget info <a href="#widget-info" id="widget-info"></a>
+### 2.2. Widget-Informationen <a href="#widget-info" id="widget-info"></a>
 
-Customize general information about the Today offer widget here:
+Passen Sie hier allgemeine Informationen zum Heute-Angebot-Widget an:
 
-* Header text: Choose a header that's captivating to your customers
-* Description text: Write a brief, captivating description about your campaigns
-* Gift notification: A fixed element that appears on every offer on the widget, showing the number of gifts and the discount amount of that offer.
+* Überschrift: Wählen Sie eine Überschrift, die Ihre Kunden fesselt
+* Beschreibungstext: Schreiben Sie eine kurze, fesselnde Beschreibung Ihrer Kampagnen
+* Geschenkbenachrichtigung: Ein festes Element, das bei jedem Angebot im Widget erscheint und die Anzahl der Geschenke sowie den Rabattbetrag dieses Angebots anzeigt.
 
-### 2.3. Color <a href="#color" id="color"></a>
+### 2.3. Farbe <a href="#color" id="color"></a>
 
-Change the color so it matches your store branding.
+Ändern Sie die Farbe, damit sie zu Ihrem Shop-Branding passt.
 
-Background color
+Hintergrundfarbe
 
-* Header background: Customize the background color of the header section.
-* Body background: Set the background color for the body of the widget.
+* Header-Hintergrund: Passen Sie die Hintergrundfarbe des Kopfbereichs an.
+* Körperhintergrund: Legen Sie die Hintergrundfarbe für den Hauptteil des Widgets fest.
 
-Title color
+Titelfarbe
 
-* Header text: Adjust the color of the header text displayed in the widget.
-* Description text: Modify the color of the descriptive text beneath the header.
+* Überschrift: Passen Sie die Farbe der im Widget angezeigten Überschrift an.
+* Beschreibungstext: Ändern Sie die Farbe des Beschreibungstexts unterhalb der Überschrift.
 
-Offer color
+Angebotsfarbe
 
-* Offer title: Change the color of the title for each offer listed in the widget.
-* Gift notification color: Set the color for the notification icon that highlights gifts.
-* Product title: Customize the color of the product title displayed in the offer.
-* Product discount price: Adjust the color of the discounted product price.
-* Product original price: Set the color for the original price of the product (strikethrough).
+* Angebotstitel: Ändern Sie die Farbe des Titels für jedes im Widget aufgeführte Angebot.
+* Farbe der Geschenkbenachrichtigung: Legen Sie die Farbe für das Benachrichtigungssymbol fest, das Geschenke hervorhebt.
+* Produkttitel: Passen Sie die Farbe des im Angebot angezeigten Produkttitels an.
+* Produktrabattpreis: Passen Sie die Farbe des rabattierten Produktpreises an.
+* Ursprünglicher Produktpreis: Legen Sie die Farbe für den ursprünglichen Preis des Produkts fest (durchgestrichen).
 
-Offer status color
+Angebotsstatusfarbe
 
-* Default offer: Specify the color for offers in their default state (inactive).
-* Success offer: Change the color for offers that meet the conditions (active).
+* Standardangebot: Legen Sie die Farbe für Angebote in ihrem Standardzustand fest (inaktiv).
+* Erfolgreiches Angebot: Ändern Sie die Farbe für Angebote, die die Bedingungen erfüllen (aktiv).

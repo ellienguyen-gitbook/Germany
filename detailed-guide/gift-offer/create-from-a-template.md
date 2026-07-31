@@ -1,28 +1,28 @@
-# Create from a template
+# Aus einer Vorlage erstellen
 
-There are 5 templates for you to consider when creating a gift offer from a template:
+Bei der Erstellung eines Geschenkangebots aus einer Vorlage stehen Ihnen 5 Vorlagen zur Auswahl:
 
-* Spend X amount to get gift(s)
-* Free sample with purchase&#x20;
-* BOGO (Buy 1 get 1 the same)
-* BXGY (Buy X get Y)
-* Spend more get more
+* X-Betrag ausgeben, um Geschenk(e) zu erhalten
+* Gratisprobe beim Kauf&#x20;
+* BOGO (Kaufe 1, erhalte 1 gleiches)
+* BXGY (Kaufe X, erhalte Y)
+* Mehr ausgeben, mehr erhalten
 
 <figure><img src="../../.gitbook/assets/image (431).png" alt=""><figcaption></figcaption></figure>
 
-Learn how to create a gift offer from a universal template with BOGOS by taking the following steps.&#x20;
+Erfahren Sie, wie Sie mit BOGOS ein Geschenkangebot aus einer universellen Vorlage erstellen, indem Sie die folgenden Schritte ausführen.&#x20;
 
-Before you begin, make sure you have the BOGOS app installed in your online store.&#x20;
+Bevor Sie beginnen, stellen Sie sicher, dass die BOGOS-App in Ihrem Online-Shop installiert ist.&#x20;
 
-**Step 1**: To start with, let’s navigate to your BOGOS dashboard, choose Create offer, and click Gift offer.
+**Schritt 1**: Navigieren Sie zunächst zu Ihrem BOGOS-Dashboard, wählen Sie Angebot erstellen und klicken Sie auf Geschenkangebot.
 
 <figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2**: In the Create gift offer section, select a template for your campaign and click Create offer.
+**Schritt 2**: Wählen Sie im Bereich Geschenkangebot erstellen eine Vorlage für Ihre Kampagne aus und klicken Sie auf Angebot erstellen.
 
 <figure><img src="../../.gitbook/assets/image (432).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you can't find your preferred template or want to customize one to match your brand, feel free to contact our support team.
+Wenn Sie Ihre bevorzugte Vorlage nicht finden können oder eine Vorlage an Ihre Marke anpassen möchten, kontaktieren Sie gerne unser Support-Team.
 {% endhint %}
 

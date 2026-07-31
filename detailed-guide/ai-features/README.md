@@ -1,2 +1,2 @@
-# AI Features
+# KI-Funktionen
 

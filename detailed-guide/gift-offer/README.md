@@ -2,69 +2,68 @@
 description: An overview of creating a Gift offer
 ---
 
-# Gift offer
+# Geschenkangebot
 
-Discover how to create powerful free gifts that reach the right audiences and grow your business with BOGOS.&#x20;
+Entdecken Sie, wie Sie leistungsstarke kostenlose Geschenke erstellen, die die richtige Zielgruppe erreichen und Ihr Geschäft mit BOGOS wachsen lassen.&#x20;
 
-Start with our guide on creating gift offers and exploring key features.
+Beginnen Sie mit unserer Anleitung zum Erstellen von Geschenkangeboten und erkunden Sie die wichtigsten Funktionen.
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-### 1. Offer types
+### 1. Angebotstypen
 
-#### **1.1. Spend X amount to get gift(s)**&#x20;
+#### **1.1. X Betrag ausgeben, um Geschenk(e) zu erhalten**&#x20;
 
-This offer helps you attract customers by offering a $ or % off if they spend a certain amount on an order.
+Dieses Angebot hilft Ihnen, Kunden zu gewinnen, indem Sie einen $- oder %-Rabatt anbieten, wenn sie einen bestimmten Betrag in einer Bestellung ausgeben.
 
-_Example: Get a free tote bag when you spend $50 or more._
+_Beispiel: Erhalten Sie eine kostenlose Stofftasche, wenn Sie 50 $ oder mehr ausgeben._
 
-#### 1.2. Free sample with purchase
+#### 1.2. Kostenlose Probe beim Kauf
 
-Free sample with purchase offers give customers a free gift when they purchase or meet a specific spending threshold.
+„Kostenlose Probe beim Kauf“-Angebote geben Kunden ein kostenloses Geschenk, wenn sie kaufen oder einen bestimmten Ausgabenschwellenwert erreichen.
 
-_Example: Get a free refill with any cushion purchase._
+_Beispiel: Erhalten Sie eine kostenlose Nachfüllung bei jedem Kissenkauf._
 
-#### **1.3. Buy one get one**
+#### **1.3. Kaufen Sie eins, erhalten Sie eins**
 
-Buy one get one offer is when customers purchase one item and receive an additional product, either free or at a discount.
+Beim „Kaufen Sie eins, erhalten Sie eins“-Angebot kaufen Kunden einen Artikel und erhalten ein zusätzliches Produkt, entweder kostenlos oder vergünstigt.
 
-_Example: Buy one T-shirt, get another one free._
+_Beispiel: Kaufen Sie ein T-Shirt, erhalten Sie ein weiteres gratis._
 
-#### **1.4. Buy X get Y**&#x20;
+#### **1.4. Kaufen Sie X, erhalten Sie Y**&#x20;
 
-This offer allows customers to receive a discount or a free product (Y) when they purchase a certain quantity or type of product (X).
+Dieses Angebot ermöglicht es Kunden, einen Rabatt oder ein kostenloses Produkt (Y) zu erhalten, wenn sie eine bestimmte Menge oder Art von Produkt (X) kaufen.
 
-_Example: Buy 2 shampoos, get a conditioner for free._
+_Beispiel: Kaufen Sie 2 Shampoos, erhalten Sie eine Spülung gratis._
 
-#### **1.5. Spend more get more**
+#### **1.5. Mehr ausgeben, mehr erhalten**
 
-This offer type encourages customers to increase their order value to get better rewards or discounts as they spend more.&#x20;
+Dieser Angebotstyp ermutigt Kunden, ihren Bestellwert zu erhöhen, um bessere Prämien oder Rabatte zu erhalten, je mehr sie ausgeben.&#x20;
 
-_Example: Spend $100 and get 10% off, spend $200 and get 20% off._
+_Beispiel: Geben Sie 100 $ aus und erhalten Sie 10 % Rabatt, geben Sie 200 $ aus und erhalten Sie 20 % Rabatt._
 
-### 2. Key features&#x20;
+### 2. Wichtige Funktionen&#x20;
 
-#### **2.1. Main condition**&#x20;
+#### **2.1. Hauptbedingung**&#x20;
 
 <figure><img src="../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
 
 
 
-* Cart value condition: Minimum or maximum cart value customers need to reach to get the gift of the offer.
-* Cart quanlity condition: Minimum or maximum cart quantity customers need to reach to get the gift of the offer.
-* Specific product condition: This feature lets you set conditions for selected products, including required quantities, gift multipliers per purchase, and options to match gifts with selected products.
-* Cart value multiplier condition: The value that customers need to reach to get the gift will be multiplied by more gifts.
-* Pack of product condition: Customers will get the gifts only when they purchase all the selected products.
+* Warenkorbwert-Bedingung: Mindest- oder Höchstwarenkorbwert, den Kunden erreichen müssen, um das Geschenk des Angebots zu erhalten.
+* Warenkorbmengen-Bedingung: Mindest- oder Höchstwarenkorbmenge, die Kunden erreichen müssen, um das Geschenk des Angebots zu erhalten.
+* Spezifisches Produkt-Bedingung: Mit dieser Funktion können Sie Bedingungen für ausgewählte Produkte festlegen, einschließlich erforderlicher Mengen, Geschenkmultiplikatoren pro Kauf und Optionen zur Zuordnung von Geschenken zu ausgewählten Produkten.
+* Warenkorbwert-Multiplikator-Bedingung: Der Wert, den Kunden erreichen müssen, um das Geschenk zu erhalten, wird mit weiteren Geschenken multipliziert.
+* Produktpaket-Bedingung: Kunden erhalten die Geschenke nur, wenn sie alle ausgewählten Produkte kaufen.
 
-#### **2.2. Sub-conditions**
+#### **2.2. Unterbedingungen**
 
 <figure><img src="../../.gitbook/assets/unknown (104).png" alt="" width="454"><figcaption></figcaption></figure>
 
-* Specific link address: Only customers who access your store through a particular link can get gifts.
-* Customers’ order history: Only customers whose customer locations meet specific requirements can get gifts.
-* Customer tags: Only customers with specific tags can receive gifts.
-* Customer location: Only customers from a particular country can receive or not receive gifts.
-* Subscription products: Target specific customers by selecting either subscription or one-time purchase products.
-* Sales channels: Only customers purchasing products from a specific sales channel, such as an online store, mobile app, or point of sale, can be rewarded.
-* Markets: Your gifts are available only to customers from selected markets, synced with Shopify Market's data.
-
+* Spezifische Link-Adresse: Nur Kunden, die über einen bestimmten Link auf Ihren Shop zugreifen, können Geschenke erhalten.
+* Bestellhistorie der Kunden: Nur Kunden, deren Kundenstandorte bestimmte Anforderungen erfüllen, können Geschenke erhalten.
+* Kundentags: Nur Kunden mit bestimmten Tags können Geschenke erhalten.
+* Kundenstandort: Nur Kunden aus einem bestimmten Land können Geschenke erhalten oder davon ausgeschlossen werden.
+* Abonnementprodukte: Zielen Sie auf bestimmte Kunden ab, indem Sie entweder Abonnement- oder Einmalkaufprodukte auswählen.
+* Verkaufskanäle: Nur Kunden, die Produkte über einen bestimmten Verkaufskanal kaufen, wie zum Beispiel einen Onlineshop, eine Mobile App oder ein Point of Sale, können belohnt werden.
+* Märkte: Ihre Geschenke sind nur für Kunden aus ausgewählten Märkten verfügbar, synchronisiert mit den Daten von Shopify Markets.

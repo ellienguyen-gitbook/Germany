@@ -1,71 +1,71 @@
-# Customize Product Discount
+# Produktrabatt anpassen
 
-This doc explains how to customize the discount display of your product and the Countdown widget - helping you show the discounted price clearly and create urgency with a timer on your product pages.
+Dieses Dokument erklärt, wie Sie die Rabattanzeige Ihres Produkts und das Countdown-Widget anpassen – so zeigen Sie den rabattierten Preis klar an und schaffen mit einem Timer auf Ihren Produktseiten Dringlichkeit.
 
-Customizing these with BOGOS includes the 4 steps:
+Die Anpassung dieser Elemente mit BOGOS umfasst 4 Schritte:
 
-1. In BOGOS Admin, open Customize > Discount > Product Discount.
-2. [Customize the Countdown widget](customize-product-discount.md#customize-countdown-widget).
-3. [Customize the Discount price display](customize-product-discount.md#customize-discount-price-display).
-4. Click Save.
+1. Öffnen Sie im BOGOS-Admin Anpassen > Rabatt > Produktrabatt.
+2. [Passen Sie das Countdown-Widget an](customize-product-discount.md#customize-countdown-widget).
+3. [Passen Sie die Rabattpreisanzeige an](customize-product-discount.md#customize-discount-price-display).
+4. Klicken Sie auf Speichern.
 
-## Customize Countdown Widget
+## Countdown-Widget anpassen
 
-The Countdown widget appears on your product pages to show customers how much time is left on the discount, creating urgency to buy before the offer ends.
+Das Countdown-Widget erscheint auf Ihren Produktseiten und zeigt Kunden, wie viel Zeit für den Rabatt noch verbleibt, um Dringlichkeit zu schaffen, vor Ablauf des Angebots zu kaufen.
 
 ![](<../../.gitbook/assets/unknown (338).png>)
 
-### General
+### Allgemein
 
-* **Enable countdown widget**: Show the countdown timer on your product pages. The countdown displays based on your offer's Start/End time and Repeat discount in a time range settings.
-* **Widget style**: Choose between Bar (slim look) or Banner (more attention).
-* **Wrap number background**: Add a background block behind each countdown digit.
-* **Show labels** (for Banner widget style only): Enable to display text labels below each countdown unit. You can customize all the label text available.
-* **Widget border radius**: Drag the slider (0–24px) to adjust the corner roundness of the widget. The background behind each digit rounds at half that value automatically.
+* **Countdown-Widget aktivieren**: Zeigt den Countdown-Timer auf Ihren Produktseiten an. Der Countdown wird basierend auf der Start-/Endzeit Ihres Angebots und den Einstellungen für „Rabatt in einem Zeitraum wiederholen“ angezeigt.
+* **Widget-Stil**: Wählen Sie zwischen Leiste (schlankes Aussehen) oder Banner (mehr Aufmerksamkeit).
+* **Zahlenhintergrund umschließen**: Fügt einen Hintergrundblock hinter jeder Countdown-Ziffer hinzu.
+* **Beschriftungen anzeigen** (nur für den Banner-Widget-Stil): Aktivieren, um Textbeschriftungen unterhalb jeder Countdown-Einheit anzuzeigen. Sie können den gesamten verfügbaren Beschriftungstext anpassen.
+* **Widget-Randradius**: Ziehen Sie den Schieberegler (0–24 px), um die Eckenrundung des Widgets anzupassen. Der Hintergrund hinter jeder Ziffer wird automatisch mit der Hälfte dieses Werts abgerundet.
 
-### Color
+### Farbe
 
-BOGOS allows you to customize the colors of all elements with any of the 3 methods below:
+BOGOS ermöglicht Ihnen, die Farben aller Elemente mit einer der folgenden 3 Methoden anzupassen:
 
-* Choose a ready-made color set from the dropdown.
-* Manually adjust each color field for all the available colors.
-* Contact the BOGOS support team to get help with color customization.
+* Wählen Sie ein vorgefertigtes Farbset aus dem Dropdown-Menü.
+* Passen Sie jedes Farbfeld manuell an für alle verfügbaren Farben.
+* Kontaktieren Sie das BOGOS-Support-Team, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click Save when done.
+Klicken Sie auf Speichern, wenn Sie fertig sind.
 
-## Customize Discount Price Display
+## Rabattpreisanzeige anpassen
 
-The Discount price display appears on your product pages to show customers the discounted price and how much they are saving.
+Die Rabattpreisanzeige erscheint auf Ihren Produktseiten und zeigt Kunden den rabattierten Preis sowie ihre Ersparnis an.
 
 ![](<../../.gitbook/assets/unknown (340).png>)
 
-#### General
+#### Allgemein
 
-* **Custom discount price display**: Enable to show the discounted price in a compared-at price style.&#x20;
+* **Benutzerdefinierte Rabattpreisanzeige**: Aktivieren, um den rabattierten Preis im Stil eines Vergleichspreises anzuzeigen.&#x20;
 
 {% hint style="warning" %}
-If turned off, the product page only shows the original price until it’s added to cart.
+Wenn deaktiviert, zeigt die Produktseite nur den Originalpreis an, bis das Produkt zum Warenkorb hinzugefügt wird.
 {% endhint %}
 
-* **Show discount label**: Show a label next to the price to display the discount. When enabled, set:
-* **Discount label**: The discount text shown on the label. Use \{{discount\_amount\}} to dynamically display the discount value (e.g., "10% OFF").
+* **Rabattlabel anzeigen**: Zeigt ein Label neben dem Preis an, um den Rabatt darzustellen. Bei Aktivierung legen Sie fest:
+* **Rabattlabel**: Der auf dem Label angezeigte Rabatttext. Verwenden Sie \{{discount\_amount\}}, um den Rabattwert dynamisch anzuzeigen (z. B. „10 % RABATT“).
 
-#### Typography
+#### Typografie
 
-* **Discount price**: Set the font size and weight (Regular or Bold) for the discounted price.
-* **Original price**: Set the font size and weight (Regular or Bold) for the original price.
-* **Cross out original price**: Enable to display the original price with a strikethrough (e.g., $165).
+* **Rabattpreis**: Legen Sie Schriftgröße und -stärke (Normal oder Fett) für den rabattierten Preis fest.
+* **Originalpreis**: Legen Sie Schriftgröße und -stärke (Normal oder Fett) für den Originalpreis fest.
+* **Originalpreis durchstreichen**: Aktivieren, um den Originalpreis durchgestrichen anzuzeigen (z. B. 165 $).
 
-#### Color
+#### Farbe
 
-BOGOS allows you to customize the colors of all elements with any of the 3 methods below:
+BOGOS ermöglicht Ihnen, die Farben aller Elemente mit einer der folgenden 3 Methoden anzupassen:
 
-* Choose a ready-made color set from the dropdown.
-* Manually adjust each color field for all the available colors.
-* Contact the BOGOS support team to get help with color customization.
+* Wählen Sie ein vorgefertigtes Farbset aus dem Dropdown-Menü.
+* Passen Sie jedes Farbfeld manuell an für alle verfügbaren Farben.
+* Kontaktieren Sie das BOGOS-Support-Team, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click Save when done.
+Klicken Sie auf Speichern, wenn Sie fertig sind.
 
-### Need Help?
+### Brauchen Sie Hilfe?
 
-If you need any assistance, feel free to reach out to our customer support team via live chat within our BOGOS app.
+Wenn Sie Unterstützung benötigen, wenden Sie sich gerne über den Live-Chat innerhalb unserer BOGOS-App an unser Kundensupport-Team.

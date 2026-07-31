@@ -1,78 +1,78 @@
-# Customize Variant input
+# Variantenauswahl anpassen
 
-This is where you choose how your product variants appear to customers.
+Hier legen Sie fest, wie Ihre Produktvarianten Kunden angezeigt werden.
 
-You have two display options: **Show by variants** and **Show by options**.
+Sie haben zwei Anzeigeoptionen: **Nach Varianten anzeigen** und **Nach Optionen anzeigen**.
 
-### **1. Show by variants**
+### **1. Nach Varianten anzeigen**
 
 <figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
-This option uses a dropdown menu for selecting product variants.
+Diese Option verwendet ein Dropdown-Menü zur Auswahl von Produktvarianten.
 
-You can easily change this widget's background color by navigating to **Default display** -> **Active item background** and changing the color.
+Sie können die Hintergrundfarbe dieses Widgets ganz einfach ändern, indem Sie zu **Standardanzeige** -> **Hintergrund des aktiven Elements** navigieren und die Farbe ändern.
 
 <figure><img src="../../.gitbook/assets/Card (3).png" alt=""><figcaption></figcaption></figure>
 
-### 2. Show by options
+### 2. Nach Optionen anzeigen
 
 <figure><img src="../../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
-There are two display options for you to choose from.&#x20;
+Es gibt zwei Anzeigeoptionen zur Auswahl.&#x20;
 
-* **Default display**: This shows variant values as labeled rectangular buttons.
+* **Standardanzeige**: Zeigt Variantenwerte als beschriftete rechteckige Schaltflächen an.
 
 <figure><img src="../../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
 
 
-* **Advanced display**: This shows variants as color swatches or image thumbnails.
+* **Erweiterte Anzeige**: Zeigt Varianten als Farbmuster oder Bild-Thumbnails an.
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/image (373).png" alt="" width="504"><figcaption></figcaption></figure></div>
 
-If you want to customize the default option, simply go to **Default display** and adjust the color for each element.
+Wenn Sie die Standardoption anpassen möchten, gehen Sie einfach zu **Standardanzeige** und passen Sie die Farbe für jedes Element an.
 
 <figure><img src="../../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
 
-When it comes to the **Advanced display**, you can set up separately for each variant set and choose between the Color swatch or Image thumbnail.
+Bei der **Erweiterten Anzeige** können Sie für jeden Variantensatz separat einrichten und zwischen Farbmuster oder Bild-Thumbnail wählen.
 
 <figure><img src="../../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 
 \
-After that, select a variant set within this **Select option** table. BOGOS will automatically sync and display all variant values from your Shopify setup.<br>
+Wählen Sie danach in dieser Tabelle **Option auswählen** einen Variantensatz aus. BOGOS synchronisiert und zeigt automatisch alle Variantenwerte aus Ihrer Shopify-Einrichtung an.<br>
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt="" width="483"><figcaption></figcaption></figure>
 
-In the next step, you will set up each variant value individually.
+Im nächsten Schritt richten Sie jeden Variantenwert einzeln ein.
 
-* For **Color Swatch** display: simply pick the corresponding color for each variant—either by entering a color code or by choosing from the color wheel.
+* Für die Anzeige **Farbmuster**: Wählen Sie einfach die entsprechende Farbe für jede Variante aus – entweder durch Eingabe eines Farbcodes oder durch Auswahl aus dem Farbkreis.
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt="" width="402"><figcaption></figcaption></figure>
 
-* For **Image Thumbnail** display: upload images that clearly represent each variant value. These images must be under 20KB in size.
+* Für die Anzeige **Bild-Thumbnail**: Laden Sie Bilder hoch, die jeden Variantenwert klar darstellen. Diese Bilder müssen kleiner als 20 KB sein.
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt="" width="375"><figcaption></figcaption></figure>
 
-For both types of display, you will find three buttons to help you adjust the setup:
+Für beide Anzeigearten finden Sie drei Schaltflächen, die Ihnen bei der Anpassung der Einrichtung helfen:
 
-* **Select option value**: Add any variant value that may have been missed or deleted.
-* **Customize**: Adjust the appearance of your variant widget on your storefront with the following options.
+* **Optionswert auswählen**: Fügen Sie einen Variantenwert hinzu, der möglicherweise übersehen oder gelöscht wurde.
+* **Anpassen**: Passen Sie das Erscheinungsbild Ihres Varianten-Widgets in Ihrem Storefront mit den folgenden Optionen an.
 
-&#x20;      ▶ _Select size_: Choose small, medium, or large for your buttons or swatches.
+&#x20;      ▶ _Größe auswählen_: Wählen Sie Klein, Mittel oder Groß für Ihre Schaltflächen oder Farbmuster.
 
-&#x20;      ▶ _Select swatch shape_: Pick between circles or squares for your swatches.
+&#x20;      ▶ _Musterform auswählen_: Wählen Sie zwischen Kreisen oder Quadraten für Ihre Farbmuster.
 
-&#x20;      ▶ _Show variant name next to swatches_: Enable this option to display the variant name next to each swatch.
+&#x20;      ▶ _Variantenname neben den Farbmustern anzeigen_: Aktivieren Sie diese Option, um den Variantennamen neben jedem Farbmuster anzuzeigen.
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt="" width="563"><figcaption></figcaption></figure>
 
-If you want to configure an additional variant set, click **Add variant set**. All steps of setup will be the same as provided above.
+Wenn Sie einen zusätzlichen Variantensatz konfigurieren möchten, klicken Sie auf **Variantensatz hinzufügen**. Alle Einrichtungsschritte sind dieselben wie oben beschrieben.
 
 {% hint style="warning" %}
-**Note:**
+**Hinweis:**
 
-* Variant setups automatically apply to products that share the same variant option name.
-* Each variant set can only use one display style.
+* Varianteneinrichtungen gelten automatisch für Produkte, die denselben Variantenoptionsnamen verwenden.
+* Jeder Variantensatz kann nur einen Anzeigestil verwenden.
 {% endhint %}
 
 

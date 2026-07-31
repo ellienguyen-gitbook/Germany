@@ -1,46 +1,46 @@
 ---
 description: >-
-  With BOGOS and PageFly integration, you can seamlessly implement front-end
-  offers and bundles elements across your various pages.
+  Mit der Integration von BOGOS und PageFly können Sie Frontend-Angebote und
+  Bundle-Elemente nahtlos auf Ihren verschiedenen Seiten umsetzen.
 ---
 
 # PageFly
 
-PageFly is a user-friendly page builder app perfect for everyone, from new Shopify store owners to growing businesses and professional brands. You can customize your Shopify pages without any coding skills required to convert visitors into actual customers.&#x20;
+PageFly ist ein benutzerfreundlicher Page Builder, der perfekt für jeden geeignet ist – von neuen Shopify-Store-Betreibern über wachsende Unternehmen bis hin zu professionellen Marken. Sie können Ihre Shopify-Seiten ohne jegliche Programmierkenntnisse anpassen, um Besucher in tatsächliche Kunden zu verwandeln.&#x20;
 
-PageFly key features:
+Wichtige Funktionen von PageFly:
 
-* 6 main page types, with 100+ page templates, 100+ premade sections and more
-* Optimized for conversion rate with countdown, sales banner, cross-selling, color swatches
-* Certified as an SEO-friendly tool, say no to slowing down your online store
-* Fully responsive design on desktop, mobile, or tablet.
-* Compatible with any themes, easily add more sections to themes
+* 6 Hauptseitentypen mit über 100 Seitenvorlagen, über 100 vorgefertigten Abschnitten und mehr
+* Optimiert für die Konversionsrate mit Countdown, Verkaufsbanner, Cross-Selling, Farbmustern
+* Als SEO-freundliches Tool zertifiziert – sagen Sie Nein zu einem langsamen Online-Store
+* Vollständig responsives Design für Desktop, Mobilgeräte oder Tablet.
+* Kompatibel mit jedem Theme, fügen Sie ganz einfach weitere Abschnitte zu Themes hinzu
 
 {% hint style="info" %}
-The integration between BOGOS and PageFly allows dynamic offer, bundles placement and customization.
+Die Integration zwischen BOGOS und PageFly ermöglicht die dynamische Platzierung und Anpassung von Angeboten und Bundles.
 {% endhint %}
 
 {% embed url="https://youtu.be/Mebnses2uJk?si=8bsEtkNI3E1CgspW" %}
 
-## How to install PageFly
+## So installieren Sie PageFly
 
-**Step 1:** Install PageFly from the [Shopify app store](https://shopify.pxf.io/zNEOG7).
+**Schritt 1:** Installieren Sie PageFly aus dem [Shopify App Store](https://shopify.pxf.io/zNEOG7).
 
 <figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:** Create your PageFly page: [a new page](https://help.pagefly.io/manual/get-started-in-5-mins/), or using [their templates](https://help.pagefly.io/manual/use-a-template-to-create-a-new-page/)
+**Schritt 2:** Erstellen Sie Ihre PageFly-Seite: [eine neue Seite](https://help.pagefly.io/manual/get-started-in-5-mins/), oder verwenden Sie [deren Vorlagen](https://help.pagefly.io/manual/use-a-template-to-create-a-new-page/)
 
-**Step 3:** From Third-party integrations, search for BOGOS and activate the app integrations. Please make sure to have the BOGOS app on your Shopify store. You should also create a BOGOS offer or bundle before setting up them in PageFly.
+**Schritt 3:** Suchen Sie unter Drittanbieter-Integrationen nach BOGOS und aktivieren Sie die App-Integrationen. Stellen Sie bitte sicher, dass die BOGOS-App in Ihrem Shopify-Store installiert ist. Sie sollten außerdem ein BOGOS-Angebot oder -Bundle erstellen, bevor Sie diese in PageFly einrichten.
 
 <figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
-**Step 4:** Choose your preferred app blocks. There are two types of BOGOS app blocks:
+**Schritt 4:** Wählen Sie Ihre bevorzugten App-Blöcke. Es gibt zwei Arten von BOGOS-App-Blöcken:
 
-* Gifts: Includes [Gift slider](../../detailed-guide/gift-offer/), [Gift icon](../../detailed-guide/customize/customize-gift-icon-and-gift-thumbnail.md), [Cart message](../../detailed-guide/customize/customize-cart-message.md) and Gift thumbnail
-* Upsell & Cross sell: Includes [Classic bundle](../../detailed-guide/bundle-offer/create-classic-bundle.md) and [Quantity break](../../detailed-guide/discount-offer/create-quantity-break.md). These blocks work on product page only.
+* Geschenke: Enthält [Gift Slider](../../detailed-guide/gift-offer/), [Gift Icon](../../detailed-guide/customize/customize-gift-icon-and-gift-thumbnail.md), [Cart Message](../../detailed-guide/customize/customize-cart-message.md) und Gift Thumbnail
+* Upsell & Cross-Sell: Enthält [Classic Bundle](../../detailed-guide/bundle-offer/create-classic-bundle.md) und [Quantity Break](../../detailed-guide/discount-offer/create-quantity-break.md). Diese Blöcke funktionieren nur auf der Produktseite.
 
 <figure><img src="../../.gitbook/assets/PageFly.png" alt=""><figcaption></figcaption></figure>
 
-**Step 5:** Drag and drop the BOGOS blocks to your page. After that, please click _Save_ and _Publish_ the page so the changes can be automatically reflected in your online store.
+**Schritt 5:** Ziehen Sie die BOGOS-Blöcke per Drag-and-Drop auf Ihre Seite. Klicken Sie anschließend bitte auf _Speichern_ und _Veröffentlichen_, damit die Änderungen automatisch in Ihrem Online-Store übernommen werden.
 
 <figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>

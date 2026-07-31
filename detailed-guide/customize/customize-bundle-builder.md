@@ -1,97 +1,97 @@
-# Customize Bundle builder
+# Bundle-Builder anpassen
 
-## 1. How to enable the bundle <a href="#how-to-enable-the-bundle" id="how-to-enable-the-bundle"></a>
+## 1. So aktivieren Sie das Bundle <a href="#how-to-enable-the-bundle" id="how-to-enable-the-bundle"></a>
 
-The Bundle builder will appear as a separate page as a Bundle builder offer is created.
+Der Bundle-Builder erscheint als separate Seite, sobald ein Bundle-Builder-Angebot erstellt wird.
 
-To access Bundle Builder:
+So greifen Sie auf den Bundle-Builder zu:
 
-1. Open BOGOS app
-2. All offers > Create offer > Bundle
-3. Bundle builder
+1. Öffnen Sie die BOGOS-App
+2. Alle Angebote > Angebot erstellen > Bündeln
+3. Bundle-Builder
 
-## 2. Customization options <a href="#customization-options" id="customization-options"></a>
+## 2. Anpassungsoptionen <a href="#customization-options" id="customization-options"></a>
 
-### 2.1. Bundle product
+### 2.1. Bundle-Produkt
 
 <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
-* **Add button text:** Sets the label for the button customers click to add a product to the bundle.
-* **See more text:** Sets the label for viewing additional details or variants of a product.
-* **Out of stock text:** Displays the message for products that are currently unavailable.
-* **Choose variant:** Text displayed when a product has multiple variants for customers to select from.
-* **Load nore text:** Sets the label for loading additional products in the bundle section.
+* **Schaltflächentext hinzufügen:** Legt die Beschriftung für die Schaltfläche fest, auf die Kunden klicken, um ein Produkt zum Bundle hinzuzufügen.
+* **Text „Mehr anzeigen“:** Legt die Beschriftung fest, um zusätzliche Details oder Varianten eines Produkts anzuzeigen.
+* **Nicht vorrätiger Text:** Zeigt die Meldung für Produkte an, die derzeit nicht verfügbar sind.
+* **Variante wählen:** Text, der angezeigt wird, wenn ein Produkt mehrere Varianten zur Auswahl für Kunden hat.
+* **Text „Mehr laden“:** Legt die Beschriftung fest, um weitere Produkte im Bundle-Bereich zu laden.
 
-### **2.2. Bundle Summary**
+### **2.2. Bundle-Zusammenfassung**
 
 <figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
-* **Bundle summary title:** Sets the title of the summary section where the bundle details are displayed.
-* **Show description:** Toggles whether a description is displayed in the bundle summary section.
-* **Bundle summary description:**&#x41;dds a short description of how the bundle works or its benefits.
-* **Offer tier style:** Determines how the progress toward discounts or rewards is displayed.
-  * **Label**: Displays the offer in text form.
-  * **Progress**: Uses a visual progress bar to show how close customers are to unlocking the next reward.
-* **Total price text:** Sets the label for the total price of all items in the bundle.
-* **Add to cart text:** Customize "Add to cart" button text, ensuring it matches your brand style.
-* **Step text:** Sets the label for each step in the bundle creation process.
-* **Required product text:** Displays a message indicating the number of required items that must be added in a specific step.
-* **Blank step text:** Sets the message shown when no products have been added to a specific step yet.
+* **Titel der Bundle-Zusammenfassung:** Legt den Titel des Zusammenfassungsbereichs fest, in dem die Bundle-Details angezeigt werden.
+* **Beschreibung anzeigen:** Schaltet um, ob im Bundle-Zusammenfassungsbereich eine Beschreibung angezeigt wird.
+* **Zusammenfassende Beschreibung des Bundles:** Fügt eine kurze Beschreibung hinzu, wie das Bundle funktioniert oder welche Vorteile es bietet.
+* **Angebotsstufenstil:** Bestimmt, wie der Fortschritt hin zu Rabatten oder Prämien angezeigt wird.
+  * **Etikett**: Zeigt das Angebot in Textform an.
+  * **Fortschritt**: Verwendet einen visuellen Fortschrittsbalken, um zu zeigen, wie nah Kunden daran sind, die nächste Prämie freizuschalten.
+* **Gesamtpreistext:** Legt die Beschriftung für den Gesamtpreis aller Artikel im Bundle fest.
+* **Text „Zum Warenkorb hinzufügen“:** Passen Sie den Text der Schaltfläche „Zum Warenkorb hinzufügen“ an, damit er zu Ihrem Markenstil passt.
+* **Schritttext:** Legt die Beschriftung für jeden Schritt im Bundle-Erstellungsprozess fest.
+* **Erforderlicher Produkttext:** Zeigt eine Meldung an, die die Anzahl der erforderlichen Artikel angibt, die in einem bestimmten Schritt hinzugefügt werden müssen.
+* **Leerer Schritttext:** Legt die Meldung fest, die angezeigt wird, wenn einem bestimmten Schritt noch keine Produkte hinzugefügt wurden.
 
-### 2.3. Step icon
+### 2.3. Schrittsymbol
 
-* **Default icons**: Visually represent steps in the bundle creation process. These icons help customers identify and differentiate steps quickly.
-* **Upload custom icon:** Provides the ability to upload a custom image or GIF for step icons, enabling merchants to align the icons with their brand or product theme
+* **Standardsymbole**: Stellen die Schritte im Bundle-Erstellungsprozess visuell dar. Diese Symbole helfen Kunden, Schritte schnell zu erkennen und zu unterscheiden.
+* **Benutzerdefiniertes Symbol hochladen:** Ermöglicht das Hochladen eines individuellen Bilds oder GIFs für Schrittsymbole, sodass Händler die Symbole an ihre Marke oder ihr Produktthema anpassen können
 
-### 2.4. Color
+### 2.4. Farbe
 
-BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
+BOGOS ermöglicht Ihnen, die Farben aller Elemente mit einer der 4 unten stehenden Methoden anzupassen:
 
-* Choose a **ready-made color set** from the dropdown.
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-bundle-builder.md#ai-theme-detector) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* Wählen Sie ein **vorgefertigtes Farbset** aus dem Dropdown-Menü.
+* **Passen Sie jedes Farbfeld manuell an** für alle verfügbaren Farben.
+* Verwenden Sie den [KI-Theme-Detektor](customize-bundle-builder.md#ai-theme-detector), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Shops zu generieren.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+Die BOGOS-KI scannt Ihren Online-Shop und erkennt die primären, sekundären und Textfarben Ihrer Marke und generiert dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Shop darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit der BOGOS-KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stiftsymbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit die BOGOS-KI erneut erkennt, oder **passen Sie manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden** für die Vorschau, um die Farben auf die Widget-Vorschau anzuwenden.
 
-## 3. Add Bundle Builder to Other Pages Besides Product Page
+## 3. Bundle-Builder zu anderen Seiten außer der Produktseite hinzufügen
 
 {% hint style="info" %}
-You can place the Bundle builder block on any page of your store, except the Checkout page.
+Sie können den Bundle-Builder-Block auf jeder Seite Ihres Shops platzieren, außer auf der Checkout-Seite.
 {% endhint %}
 
-**Step 1:** Navigate to your **Online Stores** in the **Shopify navigation menu** => choose **Themes** => **Customize**
+**Schritt 1:** Navigieren Sie in Ihrem **Shopify-Navigationsmenü** zu **Online-Shop** => wählen Sie **Themes** => **Anpassen**
 
-**Step 2:** In the **Shopify Theme Editor**, go to the page where you want to add the Mix and Match block.
+**Schritt 2:** Gehen Sie im **Shopify-Theme-Editor** zu der Seite, auf der Sie den Mix-and-Match-Block hinzufügen möchten.
 
-Then, on the left panel, scroll down, click **Add section**, choose **Apps**, find and select **BOGOS: Bundle Page** block.
+Scrollen Sie dann im linken Bereich nach unten, klicken Sie auf **Abschnitt hinzufügen**, wählen Sie **Apps**, suchen und wählen Sie den Block **BOGOS: Bundle Page**.
 
 <figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
 
-**Step 3**: In the top-right panel, complete the setup field.
+**Schritt 3**: Füllen Sie im oberen rechten Bereich das Einrichtungsfeld aus.
 
 <figure><img src="../../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
 
-* **Offer ID**: Enter the ID of the Bundle builder offer you want to display.
+* **Angebots-ID**: Geben Sie die ID des Bundle-Builder-Angebots ein, das Sie anzeigen möchten.
 
-For more details, visit our \[[Add or Adjust BOGOS Blocks](../../quick-start-guide/adjust-bogos-blocks.md)] guide.
+Weitere Details finden Sie in unserem Leitfaden \[[BOGOS-Blöcke hinzufügen oder anpassen](../../quick-start-guide/adjust-bogos-blocks.md)].

@@ -1,221 +1,221 @@
-# Create Checkout Upsell
+# Checkout-Upsell erstellen
 
-Checkout upsell allows you to offer additional products to customers at checkout, helping to increase your average order value (AOV) and scale your sales.
+Mit Checkout-Upsell können Sie Kunden beim Checkout zusätzliche Produkte anbieten und so Ihren durchschnittlichen Bestellwert (AOV) erhöhen und Ihren Umsatz steigern.
 
-Here's a quick demo of how Checkout Upsell widget show on your store:
+Hier ist eine kurze Demo, wie das Checkout-Upsell-Widget in Ihrem Shop angezeigt wird:
 
 <figure><img src="../../.gitbook/assets/unknown (41).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-After publishing your upsell, you have to [enable the widget](create-checkout-upsell.md#id-8.-enable-the-checkout-upsell-widget) to make it appear on your storefront.
+Nachdem Sie Ihren Upsell veröffentlicht haben, müssen Sie [das Widget aktivieren](create-checkout-upsell.md#id-8.-enable-the-checkout-upsell-widget), damit es in Ihrem Storefront erscheint.
 {% endhint %}
 
 {% hint style="info" %}
-Shopify only allows **Shopify Plus** to edit checkout pages, so this feature is currently available only for Shopify Plus.&#x20;
+Shopify erlaubt nur **Shopify Plus**, Checkout-Seiten zu bearbeiten, daher ist diese Funktion derzeit nur für Shopify Plus verfügbar.&#x20;
 {% endhint %}
 
 {% embed url="https://youtu.be/A0EKHj3ZtyQ?si=ds35FtxozKolQvg7" %}
 
-## 1. Upsell information
+## 1. Upsell-Informationen
 
-### 1.1 Upsell title
+### 1.1 Upsell-Titel
 
-The upsell title is the name of the upsell, which isn’t visible to customers and is displayed in the “All offers” section of the BOGOS app for easy management alongside other offers.
+Der Upsell-Titel ist der Name des Upsells, der für Kunden nicht sichtbar ist und im Bereich „Alle Angebote“ der BOGOS-App zur einfachen Verwaltung neben anderen Angeboten angezeigt wird.
 
-### 1.2 Start & End time
+### 1.2 Start- & Endzeit
 
-* **Start Time:** This is when the upsell becomes active and visible to customers at your store’s checkout.
-* **End Time:** This is when the upsell expires and is no longer visible at your store’s checkout. Leave this field blank so the upsell can run continuously.
+* **Startzeit:** Dies ist der Zeitpunkt, an dem der Upsell aktiv wird und für Kunden beim Checkout Ihres Shops sichtbar ist.
+* **Endzeit:** Dies ist der Zeitpunkt, an dem der Upsell abläuft und beim Checkout Ihres Shops nicht mehr sichtbar ist. Lassen Sie dieses Feld leer, damit der Upsell durchgehend läuft.
 
-## 2. Upsell trigger
+## 2. Upsell-Auslöser
 
-This is where you choose one from the 4 conditions below that customers must meet for the upsell to appear at checkout.
+Hier wählen Sie eine der 4 unten aufgeführten Bedingungen aus, die Kunden erfüllen müssen, damit der Upsell beim Checkout angezeigt wird.
 
-### 2.1 Always display upsell
+### 2.1 Upsell immer anzeigen
 
-The upsell will always be shown to customers at checkout without any specific conditions.
+Der Upsell wird Kunden beim Checkout ohne besondere Bedingungen immer angezeigt.
 
-### 2.2 Cart trigger
+### 2.2 Warenkorb-Auslöser
 
-The upsell will be shown if the customer’s cart meets one of these 2 conditions:
+Der Upsell wird angezeigt, wenn der Warenkorb des Kunden eine der folgenden 2 Bedingungen erfüllt:
 
-* **Quantity**: The customer’s cart must meet a minimum and/or maximum number of products.
-* **Value**: The customer’s cart must meet a minimum and/or maximum total value you set.&#x20;
+* **Menge**: Der Warenkorb des Kunden muss eine von Ihnen festgelegte Mindest- und/oder Höchstanzahl an Produkten erfüllen.
+* **Wert**: Der Warenkorb des Kunden muss einen von Ihnen festgelegten Mindest- und/oder Höchstgesamtwert erfüllen.&#x20;
 
-**For stores that have Shopify Markets set up and choose "cart value":**
+**Für Shops mit eingerichteten Shopify Markets, die „Warenkorbwert“ wählen:**
 
-Normally, BOGOS will auto-convert your main currency to the customers’ currency using Shopify’s exchange rate (e.g., 1 SGD = €0.666).
+Normalerweise rechnet BOGOS Ihre Hauptwährung automatisch mithilfe des Wechselkurses von Shopify in die Währung des Kunden um (z. B. 1 SGD = 0,666 €).
 
-However, if you want to **set custom cart values for each currency** instead, after setting the value for your main market (min is 0), click “Add currency” and enter the value.
+Wenn Sie jedoch **individuelle Warenkorbwerte für jede Währung festlegen** möchten, klicken Sie nach der Festlegung des Werts für Ihren Hauptmarkt (Mindestwert ist 0) auf „Währung hinzufügen“ und geben Sie den Wert ein.
 
 <figure><img src="../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
-### 2.3 Specific product trigger
+### 2.3 Auslöser für bestimmte Produkte
 
-The upsell will trigger when the customer's checkout includes:
+Der Upsell wird ausgelöst, wenn der Checkout des Kunden Folgendes enthält:
 
-* **Product**: The customer's checkout summary must include products from the list you select and meet the “number of products required” you specify.
-* **Collection**: Any product from a specific collection(s) you select.
-* **Subscription Product**: A product(s) you select with a subscription plan.
+* **Produkt**: Die Checkout-Übersicht des Kunden muss Produkte aus der von Ihnen ausgewählten Liste enthalten und die von Ihnen festgelegte „erforderliche Produktanzahl“ erfüllen.
+* **Sammlung**: Jedes Produkt aus einer oder mehreren von Ihnen ausgewählten Sammlungen.
+* **Abonnement-Produkt**: Ein oder mehrere von Ihnen ausgewählte Produkte mit einem Abonnementplan.
 
-### 2.4 Customer trigger
+### 2.4 Kunden-Auslöser
 
-The upsell will trigger based on specific customer conditions, including:
+Der Upsell wird basierend auf bestimmten Kundenbedingungen ausgelöst, darunter:
 
-* **Customer tags:** The upsell will be shown only to customers with the specific tags you select. You also have 2 optional settings:
-  * Exclude customers with these tags: All customers except those with the selected tags will see the upsell.
-  * Consider no-login as a customer with no tags: Customers who are not logged in will be treated as if they have no tags, meaning they will be included or excluded based on your tag settings.
-* **Location**: The upsell will be shown only to customers from the specific location(s) you select. You also have 1 optional setting:
-  * Exclude customers from selected locations: Customers from any location except the selected location(s) will see the upsell.
-* **Order history:** The upsell will be shown only to customers who have placed orders starting from the date you choose. You then need to select which condition(s) those orders must meet for the upsell to trigger:
-* **Total Spent in Order History**: The total spending from orders, placed after the start date, must meet a minimum and/or maximum amount.
-* **Total Spent on Last Order:** The customer’s most recent order, placed after the start date, must meet a minimum and/or maximum value.
-* **Total Number of Orders Placed:** Starting from the selected date, the customer must place a minimum and/or maximum number of orders.
+* **Kunden-Tags:** Der Upsell wird nur Kunden mit den von Ihnen ausgewählten Tags angezeigt. Es gibt außerdem 2 optionale Einstellungen:
+  * Kunden mit diesen Tags ausschließen: Alle Kunden außer denen mit den ausgewählten Tags sehen den Upsell.
+  * Nicht angemeldete Nutzer als Kunden ohne Tags behandeln: Kunden, die nicht angemeldet sind, werden so behandelt, als hätten sie keine Tags, das heißt, sie werden basierend auf Ihren Tag-Einstellungen ein- oder ausgeschlossen.
+* **Standort**: Der Upsell wird nur Kunden aus den von Ihnen ausgewählten Standorten angezeigt. Es gibt außerdem 1 optionale Einstellung:
+  * Kunden aus ausgewählten Standorten ausschließen: Kunden aus jedem Standort außer den ausgewählten sehen den Upsell.
+* **Bestellhistorie:** Der Upsell wird nur Kunden angezeigt, die ab dem von Ihnen gewählten Datum Bestellungen aufgegeben haben. Anschließend müssen Sie auswählen, welche Bedingung(en) diese Bestellungen erfüllen müssen, damit der Upsell ausgelöst wird:
+* **Gesamtausgaben in der Bestellhistorie**: Die Gesamtausgaben aus Bestellungen, die nach dem Startdatum aufgegeben wurden, müssen einen Mindest- und/oder Höchstbetrag erfüllen.
+* **Gesamtausgaben der letzten Bestellung:** Die letzte Bestellung des Kunden, aufgegeben nach dem Startdatum, muss einen Mindest- und/oder Höchstwert erfüllen.
+* **Gesamtanzahl der aufgegebenen Bestellungen:** Ab dem ausgewählten Datum muss der Kunde eine Mindest- und/oder Höchstanzahl an Bestellungen aufgeben.
 
-## 3. Add sub-conditions
+## 3. Unterbedingungen hinzufügen
 
-Sub-conditions add extra rules to decide who can see and get your offers. Therefore, only targeted customers can see and apply the offer, while others won't see it at all.
+Unterbedingungen fügen zusätzliche Regeln hinzu, um zu entscheiden, wer Ihre Angebote sehen und erhalten kann. Dadurch können nur die anvisierten Kunden das Angebot sehen und nutzen, während andere es gar nicht sehen.
 
 {% hint style="info" %}
-* These sub-conditions are optional. If you don't add any, the offer will be available to all customers.
-* You can combine multiple sub-conditions. Customers must meet all selected criteria to qualify.
+* Diese Unterbedingungen sind optional. Wenn Sie keine hinzufügen, ist das Angebot für alle Kunden verfügbar.
+* Sie können mehrere Unterbedingungen kombinieren. Kunden müssen alle ausgewählten Kriterien erfüllen, um berechtigt zu sein.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (388).png" alt="" width="563"><figcaption></figcaption></figure>
 
-1. _Specific link address_ – Apply offers to customers accessing your store from a specific link. Perfect for email campaigns, social posts, or affiliates.
-2. _Markets_ – Run region-specific offers based on your Shopify Markets.
+1. _Spezifische Linkadresse_ – Wenden Sie Angebote auf Kunden an, die über einen bestimmten Link auf Ihren Shop zugreifen. Perfekt für E-Mail-Kampagnen, Social-Media-Beiträge oder Affiliates.
+2. _Markets_ – Führen Sie regionsspezifische Angebote basierend auf Ihren Shopify Markets durch.
 
-♦️ For more details, visit our \[[Sub-Condition](../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)] guide.
+♦️ Weitere Details finden Sie in unserem \[[Unterbedingungen](../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)]-Leitfaden.
 
-## 4. Upsell method
+## 4. Upsell-Methode
 
-This is where you define how you want to offer the upsell products to customers during checkout. There are 3 methods.
+Hier legen Sie fest, wie Sie Kunden während des Checkouts Upsell-Produkte anbieten möchten. Es gibt 3 Methoden.
 
-### 4.1 Manual
+### 4.1 Manuell
 
-You manually select the products to upsell and choose the discount type (either percentage or fixed amount) to apply.
+Sie wählen die Produkte für den Upsell manuell aus und legen die Art des Rabatts (entweder prozentual oder als Festbetrag) fest.
 
-### 4.2 Auto
+### 4.2 Automatisch
 
-First, to use this option, you must have the **Shopify Search & Discovery** app installed in your store. BOGOS will auto-select upsell products based on the data synchronized with the Shopify Search & Discovery app. [Install this FREE app here.](https://apps.shopify.com/search-and-discovery)
+Um diese Option zu nutzen, müssen Sie zunächst die App **Shopify Search & Discovery** in Ihrem Shop installiert haben. BOGOS wählt Upsell-Produkte automatisch anhand der mit der Shopify Search & Discovery App synchronisierten Daten aus. [Installieren Sie diese KOSTENLOSE App hier.](https://apps.shopify.com/search-and-discovery)
 
-On BOGOS’s settings screen, there are 2 recommendation types: **Complementary Products** and **Related Products**, both synced with data from the Shopify Search & Discovery app, as shown in the example below.
+Auf dem Einstellungsbildschirm von BOGOS gibt es 2 Empfehlungstypen: **Ergänzende Produkte** und **Verwandte Produkte**, beide synchronisiert mit Daten aus der Shopify Search & Discovery App, wie im folgenden Beispiel gezeigt.
 
 {% hint style="info" %}
-For “Complementary products” in the Shopify Search & Discovery app, you must manually select products within the app. For “Related Products,” Shopify uses AI to auto-generate product recommendations. [Click here to view its help docs.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)
+Für „Ergänzende Produkte“ in der Shopify Search & Discovery App müssen Sie Produkte manuell innerhalb der App auswählen. Bei „Verwandte Produkte“ nutzt Shopify KI, um automatisch Produktempfehlungen zu generieren. [Klicken Sie hier, um die Hilfedokumentation dazu anzusehen.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)
 {% endhint %}
 
-### 4.3 Subscription product
+### 4.3 Abonnement-Produkt
 
-This method only appears when you select Subscription Product in the **Upsell Trigger** above.&#x20;
+Diese Methode erscheint nur, wenn Sie oben im **Upsell-Auslöser** „Abonnement-Produkt“ ausgewählt haben.&#x20;
 
-Subscription products can only use this upsell method, which automatically upsells customers to the highest-valued plan with the biggest discount.
+Abonnement-Produkte können nur diese Upsell-Methode verwenden, die Kunden automatisch zum wertvollsten Plan mit dem größten Rabatt upselt.
 
-#### 4.4 Limit number of upsell products can be added
+#### 4.4 Maximale Anzahl hinzufügbarer Upsell-Produkte begrenzen
 
-Enable this to control the maximum number of upsell products a customer can add to their cart from the upsell section.&#x20;
+Aktivieren Sie diese Option, um die maximale Anzahl an Upsell-Produkten zu steuern, die ein Kunde aus dem Upsell-Bereich in seinen Warenkorb legen kann.&#x20;
 
-Once the limit is reached, the upsell section will automatically disappear.
+Sobald das Limit erreicht ist, verschwindet der Upsell-Bereich automatisch.
 
 <figure><img src="../../.gitbook/assets/unknown (40).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-This option isn’t available when using the "Auto add products to cart" method of the "Discount code required" setting in Advanced configuration.
+Diese Option ist nicht verfügbar, wenn die Methode „Produkte automatisch zum Warenkorb hinzufügen“ der Einstellung „Rabattcode erforderlich“ in der erweiterten Konfiguration verwendet wird.
 {% endhint %}
 
-### 4.5 Discount type
+### 4.5 Rabattart
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-**Product discount:** Allows you to choose the type of discount
+**Produktrabatt:** Ermöglicht Ihnen die Auswahl der Rabattart
 
-* Percentage: for a percentage-based discount
-* Amount: for a fixed monetary discount. If you also sell in different currencies (set up in Shopify Markets), you can “add currency” and **custom how much discount amount** to offer in each currency, instead of using Shopify’s exchange rates (e.g., SGD 10, CN¥8, A$12).
+* Prozentsatz: für einen prozentualen Rabatt
+* Betrag: für einen festen Geldrabatt. Wenn Sie auch in verschiedenen Währungen verkaufen (eingerichtet in Shopify Markets), können Sie „Währung hinzufügen“ und **individuell festlegen, wie hoch der Rabattbetrag** in jeder Währung sein soll, anstatt die Wechselkurse von Shopify zu verwenden (z. B. SGD 10, CN¥8, A$12).
 
 <figure><img src="../../.gitbook/assets/image (379).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 4.6 Add shipping discount
+### 4.6 Versandrabatt hinzufügen
 
 <figure><img src="../../.gitbook/assets/image (380).png" alt="" width="461"><figcaption></figcaption></figure>
 
-There are two types of shipping discount:
+Es gibt zwei Arten von Versandrabatt:
 
-* Percentage: A percentage of the shipping cost will be deducted.
-* Amount: A fixed amount will be deducted from the total shipping cost. If you sell in different currencies (set up in Shopify Markets), you can “add currency” and **custom how much shipping discount amount to offer in each currency**, instead of using Shopify’s exchange rates (e.g., SGD 10, €8, A$12).
+* Prozentsatz: Ein Prozentsatz der Versandkosten wird abgezogen.
+* Betrag: Ein fester Betrag wird von den gesamten Versandkosten abgezogen. Wenn Sie in verschiedenen Währungen verkaufen (eingerichtet in Shopify Markets), können Sie „Währung hinzufügen“ und **individuell festlegen, wie hoch der Versandrabattbetrag in jeder Währung** sein soll, anstatt die Wechselkurse von Shopify zu verwenden (z. B. SGD 10, €8, A$12).
 
-**Label on widget**: This text informs customers whether the bundle includes a shipping discount.
+**Beschriftung im Widget**: Dieser Text informiert Kunden darüber, ob das Bundle einen Versandrabatt enthält.
 
-## 5. Advanced configuration (optional)
+## 5. Erweiterte Konfiguration (optional)
 
-1. **Exclude products in cart**
+1. **Produkte im Warenkorb ausschließen**
 
 <figure><img src="../../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
 
-This feature lets you include or exclude upselling products already in customers’ carts.
+Mit dieser Funktion können Sie Upsell-Produkte, die sich bereits im Warenkorb der Kunden befinden, ein- oder ausschließen.
 
 {% hint style="info" %}
-This feature works at the product level. If your cart contains a product with variant A, other variants of the same product (e.g., variant B) will also be hidden.
+Diese Funktion arbeitet auf Produktebene. Wenn Ihr Warenkorb ein Produkt mit Variante A enthält, werden auch andere Varianten desselben Produkts (z. B. Variante B) ausgeblendet.
 {% endhint %}
 
-2. **Upsell product variant matching**
+2. **Abgleich der Upsell-Produktvariante**
 
-This feature automatically matches the variant of the upsell product to the variant of the product in the customer's cart.
+Diese Funktion gleicht die Variante des Upsell-Produkts automatisch mit der Variante des Produkts im Warenkorb des Kunden ab.
 
-**Example**: If a customer buys a T-shirt (size M), the upsell widget will recommend another T-shirt (size M).
+**Beispiel**: Wenn ein Kunde ein T-Shirt (Größe M) kauft, empfiehlt das Upsell-Widget ein weiteres T-Shirt (Größe M).
 
 {% hint style="info" %}
-Only apply to the upsell method “Manual.”
+Gilt nur für die Upsell-Methode „Manuell“.
 {% endhint %}
 
-3. **Discount Code**
+3. **Rabattcode**
 
-You can generate a discount code that customers will need to manually enter on the Checkout page to trigger their purchase journeys efficiently.&#x20;
+Sie können einen Rabattcode generieren, den Kunden manuell auf der Checkout-Seite eingeben müssen, um ihre Kaufabläufe effizient auszulösen.&#x20;
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXesoGHQspnuAcp993O2524cYImpeQ3cfJOvz7APcHKaCOAWL7QA9iMoqi4slaWTFOEkgbbX7g-MGHX1KMRC1sr1n7ScNzmQdOxUUYAc6p4YJU-QwHzlS8X1tldr7CXTMlVi9zoXPQ?key=h6X-GCR3Ue_E-vh3IcgWlzIw" alt=""><figcaption></figcaption></figure>
 
-## 6. Discount code
+## 6. Rabattcode
 
-**Add a custom discount code**
+**Einen benutzerdefinierten Rabattcode hinzufügen**
 
-This section allows you to customize the discount code name to match your brand.<br>
+In diesem Bereich können Sie den Namen des Rabattcodes anpassen, damit er zu Ihrer Marke passt.<br>
 
 <figure><img src="../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The discount code name must be under 256 characters and unique across all Shopify discounts.
+Der Name des Rabattcodes muss unter 256 Zeichen liegen und über alle Shopify-Rabatte hinweg eindeutig sein.
 {% endhint %}
 
-**Combinations**
+**Kombinationen**
 
 <figure><img src="../../.gitbook/assets/image (323).png" alt=""><figcaption></figcaption></figure>
 
-#### Order discounts
+#### Bestellrabatte
 
-Indicates if the upsell discount can be combined with order-level discounts, such as promotional codes or automatic discounts.
+Gibt an, ob der Upsell-Rabatt mit Rabatten auf Bestellebene kombiniert werden kann, wie zum Beispiel Aktionscodes oder automatischen Rabatten.
 
-#### Shipping discounts
+#### Versandrabatte
 
-Indicates if the upsell discount can be combined with shipping discounts, such as free or reduced shipping promotions.
+Gibt an, ob der Upsell-Rabatt mit Versandrabatten kombiniert werden kann, wie zum Beispiel kostenlosen oder reduzierten Versandaktionen.
 
-## 7. Summary
+## 7. Zusammenfassung
 
-The upsell summary widget pinned on the right will update everything you’ve set up for easy tracking.
+Das rechts fixierte Upsell-Zusammenfassungswidget aktualisiert alles, was Sie eingerichtet haben, zur einfachen Nachverfolgung.
 
-## 8. Enable the widget
+## 8. Widget aktivieren
 
-Make sure you’ve added the "**BOGOS Checkout Upsell**" block in your **theme editor** so the upsell widget appears at checkout.
+Stellen Sie sicher, dass Sie den Block „**BOGOS Checkout Upsell**“ in Ihrem **Theme-Editor** hinzugefügt haben, damit das Upsell-Widget beim Checkout erscheint.
 
-**Here’s how:**
+**So geht's:**
 
-1. Go to your **Shopify Dashboard**
-2. Navigate to **Online Store > Themes**
-3. Click **Customize**
-4. Switch from **Home Page** > find and select **Checkout and customer accounts**
+1. Gehen Sie zu Ihrem **Shopify-Dashboard**
+2. Navigieren Sie zu **Online-Shop > Themes**
+3. Klicken Sie auf **Anpassen**
+4. Wechseln Sie von **Startseite** > suchen und wählen Sie **Checkout und Kundenkonten**
 
 <figure><img src="../../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
 
-5. In the Menu sidebar, click **Add section** > Select **BOGOS Checkout Upsell** and place it where you want
+5. Klicken Sie in der Menüleiste auf **Abschnitt hinzufügen** > wählen Sie **BOGOS Checkout Upsell** und platzieren Sie es an der gewünschten Stelle
 
 <figure><img src="../../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
 
@@ -223,41 +223,41 @@ Make sure you’ve added the "**BOGOS Checkout Upsell**" block in your **theme e
 
 <details>
 
-<summary><strong>Can I trigger a free gift by discount code at checkout?</strong></summary>
+<summary><strong>Kann ich beim Checkout ein kostenloses Geschenk per Rabattcode auslösen?</strong></summary>
 
-Here’s the full guideline to create a discount code for gift products:
+Hier ist die vollständige Anleitung zum Erstellen eines Rabattcodes für Geschenkprodukte:
 
-**Step 1 – Create a $0 discount code in Shopify**
+**Schritt 1 – Einen 0-€-Rabattcode in Shopify erstellen**
 
-* Go to Shopify › Discounts › Create discount and choose Amount off order.
-* Set Discount code, choose Fixed amount = 0, and keep All customers.
-* In Combinations, select Product discounts only, then Save.
+* Gehen Sie zu Shopify › Rabatte › Rabatt erstellen und wählen Sie Betrag vom Bestellwert abziehen.
+* Legen Sie den Rabattcode fest, wählen Sie Fester Betrag = 0, und behalten Sie Alle Kunden bei.
+* Wählen Sie bei Kombinationen Nur Produktrabatte und speichern Sie dann.
 
-This discount code for the checkout upsell is actually a way for us to identify when to add the gift. Its purpose isn't to reduce the price. Our app already handles the price reduction, and it's set up within the checkout upsell.
+Dieser Rabattcode für den Checkout-Upsell dient tatsächlich dazu, zu erkennen, wann das Geschenk hinzugefügt werden soll. Sein Zweck ist nicht, den Preis zu senken. Unsere App übernimmt bereits die Preisreduzierung, die im Checkout-Upsell eingerichtet ist.
 
-**Step 2 – Add the code to your Checkout Upsell in BOGOS**
+**Schritt 2 – Den Code zu Ihrem Checkout-Upsell in BOGOS hinzufügen**
 
-* In BOGOS, go to Offers › Create › Upsell Offer › Checkout upsell.
-* In Advanced configuration, paste the exact discount code you created.
+* Gehen Sie in BOGOS zu Angebote › Erstellen › Upsell-Angebot › Checkout-Upsell.
+* Fügen Sie in der erweiterten Konfiguration den genauen Rabattcode ein, den Sie erstellt haben.
 
-**Step 3 – Publish and test**
+**Schritt 3 – Veröffentlichen und testen**
 
-Save the offer and test at checkout. The code should show $0 off, and the upsell will trigger as expected.
+Speichern Sie das Angebot und testen Sie es beim Checkout. Der Code sollte 0 € Rabatt anzeigen, und der Upsell wird wie erwartet ausgelöst.
 
 </details>
 
 <details>
 
-<summary><strong>Can I hide upsell products if the customer already has them in their cart?</strong></summary>
+<summary><strong>Kann ich Upsell-Produkte ausblenden, wenn der Kunde sie bereits im Warenkorb hat?</strong></summary>
 
-**Yes, you can!** To ensure you aren't upselling a product that the customer is already purchasing, you can use the **Exclusion** feature.
+**Ja, das können Sie!** Um sicherzustellen, dass Sie kein Produkt upsellen, das der Kunde bereits kauft, können Sie die Funktion **Ausschluss** verwenden.
 
-**How to set it up:**
+**So richten Sie es ein:**
 
-1. Go to the Checkout Upsell offer
-2. Go to Advanced configurations
-3. Tick the box Exclude products in cart
-4. Save
+1. Gehen Sie zum Checkout-Upsell-Angebot
+2. Gehen Sie zu Erweiterte Konfigurationen
+3. Aktivieren Sie das Kästchen Produkte im Warenkorb ausschließen
+4. Speichern
 
 ![](<../../.gitbook/assets/unknown (203).png>)
 
@@ -265,14 +265,14 @@ Save the offer and test at checkout. The code should show $0 off, and the upsell
 
 <details>
 
-<summary><strong>Can I just upsell the same size for products at checkout?</strong></summary>
+<summary><strong>Kann ich beim Checkout einfach dieselbe Größe für Produkte upsellen?</strong></summary>
 
-Yes, that’s possible. Please follow the steps:
+Ja, das ist möglich. Bitte folgen Sie diesen Schritten:
 
-1. Go to the Checkout upsell offer
-2. Go to Advanced configurations > Upsell product variant matching
-3. Tick the box Match the upsell product variant with cart product
-4. Save
+1. Gehen Sie zum Checkout-Upsell-Angebot
+2. Gehen Sie zu Erweiterte Konfigurationen > Abgleich der Upsell-Produktvariante
+3. Aktivieren Sie das Kästchen Upsell-Produktvariante mit Warenkorb-Produkt abgleichen
+4. Speichern
 
 ![](<../../.gitbook/assets/unknown (204).png>)
 

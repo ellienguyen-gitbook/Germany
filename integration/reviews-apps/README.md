@@ -1,28 +1,28 @@
-# Reviews apps
+# Bewertungs-Apps
 
-### What each tool does
+### Was jedes Tool leistet
 
 #### **BOGOS:**
 
-* Create, run, and manage offer types: Free Gifts, Bundles, Upsell & Discounts.
-* Display and manage promotion widgets: Gift sliders, bundle page, discount widget, and promotional messages.
-* Apply eligibility rules: Control which customers, products, collections, or cart conditions qualify for each promotion.
+* Erstellen, ausführen und verwalten Sie Angebotstypen: Werbegeschenke, Bündel, Upsell & Rabatte.
+* Anzeigen und verwalten von Werbe-Widgets: Geschenkschieberegler, Bundle-Seite, Rabatt-Widget und Werbebotschaften.
+* Anwenden von Berechtigungsregeln: Steuern Sie, welche Kunden, Produkte, Sammlungen oder Warenkorbbedingungen für jede Werbeaktion qualifiziert sind.
 
-#### Reviews app:
+#### Bewertungs-App:
 
-Collects and display customer feedback, star ratings, and written reviews to build trust and social proof for your products.
+Sammelt und zeigt Kundenfeedback, Sternebewertungen und geschriebene Bewertungen an, um Vertrauen und sozialen Beweis für Ihre Produkte aufzubauen.
 
-### What the integration enables
+### Was die Integration ermöglicht
 
-**Collect reviews through gift products:** &#x20;
+**Bewertungen über Geschenkprodukte sammeln:** &#x20;
 
-When you give away a free gift via BOGOS, those items can still trigger review requests. This helps you gather valuable feedback on products that might not have been purchased directly.
+Wenn Sie über BOGOS ein kostenloses Geschenk verschenken, können diese Artikel dennoch Bewertungsanfragen auslösen. Dies hilft Ihnen, wertvolles Feedback zu Produkten zu sammeln, die möglicherweise nicht direkt gekauft wurden.
 
-**Display star ratings on promotional widgets:**
+**Sternebewertungen auf Werbe-Widgets anzeigen:**
 
-The integration lets you show product ratings inside BOGOS components (e.g., star ratings on the gift slider or bundle widget). This reassures customers about product quality right where they’re deciding to add items.
+Die Integration ermöglicht es Ihnen, Produktbewertungen innerhalb von BOGOS-Komponenten anzuzeigen (z. B. Sternebewertungen im Geschenkschieberegler oder Bundle-Widget). Dies gibt Kunden genau dort, wo sie sich entscheiden, Artikel hinzuzufügen, Sicherheit über die Produktqualität.
 
-### Integrated Review Apps
+### Integrierte Bewertungs-Apps
 
 [Judge.me – Product Reviews App](https://apps.shopify.com/judgeme?utm_source=bogos\&utm_medium=partner\&utm_campaign=app)
 

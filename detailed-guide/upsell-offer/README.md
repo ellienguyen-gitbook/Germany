@@ -1,41 +1,41 @@
 ---
-description: An overview of creating Upsell offer with BOGOS
+description: Ein Überblick über die Erstellung von Upsell-Angeboten mit BOGOS
 ---
 
-# Upsell offer
+# Upsell-Angebot
 
-This overview of creating upsell offers will help you get started with upselling using the BOGOS app to scale your business.<br>
+Dieser Überblick über die Erstellung von Upsell-Angeboten hilft Ihnen dabei, mit der BOGOS-App Upselling zu betreiben, um Ihr Geschäft zu skalieren.<br>
 
 <figure><img src="../../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
 
-### Checkout upsell (Shopify Plus only) <a href="#h.icvc5t5njg1y" id="h.icvc5t5njg1y"></a>
+### Upselling an der Kasse (nur Shopify Plus) <a href="#h.icvc5t5njg1y" id="h.icvc5t5njg1y"></a>
 
-[Checkout upsell](create-checkout-upsell.md) allows you to show relevant recommendations directly on the checkout page to capture last-minute purchases before payment.
+[Upselling an der Kasse](create-checkout-upsell.md) ermöglicht es Ihnen, relevante Empfehlungen direkt auf der Checkout-Seite anzuzeigen, um Last-Minute-Käufe vor der Zahlung zu erfassen.
 
-Example: A customer buying a pair of shoes sees an offer to add matching socks at a 20% discount when they’re at the checkout page.
+Beispiel: Ein Kunde, der ein Paar Schuhe kauft, sieht auf der Checkout-Seite ein Angebot, passende Socken mit 20 % Rabatt hinzuzufügen.
 
 <figure><img src="../../.gitbook/assets/unknown (41).png" alt=""><figcaption></figcaption></figure>
 
-### Frequently bought together <a href="#h.tp2xxzz5n65t" id="h.tp2xxzz5n65t"></a>
+### Wird oft zusammen gekauft <a href="#h.tp2xxzz5n65t" id="h.tp2xxzz5n65t"></a>
 
-[Frequently bought together](create-frequently-bought-together.md) displays a group of complementary products often purchased alongside the item they are currently viewing.
+["Wird oft zusammen gekauft"](create-frequently-bought-together.md) zeigt eine Gruppe ergänzender Produkte an, die häufig zusammen mit dem gerade betrachteten Artikel gekauft werden.
 
-Example: When shopping for a camera, customers typically see a 'frequently bought together' section featuring items like memory cards and tripods.
+Beispiel: Beim Kauf einer Kamera sehen Kunden typischerweise einen Bereich „Wird oft zusammen gekauft“ mit Artikeln wie Speicherkarten und Stativen.
 
-There are **2 upsell widget types:**
+Es gibt **2 Upselling-Widget-Typen:**
 
-1. **Frequently Bought Together**
+1. **Wird oft zusammen gekauft**
 
 ![](<../../.gitbook/assets/unknown (276).png>)
 
-2. **Product Add-on**
+2. **Produkt-Add-on**
 
 ![](<../../.gitbook/assets/unknown (277).png>)
 
-### Thank you page upsell <a href="#h.qiy2rbj2d66t" id="h.qiy2rbj2d66t"></a>
+### Upselling auf der Dankesseite <a href="#h.qiy2rbj2d66t" id="h.qiy2rbj2d66t"></a>
 
-[Thank you page upsell](create-thank-you-page-upsell.md) refers to a sales tactic where you offer complementary products on the thank you page, right after customers have completed a purchase.
+["Upselling auf der Dankesseite"](create-thank-you-page-upsell.md) bezeichnet eine Verkaufstaktik, bei der Sie ergänzende Produkte auf der Dankesseite anbieten, direkt nachdem Kunden einen Kauf abgeschlossen haben.
 
-Example: In the cosmetics industry, after purchasing a skincare set, customers are always offered a discounted face mask that they can add to their cart immediately.
+Beispiel: In der Kosmetikbranche wird Kunden nach dem Kauf eines Hautpflege-Sets stets eine vergünstigte Gesichtsmaske angeboten, die sie sofort in den Warenkorb legen können.
 
 <figure><img src="../../.gitbook/assets/unknown (44).png" alt=""><figcaption></figcaption></figure>

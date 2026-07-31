@@ -1,199 +1,200 @@
 ---
 description: >-
-  This guide explains how to create an Offer Page in BOGOS to effectively
-  promote your active offers by showcasing them in a centralized location.
+  Dieser Leitfaden erklärt, wie Sie in BOGOS eine Angebotsseite erstellen, um
+  Ihre aktiven Angebote effektiv zu bewerben, indem Sie sie an einem zentralen
+  Ort präsentieren.
 ---
 
-# Create Offer Page
+# Angebotsseite erstellen
 
-The BOGOS Offer Page is a powerful tool to **showcase your offers in one central page**, making it easy for customers to discover what promotions are available.&#x20;
+Die BOGOS-Angebotsseite ist ein leistungsstarkes Tool, um **Ihre Angebote auf einer zentralen Seite zu präsentieren**, sodass Kunden leicht entdecken können, welche Aktionen verfügbar sind.&#x20;
 
-From this, customers are then **redirected to the relevant pages** where they can claim your offers.
+Von hier aus werden Kunden dann **zu den entsprechenden Seiten weitergeleitet**, auf denen sie Ihre Angebote einlösen können.
 
 {% hint style="info" %}
-Some offers allow customers to **claim them directly from the Offer Page** using the Add button:
+Bei einigen Angeboten können Kunden diese **direkt über die Angebotsseite mit der Schaltfläche „Hinzufügen“ einlösen**:
 
-* [Gift offers](../gift-offer/): Add gifts directly to cart once conditions are met.
-* [Volume discount](../discount-offer/create-volume-discount.md) & [Discount on cheapest/most expensive item](../discount-offer/create-discount-on-cheapest-most-expensive-item.md): Add products directly to cart to apply the discount.
+* [Geschenkangebote](../gift-offer/): Fügen Sie Geschenke direkt zum Warenkorb hinzu, sobald die Bedingungen erfüllt sind.
+* [Mengenrabatt](../discount-offer/create-volume-discount.md) & [Rabatt auf günstigstes/teuerstes Produkt](../discount-offer/create-discount-on-cheapest-most-expensive-item.md): Fügen Sie Produkte direkt zum Warenkorb hinzu, um den Rabatt anzuwenden.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/VUdDFIvAc38?si=SQVwm9_c8DnhCrNh" %}
 
-**Setting up a BOGOS Offer Page includes 6 steps:**
+**Die Einrichtung einer BOGOS-Angebotsseite umfasst 6 Schritte:**
 
-1. Navigate to Booster page > Create Offer page.
-2. Fill in booster name (for internal purposes only).
-3. [Set up the header section.](create-offer-page.md#set-up-header-section)
-4. [Set up the spotlight section](create-offer-page.md#set-up-spotlight-section-optional) (optional).
-5. [Set up the main sections.](create-offer-page.md#set-up-main-sections)
-6. Click Publish and test the offer page.
-7. Get and attach the offer page link to your website.
+1. Navigieren Sie zur Booster-Seite > Angebotsseite erstellen.
+2. Geben Sie den Booster-Namen ein (nur für interne Zwecke).
+3. [Richten Sie den Kopfbereich ein.](create-offer-page.md#set-up-header-section)
+4. [Richten Sie den Spotlight-Bereich ein](create-offer-page.md#set-up-spotlight-section-optional) (optional).
+5. [Richten Sie die Hauptbereiche ein.](create-offer-page.md#set-up-main-sections)
+6. Klicken Sie auf Veröffentlichen und testen Sie die Angebotsseite.
+7. Holen Sie sich den Link zur Angebotsseite und binden Sie ihn in Ihre Website ein.
 
-## Set up Header Section
+## Kopfbereich einrichten
 
-The header section appears at the top of your Offer Page and is used to grab customers’ attention.
+Der Kopfbereich erscheint oben auf Ihrer Angebotsseite und dient dazu, die Aufmerksamkeit der Kunden zu gewinnen.
 
 <figure><img src="../../.gitbook/assets/unknown (156).png" alt=""><figcaption></figcaption></figure>
 
-**To set it up:**
+**So richten Sie ihn ein:**
 
-1. Fill in or edit the Page header.
-2. Fill in or edit the Page description (optional).
-3. Customize the header display.
+1. Füllen Sie die Seitenüberschrift aus oder bearbeiten Sie sie.
+2. Füllen Sie die Seitenbeschreibung aus oder bearbeiten Sie sie (optional).
+3. Passen Sie die Anzeige des Kopfbereichs an.
 
-### Customize Header Display
+### Anzeige des Kopfbereichs anpassen
 
-1. Click Customize to open the editor.
-2. Select a layout from the 3 available options:
+1. Klicken Sie auf Anpassen, um den Editor zu öffnen.
+2. Wählen Sie ein Layout aus den 3 verfügbaren Optionen:
 
 <figure><img src="../../.gitbook/assets/unknown (157).png" alt=""><figcaption></figcaption></figure>
 
-3. Customize content:
+3. Inhalt anpassen:
 
-* **Upload a banner image** (Recommended size: 1200 x 800 px. Accept file .gif, .jpg, and .png)
-* **Choose banner size:** Select between full width (spans the entire page) or fixed width (contained within a set area).&#x20;
-* **Add a redirect button** (optional): Add a button with custom text and a link to redirect customers to where they can claim your offer.
+* **Ein Banner-Bild hochladen** (Empfohlene Größe: 1200 x 800 px. Akzeptiert werden .gif-, .jpg- und .png-Dateien)
+* **Bannergröße wählen:** Wählen Sie zwischen voller Breite (erstreckt sich über die gesamte Seite) oder fester Breite (begrenzt auf einen festgelegten Bereich).&#x20;
+* **Eine Weiterleitungsschaltfläche hinzufügen** (optional): Fügen Sie eine Schaltfläche mit individuellem Text und einem Link hinzu, um Kunden dorthin weiterzuleiten, wo sie Ihr Angebot einlösen können.
 
 {% hint style="info" %}
-Image side-by-side layout doesn’t support Choose banner size.
+Das Layout „Bild nebeneinander“ unterstützt die Option „Bannergröße wählen“ nicht.
 {% endhint %}
 
-4. Customize display: Customize colors for available options by entering a color code or choosing from the color picker.
-5. Click Save.
+4. Anzeige anpassen: Passen Sie die Farben für verfügbare Optionen an, indem Sie einen Farbcode eingeben oder aus der Farbauswahl wählen.
+5. Klicken Sie auf Speichern.
 
-## Set up Spotlight Section (optional)
+## Spotlight-Bereich einrichten (optional)
 
-The Spotlight Section highlights one offer at the top of the Offer Page, helping you clearly communicate its value and direct attention to your priority promotion.
+Der Spotlight-Bereich hebt ein Angebot oben auf der Angebotsseite hervor und hilft Ihnen, dessen Wert klar zu kommunizieren und die Aufmerksamkeit auf Ihre prioritäre Aktion zu lenken.
 
 {% hint style="info" %}
-* You can create only one spotlight section and showcase only ONE offer.
-* If you select a deactivated offer, it won't show on the page until you activate it.
+* Sie können nur einen Spotlight-Bereich erstellen und nur EIN Angebot präsentieren.
+* Wenn Sie ein deaktiviertes Angebot auswählen, wird es erst auf der Seite angezeigt, wenn Sie es aktivieren.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-**To set it up:**
+**So richten Sie ihn ein:**
 
-1. Enable Set a spotlight section.
-2. Choose an offer you want to spotlight.
-3. Customize the layout.
+1. Aktivieren Sie „Spotlight-Bereich festlegen“.
+2. Wählen Sie ein Angebot aus, das Sie hervorheben möchten.
+3. Passen Sie das Layout an.
 
-### Customize Layout
+### Layout anpassen
 
-1. Click Customize to open the editor.
+1. Klicken Sie auf Anpassen, um den Editor zu öffnen.
 
 <figure><img src="../../.gitbook/assets/unknown (159).png" alt=""><figcaption></figcaption></figure>
 
-2. Customize Content:
+2. Inhalt anpassen:
 
-— **Customize each element of the offer information**, which will be displayed to customers:
+— **Passen Sie jedes Element der Angebotsinformationen an**, die Kunden angezeigt werden:
 
-* **Title:** The main headline for your offer.
-* **Description** (optional): Additional text explaining the offer.
-* **Product list label**: Instructional text shown above the product list.
-* **Add button text** (if available): The text of the add-to-cart button shown when customers can quickly add products or gifts to the cart.
+* **Titel:** Die Hauptüberschrift für Ihr Angebot.
+* **Beschreibung** (optional): Zusätzlicher Text, der das Angebot erklärt.
+* **Produktlisten-Etikett**: Anleitungstext, der oberhalb der Produktliste angezeigt wird.
+* **Schaltflächentext hinzufügen** (falls verfügbar): Der Text der Schaltfläche „Zum Warenkorb hinzufügen“, die angezeigt wird, wenn Kunden Produkte oder Geschenke schnell zum Warenkorb hinzufügen können.
 
 {% hint style="info" %}
-By default, BOGOS syncs the offer information from your original offer content.
+Standardmäßig synchronisiert BOGOS die Angebotsinformationen aus Ihrem ursprünglichen Angebotsinhalt.
 {% endhint %}
 
-— **Add element** (optional). You can add any or all of the following 4 elements:
+— **Element hinzufügen** (optional). Sie können beliebige oder alle der folgenden 4 Elemente hinzufügen:
 
-* Redirect button: Add a custom CTA that links customers to where they can claim the offer.
-* Discount label: Enter a custom discount label to highlight your deals.
-* Max discount line: Enter a maximum discount value that customers can receive from the offer.
-* Total price line: Enter a custom total and original price to highlight savings better.
-
-
-
-3. **Customize Display:**
-
-* **Choose Products per row**: Control how many products appear per row on desktop and mobile.
-* **Show compare-at price** (optional): Display the original price for your products to highlight savings
-* **Customize display**: Customize colors for available options by entering a color code or choosing from the color picker.
+* Weiterleitungsschaltfläche: Fügen Sie einen individuellen CTA hinzu, der Kunden dorthin verlinkt, wo sie das Angebot einlösen können.
+* Rabattlabel: Geben Sie ein individuelles Rabattlabel ein, um Ihre Deals hervorzuheben.
+* Maximaler Rabattbetrag: Geben Sie einen maximalen Rabattwert ein, den Kunden aus dem Angebot erhalten können.
+* Gesamtpreiszeile: Geben Sie einen individuellen Gesamt- und Originalpreis ein, um Ersparnisse besser hervorzuheben.
 
 
 
-4. Click Save.
+3. **Anzeige anpassen:**
 
-## Set up Main Sections
+* **Produkte pro Reihe wählen**: Steuern Sie, wie viele Produkte pro Reihe auf Desktop und Mobilgeräten angezeigt werden.
+* **Vergleichspreis anzeigen** (optional): Zeigt den Originalpreis Ihrer Produkte an, um Ersparnisse hervorzuheben
+* **Anzeige anpassen**: Passen Sie die Farben für verfügbare Optionen an, indem Sie einen Farbcode eingeben oder aus der Farbauswahl wählen.
 
-The Main Sections let you showcase multiple offers in different layouts, making it easy for customers to browse, compare, and understand each offer’s value.
+
+
+4. Klicken Sie auf Speichern.
+
+## Hauptbereiche einrichten
+
+Mit den Hauptbereichen können Sie mehrere Angebote in verschiedenen Layouts präsentieren, sodass Kunden jedes Angebot leicht durchsuchen, vergleichen und dessen Wert verstehen können.
 
 {% hint style="info" %}
-* You can add multiple main section layouts to one offer page.
-* Each section type can display multiple offers.
-* If you select a deactivated offer, it won't show on the page until you activate it.
+* Sie können mehrere Hauptbereichs-Layouts zu einer Angebotsseite hinzufügen.
+* Jeder Bereichstyp kann mehrere Angebote anzeigen.
+* Wenn Sie ein deaktiviertes Angebot auswählen, wird es erst auf der Seite angezeigt, wenn Sie es aktivieren.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (160).png" alt="" width="554"><figcaption></figcaption></figure>
 
-**To set up a new section:**
+**So richten Sie einen neuen Bereich ein:**
 
-1. Click Add section > [Choose a section type.](create-offer-page.md#choose-a-section-type)
-2. Fill in or edit the section title and description (optional).
-3. Select an offer(s) to showcase under the selected section type.
-4. Click Customize to open the editor.
-5. [Customize the layout content.](create-offer-page.md#customize-the-layout-content)
-6. [Customize the layout display.](create-offer-page.md#customize-the-layout-display)
-7. Click save.
+1. Klicken Sie auf Abschnitt hinzufügen > [Wählen Sie einen Bereichstyp.](create-offer-page.md#choose-a-section-type)
+2. Füllen Sie den Bereichstitel und die Beschreibung aus oder bearbeiten Sie sie (optional).
+3. Wählen Sie ein oder mehrere Angebote aus, die unter dem ausgewählten Bereichstyp präsentiert werden sollen.
+4. Klicken Sie auf Anpassen, um den Editor zu öffnen.
+5. [Passen Sie den Layout-Inhalt an.](create-offer-page.md#customize-the-layout-content)
+6. [Passen Sie die Layout-Anzeige an.](create-offer-page.md#customize-the-layout-display)
+7. Klicken Sie auf Speichern.
 
-### Choose a Section Type
+### Bereichstyp wählen
 
-There are 6 section types, each designed for different promotion goals and display needs.
+Es gibt 6 Bereichstypen, jeder für unterschiedliche Werbeziele und Anzeigebedürfnisse konzipiert.
 
 <figure><img src="../../.gitbook/assets/unknown (161).png" alt=""><figcaption></figcaption></figure>
 
-**— Exclusive for gift-based campaigns:**
+**— Exklusiv für geschenkbasierte Kampagnen:**
 
-* Gift collection: Show all gifts in a compact grid. Once customers qualify, the “Add” button appears, allowing them to add gifts to the cart on the Offer page directly.
+* Geschenkkollektion: Zeigt alle Geschenke in einem kompakten Raster an. Sobald Kunden qualifiziert sind, erscheint die Schaltfläche „Hinzufügen“, mit der sie Geschenke direkt auf der Angebotsseite zum Warenkorb hinzufügen können.
 
 
 
-**— For showcasing several promotions at once:**
+**— Zur gleichzeitigen Präsentation mehrerer Aktionen:**
 
-* Offer collection - Style 1: Simple list layout for a clean, text-first view, customers can scan offers quickly.
-* Offer collection - Style 2: A visual grid layout for a more visual view, customers can browse offers like a gallery.<br>
+* Angebotskollektion – Stil 1: Einfaches Listenlayout für eine übersichtliche, textorientierte Ansicht, Kunden können Angebote schnell überfliegen.
+* Angebotskollektion – Stil 2: Ein visuelles Rasterlayout für eine bildorientiertere Ansicht, Kunden können Angebote wie in einer Galerie durchsuchen.<br>
 
-**— For focusing on one offer with products showcasing:**
+**— Zur Fokussierung auf ein Angebot mit Produktpräsentation:**
 
-* Offer block: Quick highlight for 1–2 products in the offer (image is optional).
-* Offer detail block: Shows multiple products alongside the offer details.
-* Offer detail block image: Use a large featured image alongside multiple products.
+* Angebotsblock: Schnelle Hervorhebung für 1–2 Produkte im Angebot (Bild optional).
+* Angebots-Detailblock: Zeigt mehrere Produkte zusammen mit den Angebotsdetails an.
+* Angebots-Detailblock mit Bild: Verwendet ein großes Hauptbild zusammen mit mehreren Produkten.
 
-### Customize Layout Content
+### Layout-Inhalt anpassen
 
 {% hint style="info" %}
-Available options may vary depending on your selected section type.
+Die verfügbaren Optionen können je nach ausgewähltem Bereichstyp variieren.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (162).png" alt=""><figcaption></figcaption></figure>
 
-1. **Select the offer** you want to customize from the Offer list (on the left).
-2. **Customize the offer information** (on the right). Setting up is the same as in the [Spotlight section.](create-offer-page.md#customize-layout)
-3. **Upload offer image** (if available), accepting .gif, .jpg, or .png files, with a recommended size of 100KB for fast loading.
+1. **Wählen Sie das Angebot**, das Sie anpassen möchten, aus der Angebotsliste (links).
+2. **Passen Sie die Angebotsinformationen an** (rechts). Die Einrichtung erfolgt genauso wie im [Spotlight-Bereich.](create-offer-page.md#customize-layout)
+3. **Laden Sie ein Angebotsbild hoch** (falls verfügbar), akzeptiert werden .gif-, .jpg- oder .png-Dateien, mit einer empfohlenen Größe von 100 KB für schnelles Laden.
 
 {% hint style="info" %}
-Required for most image-supported layouts, optional for Offer Block.
+Erforderlich für die meisten bildunterstützten Layouts, optional für den Angebotsblock.
 {% endhint %}
 
-4. **Add element** (optional). Setting up is the same as in the [Spotlight section](create-offer-page.md#customize-layout).
-5. **Select an icon or upload your own** (if available). We recommend .jpg, .png files with 100KB for fast loading.
-6. **Reverse column order:** Enable to switch of the position of content and images.
+4. **Element hinzufügen** (optional). Die Einrichtung erfolgt genauso wie im [Spotlight-Bereich](create-offer-page.md#customize-layout).
+5. **Wählen Sie ein Symbol aus oder laden Sie Ihr eigenes hoch** (falls verfügbar). Wir empfehlen .jpg- oder .png-Dateien mit 100 KB für schnelles Laden.
+6. **Spaltenreihenfolge umkehren:** Aktivieren Sie diese Option, um die Position von Inhalt und Bildern zu vertauschen.
 
-### Customize Layout Display
+### Layout-Anzeige anpassen
 
 {% hint style="info" %}
-Available options may vary depending on your selected section type.
+Die verfügbaren Optionen können je nach ausgewähltem Bereichstyp variieren.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (163).png" alt=""><figcaption></figcaption></figure>
 
-1. **Select the offer** you want to customize from the Offer list (on the left).
-2. **Open Display tab** (on the right).
-3. Select **Offer image ratio**: Ensure the image fits the layout properly.
-4. Select **Products per row**: Control how many products appear per row on desktop and mobile to optimize for different screen sizes.
-5. **Show compare-at pric**e (optional): Display the original price for your products to highlight savings
-6. **Customize display**: Customize colors for available options by entering a color code or choosing from the color picker.
+1. **Wählen Sie das Angebot**, das Sie anpassen möchten, aus der Angebotsliste (links).
+2. **Öffnen Sie den Tab Anzeige** (rechts).
+3. Wählen Sie **Angebotsbild-Seitenverhältnis**: Stellen Sie sicher, dass das Bild richtig in das Layout passt.
+4. Wählen Sie **Produkte pro Reihe**: Steuern Sie, wie viele Produkte pro Reihe auf Desktop und Mobilgeräten angezeigt werden, um für unterschiedliche Bildschirmgrößen zu optimieren.
+5. **Vergleichspreis anzeigen** (optional): Zeigt den Originalpreis Ihrer Produkte an, um Ersparnisse hervorzuheben
+6. **Anzeige anpassen**: Passen Sie die Farben für verfügbare Optionen an, indem Sie einen Farbcode eingeben oder aus der Farbauswahl wählen.

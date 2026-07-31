@@ -6,34 +6,34 @@ description: >-
 
 # Weglot
 
-[Weglot](https://apps.shopify.com/weglot?utm_source=partners\&utm_medium=integration\&utm_campaign=bogos) is a complete eCommerce translation solution for Shopify. With Weglot, you can have an instantly translated store in under 5 minutes. Manage your translations easily with a first layer of machine translation for speed and automation, then use Weglot’s post-editing features to control the quality of your translations or order professional translations. Your store is automatically indexed on Search Engines and SEO optimized to accelerate your customer acquisition.
+[Weglot](https://apps.shopify.com/weglot?utm_source=partners\&utm_medium=integration\&utm_campaign=bogos) ist eine vollständige E-Commerce-Übersetzungslösung für Shopify. Mit Weglot können Sie in unter 5 Minuten einen sofort übersetzten Shop erhalten. Verwalten Sie Ihre Übersetzungen ganz einfach mit einer ersten Ebene maschineller Übersetzung für Geschwindigkeit und Automatisierung und nutzen Sie dann die Nachbearbeitungsfunktionen von Weglot, um die Qualität Ihrer Übersetzungen zu kontrollieren oder professionelle Übersetzungen zu bestellen. Ihr Shop wird automatisch bei Suchmaschinen indexiert und SEO-optimiert, um Ihre Kundengewinnung zu beschleunigen.
 
-**Weglot key features:**
+**Wichtige Funktionen von Weglot:**
 
-* Install Weglot and get an instantly translated store, without code.
-* Manage and edit translations on one platform. Collaborate with your team.
-* Multilingual SEO optimized: Weglot follows Google multilingual SEO best practice
+* Installieren Sie Weglot und erhalten Sie ohne Code einen sofort übersetzten Shop.
+* Verwalten und bearbeiten Sie Übersetzungen auf einer Plattform. Arbeiten Sie mit Ihrem Team zusammen.
+* Mehrsprachiges SEO optimiert: Weglot folgt den Best Practices von Google für mehrsprachiges SEO
 
 {% hint style="info" %}
-The solution allows merchants to translate their promotion elements, such as gift slider, cart message, gift thumbnail, bundles, quantity breaks, and today offer.
+Die Lösung ermöglicht es Händlern, ihre Werbeelemente zu übersetzen, wie z. B. Geschenkschieberegler, Warenkorbnachricht, Geschenk-Miniaturansicht, Bundles, Mengenrabatte und Heute-Angebot.
 {% endhint %}
 
-## How to Install Weglot
+## Wie man Weglot installiert
 
-**Step 1:** Install Weglot from the [Shopify app store](https://apps.shopify.com/weglot).
+**Schritt 1:** Installieren Sie Weglot aus dem [Shopify App Store](https://apps.shopify.com/weglot).
 
 <figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:** Create your Weglot account, start configuring and auto-translating your languages with [this guide](https://support.weglot.com/article/84-shopify-integration-setup).
+**Schritt 2:** Erstellen Sie Ihr Weglot-Konto und beginnen Sie, Ihre Sprachen mit [dieser Anleitung](https://support.weglot.com/article/84-shopify-integration-setup) zu konfigurieren und automatisch zu übersetzen.
 
-**Step 3:** Click on Manage translations in your Weglot Dashboard.
+**Schritt 3:** Klicken Sie in Ihrem Weglot-Dashboard auf Übersetzungen verwalten.
 
 <figure><img src="../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
-**Step 4:** Click the icon to edit your store translation script.
+**Schritt 4:** Klicken Sie auf das Symbol, um Ihr Shop-Übersetzungsskript zu bearbeiten.
 
 <figure><img src="../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
-**Step 5:** Search for any BOGOS texts on your storefront, and you will see them immediately. Feel free to change or replace Weglot's default translation!
+**Schritt 5:** Suchen Sie nach beliebigen BOGOS-Texten in Ihrem Onlineshop, und Sie werden sie sofort sehen. Ändern oder ersetzen Sie die Standardübersetzung von Weglot ganz nach Belieben!
 
 <figure><img src="../../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>

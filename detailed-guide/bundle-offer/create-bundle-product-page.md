@@ -1,177 +1,177 @@
-# Create Bundle Product Page
+# Bundle-Produktseite erstellen
 
-Bundle Product Page by BOGOS lets you create **a dedicated product page for your bundle,** where customers can mix and match products, select variants, and adjust quantities directly on the page.&#x20;
+Mit der Bundle-Produktseite von BOGOS können Sie **eine dedizierte Produktseite für Ihr Bundle erstellen,** auf der Kunden Produkte mischen und kombinieren, Varianten auswählen und Mengen direkt auf der Seite anpassen können.&#x20;
 
-[See it in action](https://demo-store-by-bogos.myshopify.com/products/bundle-product-page?utm_source=HelpDoc\&utm_medium=Bundleproductpage\&utm_campaign=create).
+[Sehen Sie es in Aktion](https://demo-store-by-bogos.myshopify.com/products/bundle-product-page?utm_source=HelpDoc\&utm_medium=Bundleproductpage\&utm_campaign=create).
 
 {% hint style="warning" %}
-Customers must **bundle the exact quantity you set to get the matching discount**. If you set 2-item and 4-item packs, a 3-item bundle will NOT receive any discount and will not be added to your store’s cart.
+Kunden müssen **genau die von Ihnen festgelegte Menge bündeln, um den passenden Rabatt zu erhalten**. Wenn Sie Pakete mit 2 und 4 Artikeln festlegen, erhält ein Bundle mit 3 Artikeln KEINEN Rabatt und wird nicht zum Warenkorb Ihres Stores hinzugefügt.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/81HJcRiLcEs?si=uxxGZgDqx0CjtAt0" %}
 
-**Setting up a Bundle Product Page includes 8 steps:**
+**Das Einrichten einer Bundle-Produktseite umfasst 8 Schritte:**
 
-1. Open BOGOS app > Create offer > Bundle > Bundle product page
-2. [Fill in bundle information](create-bundle-product-page.md#fill-in-bundle-information)
-3. [Set up the pack](create-bundle-product-page.md#set-up-the-pack)
-4. [Set up the section](create-bundle-product-page.md#set-up-the-section)
-5. [Display the bundle](create-bundle-product-page.md#display-the-bundle)
-6. [Preview your setup](create-bundle-product-page.md#preview-your-setup) & make changes
-7. Publish
-8. [Edit product details](create-bundle-product-page.md#edit-product-details)
+1. Öffnen Sie die BOGOS-App > Angebot erstellen > Bundle > Bundle-Produktseite
+2. [Bundle-Informationen ausfüllen](create-bundle-product-page.md#fill-in-bundle-information)
+3. [Das Paket einrichten](create-bundle-product-page.md#set-up-the-pack)
+4. [Den Abschnitt einrichten](create-bundle-product-page.md#set-up-the-section)
+5. [Das Bundle anzeigen](create-bundle-product-page.md#display-the-bundle)
+6. [Ihr Setup in der Vorschau ansehen](create-bundle-product-page.md#preview-your-setup) & Änderungen vornehmen
+7. Veröffentlichen
+8. [Produktdetails bearbeiten](create-bundle-product-page.md#edit-product-details)
 
-## Fill in Bundle Information
+## Bundle-Informationen ausfüllen
 
-Fill in the following fields:
+Füllen Sie die folgenden Felder aus:
 
 ![](<../../.gitbook/assets/unknown (294).png>)
 
-* **Bundle name**: Used only to help you easily manage & distinguish from other offers in the BOGOS app.&#x20;
-* **Product name**: The name displayed on the bundle product page that customers see.
-* **Start time / End time:** Choose when the offer starts and ends.
+* **Bundle-Name**: Wird nur verwendet, um Ihnen zu helfen, dieses Angebot einfach zu verwalten und von anderen Angeboten in der BOGOS-App zu unterscheiden.&#x20;
+* **Produktname**: Der Name, der auf der Bundle-Produktseite angezeigt wird und den Kunden sehen.
+* **Startzeit / Endzeit:** Wählen Sie, wann das Angebot beginnt und endet.
 
-## Set Up the Bundle Sizes
+## Die Bundle-Größen einrichten
 
-A pack defines the number of products customers need to add to receive a discount.&#x20;
+Ein Paket legt die Anzahl der Produkte fest, die Kunden hinzufügen müssen, um einen Rabatt zu erhalten.&#x20;
 
-**Add multiple pack sizes** to offer tiered quantity-based discounts.
+**Fügen Sie mehrere Paketgrößen hinzu**, um gestaffelte mengenbasierte Rabatte anzubieten.
 
-### a) Add a Pack Size
+### a) Eine Paketgröße hinzufügen
 
-Click **Add pack size** to add a new pack.&#x20;
+Klicken Sie auf **Paketgröße hinzufügen**, um ein neues Paket hinzuzufügen.&#x20;
 
 {% hint style="warning" %}
-Customers must **bundle the exact quantity to receive the pack’s discount**. If you set 2-item and 4-item packs, a 3-item bundle will NOT receive a discount and be added to your store’s cart.
+Kunden müssen **genau die Menge bündeln, um den Rabatt des Pakets zu erhalten**. Wenn Sie Pakete mit 2 und 4 Artikeln festlegen, erhält ein Bundle mit 3 Artikeln KEINEN Rabatt und wird zum Warenkorb Ihres Stores hinzugefügt.
 {% endhint %}
 
-Then, fill in the following fields:
+Füllen Sie dann die folgenden Felder aus:
 
 ![](<../../.gitbook/assets/unknown (295).png>)
 
-* **Quantity**: The number of items a customer must add to qualify for the discount.
-* **Discount type**: Select one among Percentage, Fixed amount, Fixed price.
-* **Discount value**: Enter the discount amount if customers qualify for this pack.&#x20;
+* **Menge**: Die Anzahl der Artikel, die ein Kunde hinzufügen muss, um sich für den Rabatt zu qualifizieren.
+* **Rabattart**: Wählen Sie eine von Prozentsatz, Fester Betrag, Festpreis.
+* **Rabattwert**: Geben Sie den Rabattbetrag ein, wenn Kunden sich für dieses Paket qualifizieren.&#x20;
 
 {% hint style="info" %}
-For Fixed amount and Fixed price, you can click Add currency to set custom discount amounts for each Shopify market.
+Für Fester Betrag und Festpreis können Sie auf Währung hinzufügen klicken, um benutzerdefinierte Rabattbeträge für jeden Shopify-Markt festzulegen.
 {% endhint %}
 
-* **Size label**: The text that shows how many items customers must buy.
-* **Discount label**: The text that shows the discount alongside the pack.
-* **Add image** (optional): Upload an image to represent this pack size.
-* **Add badge** (optional): Add a text or image badge to highlight this pack size.
+* **Größenbeschriftung**: Der Text, der anzeigt, wie viele Artikel Kunden kaufen müssen.
+* **Rabattbeschriftung**: Der Text, der den Rabatt neben dem Paket anzeigt.
+* **Bild hinzufügen** (optional): Laden Sie ein Bild hoch, um diese Paketgröße darzustellen.
+* **Abzeichen hinzufügen** (optional): Fügen Sie ein Text- oder Bildabzeichen hinzu, um diese Paketgröße hervorzuheben.
 
 ![](<../../.gitbook/assets/unknown (296).png>)
 
-### b) Add an Unlimited Pack
+### b) Ein unbegrenztes Paket hinzufügen
 
-Click **Add unlimited pack** if you want the discount to continue after customers exceed the last defined pack size.
+Klicken Sie auf **Unbegrenztes Paket hinzufügen**, wenn der Rabatt weiterhin gelten soll, nachdem Kunden die zuletzt definierte Paketgröße überschreiten.
 
-Example:&#x20;
+Beispiel:&#x20;
 
-* Pack 1 = bundle 2 items
-* Pack 2 = bundle 4 items
-* Unlimited Pack = bundle more than 4 items, such as 5 or 6.
+* Paket 1 = Bundle aus 2 Artikeln
+* Paket 2 = Bundle aus 4 Artikeln
+* Unbegrenztes Paket = Bundle aus mehr als 4 Artikeln, wie z. B. 5 oder 6.
 
 ![](<../../.gitbook/assets/unknown (297).png>)
 
-### c) Customize the Pack
+### c) Das Paket anpassen
 
-Click **Customize** to open the full-screen editor and adjust your pack display on the storefront.
+Klicken Sie auf **Anpassen**, um den Vollbildeditor zu öffnen und Ihre Paketanzeige im Storefront anzupassen.
 
 {% hint style="info" %}
-This customization only applies to this bundle product page. Other bundle product pages will not be affected.&#x20;
+Diese Anpassung gilt nur für diese Bundle-Produktseite. Andere Bundle-Produktseiten werden nicht beeinflusst.&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/unknown (298).png>)
 
-For more details, please visit \[[Customize the Pack](../customize/customize-bundle-product-page.md#customize-the-pack-pack-select-field)].
+Weitere Details finden Sie unter \[[Das Paket anpassen](../customize/customize-bundle-product-page.md#customize-the-pack-pack-select-field)].
 
-## Set Up the Section
+## Den Abschnitt einrichten
 
-A section defines the products customers can choose from to build their bundle.
+Ein Abschnitt legt die Produkte fest, aus denen Kunden ihr Bundle zusammenstellen können.
 
-You can display all products in one step or divide them into multiple steps to guide customers through the selection, such as completing a routine.
+Sie können alle Produkte in einem Schritt anzeigen oder sie in mehrere Schritte aufteilen, um Kunden durch die Auswahl zu führen, zum Beispiel bei der Zusammenstellung einer Routine.
 
-### a) Add a Step
+### a) Einen Schritt hinzufügen
 
-Click **+ Add step** to add a new step. Then, follow these guides to build a step:
+Klicken Sie auf **+ Schritt hinzufügen**, um einen neuen Schritt hinzuzufügen. Folgen Sie dann diesen Anleitungen, um einen Schritt zu erstellen:
 
 <img src="../../.gitbook/assets/unknown (299).png" alt="" height="380" width="483">
 
-1. Fill in **Step title**: The name shown for this selection step on the bundle product page.
-2. Choose **Display type**:
+1. Füllen Sie die **Schrittüberschrift** aus: Der Name, der für diesen Auswahlschritt auf der Bundle-Produktseite angezeigt wird.
+2. Wählen Sie den **Anzeigetyp**:
 
-* **By Product**: Shows each product with multiple variants as one item. Customers select variants from a drop-down.
-* **By Variant**: If a product has multiple variants, it shows each variant as a separate item for selection.
+* **Nach Produkt**: Zeigt jedes Produkt mit mehreren Varianten als ein Element an. Kunden wählen Varianten aus einer Dropdown-Liste aus.
+* **Nach Variante**: Wenn ein Produkt mehrere Varianten hat, wird jede Variante als separates Element zur Auswahl angezeigt.
 
-3. Click **Select products** to choose which products are available in this step.
-4. Open **Advanced settings** to set a minimum or maximum quantity a customer can select from this step.
+3. Klicken Sie auf **Produkte auswählen**, um festzulegen, welche Produkte in diesem Schritt verfügbar sind.
+4. Öffnen Sie **Erweiterte Einstellungen**, um eine Mindest- oder Höchstmenge festzulegen, die ein Kunde in diesem Schritt auswählen kann.
 
-### b) Customize the Section
+### b) Den Abschnitt anpassen
 
-Click **Customize** to open the full-screen editor and adjust the appearance of the product list on the storefront.
+Klicken Sie auf **Anpassen**, um den Vollbildeditor zu öffnen und das Erscheinungsbild der Produktliste im Storefront anzupassen.
 
 {% hint style="info" %}
-This customization applies to each bundle product page offer. Other bundle product pages will not be affected.&#x20;
+Diese Anpassung gilt für jedes Bundle-Produktseiten-Angebot. Andere Bundle-Produktseiten werden nicht beeinflusst.&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/unknown (300).png>)
 
-For more details, please visit \[[Customize the Section](../customize/customize-bundle-product-page.md#customize-the-section)].
+Weitere Details finden Sie unter \[[Den Abschnitt anpassen](../customize/customize-bundle-product-page.md#customize-the-section)].
 
-## Display the Bundle
+## Das Bundle anzeigen
 
-The **Display the bundle** panel on the right side of the setup page provides two options to control how the bundle appears across your store.
+Das Panel **Das Bundle anzeigen** auf der rechten Seite der Setup-Seite bietet zwei Optionen, um zu steuern, wie das Bundle in Ihrem Store angezeigt wird.
 
 ![](<../../.gitbook/assets/unknown (301).png>)
 
-### a) Customize the Page (Global Customize)
+### a) Die Seite anpassen (Global Customize)
 
-This customization will be applied to all bundle product pages on your store.
+Diese Anpassung wird auf alle Bundle-Produktseiten in Ihrem Store angewendet.
 
-Click **Global customize** to open the customize editor. Then, customize all options available:
+Klicken Sie auf **Global customize**, um den Anpassungseditor zu öffnen. Passen Sie dann alle verfügbaren Optionen an:
 
 <img src="../../.gitbook/assets/unknown (302).png" alt="" height="308" width="624">
 
-For more details, please visit \[[Global Customize](../customize/customize-bundle-product-page.md#global-customize)].
+Weitere Details finden Sie unter \[[Global Customize](../customize/customize-bundle-product-page.md#global-customize)].
 
-### b) Widget on Child Product Page
+### b) Widget auf der Produktseite des Kindprodukts
 
-Enable **Add widget on child products' page** to show a widget on the individual product pages of all items involved in this bundle. This widget lets customers navigate directly to the bundle product page.
+Aktivieren Sie **Widget auf der Seite des Kindprodukts hinzufügen**, um ein Widget auf den einzelnen Produktseiten aller in diesem Bundle enthaltenen Artikel anzuzeigen. Dieses Widget ermöglicht es Kunden, direkt zur Bundle-Produktseite zu navigieren.
 
-To adjust the widget's display, click **Widget customize**.
+Um die Anzeige des Widgets anzupassen, klicken Sie auf **Widget customize**.
 
 <img src="../../.gitbook/assets/unknown (303).png" alt="" height="309" width="624">
 
-For more details, please visit \[[Customize Widget on Child Product Page](../customize/customize-bundle-product-page.md#widget-on-child-product-page)].
+Weitere Details finden Sie unter \[[Widget auf der Produktseite des Kindprodukts anpassen](../customize/customize-bundle-product-page.md#widget-on-child-product-page)].
 
-## Preview Your Setup
+## Ihr Setup in der Vorschau ansehen
 
-Once all required information is filled in, click Preview page to open the full-screen editor. Here, you can **preview** the bundle product page and **adjust the display** again if needed before saving.
+Sobald alle erforderlichen Informationen ausgefüllt sind, klicken Sie auf Seite in der Vorschau ansehen, um den Vollbildeditor zu öffnen. Hier können Sie die Bundle-Produktseite in der **Vorschau ansehen** und die Anzeige bei Bedarf erneut **anpassen**, bevor Sie speichern.
 
 ![](<../../.gitbook/assets/unknown (304).png>)
 
-## Edit Product Details
+## Produktdetails bearbeiten
 
-After publishing the bundle product page:
+Nach der Veröffentlichung der Bundle-Produktseite:
 
-1. Go back to its setup screen
-2. Click **Edit detail** to open the product editor.
+1. Kehren Sie zum Setup-Bildschirm zurück
+2. Klicken Sie auf **Details bearbeiten**, um den Produkteditor zu öffnen.
 
 ![](<../../.gitbook/assets/unknown (305).png>)
 
-3. **Update the product details** shown on your store, such as the product title, description, and image.
+3. **Aktualisieren Sie die Produktdetails**, die in Ihrem Store angezeigt werden, wie zum Beispiel den Produkttitel, die Beschreibung und das Bild.
 
 {% hint style="info" %}
-Do not set up the inventory or add variants. These settings will change how the bundle product page looks and confuse customers.
+Richten Sie keinen Lagerbestand ein und fügen Sie keine Varianten hinzu. Diese Einstellungen würden das Erscheinungsbild der Bundle-Produktseite verändern und Kunden verwirren.
 {% endhint %}
 
 ![](<../../.gitbook/assets/unknown (306).png>)
 
-## Need Help?
+## Brauchen Sie Hilfe?
 
-If you need any assistance, feel free to reach out to our customer support team via live chat within the BOGOS app.
+Wenn Sie Unterstützung benötigen, wenden Sie sich gerne über den Live-Chat innerhalb der BOGOS-App an unser Kundensupport-Team.

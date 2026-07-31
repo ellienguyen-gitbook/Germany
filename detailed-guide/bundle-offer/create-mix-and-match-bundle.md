@@ -1,177 +1,177 @@
 ---
-description: Overview of creating a Mix and Match bundle with BOGOS
+description: Überblick über die Erstellung eines Mix-and-Match-Bundles mit BOGOS
 ---
 
-# Create Mix and Match Bundle
+# Mix and Match Bundle erstellen
 
 {% embed url="https://youtu.be/0y2P2tdWoIM" %}
 
-## 1. Bundle information
+## 1. Bundle-Informationen
 
 <figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
 
-### 1.1 **Bundle Title**
+### 1.1 **Bundle-Titel**
 
-Enter a title for your bundle. This title is for internal purposes only and will not be visible to customers.
+Geben Sie einen Titel für Ihr Bundle ein. Dieser Titel dient nur internen Zwecken und wird Kunden nicht angezeigt.
 
-### 1.2 **Block Header**
+### 1.2 **Blockkopfzeile**
 
-Provide a brief header that will display prominently on the bundle interface, introducing the bundle to customers.
+Geben Sie eine kurze Kopfzeile an, die auf der Bundle-Oberfläche prominent angezeigt wird und Kunden das Bundle vorstellt.
 
-### 1.3 **Bundle Description** (Optional)
+### 1.3 **Bundle-Beschreibung** (Optional)
 
-Add an optional description that further explains the bundle's purpose or value to the customer.
+Fügen Sie eine optionale Beschreibung hinzu, die den Zweck oder Mehrwert des Bundles für den Kunden weiter erläutert.
 
-### 1.4 **Start Time and End Time**
+### 1.4 **Startzeit und Endzeit**
 
-Set the start and end dates for the bundle's availability. Leave "End Time" empty if you want the offer to be ongoing.
+Legen Sie das Start- und Enddatum für die Verfügbarkeit des Bundles fest. Lassen Sie „Endzeit“ leer, wenn das Angebot dauerhaft laufen soll.
 
-## 2. Add sub-conditions
+## 2. Unterbedingungen hinzufügen
 
-Sub-conditions add extra rules to decide who can see and get your offers. Therefore, only targeted customers can see and apply the offer, while others won't see it at all.
+Unterbedingungen fügen zusätzliche Regeln hinzu, um zu entscheiden, wer Ihre Angebote sehen und erhalten kann. Dadurch können nur die gezielten Kunden das Angebot sehen und anwenden, während andere es überhaupt nicht sehen.
 
 {% hint style="info" %}
-* These sub-conditions are optional. If you don't add any, the offer will be available to all customers.
-* You can combine multiple sub-conditions. Customers must meet all selected criteria to qualify.
+* Diese Unterbedingungen sind optional. Wenn Sie keine hinzufügen, ist das Angebot für alle Kunden verfügbar.
+* Sie können mehrere Unterbedingungen kombinieren. Kunden müssen alle ausgewählten Kriterien erfüllen, um qualifiziert zu sein.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (154).png" alt="" width="503"><figcaption></figcaption></figure>
 
-1. _Specific link address_ – Apply offers to customers accessing your store from a specific link. Perfect for email campaigns, social posts, or affiliates.
-2. _Order history_ – Target customers based on purchase behavior. Best for rewarding first-time buyers, high spenders, and more.
-3. _Customer tags_ – Show or hide offers based on customer tags.
-4. _Customer location_ – Run country-specific promotions based on the customer’s IP address.
-5. _Markets_ – Run region-specific offers based on your Shopify Markets.
+1. _Spezifische Link-Adresse_ – Wenden Sie Angebote auf Kunden an, die über einen bestimmten Link auf Ihren Shop zugreifen. Perfekt für E-Mail-Kampagnen, Social-Media-Beiträge oder Affiliates.
+2. _Bestellverlauf_ – Zielen Sie auf Kunden basierend auf ihrem Kaufverhalten. Ideal, um Erstkäufer, Vielkäufer und mehr zu belohnen.
+3. _Kundentags_ – Angebote basierend auf Kundentags anzeigen oder ausblenden.
+4. _Kundenstandort_ – Führen Sie länderspezifische Werbeaktionen basierend auf der IP-Adresse des Kunden durch.
+5. _Märkte_ – Führen Sie regionsspezifische Angebote basierend auf Ihren Shopify Markets durch.
 
-♦️ For more details, visit our \[[Sub-Condition](../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)] guide.
+♦️ Weitere Details finden Sie in unserem \[[Unterbedingungen](../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)]-Leitfaden.
 
-## 3. Choose Mix items
+## 3. Mix-Artikel auswählen
 
 <figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
-### 3.1 **Choose mix item type**
+### 3.1 **Mix-Artikeltyp auswählen**
 
-* **Mix items from a list of products:** Select this if you want customers to choose from a predefined list of individual products. Each product in the list is a separate item that customers can mix and match within the bundle.
-* **Each Mix item contains a different list of products:** Choose this if you want each "mix item" to represent a category or group with its own list of products. For example, "Mix item 1" could be accessories, and "Mix item 2" could be main products.
+* **Mix-Artikel aus einer Produktliste:** Wählen Sie diese Option, wenn Kunden aus einer vordefinierten Liste einzelner Produkte auswählen sollen. Jedes Produkt in der Liste ist ein separater Artikel, den Kunden im Bundle mischen und kombinieren können.
+* **Jeder Mix-Artikel enthält eine andere Produktliste:** Wählen Sie diese Option, wenn jeder „Mix-Artikel“ eine Kategorie oder Gruppe mit einer eigenen Produktliste darstellen soll. Zum Beispiel könnte „Mix-Artikel 1“ Zubehör sein und „Mix-Artikel 2“ Hauptprodukte.
 
-### 3.2 **Select products/collections**
+### 3.2 **Produkte/Sammlungen auswählen**
 
-* **Selected Products**: Allows you to add specific products to the mix item list.
-* **Selected Collections**: Lets you add entire product collections, so customers can select from any item within a specified collection.
+* **Ausgewählte Produkte**: Ermöglicht Ihnen, bestimmte Produkte zur Mix-Artikelliste hinzuzufügen.
+* **Ausgewählte Sammlungen**: Ermöglicht Ihnen, ganze Produktsammlungen hinzuzufügen, sodass Kunden aus jedem Artikel innerhalb einer bestimmten Sammlung auswählen können.
 
 \
-Click on **Select Products** to add the products available for selection in the bundle. You can add multiple products for flexibility.
+Klicken Sie auf **Produkte auswählen**, um die im Bundle zur Auswahl verfügbaren Produkte hinzuzufügen. Sie können mehrere Produkte für mehr Flexibilität hinzufügen.
 
-### 3.3 Add Mix items and **Set minimum quantity (Optional)**
+### 3.3 Mix-Artikel hinzufügen und **Mindestmenge festlegen (Optional)**
 
-Click **Add Mix item** for an extra mix item to appear on the bundle widget &#x20;
+Klicken Sie auf **Mix-Artikel hinzufügen**, damit ein zusätzlicher Mix-Artikel im Bundle-Widget erscheint&#x20;
 
-For each mix item, enable **Set min quantity** if you want to specify a minimum required quantity.
+Aktivieren Sie für jeden Mix-Artikel **Mindestmenge festlegen**, wenn Sie eine erforderliche Mindestmenge angeben möchten.
 
-## 4. Discount tiers
+## 4. Rabattstufen
 
 <figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
 
-### 4.1 **Define a discount tier**
+### 4.1 **Eine Rabattstufe definieren**
 
-To encourage larger purchases, **set up discount tiers:**
+Um größere Käufe zu fördern, **richten Sie Rabattstufen ein:**
 
-**Quantity**: The minimum number of items for the discount to apply.
+**Menge**: Die Mindestanzahl an Artikeln, damit der Rabatt angewendet wird.
 
-**Product discount type:** Choose between options below
+**Produktrabattart:** Wählen Sie zwischen den folgenden Optionen
 
-* Percentage: percentage of the discount will be deducted from the total price of all products in bundle.
-* Amount: an amount of money will be deducted from the total price of all products in bundle.
-* Fixed price: A specific price is set for all products in the bundle.
-* Free gift: a free item that's automatically added to customer carts that meet the conditions.
+* Prozentsatz: Ein Prozentsatz des Rabatts wird vom Gesamtpreis aller Produkte im Bundle abgezogen.
+* Betrag: Ein Geldbetrag wird vom Gesamtpreis aller Produkte im Bundle abgezogen.
+* Festpreis: Für alle Produkte im Bundle wird ein bestimmter Preis festgelegt.
+* Gratisgeschenk: ein kostenloser Artikel, der automatisch zu den Warenkörben der Kunden hinzugefügt wird, die die Bedingungen erfüllen.
 
-If you choose **"amount"** or **"fixed price",** and also **sell in different currencies** (set up in Shopify Markets), you can **“add currency”** and custom how much discount amount to offer in each currency, instead of using Shopify’s exchange rates (e.g., SGD 10, CN¥8, A$12).
+Wenn Sie **„Betrag“** oder **„Festpreis“** wählen und außerdem **in verschiedenen Währungen verkaufen** (eingerichtet in Shopify Markets), können Sie **„Währung hinzufügen“** und individuell festlegen, wie viel Rabattbetrag Sie in jeder Währung anbieten möchten, anstatt Shopifys Wechselkurse zu verwenden (z. B. SGD 10, CN¥8, A$12).
 
 <figure><img src="../../.gitbook/assets/unknown (76).png" alt="" width="506"><figcaption></figcaption></figure>
 
-**Add shipping discount**
+**Versandrabatt hinzufügen**
 
 <figure><img src="../../.gitbook/assets/unknown (112).png" alt=""><figcaption></figcaption></figure>
 
-There are two types of shipping discount:
+Es gibt zwei Arten von Versandrabatt:
 
-* Percentage: A percentage of the shipping cost will be deducted.
-* Amount: A fixed amount will be deducted from the total shipping cost. If you sell in different currencies (set up in Shopify Markets), you can “add currency” and **custom how much shipping discount amount to offer in each currency**, instead of using Shopify’s exchange rates (e.g., SGD 10, €8, A$12).
+* Prozentsatz: Ein Prozentsatz der Versandkosten wird abgezogen.
+* Betrag: Ein fester Betrag wird von den gesamten Versandkosten abgezogen. Wenn Sie in verschiedenen Währungen verkaufen (eingerichtet in Shopify Markets), können Sie „Währung hinzufügen“ und **individuell festlegen, wie viel Versandrabattbetrag Sie in jeder Währung anbieten möchten**, anstatt Shopifys Wechselkurse zu verwenden (z. B. SGD 10, €8, A$12).
 
-**Label on widget**: This text informs customers whether the bundle includes a shipping discount.
+**Beschriftung auf dem Widget**: Dieser Text informiert Kunden darüber, ob das Bundle einen Versandrabatt enthält.
 
-**Discount Value**: Specify the discount percentage or amount.
+**Rabattwert**: Geben Sie den Rabattprozentsatz oder -betrag an.
 
-### 4.2 **Add multiple tiers (Optional)**
+### 4.2 **Mehrere Stufen hinzufügen (Optional)**
 
-Add additional tiers to provide increasing discounts as customers add more items.
+Fügen Sie zusätzliche Stufen hinzu, um steigende Rabatte zu bieten, wenn Kunden mehr Artikel hinzufügen.
 
-## 5. Combination
+## 5. Kombination
 
-By default, BOGOS bundles work with any other discounts, such as order discounts and shipping discounts. Untick each checkbox to disable the combination with other discounts.&#x20;
+Standardmäßig funktionieren BOGOS-Bundles mit allen anderen Rabatten zusammen, wie Bestellrabatten und Versandrabatten. Deaktivieren Sie jedes Kontrollkästchen, um die Kombination mit anderen Rabatten zu deaktivieren.&#x20;
 
-* Order discounts&#x20;
-* Shipping discount
+* Bestellrabatte&#x20;
+* Versandrabatt
 
-## 6. Discount code
+## 6. Rabattcode
 
-#### Add a custom discount code
+#### Einen benutzerdefinierten Rabattcode hinzufügen
 
-This section allows you to customize the discount code name to match your brand.<br>
+In diesem Abschnitt können Sie den Namen des Rabattcodes an Ihre Marke anpassen.<br>
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The discount code name must be under 256 characters and unique across all Shopify discounts
+Der Name des Rabattcodes muss unter 256 Zeichen liegen und über alle Shopify-Rabatte hinweg eindeutig sein
 {% endhint %}
 
 ## FAQs
 
 <details>
 
-<summary><strong>Can I customize the discount code name for Mix and match bundle?</strong></summary>
+<summary><strong>Kann ich den Namen des Rabattcodes für das Mix-and-Match-Bundle anpassen?</strong></summary>
 
-Yes, you can customize the **discount code name** (up to **256 characters**) to better match your brand.\
+Ja, Sie können den **Namen des Rabattcodes** (bis zu **256 Zeichen**) anpassen, um ihn besser an Ihre Marke anzupassen.\
 \
-Please follow the steps here:
+Bitte folgen Sie den hier beschriebenen Schritten:
 
-1. Go to the offer
-2. Scroll down to Discount code
+1. Gehen Sie zum Angebot
+2. Scrollen Sie nach unten zu Rabattcode
 
 ![](<../../.gitbook/assets/unknown (189).png>)
 
-3. Tick the box Add a custom discount code
+3. Kreuzen Sie das Kästchen „Einen benutzerdefinierten Rabattcode hinzufügen“ an
 
 ![](<../../.gitbook/assets/unknown (191).png>)
 
-4. Put your own discount name
-5. Save.<br>
+4. Geben Sie Ihren eigenen Rabattnamen ein
+5. Speichern.<br>
 
 </details>
 
 <details>
 
-<summary><strong>Can customers choose a gift variant in Mix and match offer?</strong></summary>
+<summary><strong>Können Kunden im Mix-and-Match-Angebot eine Geschenkvariante auswählen?</strong></summary>
 
-No. In a Mix and Match offer, products selected as Discount type “Free Product” are automatically added to the cart after clicking Add bundle to cart. With that, the customer is not prompted to choose a variant (like size or color).
+Nein. In einem Mix-and-Match-Angebot werden Produkte, die als Rabattart „Kostenloses Produkt“ ausgewählt wurden, nach dem Klicken auf „Bundle zum Warenkorb hinzufügen“ automatisch zum Warenkorb hinzugefügt. Dabei wird der Kunde nicht aufgefordert, eine bestimmte Variante (wie Größe oder Farbe) auszuwählen.
 
-If you need your customers to be able to select a specific variant for their free gift, you should create a **Gift Offer** instead.
+Wenn Ihre Kunden für ihr Gratisgeschenk eine bestimmte Variante auswählen können sollen, sollten Sie stattdessen ein **Geschenkangebot** erstellen.
 
 </details>
 
 <details>
 
-<summary><strong>How does BOGOS handle out-of-stock items in Mix and Match?</strong></summary>
+<summary><strong>Wie geht BOGOS mit nicht vorrätigen Artikeln bei Mix and Match um?</strong></summary>
 
-BOGOS automatically syncs with your Shopify inventory.
+BOGOS synchronisiert sich automatisch mit Ihrem Shopify-Lagerbestand.
 
-**If you select a list of products by Products in Mix item:**\
-The out-of-stock item will still be visible in the list so customers know it exists, but they will not be able to select it. To make this clear, BOGOS automatically hides the quantity box for that specific item.
+**Wenn Sie eine Produktliste per „Produkte“ im Mix-Artikel auswählen:**\
+Der nicht vorrätige Artikel bleibt in der Liste sichtbar, damit Kunden wissen, dass er existiert, sie können ihn jedoch nicht auswählen. Um dies deutlich zu machen, blendet BOGOS automatisch das Mengenfeld für diesen bestimmten Artikel aus.
 
 ![](<../../.gitbook/assets/unknown (194).png>)
 
-**If you select a list of products by Collection in Mix item:**\
-BOGOS will automatically hide any out-of-stock products from the list. Your customers will only see the items that are currently available to buy and add to their bundle
+**Wenn Sie eine Produktliste per „Sammlung“ im Mix-Artikel auswählen:**\
+BOGOS blendet automatisch alle nicht vorrätigen Produkte aus der Liste aus. Ihre Kunden sehen nur die Artikel, die derzeit verfügbar sind, um sie zu kaufen und ihrem Bundle hinzuzufügen
 
 ![](<../../.gitbook/assets/unknown (195).png>)
 

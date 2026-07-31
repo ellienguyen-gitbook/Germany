@@ -1,160 +1,160 @@
-# Customize Cart Discount
+# Warenkorbrabatt anpassen
 
-This guide explains how to customize the **Cart Discount widget** and the **Congrats message** in BOGOS - helping you inform customers about available discounts and celebrate when they unlock a deal.
+Dieser Leitfaden erklärt, wie Sie das **Warenkorbrabatt-Widget** und die **Glückwunschnachricht** in BOGOS anpassen – so informieren Sie Kunden über verfügbare Rabatte und feiern, wenn sie einen Deal freischalten.
 
 <figure><img src="../../.gitbook/assets/image (412).png" alt=""><figcaption></figcaption></figure>
 
-**Customizing these with BOGOS includes the 5 steps:**
+**Die Anpassung dieser Elemente mit BOGOS umfasst 5 Schritte:**
 
 {% stepper %}
 {% step %}
-In BOGOS Admin, open Customize > Discount > Cart Discount.
+Öffnen Sie im BOGOS-Admin Anpassen > Rabatt > Warenkorbrabatt.
 {% endstep %}
 
 {% step %}
-[Customize Product page widget.](customize-cart-discount.md#customize-product-page-widget)
+[Passen Sie das Produktseiten-Widget an.](customize-cart-discount.md#customize-product-page-widget)
 {% endstep %}
 
 {% step %}
-[Customize Congrats message.](customize-cart-discount.md#customize-congrats-message)
+[Passen Sie die Glückwunschnachricht an.](customize-cart-discount.md#customize-congrats-message)
 {% endstep %}
 
 {% step %}
-Click Save.
+Klicken Sie auf Speichern.
 {% endstep %}
 
 {% step %}
-[Adjust the widget position on your store.](customize-cart-discount.md#adjust-widget-position-on-your-store)
+[Passen Sie die Position des Widgets in Ihrem Shop an.](customize-cart-discount.md#adjust-widget-position-on-your-store)
 {% endstep %}
 {% endstepper %}
 
-## 1. Customize Product Page Widget
+## 1. Produktseiten-Widget anpassen
 
-The Product page widget appears on your store to show customers the available discounts and motivate them to add more to their cart.
+Das Produktseiten-Widget erscheint in Ihrem Shop, um Kunden die verfügbaren Rabatte zu zeigen und sie zu motivieren, mehr in den Warenkorb zu legen.
 
 <figure><img src="../../.gitbook/assets/unknown (51).png" alt=""><figcaption></figcaption></figure>
 
-### a) General
+### a) Allgemein
 
-1. **Widget style**: Select a layout from the 3 available options.
+1. **Widget-Stil**: Wählen Sie ein Layout aus den 3 verfügbaren Optionen.
 
 <figure><img src="../../.gitbook/assets/unknown (52).png" alt=""><figcaption></figcaption></figure>
 
-2. **Discount tier style**: Choose how tiers are listed - Checklist or Bullet.
+2. **Rabattstufen-Stil**: Wählen Sie, wie Stufen aufgelistet werden – Checkliste oder Aufzählungspunkte.
 
 {% hint style="info" %}
-For the Bullet option, you can select from available icons or contact BOGOS support team to help upload your own.
+Bei der Option „Aufzählungspunkte“ können Sie aus verfügbaren Symbolen wählen oder das BOGOS-Support-Team kontaktieren, um Ihr eigenes hochzuladen.
 {% endhint %}
 
-3. **Divide tiers into table**: Enable this to display tiers in a table format for a cleaner, easier-to-scan layout.
-4. **Widget border radius** (for Widget style 2 & 3): Drag the slider to adjust the corner roundness of the widget.
+3. **Stufen in Tabelle unterteilen**: Aktivieren Sie dies, um Stufen in einem Tabellenformat für ein übersichtlicheres, leichter zu überblickendes Layout anzuzeigen.
+4. **Widget-Randradius** (für Widget-Stil 2 & 3): Ziehen Sie den Schieberegler, um die Eckenrundung des Widgets anzupassen.
 
-### b) Color
+### b) Farbe
 
-BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
+BOGOS ermöglicht Ihnen, die Farben aller Elemente mit einer der folgenden 4 Methoden anzupassen:
 
-* Choose a **ready-made color set** from the dropdown.
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-cart-discount.md#ai-theme-detector) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* Wählen Sie ein **vorgefertigtes Farbset** aus dem Dropdown-Menü.
+* **Passen Sie jedes Farbfeld manuell an** für alle verfügbaren Farben.
+* Verwenden Sie den [KI-Theme-Detektor](customize-cart-discount.md#ai-theme-detector), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Shops zu generieren.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+BOGOS KI scannt Ihren Onlineshop und erkennt die Primär-, Sekundär- und Textfarben Ihrer Marke und generiert dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Shop darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit BOGOS KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stiftsymbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit BOGOS KI erneut erkennt, oder passen Sie **manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden**, um die Farben in der Widget-Vorschau anzuwenden.
 
-## 2. Customize Congrats Message
+## 2. Glückwunschnachricht anpassen
 
-The Congrats message appears when a customer unlocks a discount tier, keeping them engaged by confirming they have successfully claimed the deal.
+Die Glückwunschnachricht erscheint, wenn ein Kunde eine Rabattstufe freischaltet, und hält ihn bei der Stange, indem sie bestätigt, dass er den Deal erfolgreich eingelöst hat.
 
 <figure><img src="../../.gitbook/assets/unknown (54).png" alt=""><figcaption></figcaption></figure>
 
-### a) General
+### a) Allgemein
 
-1. **Message will appear in (seconds)**: Set the delay before the message appears after a customer qualifies.
-2. **Message position**: Select where the message appears on the screen from 6 positions available.
-3. **Border radius**: Drag the slider to adjust the corner roundness of the message.
+1. **Nachricht erscheint nach (Sekunden)**: Legen Sie die Verzögerung fest, bevor die Nachricht erscheint, nachdem ein Kunde sich qualifiziert hat.
+2. **Nachrichtenposition**: Wählen Sie, wo die Nachricht auf dem Bildschirm erscheint, aus 6 verfügbaren Positionen.
+3. **Randradius**: Ziehen Sie den Schieberegler, um die Eckenrundung der Nachricht anzupassen.
 
-### b) Content
+### b) Inhalt
 
 <figure><img src="../../.gitbook/assets/unknown (55).png" alt=""><figcaption></figcaption></figure>
 
-1. **Title**: Enter the headline displayed on the congrats message.
-2. **Description**: Add details about the discount the customer has just unlocked.
+1. **Titel**: Geben Sie die Überschrift ein, die in der Glückwunschnachricht angezeigt wird.
+2. **Beschreibung**: Fügen Sie Details zu dem Rabatt hinzu, den der Kunde gerade freigeschaltet hat.
 
 {% hint style="warning" %}
-Please retain the **\{{discount\_amount\}}** in the description to dynamically display the discount syncing with your setup. If accidentally deleted, click **Add variable** to restore it.
+Bitte behalten Sie **\{{discount\_amount\}}** in der Beschreibung bei, um den Rabatt dynamisch synchron mit Ihrer Einrichtung anzuzeigen. Falls versehentlich gelöscht, klicken Sie auf **Variable hinzufügen**, um sie wiederherzustellen.
 {% endhint %}
 
-### c) Color
+### c) Farbe
 
-BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
+BOGOS ermöglicht Ihnen, die Farben aller Elemente mit einer der folgenden 4 Methoden anzupassen:
 
-* Choose a **ready-made color set** from the dropdown.
-* **Manually adjust** each color field for all the available colors.
-* Use [AI Theme Detector](customize-cart-discount.md#ai-theme-detector) to auto-generate a full widget color palette based on your store's branding.
-* **Contact the BOGOS support team** to get help with color customization.
+* Wählen Sie ein **vorgefertigtes Farbset** aus dem Dropdown-Menü.
+* **Passen Sie jedes Farbfeld manuell an** für alle verfügbaren Farben.
+* Verwenden Sie den [KI-Theme-Detektor](customize-cart-discount.md#ai-theme-detector), um automatisch eine vollständige Widget-Farbpalette basierend auf dem Branding Ihres Shops zu generieren.
+* **Kontaktieren Sie das BOGOS-Support-Team**, um Hilfe bei der Farbanpassung zu erhalten.
 
-Click **Save** when done.
+Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-#### AI Theme Detector
+#### KI-Theme-Detektor
 
-BOGOS AI scans your online store and detects your brand's primary, secondary, and text colors, then generates a full widget color palette automatically.
+BOGOS KI scannt Ihren Onlineshop und erkennt die Primär-, Sekundär- und Textfarben Ihrer Marke und generiert dann automatisch eine vollständige Widget-Farbpalette.
 
 {% hint style="warning" %}
-Your store must NOT be password-protected for AI to access and detect your brand colors.
+Ihr Shop darf NICHT passwortgeschützt sein, damit die KI auf Ihre Markenfarben zugreifen und diese erkennen kann.
 {% endhint %}
 
-To edit the colors with BOGOS AI:
+So bearbeiten Sie die Farben mit BOGOS KI:
 
-1. Click the **pen icon**.
+1. Klicken Sie auf das **Stiftsymbol**.
 
 ![](<../../.gitbook/assets/unknown (318).png>)
 
-2. Click **Scan again** to let BOGOS AI re-detect, or **manually adjust** the Primary color, Secondary color, or Text fields.
+2. Klicken Sie auf **Erneut scannen**, damit BOGOS KI erneut erkennt, oder passen Sie **manuell** die Felder Primärfarbe, Sekundärfarbe oder Text an.
 
 ![](<../../.gitbook/assets/unknown (319).png>)
 
-3. Click **Apply** for preview to apply the colors to the widget preview.
+3. Klicken Sie auf **Anwenden**, um die Farben in der Widget-Vorschau anzuwenden.
 
-## 3. Adjust Widget Position on Your Store
+## 3. Widget-Position in Ihrem Shop anpassen
 
-By default, the Cart Discount widget **automatically appears on all relevant product pages.**
+Standardmäßig **erscheint das Warenkorbrabatt-Widget automatisch auf allen relevanten Produktseiten.**
 
-**However, if you:**
+**Wenn Sie jedoch:**
 
-* don't see any widget on your product page
-* want to reposition it on your product pages
-* want to add it to other store pages (such as the homepage, collection page, or cart page)
+* kein Widget auf Ihrer Produktseite sehen
+* es auf Ihren Produktseiten neu positionieren möchten
+* es zu anderen Shop-Seiten hinzufügen möchten (wie der Startseite, Sammlungsseite oder Warenkorbseite)
 
-**Please follow these steps:**
+**Befolgen Sie bitte diese Schritte:**
 
-1. Go to Shopify admin > Online Store.
-2. Open the theme editor.
-3. Navigate to the page where you want to adjust the widget.
-4. Add or drag the BOGOS: Cart Discount block to your desired position.
+1. Gehen Sie zu Shopify-Admin > Onlineshop.
+2. Öffnen Sie den Theme-Editor.
+3. Navigieren Sie zu der Seite, auf der Sie das Widget anpassen möchten.
+4. Fügen Sie den BOGOS: Cart Discount-Block an die gewünschte Position hinzu oder ziehen Sie ihn dorthin.
 
 <figure><img src="../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
 
-_For more details, visit our \[_[_Adjust BOGOS Blocks_](https://bogos-guideline.gitbook.io/user-guide/user-guide/customize/customize-bogos-blocks)_] guide._
+_Weitere Details finden Sie in unserer Anleitung \[_[_BOGOS-Blöcke anpassen_](https://bogos-guideline.gitbook.io/user-guide/user-guide/customize/customize-bogos-blocks)_]._
 
-## Need Help?
+## Brauchen Sie Hilfe?
 
-If you need any assistance, feel free to reach out to our customer support team via **live chat** within our BOGOS app.
+Wenn Sie Unterstützung benötigen, wenden Sie sich gerne über den **Live-Chat** innerhalb unserer BOGOS-App an unser Kundensupport-Team.

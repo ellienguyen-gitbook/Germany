@@ -1,46 +1,46 @@
 # Appstle
 
-The integration between BOGOS and Appstle Subscriptions allows Shopify merchants to choose subscription products right on BOGOS widget volume discount, boosting both AOV and customer retention.
+Die Integration zwischen BOGOS und Appstle Subscriptions ermöglicht es Shopify-Händlern, Abonnementprodukte direkt im BOGOS-Widget für Mengenrabatt auszuwählen, was sowohl den AOV als auch die Kundenbindung steigert.
 
-Appstle Subscriptions is a Shopify app that helps merchants offer flexible subscription plans with full control over billing intervals, shipping frequency, and customer experience. It's trusted by thousands of merchants to build recurring revenue streams.
+Appstle Subscriptions ist eine Shopify-App, die Händlern hilft, flexible Abonnementpläne mit voller Kontrolle über Abrechnungsintervalle, Versandhäufigkeit und Kundenerlebnis anzubieten. Sie wird von Tausenden von Händlern vertraut, um wiederkehrende Umsatzströme aufzubauen.
 
-#### Key Features of the Integration
+#### Hauptfunktionen der Integration
 
-* Buy subscription product on volume discount widget: Merchants can set tiered discounts (e.g. buy 2+, 5+, or 10+ to save more) even when customers are subscribing to products.
-* Seamless Checkout Experience: Customers can choose subscription options and automatically receive BOGOS-powered volume discounts without extra steps.
+* Abonnementprodukt im Mengenrabatt-Widget kaufen: Händler können gestaffelte Rabatte festlegen (z. B. 2+, 5+ oder 10+ kaufen, um mehr zu sparen), selbst wenn Kunden Produkte abonnieren.
+* Nahtloses Checkout-Erlebnis: Kunden können Abonnementoptionen auswählen und automatisch von BOGOS betriebene Mengenrabatte erhalten, ohne zusätzliche Schritte.
 
-This integration helps turn one-time buyers into loyal subscribers—while making every deal more appealing.
+Diese Integration hilft dabei, Einmalkäufer in treue Abonnenten zu verwandeln – und macht dabei jedes Angebot noch attraktiver.
 
-## How to integrate BOGOS with Appstle&#x20;
+## So integrieren Sie BOGOS mit Appstle&#x20;
 
-* **Step 1:** Install the Appstle App
+* **Schritt 1:** Installieren Sie die Appstle-App
 
-Install [Appstle℠ Subscriptions App](https://apps.shopify.com/subscriptions-by-appstle?utm_source=Partner\&utm_medium=BOGOS\&utm_campaign=Integration) from Shopify App Store
+Installieren Sie die [Appstle℠ Subscriptions App](https://apps.shopify.com/subscriptions-by-appstle?utm_source=Partner\&utm_medium=BOGOS\&utm_campaign=Integration) aus dem Shopify App Store
 
 <figure><img src="../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
-* **Step 2:** [Set up](https://www.google.com/url?q=https://intercom.help/appstle/en/articles/4924892-how-to-create-a-subscription-plan\&sa=D\&source=editors\&ust=1753790786511473\&usg=AOvVaw2qsGvlKNLylPoGI1HrKkQg) Subscription plan on Appstle App
+* **Schritt 2:** [Richten Sie](https://www.google.com/url?q=https://intercom.help/appstle/en/articles/4924892-how-to-create-a-subscription-plan\&sa=D\&source=editors\&ust=1753790786511473\&usg=AOvVaw2qsGvlKNLylPoGI1HrKkQg) einen Abonnementplan in der Appstle-App ein
 
 <figure><img src="../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 
-* **Step 3:** Enable Appstle in Your Theme
+* **Schritt 3:** Aktivieren Sie Appstle in Ihrem Theme
 
-Go to **Themes** > **Customize** > **App Embeds**, then toggle on **Appstle** to activate it.
+Gehen Sie zu **Themes** > **Anpassen** > **App-Einbettungen**, und schalten Sie dann **Appstle** um, um es zu aktivieren.
 
 <figure><img src="../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
 
-* **Step 4:** Create your volume discount offer
+* **Schritt 4:** Erstellen Sie Ihr Mengenrabatt-Angebot
 
-In the BOGOS app, set up your volume discount offer as usual:
+Richten Sie in der BOGOS-App wie gewohnt Ihr Mengenrabatt-Angebot ein:
 
-Go to **Create Offer** > **Discount Offer** > **Volume Discount**.
+Gehen Sie zu **Angebot erstellen** > **Rabattangebot** > **Mengenrabatt**.
 
 <figure><img src="../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
 
-* **Step 5:** Enable Subscription Option on the Offer
+* **Schritt 5:** Aktivieren Sie die Abonnementoption für das Angebot
 
-Tick the box for **"Display subscription options on widget"** to show both one-time purchase and subscription options on the product page.
+Aktivieren Sie das Kästchen für **„Abonnementoptionen im Widget anzeigen“**, um sowohl Einmalkauf- als auch Abonnementoptionen auf der Produktseite anzuzeigen.
 
 <figure><img src="../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
-Once these steps are complete, your volume discount offers will work seamlessly with subscription products, giving customers more reasons to subscribe and save.
+Sobald diese Schritte abgeschlossen sind, funktionieren Ihre Mengenrabatt-Angebote nahtlos mit Abonnementprodukten und geben Kunden mehr Gründe, zu abonnieren und zu sparen.

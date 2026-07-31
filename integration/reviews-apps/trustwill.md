@@ -1,43 +1,43 @@
 ---
 description: >-
-  With BOGOS and TrustWill integration, you can collect authentic reviews from
-  gift products and showcase star ratings directly on the BOGOS gift slider and
-  bundle widget.
+  Mit der Integration von BOGOS und TrustWill können Sie authentische
+  Bewertungen von Geschenkprodukten sammeln und Sternebewertungen direkt im
+  BOGOS Gift Slider und Bundle-Widget anzeigen.
 ---
 
 # TrustWill
 
-[**TrustWill**](https://share.channelwill.com/app/2168c7eb07b2adbl5r) is a user-friendly review app that empowers merchants to collect and display authentic customer feedback. With strong social proof, it builds trust and motivates shoppers to convert.
+[**TrustWill**](https://share.channelwill.com/app/2168c7eb07b2adbl5r) ist eine benutzerfreundliche Bewertungs-App, die es Händlern ermöglicht, authentisches Kundenfeedback zu sammeln und anzuzeigen. Mit starken Vertrauensnachweisen schafft sie Vertrauen und motiviert Käufer zur Conversion.
 
-**TrustWill key features:**
+**Wichtigste Funktionen von TrustWill:**
 
-* Customizable review widgets – Showcase reviews using elegant, brand-aligned widgets with a visual editor for quick and easy setup.
-* Automatic multi-language translation – Instantly translate reviews into multiple languages with unlimited translations to reach global audiences.
-* Flexible review collection options – Gather reviews through QR codes, WhatsApp, Amazon, and other popular channels.
-* Automated review requests with incentives – Send personalized email requests automatically and offer discounts for customers who include photos.
-* AI-powered insights – Use AI to summarize key feedback, highlight trends, and automatically surface your most valuable reviews.
+* Anpassbare Bewertungs-Widgets – Präsentieren Sie Bewertungen mit eleganten, markengerechten Widgets und einem visuellen Editor für eine schnelle und einfache Einrichtung.
+* Automatische mehrsprachige Übersetzung – Übersetzen Sie Bewertungen sofort in mehrere Sprachen mit unbegrenzten Übersetzungen, um ein globales Publikum zu erreichen.
+* Flexible Optionen zur Bewertungssammlung – Sammeln Sie Bewertungen über QR-Codes, WhatsApp, Amazon und andere beliebte Kanäle.
+* Automatisierte Bewertungsanfragen mit Anreizen – Senden Sie automatisch personalisierte E-Mail-Anfragen und bieten Sie Rabatte für Kunden an, die Fotos einreichen.
+* KI-gestützte Einblicke – Nutzen Sie KI, um wichtiges Feedback zusammenzufassen, Trends hervorzuheben und automatisch Ihre wertvollsten Bewertungen sichtbar zu machen.
 
 {% embed url="https://www.youtube.com/watch?v=cnKPSzyoNWs" %}
 
-## How to integrate BOGOS with TrustWill
+## So integrieren Sie BOGOS mit TrustWill
 
-**Step 1: Install BOGOS** from [Shopify app store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Trustoo) and set up your gift offers
+**Schritt 1: BOGOS installieren** aus dem [Shopify App Store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Trustoo) und Ihre Geschenkangebote einrichten
 
-**Step 2: Install TrustWill** from the [Shopify app store.](https://share.channelwill.com/app/2168c7eb07b2adbl5r)
+**Schritt 2: TrustWill installieren** aus dem [Shopify App Store.](https://share.channelwill.com/app/2168c7eb07b2adbl5r)
 
-**Step 3: Enable the Integration**
+**Schritt 3: Integration aktivieren**
 
-Open the BOGOS app > Go to **Integration** > **Connect** with TrustWill> **I have already installed**.
+Öffnen Sie die BOGOS App > Gehen Sie zu **Integration** > **Verbinden** mit TrustWill > **Ich habe bereits installiert**.
 
-Enter your Public and Private Tokens. _Learn how to get them_ [_here_](https://apidoc.trustoo.io/doc-3188672)_._
+Geben Sie Ihre öffentlichen und privaten Tokens ein. _Erfahren Sie hier, wie Sie diese erhalten_ [_hier_](https://apidoc.trustoo.io/doc-3188672)_._
 
 <figure><img src="../../.gitbook/assets/unknown (97).png" alt=""><figcaption></figcaption></figure>
 
-Then turn on the toggle to activate the TrustWill integration.
+Aktivieren Sie anschließend den Schalter, um die TrustWill-Integration zu aktivieren.
 
 <figure><img src="../../.gitbook/assets/unknown (98).png" alt=""><figcaption></figcaption></figure>
 
-**Step 4: Select the options you want**:
+**Schritt 4: Wählen Sie die gewünschten Optionen aus**:
 
-* Collect reviews through gift products: Reviews collected from cloned gift products will sync with the original.
-* Display star ratings: Show star ratings on the Gift Slider or Bundle Widget.
+* Bewertungen über Geschenkprodukte sammeln: Bewertungen, die von geklonten Geschenkprodukten gesammelt werden, werden mit dem Original synchronisiert.
+* Sternebewertungen anzeigen: Zeigen Sie Sternebewertungen im Gift Slider oder Bundle-Widget an.

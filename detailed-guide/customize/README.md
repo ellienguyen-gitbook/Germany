@@ -4,6 +4,6 @@ description: >-
   and attract your customers.
 ---
 
-# Customize
+# Anpassen
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>

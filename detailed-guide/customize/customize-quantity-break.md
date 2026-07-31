@@ -1,42 +1,42 @@
 ---
 description: >-
-  Overview of customize the appearance of the Quantity break on the product
-  page.
+  Übersicht zur Anpassung des Erscheinungsbilds der Mengenaufschlüsselung auf
+  der Produktseite.
 hidden: true
 ---
 
-# Customize Quantity break
+# Mengenaufschlüsselung anpassen
 
 {% hint style="warning" %}
-This new feature is replaced by [**Volume discount**](../discount-offer/create-volume-discount.md) feature in the **Discount offer** category. As a result, you’ll no longer be able to create new quantity breaks, but you can still edit your existing ones.
+Diese neue Funktion wird durch die Funktion [**Mengenrabatt**](../discount-offer/create-volume-discount.md) in der Kategorie **Rabattangebot** ersetzt. Dadurch können Sie keine neuen Mengenaufschlüsselungen mehr erstellen, aber Sie können Ihre bestehenden weiterhin bearbeiten.
 {% endhint %}
 
-## 1. How to enable the bundle <a href="#how-to-enable-the-bundle" id="how-to-enable-the-bundle"></a>
+## 1. So aktivieren Sie das Bundle <a href="#how-to-enable-the-bundle" id="how-to-enable-the-bundle"></a>
 
-The Quantity break will appear on the corresponding products' product pages.
+Die Mengenaufschlüsselung erscheint auf den Produktseiten der entsprechenden Produkte.
 
-## 2. Customization options <a href="#customization-options" id="customization-options"></a>
+## 2. Anpassungsoptionen <a href="#customization-options" id="customization-options"></a>
 
-### 2.1. Content <a href="#content" id="content"></a>
+### 2.1. Inhalt <a href="#content" id="content"></a>
 
 <figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
-Customize how the content displays on the Quantity break widget here:
+Passen Sie hier an, wie der Inhalt im Mengenaufschlüsselungs-Widget angezeigt wird:
 
-* Show description: Display the Quantity break description
-* Total price text
-* Button text
-* Select variant text
+* Beschreibung anzeigen: Zeigt die Beschreibung der Mengenaufschlüsselung an
+* Gesamtpreistext
+* Schaltflächentext
+* Text „Variante wählen“
 
-### 2.2. Color <a href="#color" id="color"></a>
+### 2.2. Farbe <a href="#color" id="color"></a>
 
-Choose a default theme color or change the Quantity break color so it matches your branding.
+Wählen Sie eine Standard-Themenfarbe oder ändern Sie die Farbe der Mengenaufschlüsselung, damit sie zu Ihrem Branding passt.
 
-* 4 default widgets
-* Background color
-* Text color
-* Button color
+* 4 Standard-Widgets
+* Hintergrundfarbe
+* Textfarbe
+* Schaltflächenfarbe
 
-### Brandmark <a href="#brandmark" id="brandmark"></a>
+### Markenzeichen <a href="#brandmark" id="brandmark"></a>
 
-BOGOS generates the brandmark 'Powered by BOGOS.io' by default. If you want it removed, contact our Livechat support.
+BOGOS generiert standardmäßig das Markenzeichen „Powered by BOGOS.io“. Wenn Sie es entfernen möchten, kontaktieren Sie unseren Livechat-Support.

@@ -1,66 +1,66 @@
 ---
 description: >-
-  This guide explains how to customize the colors of your BOGOS offer widgets to
-  match your store's branding.
+  Diese Anleitung erklärt, wie Sie die Farben Ihrer BOGOS-Angebotswidgets
+  anpassen, damit sie zum Branding Ihres Shops passen.
 icon: palette
 ---
 
-# Customize Widget Color
+# Widget-Farbe anpassen
 
-Customizing BOGOS widget colors includes 3 essential steps:
+Das Anpassen der BOGOS-Widget-Farben umfasst 3 wesentliche Schritte:
 
-1. [Navigate to the color customization field.](customize-widget-color.md#navigate-to-color-customization)
-2. [Customize the widget color](customize-widget-color.md#customize-widget-colors) by choosing from the picker, or entering a hex code directly (e.g., #000000 for black).
-3. [Customize accent color](customize-widget-color.md#customize-accent-color-on-checkout-and-thank-you-page-upsell) (for Checkout & Thank you page Upsell only)
-4. Click Save.
+1. [Navigieren Sie zum Feld für die Farbanpassung.](customize-widget-color.md#navigate-to-color-customization)
+2. [Passen Sie die Widget-Farbe an](customize-widget-color.md#customize-widget-colors), indem Sie sie aus der Farbauswahl wählen oder direkt einen Hex-Code eingeben (z. B. #000000 für Schwarz).
+3. [Passen Sie die Akzentfarbe an](customize-widget-color.md#customize-accent-color-on-checkout-and-thank-you-page-upsell) (nur für Upselling an der Kasse & auf der Dankeseite)
+4. Klicken Sie auf Speichern.
 
-## Navigate to Color Customization
+## Zur Farbanpassung navigieren
 
-To access the color customization settings:
+So greifen Sie auf die Einstellungen zur Farbanpassung zu:
 
-1. From BOGOS Admin, navigate to Customize page.
-2. Click on any feature you want to customize.
-3. Locate the Color section.
+1. Navigieren Sie im BOGOS-Adminbereich zur Seite Anpassen.
+2. Klicken Sie auf die Funktion, die Sie anpassen möchten.
+3. Suchen Sie den Bereich Farbe.
 
 <figure><img src="../.gitbook/assets/unknown (69).png" alt=""><figcaption></figcaption></figure>
 
-## Customize Widget Color
+## Widget-Farbe anpassen
 
-You can customize all color elements on the widget, including background, price, buttons, text, badges, and other visual components.
+Sie können alle Farbelemente des Widgets anpassen, einschließlich Hintergrund, Preis, Schaltflächen, Text, Abzeichen und anderer visueller Komponenten.
 
-To change any color element:
+So ändern Sie ein Farbelement:
 
 <figure><img src="../.gitbook/assets/unknown (70).png" alt=""><figcaption></figcaption></figure>
 
-1. Locate the color field you want to adjust.
-2. Customize the color either by:&#x20;
+1. Suchen Sie das Farbfeld, das Sie anpassen möchten.
+2. Passen Sie die Farbe auf eine der folgenden Arten an:&#x20;
 
-* Click the color box to open the color picker > Select your preferred color by clicking on the color spectrum or adjusting the hue slider.
-* Or, enter a hex code directly in the text field (e.g., #000000 for black).
+* Klicken Sie auf das Farbfeld, um die Farbauswahl zu öffnen > Wählen Sie Ihre bevorzugte Farbe, indem Sie auf das Farbspektrum klicken oder den Farbtonregler anpassen.
+* Oder geben Sie direkt einen Hex-Code in das Textfeld ein (z. B. #000000 für Schwarz).
 
-3. Preview your changes in real-time using the preview widget on the right side of the screen.
-4. Click Save at the top of the page.
+3. Sehen Sie sich Ihre Änderungen in Echtzeit mit dem Vorschau-Widget auf der rechten Seite des Bildschirms an.
+4. Klicken Sie oben auf der Seite auf Speichern.
 
-Note:&#x20;
+Hinweis:&#x20;
 
-* Some features offer color templates to help you quickly set up.
-* Feel free to contact our support team if you need help customizing the color to match your branding.
+* Einige Funktionen bieten Farbvorlagen, um Ihnen die schnelle Einrichtung zu erleichtern.
+* Kontaktieren Sie gerne unser Support-Team, wenn Sie Hilfe bei der Anpassung der Farbe an Ihr Branding benötigen.
 
-## Customize Accent Color on Checkout & Thank you page Upsell
+## Akzentfarbe beim Upselling an der Kasse & auf der Dankeseite anpassen
 
-In general, accent colors control specific elements like highlights, links, and call-to-action components across your checkout page.
+Im Allgemeinen steuern Akzentfarben bestimmte Elemente wie Hervorhebungen, Links und Call-to-Action-Komponenten auf Ihrer Checkout-Seite.
 
-For BOGOS’s Checkout Upsell and Thank You Page Upsell, you can apply that accent color to prices, keeping them in sync with your checkout theme for a more consistent look.
+Für das Checkout-Upselling und das Upselling auf der Dankeseite von BOGOS können Sie diese Akzentfarbe auf Preise anwenden, sodass sie mit Ihrem Checkout-Theme synchron bleiben und ein einheitlicheres Erscheinungsbild ergeben.
 
 <figure><img src="../.gitbook/assets/unknown (71).png" alt=""><figcaption></figcaption></figure>
 
-To customize the accent color:
+So passen Sie die Akzentfarbe an:
 
-1. Click the link on “Setting your store accent color here” to be redirected to your theme editor.
-2. Locate the Accent color field.
-3. Adjust the color by clicking the color box to use the color picker, or enter a hex code (e.g., #000000).
-4. Click Save.
+1. Klicken Sie auf den Link „Legen Sie hier die Akzentfarbe Ihres Shops fest“, um zu Ihrem Theme-Editor weitergeleitet zu werden.
+2. Suchen Sie das Feld Akzentfarbe.
+3. Passen Sie die Farbe an, indem Sie auf das Farbfeld klicken, um die Farbauswahl zu verwenden, oder geben Sie einen Hex-Code ein (z. B. #000000).
+4. Klicken Sie auf Speichern.
 
-Note: Changing your accent color will update all checkout components that use it, including the price in BOGOS upsell widgets.
+Hinweis: Das Ändern Ihrer Akzentfarbe aktualisiert alle Checkout-Komponenten, die sie verwenden, einschließlich des Preises in den BOGOS-Upselling-Widgets.
 
 <br>

@@ -1,30 +1,30 @@
-# Page Builder apps
+# Page Builder Apps
 
-### What each tool does
+### Was jedes Tool leistet
 
 **BOGOS:**
 
-* Create, run, and manage offer types: Free Gifts, Bundles, Upsell & Discounts.
-* Display and manage promotion widgets: Gift sliders, bundle page, discount widget, and promotional messages.
-* Apply eligibility rules: Control which customers, products, collections, or cart conditions qualify for each promotion.
+* Erstellen, ausführen und verwalten Sie Angebotstypen: Werbegeschenke, Bündel, Upsell & Rabatte.
+* Anzeige und Verwaltung von Werbe-Widgets: Geschenkschieberegler, Bündelseite, Rabatt-Widget und Werbenachrichten.
+* Anwenden von Berechtigungsregeln: Legen Sie fest, welche Kunden, Produkte, Kollektionen oder Warenkorbbedingungen für jede Werbeaktion in Frage kommen.
 
-**Page builders**: Control page layout and content blocks on product pages, collection pages, landing pages, and homepages, no code required.
+**Page Builder**: Steuern Sie das Seitenlayout und die Inhaltsblöcke auf Produktseiten, Kollektionsseiten, Landingpages und Startseiten, ganz ohne Code.
 
-### What the integration enables
+### Was die Integration ermöglicht
 
-**Place offer UI exactly where it converts best**
+**Platzieren Sie die Angebots-UI genau dort, wo sie am besten konvertiert**
 
-Insert BOGOS components—gift slider, discount/eligibility notice, “bundle & save” selector—into hero sections, near CTA buttons, or inside product pages created by page builder apps.
+Fügen Sie BOGOS-Komponenten – Geschenkschieberegler, Rabatt-/Berechtigungshinweis, „Bündel & Sparen“-Auswahl – in Hero-Bereiche, in die Nähe von CTA-Schaltflächen oder in Produktseiten ein, die von Page-Builder-Apps erstellt wurden.
 
-**Consistent styling with your brand**
+**Einheitliches Styling mit Ihrer Marke**
 
-BOGOS widgets inherit your page builder’s typography, spacing, and sections, so promotional elements look native to your theme and campaigns.
+BOGOS-Widgets übernehmen die Typografie, den Abstand und die Bereiche Ihres Page Builders, sodass Werbeelemente nativ in Ihr Theme und Ihre Kampagnen passen.
 
-**No conflicts between custom layouts and offer logic**
+**Keine Konflikte zwischen individuellen Layouts und Angebotslogik**
 
-Page builders sometimes replace theme sections; the integration ensures BOGOS widgets still render and the discount logic stays intact.
+Page Builder ersetzen manchmal Theme-Bereiche; die Integration stellt sicher, dass BOGOS-Widgets weiterhin angezeigt werden und die Rabattlogik intakt bleibt.
 
-### Integrated Page Builder Apps
+### Integrierte Page-Builder-Apps
 
 * [PageFly – Landing Page Builder](https://shopify.pxf.io/zNEOG7)
 * [GemPages – Landing Page Builder](https://apps.shopify.com/gempages)

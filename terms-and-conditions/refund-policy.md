@@ -1,97 +1,97 @@
-# Refund Policy
+# Rückerstattungsrichtlinie
 
-At BOGOS, customer satisfaction is our top priority. We understand that users may sometimes need refunds.&#x20;
+Bei BOGOS hat die Kundenzufriedenheit oberste Priorität. Wir verstehen, dass Nutzer manchmal Rückerstattungen benötigen.&#x20;
 
-**Please read our refund policy carefully** to ensure you understand your rights and how refunds work for our app services.
+**Bitte lesen Sie unsere Rückerstattungsrichtlinie sorgfältig durch**, um sicherzustellen, dass Sie Ihre Rechte verstehen und wissen, wie Rückerstattungen für unsere App-Dienste funktionieren.
 
-## 1. Subscription Refund Eligibility
+## 1. Anspruch auf Rückerstattung des Abonnements
 
-Our paid subscription plans are eligible for refunds under the following conditions:
+Unsere kostenpflichtigen Abonnementpläne sind unter den folgenden Bedingungen für Rückerstattungen berechtigt:
 
-* For monthly subscription plans, refunds are only available for users who canceled the subscription or uninstalled the app within the first 7 days of their subscription cycle.&#x20;
-* For yearly subscription plans, please see [section 6](refund-policy.md#id-6.-refunds-for-yearly-subscription-plans).
-* The refund request must be based on a valid issue such as technical difficulties or misrepresentation of features. Usage will not be considered as a valid reason.
-* The subscription plan must not have been extensively used or benefited from before the refund request.&#x20;
-* We are always open to listening to users' situations. Depending on the circumstances, we may consider issuing a partial refund as a token of goodwill.
-* Since all subscription payments are made via Shopify billing, we strictly follow Shopify's app charges policies, which are stated[ here](https://help.shopify.com/en/manual/your-account/manage-billing/your-invoice/apps).
+* Bei monatlichen Abonnementplänen sind Rückerstattungen nur für Nutzer verfügbar, die das Abonnement gekündigt oder die App innerhalb der ersten 7 Tage ihres Abonnementzyklus deinstalliert haben.&#x20;
+* Für jährliche Abonnementpläne siehe [Abschnitt 6](refund-policy.md#id-6.-refunds-for-yearly-subscription-plans).
+* Die Rückerstattungsanfrage muss auf einem berechtigten Problem beruhen, wie zum Beispiel technischen Schwierigkeiten oder einer falschen Darstellung von Funktionen. Nutzung wird nicht als gültiger Grund betrachtet.
+* Der Abonnementplan darf vor der Rückerstattungsanfrage nicht umfangreich genutzt worden sein oder davon profitiert haben.&#x20;
+* Wir sind stets offen dafür, uns die Situation der Nutzer anzuhören. Je nach den Umständen können wir eine teilweise Rückerstattung als Zeichen des guten Willens in Betracht ziehen.
+* Da alle Abonnementzahlungen über die Shopify-Abrechnung erfolgen, halten wir uns strikt an die Richtlinien von Shopify zu App-Gebühren, die[ hier](https://help.shopify.com/en/manual/your-account/manage-billing/your-invoice/apps) aufgeführt sind.
 
-## 2. Non-Refundable Circumstances
+## 2. Nicht erstattungsfähige Umstände
 
-Certain conditions do not qualify for refunds, including but not limited to:
+Bestimmte Bedingungen berechtigen nicht zu Rückerstattungen, einschließlich, aber nicht beschränkt auf:
 
-* Monthly plans are canceled after 30 days following the first payment.
-* Annual plans canceled after 30 days following the first payment ([subject to the yearly refund terms](refund-policy.md#id-6.-refunds-for-yearly-subscription-plans)).
-* Downgrading to a lower plan after use of premium features on the higher plan.
-* Promotional or trial periods are offered free of charge.
-* Any services or features that have been partially used.
-* Any feature add-ons or custom developments already delivered and used.
+* Monatliche Pläne, die nach 30 Tagen nach der ersten Zahlung gekündigt werden.
+* Jährliche Pläne, die nach 30 Tagen nach der ersten Zahlung gekündigt werden ([vorbehaltlich der Bedingungen für jährliche Rückerstattungen](refund-policy.md#id-6.-refunds-for-yearly-subscription-plans)).
+* Herabstufung auf einen niedrigeren Plan nach Nutzung von Premium-Funktionen des höheren Plans.
+* Werbe- oder Testzeiträume, die kostenlos angeboten werden.
+* Alle Dienste oder Funktionen, die teilweise genutzt wurden.
+* Alle bereits gelieferten und genutzten Funktionserweiterungen oder individuellen Entwicklungen.
 
-## 3. Requesting a Refund
+## 3. Rückerstattung beantragen
 
-To request a refund for your BOGOS subscription:
+Um eine Rückerstattung für Ihr BOGOS-Abonnement zu beantragen:
 
-1. Contact our support team at **help@bogos.io** or through the Livechat channel on the BOGOS app interface, with your subscription details and reason for the refund request.
-2. Provide relevant information, including the reason for the refund request, purchase details, and any supporting documentation or evidence.
-3. All refund requests must be made within 7 days from the date of subscription or renewal.
-4. Our team will review your request and aim to respond within 5 business days.
-5. If approved, a refund will be issued to the original payment method via Shopify billing.
+1. Kontaktieren Sie unser Support-Team unter **help@bogos.io** oder über den Livechat-Kanal in der BOGOS-App-Oberfläche mit Ihren Abonnementdetails und dem Grund für die Rückerstattungsanfrage.
+2. Geben Sie relevante Informationen an, einschließlich des Grundes für die Rückerstattungsanfrage, der Kaufdetails sowie aller unterstützenden Unterlagen oder Nachweise.
+3. Alle Rückerstattungsanfragen müssen innerhalb von 7 Tagen ab dem Datum des Abonnements oder der Verlängerung gestellt werden.
+4. Unser Team wird Ihre Anfrage prüfen und sich bemühen, innerhalb von 5 Werktagen zu antworten.
+5. Bei Genehmigung wird eine Rückerstattung über die ursprüngliche Zahlungsmethode via Shopify-Abrechnung ausgestellt.
 
-If a user encounters any of the situations listed in section 1 and contacts our support team for assistance, we will make every effort to resolve the issue within a reasonable timeframe.&#x20;
+Wenn ein Nutzer eine der in Abschnitt 1 aufgeführten Situationen erlebt und unser Support-Team um Hilfe kontaktiert, werden wir uns nach besten Kräften bemühen, das Problem innerhalb eines angemessenen Zeitraums zu lösen.&#x20;
 
-Despite our best efforts, if we are unable to resolve the problem within 7 days, a refund may be considered.
+Sollten wir das Problem trotz größter Bemühungen nicht innerhalb von 7 Tagen lösen können, kann eine Rückerstattung in Betracht gezogen werden.
 
 {% hint style="info" %}
-The seven-day timeframe serves as a guideline for determining when a refund may be considered. If the problem reported by a user is particularly complex or requires extensive investigation, it may require more time to resolve than the standard seven-day period.
+Der Siebentageszeitraum dient als Richtwert zur Bestimmung, wann eine Rückerstattung in Betracht gezogen werden kann. Wenn das von einem Nutzer gemeldete Problem besonders komplex ist oder umfangreiche Untersuchungen erfordert, kann die Lösung länger als den üblichen Zeitraum von sieben Tagen in Anspruch nehmen.
 {% endhint %}
 
-## 4. Cancellations
+## 4. Kündigungen
 
-You may cancel your subscription at any time.&#x20;
+Sie können Ihr Abonnement jederzeit kündigen.&#x20;
 
-However, cancellation will not automatically trigger a refund unless requested and approved as per the eligibility criteria.&#x20;
+Eine Kündigung löst jedoch nicht automatisch eine Rückerstattung aus, sofern diese nicht gemäß den Berechtigungskriterien beantragt und genehmigt wird.&#x20;
 
-After you cancel, you will retain access to the BOGOS app as a Free plan user, and can still contact our support team via the in-app Livechat channel.
+Nach der Kündigung behalten Sie weiterhin Zugang zur BOGOS-App als Nutzer des kostenlosen Plans und können sich weiterhin über den In-App-Livechat-Kanal an unser Support-Team wenden.
 
-## 5. Refund Process
+## 5. Rückerstattungsprozess
 
-The refund can be issued by BOGOS only if the payment(s) has reached BOGOS's end from Shopify's. In case the bill(s) has not been paid by the user, or the payment cannot be seen from BOGOS's end due to an issue with the Shopify partner account, BOGOS will need to contact Shopify support and ask them to handle the refund instead.
+Die Rückerstattung kann von BOGOS nur ausgestellt werden, wenn die Zahlung(en) von Shopify aus bei BOGOS eingegangen ist/sind. Falls die Rechnung(en) vom Nutzer nicht bezahlt wurde(n) oder die Zahlung aufgrund eines Problems mit dem Shopify-Partnerkonto nicht auf Seiten von BOGOS ersichtlich ist, muss BOGOS den Shopify-Support kontaktieren und diesen bitten, die Rückerstattung stattdessen abzuwickeln.
 
-For any transaction of app subscription, Shopify is entitled to retain a fee amount as a processing fee and transfer the rest of the subscription fee to our account on a certain due date. Once we have received the money, we then proceed to transfer it back to you. That's why even when a refund request is successfully approved on our side, you may need to wait a few more business days to receive the balance, and the refund fee might not be in full. In case the bill(s) has not been paid by the user or the payment can't be seen from BOGOS’ end due to an issue with Shopify's partner account, BOGOS needs to contact Shopify support and ask them to handle the refund instead.
+Bei jeder App-Abonnementtransaktion ist Shopify berechtigt, einen Gebührenbetrag als Bearbeitungsgebühr einzubehalten und den Rest der Abonnementgebühr zu einem bestimmten Fälligkeitsdatum an unser Konto zu überweisen. Sobald wir das Geld erhalten haben, überweisen wir es an Sie zurück. Aus diesem Grund kann es auch dann, wenn eine Rückerstattungsanfrage auf unserer Seite erfolgreich genehmigt wurde, einige weitere Werktage dauern, bis Sie den Restbetrag erhalten, und die Rückerstattungsgebühr wird möglicherweise nicht in voller Höhe erstattet. Falls die Rechnung(en) vom Nutzer nicht bezahlt wurde(n) oder die Zahlung aufgrund eines Problems mit dem Partnerkonto von Shopify nicht auf Seiten von BOGOS ersichtlich ist, muss BOGOS den Shopify-Support kontaktieren und diesen bitten, die Rückerstattung stattdessen abzuwickeln.
 
-Once the refund is issued either by Shopify or BOGOS, it will take Shopify a few business days to process it. Refunds typically take **3 to 10 business days to appear on your card statement**.
+Sobald die Rückerstattung entweder von Shopify oder BOGOS ausgestellt wurde, dauert es bei Shopify einige Werktage, bis sie bearbeitet wird. Rückerstattungen erscheinen in der Regel **innerhalb von 3 bis 10 Werktagen auf Ihrer Kartenabrechnung**.
 
 {% hint style="warning" %}
-If the customer submits a refund request after uninstalling the app, the refund process may experience delays as we will need to collaborate with Shopify to facilitate the refund claim.&#x20;
+Wenn der Kunde eine Rückerstattungsanfrage nach der Deinstallation der App einreicht, kann sich der Rückerstattungsprozess verzögern, da wir mit Shopify zusammenarbeiten müssen, um die Rückerstattungsanfrage zu bearbeiten.&#x20;
 
-This additional step is necessary to ensure a smooth and compliant refund procedure.
+Dieser zusätzliche Schritt ist notwendig, um einen reibungslosen und regelkonformen Rückerstattungsablauf sicherzustellen.
 {% endhint %}
 
 {% hint style="info" %}
-For more information, please refer to Shopify's documentation:[ https://shopify.dev/docs/apps/billing/purchase-adjustments/refunds](https://shopify.dev/docs/apps/billing/purchase-adjustments/refunds).
+Weitere Informationen finden Sie in der Shopify-Dokumentation:[ https://shopify.dev/docs/apps/billing/purchase-adjustments/refunds](https://shopify.dev/docs/apps/billing/purchase-adjustments/refunds).
 {% endhint %}
 
-## 6. Refunds for Yearly Subscription Plans
+## 6. Rückerstattungen für jährliche Abonnementpläne
 
-In case you decide to stop using one of the Yearly subscription plans or switch to any other plan, we can issue a refund for you with the following notes:
+Falls Sie sich entscheiden, die Nutzung eines der jährlichen Abonnementpläne zu beenden oder zu einem anderen Plan zu wechseln, können wir Ihnen eine Rückerstattung mit den folgenden Hinweisen ausstellen:
 
-* The subscription must not have started for more than 11 months.
-* The used period of the subscription plan will be calculated at the monthly rate.&#x20;
-  * The refund amount equals **\[Total price of the Yearly plan − Used period (in months) × the corresponding plan's monthly rate]**.&#x20;
-  * For example, if you've been using a Yearly plan priced at $1055.99/year for 6 months, and the corresponding monthly rate is $109.99/month, the refund amount will be $1055.99 − (6 × $109.99).
+* Das Abonnement darf nicht länger als 11 Monate bestanden haben.
+* Der genutzte Zeitraum des Abonnementplans wird zum monatlichen Satz berechnet.&#x20;
+  * Der Rückerstattungsbetrag entspricht **\[Gesamtpreis des Jahresplans − genutzter Zeitraum (in Monaten) × dem entsprechenden monatlichen Satz des Plans]**.&#x20;
+  * Wenn Sie beispielsweise einen Jahresplan zum Preis von 1055,99 $/Jahr für 6 Monate genutzt haben und der entsprechende monatliche Satz 109,99 $/Monat beträgt, beträgt der Rückerstattungsbetrag 1055,99 $ − (6 × 109,99 $).
 
-## 7. Refund Method
+## 7. Rückerstattungsmethode
 
-Approved refunds will be issued back to the original payment method used for the purchase, via **Shopify billing**.
+Genehmigte Rückerstattungen werden über **Shopify-Abrechnung** an die ursprüngliche Zahlungsmethode zurückerstattet, die für den Kauf verwendet wurde.
 
-## 8. Modifications to the Refund Policy
+## 8. Änderungen der Rückerstattungsrichtlinie
 
-We reserve the right to modify or update this refund policy at any time without prior notice.&#x20;
+Wir behalten uns das Recht vor, diese Rückerstattungsrichtlinie jederzeit ohne vorherige Ankündigung zu ändern oder zu aktualisieren.&#x20;
 
-By continuing to use the BOGOS app after such modifications, users agree to be bound by the updated refund policy.
+Durch die weitere Nutzung der BOGOS-App nach solchen Änderungen erklären sich die Nutzer damit einverstanden, an die aktualisierte Rückerstattungsrichtlinie gebunden zu sein.
 
-## Contact Us
+## Kontaktieren Sie uns
 
-If you have any questions about this refund policy or need assistance with a refund request, please reach out to our support team at:
+Wenn Sie Fragen zu dieser Rückerstattungsrichtlinie haben oder Unterstützung bei einer Rückerstattungsanfrage benötigen, wenden Sie sich bitte an unser Support-Team unter:
 
-* Email: help@bogos.io
-* Livechat support channel in the BOGOS app.
+* E-Mail: help@bogos.io
+* Livechat-Support-Kanal in der BOGOS-App.

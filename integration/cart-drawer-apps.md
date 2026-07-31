@@ -1,28 +1,28 @@
-# Cart Drawer apps
+# Warenkorb-Drawer-Apps
 
-### What each tool does
+### Was jedes Tool leistet
 
 #### BOGOS:
 
-* Create, run, and manage offer types: Free Gifts, Bundles, Upsell & Discounts.
-* Display and manage promotion widgets: Gift sliders, bundle page, discount widget, and promotional messages.
-* Apply eligibility rules: Control which customers, products, collections, or cart conditions qualify for each promotion.
+* Erstellen, ausführen und verwalten Sie Angebotstypen: Kostenlose Geschenke, Bundles, Upsell & Rabatte.
+* Anzeigen und verwalten Sie Aktions-Widgets: Geschenkschieberegler, Bundle-Seite, Rabatt-Widget und Werbenachrichten.
+* Wenden Sie Berechtigungsregeln an: Steuern Sie, welche Kunden, Produkte, Sammlungen oder Warenkorbbedingungen für jede Aktion qualifiziert sind.
 
-#### Cart drawer app:&#x20;
+#### Warenkorb-Drawer-App:&#x20;
 
-Provides an on-page, interactive cart experience (the slide-out or drawer) that shows current cart contents, totals, and checkout CTA without redirecting to the full cart page. It handles add/remove actions, quantity adjustments, and real-time UI updates inside the drawer.
+Bietet ein interaktives Warenkorberlebnis auf der Seite (das Ausklapp- oder Drawer-Menü), das den aktuellen Warenkorbinhalt, Summen und den Checkout-CTA anzeigt, ohne zur vollständigen Warenkorbseite weiterzuleiten. Sie verarbeitet Hinzufügen-/Entfernen-Aktionen, Mengenanpassungen und Echtzeit-UI-Updates innerhalb des Drawers.
 
-### What the integration enables
+### Was die Integration ermöglicht
 
-**Seamless gift add/remove inside the drawer:**&#x20;
+**Nahtloses Hinzufügen/Entfernen von Geschenken innerhalb des Drawers:**&#x20;
 
-When BOGOS auto-adds a gift or a shopper toggles a gift from the gift slider, the cart drawer reflects that change immediately (add or remove) without extra clicks or page reloads.\
+Wenn BOGOS automatisch ein Geschenk hinzufügt oder ein Käufer ein Geschenk über den Geschenkschieberegler umschaltet, spiegelt der Warenkorb-Drawer diese Änderung sofort wider (Hinzufügen oder Entfernen) ohne zusätzliche Klicks oder Seiten-Reloads.\
 \
-**Consistent rule enforcement:**
+**Konsistente Regeldurchsetzung:**
 
-Even when actions happen inside the drawer, BOGOS still enforces promotion rules (eligibility, limits, auto-removal when rules break) so discounts remain correct at checkout.
+Auch wenn Aktionen innerhalb des Drawers stattfinden, setzt BOGOS weiterhin die Aktionsregeln durch (Berechtigung, Limits, automatisches Entfernen bei Regelverstoß), sodass Rabatte beim Checkout korrekt bleiben.
 
-### Integrated Cart Drawer Apps
+### Integrierte Warenkorb-Drawer-Apps
 
 * [iCart – Cart Drawer & Cart Upsell](https://apps.shopify.com/icart/?campaign=promotion\&medium=in-app-banner\&source=bogos)
 * [qikify – Sticky Add to Cart](https://apps.shopify.com/sticky-cart-by-qikify?utm_medium=referral\&utm_source=bogo\&utm_content=in-app)

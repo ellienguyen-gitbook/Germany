@@ -1,519 +1,519 @@
-# Create gift offer
+# Geschenkangebot erstellen
 
-**Before you begin:**&#x20;
+**Bevor Sie beginnen:**&#x20;
 
-Check [this guide](https://youtu.be/R-DeHLuCFOw) to see how you can create a free gift with purchase on Shopfy with BOGOS.
+Schauen Sie sich [diese Anleitung](https://youtu.be/R-DeHLuCFOw) an, um zu sehen, wie Sie mit BOGOS ein kostenloses Geschenk beim Kauf auf Shopify erstellen können.
 
 {% embed url="https://youtu.be/R-DeHLuCFOw" %}
 
-Creating a gift offer consists of **5 fundamental parts**:
+Das Erstellen eines Geschenkangebots besteht aus **5 grundlegenden Teilen**:
 
-* Offer information
-* Offer main condition
-* Offer sub-condition&#x20;
-* Select gift
-* Advanced configuration (optional)
+* Angebotsinformationen
+* Hauptbedingung des Angebots
+* Unterbedingung des Angebots&#x20;
+* Geschenk auswählen
+* Erweiterte Konfiguration (optional)
 
-### 1. Offer information
+### 1. Angebotsinformationen
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure></div>
 
-#### 1.1. Offer name
+#### 1.1. Angebotsname
 
-This name is for internal management only and won’t be visible to customers.
+Dieser Name dient nur der internen Verwaltung und ist für Kunden nicht sichtbar.
 
-#### 1.2. Offer title
+#### 1.2. Angebotstitel
 
-The offer title is the name of the offer. It appears in the All Offers management page and shows to customers in the Today Offer widget, Gift thumbnail, and Gift slider.
+Der Angebotstitel ist der Name des Angebots. Er erscheint auf der Verwaltungsseite „Alle Angebote“ und wird Kunden im Heute-Angebot-Widget, im Geschenk-Thumbnail und im Geschenk-Schieberegler angezeigt.
 
-#### 1.3. Start time and End time
+#### 1.3. Startzeit und Endzeit
 
-* Start time: The time that the offer starts working.
-* End time (optional): The time that the offer stops working.&#x20;
+* Startzeit: Der Zeitpunkt, zu dem das Angebot aktiv wird.
+* Endzeit (optional): Der Zeitpunkt, zu dem das Angebot nicht mehr aktiv ist.&#x20;
 
-### 2. Offer main conditions
+### 2. Hauptbedingungen des Angebots
 
-Main condition is the condition that customers need to reach to get the gift of the offer.
+Die Hauptbedingung ist die Bedingung, die Kunden erfüllen müssen, um das Geschenk des Angebots zu erhalten.
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt="" width="496"><figcaption><p>Main condition selection modal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt="" width="496"><figcaption><p>Auswahlfenster für die Hauptbedingung</p></figcaption></figure>
 
-#### **2.1. Cart value condition**
+#### **2.1. Zustand des Warenkorbwerts**
 
 <figure><img src="../../.gitbook/assets/unknown (99).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* This condition lets you set the **minimum and/or maximum cart value** customers must reach to qualify for your gift offer.
-* The cart value you enter is based on your store’s main currency (e.g., SGD as shown in the image).
-* **For stores that have Shopify Markets set up:**
+* Mit dieser Bedingung können Sie den **minimalen und/oder maximalen Warenkorbwert** festlegen, den Kunden erreichen müssen, um sich für Ihr Geschenkangebot zu qualifizieren.
+* Der eingegebene Warenkorbwert basiert auf der Hauptwährung Ihres Shops (z. B. SGD, wie im Bild gezeigt).
+* **Für Shops mit eingerichtetem Shopify Markets:**
 
 <figure><img src="../../.gitbook/assets/unknown (100).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Normally, BOGOS will auto-convert your main currency to the customers’ currency using Shopify’s exchange rate (e.g., 1 SGD = €0.666).
+Normalerweise rechnet BOGOS Ihre Hauptwährung automatisch anhand des Wechselkurses von Shopify in die Währung der Kunden um (z. B. 1 SGD = 0,666 €).
 
-However, if you want to **set custom cart values for each currency** instead, after setting the value for your main market (min is 0), click “Add currency” and enter the value&#x20;
+Wenn Sie jedoch stattdessen **benutzerdefinierte Warenkorbwerte für jede Währung festlegen** möchten, klicken Sie nach dem Festlegen des Werts für Ihren Hauptmarkt (Minimum ist 0) auf „Währung hinzufügen“ und geben Sie den Wert ein.&#x20;
 
-_Example: Customers from Europe must spend €300 to get the gift, while Australian customers just need to spend A$100._
+_Beispiel: Kunden aus Europa müssen 300 € ausgeben, um das Geschenk zu erhalten, während australische Kunden nur 100 A$ ausgeben müssen._
 
-* **The condition will apply to:**
+* **Die Bedingung gilt für:**
 
-▶ Any products: all products in cart will be counted toward the cart value condition.
+▶ Beliebige Produkte: Alle Produkte im Warenkorb werden auf die Warenkorbwert-Bedingung angerechnet.
 
-▶ All except selected products: All except selected products' value will be counted toward cart value condition.
+▶ Alle außer ausgewählte Produkte: Alle außer den ausgewählten Produkten werden auf die Warenkorbwert-Bedingung angerechnet.
 
-▶ All except selected types/vendors/collections: All except products selected by the condition of types/vendors/collections will be counted toward cart value condition.
+▶ Alle außer ausgewählte Produktarten/Verkäufer/Sammlungen: Alle außer den Produkten, die durch die Bedingung Produktarten/Verkäufer/Sammlungen ausgewählt wurden, werden auf die Warenkorbwert-Bedingung angerechnet.
 
-▶ Selected products: Only products chosen below will be counted toward the cart value condition.
+▶ Ausgewählte Produkte: Nur die unten ausgewählten Produkte werden auf die Warenkorbwert-Bedingung angerechnet.
 
-▶ Products in selected types/vendors/collections: Only products chosen by the condition of types/vendors/collections will be counted toward the cart value condition.
+▶ Produkte in ausgewählten Produktarten/Verkäufern/Sammlungen: Nur die Produkte, die durch die Bedingung Produktarten/Verkäufer/Sammlungen ausgewählt wurden, werden auf die Warenkorbwert-Bedingung angerechnet.
 
-#### **2.2. Cart quantity condition**
+#### **2.2. Zustand der Warenkorbmenge**
 
 <figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
-* Min: Minimum cart quantity customers need to reach to get the gift of the offer.
-* Max: Maximum cart quantity customers need to stay below to get the gift of the offer.
+* Min: Mindestwarenkorbmenge, die Kunden erreichen müssen, um das Geschenk des Angebots zu erhalten.
+* Max: Maximale Warenkorbmenge, die Kunden nicht überschreiten dürfen, um das Geschenk des Angebots zu erhalten.
 
-**The condition will apply to:**
+**Die Bedingung gilt für:**
 
-▶ Any products: all products in cart will be counted toward the cart quantity condition.
+▶ Beliebige Produkte: Alle Produkte im Warenkorb werden auf die Warenkorbmengen-Bedingung angerechnet.
 
-▶ All except selected products: All except selected products' value will be counted toward cart quantity condition.
+▶ Alle außer ausgewählte Produkte: Alle außer den ausgewählten Produkten werden auf die Warenkorbmengen-Bedingung angerechnet.
 
-▶ All except selected types/vendors/collections: All except products selected by the condition of types/vendors/collections will be counted toward cart quantity condition.
+▶ Alle außer ausgewählte Produktarten/Verkäufer/Sammlungen: Alle außer den Produkten, die durch die Bedingung Produktarten/Verkäufer/Sammlungen ausgewählt wurden, werden auf die Warenkorbmengen-Bedingung angerechnet.
 
-▶ Selected products: Only products chosen below will be counted toward cart quantity condition.
+▶ Ausgewählte Produkte: Nur die unten ausgewählten Produkte werden auf die Warenkorbmengen-Bedingung angerechnet.
 
-▶ Products in selected types/vendors/collections: Only products chosen by the condition of types/vendors/collections will be counted toward cart quantity condition.
+▶ Produkte in ausgewählten Produktarten/Verkäufern/Sammlungen: Nur die Produkte, die durch die Bedingung Produktarten/Verkäufer/Sammlungen ausgewählt wurden, werden auf die Warenkorbmengen-Bedingung angerechnet.
 
-#### **2.3. Specific product condition**
+#### **2.3. Bedingung für ein bestimmtes Produkt**
 
 <figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
-* Number of products required: Number of products that customers need to buy to get gifts.
-* Multiply gifts with number of products: If customers purchase more than the required products, they will get more gifts.&#x20;
+* Erforderliche Anzahl an Produkten: Anzahl der Produkte, die Kunden kaufen müssen, um Geschenke zu erhalten.
+* Geschenke mit Anzahl der Produkte multiplizieren: Wenn Kunden mehr als die erforderlichen Produkte kaufen, erhalten sie mehr Geschenke.&#x20;
 
-_Example: Buy 2 get 1, Buy 4 get 2, Buy 6 get 3, and more._
+_Beispiel: Kaufen Sie 2, erhalten Sie 1; kaufen Sie 4, erhalten Sie 2; kaufen Sie 6, erhalten Sie 3, und so weiter._
 
-* Gift will be the same as selected products: This field allows you to choose the gift as the same product or a completely different gift.
+* Geschenk ist identisch mit den ausgewählten Produkten: Mit diesem Feld können Sie wählen, ob das Geschenk dasselbe Produkt oder ein völlig anderes Geschenk ist.
 
-#### **2.4. Cart value multiplier condition**
+#### **2.4. Bedingung für den Warenkorbwert-Multiplikator**
 
 <figure><img src="../../.gitbook/assets/unknown (103).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* This condition allows you to set a cart value threshold that multiplies the number of gifts customers can receive.
-* The cart value you enter is based on your store’s main currency (e.g., SGD as shown in the image).
+* Mit dieser Bedingung können Sie einen Warenkorbwert-Schwellenwert festlegen, der die Anzahl der Geschenke, die Kunden erhalten können, vervielfacht.
+* Der eingegebene Warenkorbwert basiert auf der Hauptwährung Ihres Shops (z. B. SGD, wie im Bild gezeigt).
 
-_Example: Customers receive 1 gift when spending $200, 2 gifts when spending $400, and so on_
+_Beispiel: Kunden erhalten 1 Geschenk bei einem Einkaufswert von 200 $, 2 Geschenke bei 400 $ usw._
 
-* **For stores that have Shopify Markets set up:**
+* **Für Shops mit eingerichtetem Shopify Markets:**
 
 <figure><img src="../../.gitbook/assets/unknown (102).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Normally, BOGOS will auto-convert your main currency to the customers’ currency using Shopify’s exchange rate (e.g., 1 SGD = €0.666).
+Normalerweise rechnet BOGOS Ihre Hauptwährung automatisch anhand des Wechselkurses von Shopify in die Währung der Kunden um (z. B. 1 SGD = 0,666 €).
 
-However, if you want to **set custom cart values for each currency** instead, after setting the cart value for your main market, click “Add currency” and enter the value.
+Wenn Sie jedoch stattdessen **benutzerdefinierte Warenkorbwerte für jede Währung festlegen** möchten, klicken Sie nach dem Festlegen des Warenkorbwerts für Ihren Hauptmarkt auf „Währung hinzufügen“ und geben Sie den Wert ein.
 
-_Example: Customers from Europe must spend €300 to get the gift, while Australian customers just need to spend A$100._
+_Beispiel: Kunden aus Europa müssen 300 € ausgeben, um das Geschenk zu erhalten, während australische Kunden nur 100 A$ ausgeben müssen._
 
-#### **2.5. Pack of products condition**
+#### **2.5. Bedingung für ein Paket von Produkten**
 
 <figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
-* Pack of products conditions: Only when customers purchase all the selected products will get the gifts
-* Verify pack of products condition:
+* Bedingung „Paket von Produkten“: Kunden erhalten die Geschenke nur, wenn sie alle ausgewählten Produkte kaufen.
+* Bedingung „Paket von Produkten“ überprüfen:
 
-▶ By products: Customers need to purchase at least a variant from each selected product to get gifts.
+▶ Nach Produkten: Kunden müssen mindestens eine Variante jedes ausgewählten Produkts kaufen, um Geschenke zu erhalten.
 
-▶ By variants: Customers need to purchase all variants from all products selected to get gifts.
+▶ Nach Varianten: Kunden müssen alle Varianten aller ausgewählten Produkte kaufen, um Geschenke zu erhalten.
 
-* Multiply gifts with a number of packs: The more packs purchased, the more gifts customers will get.
+* Geschenke mit Anzahl der Pakete multiplizieren: Je mehr Pakete gekauft werden, desto mehr Geschenke erhalten Kunden.
 
-### 3. Offer sub-conditions&#x20;
+### 3. Unterbedingungen des Angebots&#x20;
 
-These sub-conditions are optional to set up. They will provide more conditions that customers need to meet to get the gifts. Check here for all Sub-conditions.
+Diese Unterbedingungen sind optional einzurichten. Sie fügen weitere Bedingungen hinzu, die Kunden erfüllen müssen, um die Geschenke zu erhalten. Alle Unterbedingungen finden Sie hier.
 
 <figure><img src="../../.gitbook/assets/unknown (66).png" alt=""><figcaption></figcaption></figure>
 
-You can combine any conditions together to make offers specifically to your customers.
+Sie können beliebige Bedingungen miteinander kombinieren, um Angebote speziell für Ihre Kunden zu erstellen.
 
-#### **3.1. Specific link address**
+#### **3.1. Spezifische Linkadresse**
 
 <figure><img src="../../.gitbook/assets/Specific link URL.jpg" alt=""><figcaption></figcaption></figure>
 
-This condition only allows customers who access to your store through specific link to get gifts. Enter a word to customize the URL for each campaign. This feature is most suitable for any social and email campaign.
+Diese Bedingung erlaubt nur Kunden, die über einen bestimmten Link auf Ihren Shop zugreifen, Geschenke zu erhalten. Geben Sie ein Wort ein, um die URL für jede Kampagne anzupassen. Diese Funktion eignet sich am besten für Social- und E-Mail-Kampagnen.
 
-**Customize the offer link:**
+**Den Angebotslink anpassen:**
 
-Alternatively, if you want to add the parameter to an existing link on your store, use the Copy parameter option to copy just the parameter (e.g., ?freegifts\_code=summersale2024).
+Alternativ können Sie, wenn Sie den Parameter zu einem bestehenden Link in Ihrem Shop hinzufügen möchten, die Option „Parameter kopieren“ verwenden, um nur den Parameter zu kopieren (z. B. ?freegifts\_code=summersale2024).
 
 {% hint style="warning" %}
-If the URL you’re adding the parameter to already includes a ? symbol (e.g., https://yourstore.com/product?variant=12345), **change the ? in the parameter to &**:
+Wenn die URL, zu der Sie den Parameter hinzufügen, bereits ein ?-Symbol enthält (z. B. https://yourstore.com/product?variant=12345), **ändern Sie das ? im Parameter in &**:
 
-**Original Parameter:** ?freegifts\_code=summersale2024
+**Ursprünglicher Parameter:** ?freegifts\_code=summersale2024
 
-**Modified Parameter for existing query:** \&freegifts\_code=summersale2024
+**Angepasster Parameter für eine bestehende Abfrage:** \&freegifts\_code=summersale2024
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=1huoyancpmg&list=PLfZvxg1NZTJgkPK3iPXFBivJcXPpIHY33&index=4" %}
 
-#### **3.2. Customers' order history**
+#### **3.2. Bestellhistorie der Kunden**
 
 <figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
-This sub-condition will narrow down only customers with specific order history will be eligible to the offer.
+Diese Unterbedingung schränkt das Angebot nur auf Kunden mit einer bestimmten Bestellhistorie ein.
 
-* Total spent in order history: Total order value in customers' order history.
-* Total spent on last order: Latest order value.
-* Total number of order placed: Total number of orders in order history.
-* Limit to one use per customers: Customer is only able to get gift from this offer for one time only. Once an order is placed with gift from this offer, customers are not eligible to this offer any more.
+* Gesamtausgaben in der Bestellhistorie: Gesamtbestellwert in der Bestellhistorie der Kunden.
+* Ausgaben bei der letzten Bestellung: Wert der letzten Bestellung.
+* Gesamtanzahl aufgegebener Bestellungen: Gesamtanzahl der Bestellungen in der Bestellhistorie.
+* Auf eine Nutzung pro Kunde beschränken: Ein Kunde kann das Geschenk aus diesem Angebot nur einmal erhalten. Sobald eine Bestellung mit dem Geschenk dieses Angebots aufgegeben wurde, ist der Kunde für dieses Angebot nicht mehr berechtigt.
 
-You can input 0 to max in Total number of order placed to create an offer for new customer only\
-This sub-condition requires customers to log in to your store.
+Sie können bei „Gesamtanzahl aufgegebener Bestellungen“ 0 als Maximum eingeben, um ein Angebot nur für Neukunden zu erstellen.\
+Diese Unterbedingung erfordert, dass sich Kunden in Ihrem Shop anmelden.
 
 {% embed url="https://youtu.be/Fngi7aS1AYU" %}
 
-#### **3.3. Customer tags**
+#### **3.3. Kundentags**
 
 <figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
-This feature allows you to target the offer to customers who have or don’t have specific tags.\
-This sub-condition requires customers to log in to your store.
+Mit dieser Funktion können Sie das Angebot auf Kunden ausrichten, die bestimmte Tags haben oder nicht haben.\
+Diese Unterbedingung erfordert, dass sich Kunden in Ihrem Shop anmelden.
 
 {% embed url="https://www.youtube.com/watch?v=ZFce5y1g7Ws" %}
 
-#### **3.4. Customer location**
+#### **3.4. Kundenstandort**
 
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
-Use this if you want your gift offers to be available **only to customers from a specific country**.
+Nutzen Sie diese Option, wenn Ihre Geschenkangebote **nur für Kunden aus einem bestimmten Land** verfügbar sein sollen.
 
-In contrast, to exclude customers from a specific country from your offers, select that country and tick the “exclude customers from selected locations” box.
+Um umgekehrt Kunden aus einem bestimmten Land von Ihren Angeboten auszuschließen, wählen Sie dieses Land aus und aktivieren Sie das Kontrollkästchen „Kunden aus ausgewählten Standorten ausschließen“.
 
 {% embed url="https://www.youtube.com/watch?v=aD5Kh6BJm1o&list=PLfZvxg1NZTJgkPK3iPXFBivJcXPpIHY33&index=3" %}
 
-#### 3.5.  Markets
+#### 3.5.  Märkte
 
 <figure><img src="../../.gitbook/assets/unknown (105).png" alt=""><figcaption></figcaption></figure>
 
-Use this if you want to display your offer **only to customers from markets that include a group of countries or regions**, which should be already set up in Shopify Markets.
+Nutzen Sie diese Option, wenn Ihr Angebot **nur Kunden aus Märkten angezeigt werden soll, die eine Gruppe von Ländern oder Regionen umfassen**, die bereits in Shopify Markets eingerichtet sein sollten.
 
-* To set it up, simply select Shopify markets where you want your gift offers to apply.
-* In contrast, to exclude customers from specific markets, select those markets and tick the “Exclude customers from selected markets” box.
+* Wählen Sie zur Einrichtung einfach die Shopify-Märkte aus, in denen Ihre Geschenkangebote gelten sollen.
+* Um umgekehrt Kunden aus bestimmten Märkten auszuschließen, wählen Sie diese Märkte aus und aktivieren Sie das Kontrollkästchen „Kunden aus ausgewählten Märkten ausschließen“.
 
 {% hint style="warning" %}
-If you see this yellow notification, it means BOGOS can’t read your Shopify Markets data. Click “Update Permissions” to enable syncing first.
+Wenn Sie diesen gelben Hinweis sehen, bedeutet das, dass BOGOS Ihre Shopify-Markets-Daten nicht lesen kann. Klicken Sie auf „Berechtigungen aktualisieren“, um die Synchronisierung zu aktivieren.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/unknown (106).png" alt="" width="456"><figcaption></figcaption></figure>
 
-#### 3.6.  Subscription products
+#### 3.6.  Abonnementprodukte
 
 <figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
-By default, BOGOS offers work with both One-time purchase and Subscription products.&#x20;
+Standardmäßig funktionieren BOGOS-Angebote sowohl mit Einmalkauf- als auch mit Abonnementprodukten.&#x20;
 
-This feature allow you to narrow the offer to only one type of product.
+Mit dieser Funktion können Sie das Angebot auf nur eine Produktart einschränken.
 
-#### 3.7. Sales channels
+#### 3.7. Verkaufskanäle
 
 <figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-This feature allows you to create offers for customers from multiple sales channels: online store, mobile app channel, and point of sale channel.
+Mit dieser Funktion können Sie Angebote für Kunden aus mehreren Verkaufskanälen erstellen: Online-Shop, mobile App und Point-of-Sale-Kanal.
 
-#### **3.8. Product quantity limits**
+#### **3.8. Produktmengenlimits**
 
 <figure><img src="../../.gitbook/assets/unknown (67).png" alt=""><figcaption></figcaption></figure>
 
-Use this to add **extra quantity rules** for your Main Condition. The items in the cart must satisfy these limits to qualify for the gift.
+Verwenden Sie dies, um **zusätzliche Mengenregeln** für Ihre Hauptbedingung hinzuzufügen. Die Artikel im Warenkorb müssen diese Limits erfüllen, um sich für das Geschenk zu qualifizieren.
 
-**Popular use cases:**
+**Beliebte Anwendungsfälle:**
 
-* Buy at least 2 items from Collection A and 1 item from Collection B to get a gift.
-* Spend $250+ and include at least 1 Product A to get a gift.
-* Buy from a collection (excluding Product A) to get a gift.
-* Buy from collection A (excluding products that also appear in collection B) to get a gift.
-* No gift if certain items are in the cart, even if the main conditions are met.
+* Kaufen Sie mindestens 2 Artikel aus Sammlung A und 1 Artikel aus Sammlung B, um ein Geschenk zu erhalten.
+* Geben Sie 250 $+ aus und legen Sie mindestens 1 Produkt A in den Warenkorb, um ein Geschenk zu erhalten.
+* Kaufen Sie aus einer Sammlung (ausgenommen Produkt A), um ein Geschenk zu erhalten.
+* Kaufen Sie aus Sammlung A (ausgenommen Produkte, die auch in Sammlung B vorkommen), um ein Geschenk zu erhalten.
+* Kein Geschenk, wenn sich bestimmte Artikel im Warenkorb befinden, selbst wenn die Hauptbedingungen erfüllt sind.
 
-**To set it up:**
+**So richten Sie es ein:**
 
 {% embed url="https://youtu.be/fQQSJ1LOJIg?si=Lys2gnF2Plyx25Oz" %}
 
-1. Choose **Customers must reach** (if you want to set many rules):
+1. Wählen Sie **Kunden müssen erreichen** (wenn Sie mehrere Regeln festlegen möchten):
 
-* **All rules** (AND): the customer must satisfy all rules you set up below to get the gift.
-* **Any rule** (OR): meeting just one of your rules is enough to qualify.
+* **Alle Regeln** (UND): Der Kunde muss alle unten festgelegten Regeln erfüllen, um das Geschenk zu erhalten.
+* **Beliebige Regel** (ODER): Die Erfüllung nur einer Ihrer Regeln reicht aus, um sich zu qualifizieren.
 
-2. Select the **Buy** rule, and **enter how many items** are needed to meet the requirement.
+2. Wählen Sie die Regel **Kaufen** aus und **geben Sie ein, wie viele Artikel** benötigt werden, um die Anforderung zu erfüllen.
 
-* **At least**: The cart must have equal to or greater than (≥) this number of items from your selected products.
-* **At most:** The cart must have equal to or fewer than (≤) this number of items from your selected products.
+* **Mindestens**: Der Warenkorb muss diese Anzahl an Artikeln aus Ihren ausgewählten Produkten enthalten, entsprechend oder größer (≥).
+* **Höchstens:** Der Warenkorb darf höchstens (≤) diese Anzahl an Artikeln aus Ihren ausgewählten Produkten enthalten.
 
-3. Select the **From** rule, so the quantity set above will apply to selected products/ types/vendors/collections.
-4. Select your desired products/ types/vendors/collections.
-5. To stack multiple rules, click **Add rule** and repeat the process - they follow your All rules/Any rule choice.
+3. Wählen Sie die Regel **Von**, damit die oben festgelegte Menge auf die ausgewählten Produkte/Produktarten/Verkäufer/Sammlungen angewendet wird.
+4. Wählen Sie die gewünschten Produkte/Produktarten/Verkäufer/Sammlungen aus.
+5. Um mehrere Regeln zu stapeln, klicken Sie auf **Regel hinzufügen** und wiederholen Sie den Vorgang – sie folgen Ihrer Auswahl „Alle Regeln“/„Beliebige Regel“.
 
 {% hint style="success" %}
-* To **exclude** specific products, set Buy “At most 0” from “selected products: Product A”.
-* To **require an exact quantity** of items, set All rules with both At least X and At most X (using the same number X).
+* Um bestimmte Produkte **auszuschließen**, stellen Sie „Kaufen“ auf „Höchstens 0“ aus „ausgewählte Produkte: Produkt A“.
+* Um eine **genaue Menge** an Artikeln zu verlangen, legen Sie „Alle Regeln“ mit sowohl „Mindestens X“ als auch „Höchstens X“ fest (mit derselben Zahl X).
 {% endhint %}
 
 {% hint style="warning" %}
-**Free gifts from other offers don’t count toward this rule**.&#x20;
+**Kostenlose Geschenke aus anderen Angeboten zählen nicht für diese Regel**.&#x20;
 
-E.g: If your rule requires buying Product A, any free Product A added by a different offer will not count. The customer must buy another Product A to qualify.
+Beispiel: Wenn Ihre Regel den Kauf von Produkt A erfordert, zählt ein kostenloses Produkt A, das durch ein anderes Angebot hinzugefügt wurde, nicht mit. Der Kunde muss ein weiteres Produkt A kaufen, um sich zu qualifizieren.
 {% endhint %}
 
-### 4. Select gifts
+### 4. Geschenke auswählen
 
 <figure><img src="../../.gitbook/assets/unknown (107).png" alt="" width="563"><figcaption></figcaption></figure>
 
-This is where you choose the gifts you want to offer and apply discounts to them.
+Hier wählen Sie die Geschenke aus, die Sie anbieten möchten, und wenden Rabatte darauf an.
 
-1. **Choose Gift discount type:**
+1. **Rabattart für das Geschenk wählen:**
 
-▶ If you choose **a normal product as a gift,** there are 3 discount types:
+▶ Wenn Sie **ein normales Produkt als Geschenk** wählen, gibt es 3 Rabattarten:
 
-* **Percentage:** The gift price will be discounted from the original price by a percentage of its original price. 100% means free gift.
-* **Amount:** The gift price will be discounted from the original price by an amount of money.
-* **Fixed price:** Set a fixed price for your gifts, which can be lower or higher than the original price.
+* **Prozentsatz:** Der Geschenkpreis wird vom Originalpreis um einen Prozentsatz des Originalpreises reduziert. 100 % bedeutet ein kostenloses Geschenk.
+* **Betrag:** Der Geschenkpreis wird vom Originalpreis um einen Geldbetrag reduziert.
+* **Festpreis:** Legen Sie einen Festpreis für Ihre Geschenke fest, der niedriger oder höher als der Originalpreis sein kann.
 
 {% hint style="info" %}
-**For Gift Function,** the fixed price cannot be higher than the original product’s price (due to Shopify rules).&#x20;
+**Bei der Gift Function** darf der Festpreis nicht höher sein als der Originalpreis des Produkts (aufgrund der Shopify-Regeln).&#x20;
 
-To set a higher fixed price, please switch the Gift logic mechanism to Clone product.
+Um einen höheren Festpreis festzulegen, wechseln Sie bitte den Geschenklogik-Mechanismus zu „Produkt klonen“.
 {% endhint %}
 
-▶ If you choose **a shipping discount as a gift**, there are 2 discount types:
+▶ Wenn Sie **einen Versandrabatt als Geschenk** wählen, gibt es 2 Rabattarten:
 
 <figure><img src="../../.gitbook/assets/unknown (108).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* **Percentage:** The original shipping cost will be discounted by a percentage. 100% means free shipping.
-* **Amount:** The original shipping cost will be discounted by a fixed amount. If you sell in different currencies (set up in Shopify Markets), you can **"add currency"** and decide how much shipping discount amount to offer in each currency, instead of using Shopify’s exchange rates (e.g., SGD 100, €8, A$12).
+* **Prozentsatz:** Die ursprünglichen Versandkosten werden um einen Prozentsatz reduziert. 100 % bedeutet kostenloser Versand.
+* **Betrag:** Die ursprünglichen Versandkosten werden um einen festen Betrag reduziert. Wenn Sie in verschiedenen Währungen verkaufen (in Shopify Markets eingerichtet), können Sie **„Währung hinzufügen“** verwenden und festlegen, wie hoch der Versandrabattbetrag in jeder Währung sein soll, anstatt die Wechselkurse von Shopify zu verwenden (z. B. SGD 100, 8 €, 12 A$).
 
 
 
-2. **Choose how Customer will receive** (choose how customers will receive their gifts):
+2. **Wählen Sie, wie der Kunde das Geschenk erhält** (wählen Sie, wie Kunden ihre Geschenke erhalten):
 
-* _Automatically all gifts:_ Once the condition is met, gifts are automatically added to the customer's cart.
-* _Number of gifts customer will receive_: Once the condition is met, gifts are displayed in a Gift slider for customers to choose from.
+* _Alle Geschenke automatisch:_ Sobald die Bedingung erfüllt ist, werden Geschenke automatisch dem Warenkorb des Kunden hinzugefügt.
+* _Anzahl der Geschenke, die der Kunde erhält_: Sobald die Bedingung erfüllt ist, werden die Geschenke in einem Geschenk-Schieberegler angezeigt, aus dem Kunden auswählen können.
 
 {% hint style="info" %}
-Note: If you want to customize the appearance of Gift slider, go to [Customize Gift slider](../customize/customize-gift-slider.md)
+Hinweis: Wenn Sie das Erscheinungsbild des Geschenk-Schiebereglers anpassen möchten, gehen Sie zu [Geschenk-Schieberegler anpassen](../customize/customize-gift-slider.md)
 {% endhint %}
 
-3. **Select gifts:**&#x20;
+3. **Geschenke auswählen:**&#x20;
 
-* Select a product(s) or variant(s) that will be offered as gifts.
-* Set the quantity for each gift (if choosing Automatically all gifts). When customers qualify, gifts are auto-added to cart in the quantities you set.
+* Wählen Sie ein Produkt/mehrere Produkte oder Variante(n) aus, die als Geschenke angeboten werden.
+* Legen Sie die Menge für jedes Geschenk fest (falls „Alle Geschenke automatisch“ ausgewählt ist). Wenn Kunden sich qualifizieren, werden Geschenke automatisch in den von Ihnen festgelegten Mengen dem Warenkorb hinzugefügt.
 
 <figure><img src="../../.gitbook/assets/unknown (165).png" alt="" width="507"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-The following product types CAN NOT be selected as gifts and will be auto-removed if accidentally picked:
+Die folgenden Produktarten KÖNNEN NICHT als Geschenke ausgewählt werden und werden automatisch entfernt, wenn sie versehentlich ausgewählt wurden:
 
-* Cloned gifts (created by the gift clone mechanism).
-* Bundle as a separate product (created by Classic Bundle).
+* Geklonte Geschenke (erstellt durch den Geschenk-Klon-Mechanismus).
+* Bundle als separates Produkt (erstellt durch das klassische Bundle).
 {% endhint %}
 
-### 5. Advanced configuration (optional)
+### 5. Erweiterte Konfiguration (optional)
 
-#### 5.1. Works with other offers
+#### 5.1. Funktioniert mit anderen Angeboten
 
 <figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
-* _**Priority:**_ Set a numerical priority level for this offer. Offers with a lower number (e.g., 1) have a higher priority than those with higher numbers (e.g., 2, 3). This affects how multiple offers are applied when customers qualify for more than one.
+* _**Priorität:**_ Legen Sie eine numerische Prioritätsstufe für dieses Angebot fest. Angebote mit einer niedrigeren Zahl (z. B. 1) haben eine höhere Priorität als solche mit höheren Zahlen (z. B. 2, 3). Dies beeinflusst, wie mehrere Angebote angewendet werden, wenn Kunden sich für mehr als eines qualifizieren.
 
 
 
-* _**Stop lower priority:**_ Enable this setting to automatically stop offers with a lower priority if customers meet the conditions for this higher-priority offer. For example, if this offer is set to priority 1, then offers with priority 2, 3, etc., will not apply if the conditions for priority 1 are met.
+* _**Angebote mit niedrigerer Priorität stoppen:**_ Aktivieren Sie diese Einstellung, um Angebote mit niedrigerer Priorität automatisch zu stoppen, wenn Kunden die Bedingungen für dieses Angebot mit höherer Priorität erfüllen. Wenn dieses Angebot beispielsweise auf Priorität 1 gesetzt ist, werden Angebote mit Priorität 2, 3 usw. nicht angewendet, wenn die Bedingungen für Priorität 1 erfüllt sind.
 
 
 
-* _**Gift will be applied toward other offers:**_ If selected, the value of the gift in this offer will count towards the minimum purchase requirements of other offers (only when the gift has a price above $0). This can help customers qualify for multiple promotions more easily.
+* _**Geschenk wird auf andere Angebote angerechnet:**_ Wenn ausgewählt, wird der Wert des Geschenks in diesem Angebot auf die Mindestkaufanforderungen anderer Angebote angerechnet (nur wenn das Geschenk einen Preis über 0 $ hat). Dies kann Kunden helfen, sich leichter für mehrere Aktionen zu qualifizieren.
 
-#### **5.2. Cart message**
+#### **5.2. Warenkorbnachricht**
 
 <figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
-_**Add a Cart Message:**_ This option lets you add a custom message that will appear on the Cart page when this offer is active.
+_**Warenkorbnachricht hinzufügen:**_ Mit dieser Option können Sie eine benutzerdefinierte Nachricht hinzufügen, die auf der Warenkorbseite angezeigt wird, wenn dieses Angebot aktiv ist.
 
-For more details, please read [Customize Cart Message](../customize/customize-cart-message.md).
+Weitere Details finden Sie unter [Warenkorbnachricht anpassen](../customize/customize-cart-message.md).
 
-#### **5.3. Today offer**
+#### **5.3. Heute-Angebot**
 
 <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
-* **Offer title:** Enter a title that will be displayed on the Today Offer widget on your store’s Online Store. Changing this will not change the original title of the offer.
-* **Add a redirect button:** You can add a clickable button to the Today Offer widget that links to where you want customers to clain the offer.
+* **Angebotstitel:** Geben Sie einen Titel ein, der im Heute-Angebot-Widget im Online-Shop Ihres Shops angezeigt wird. Eine Änderung hier ändert nicht den ursprünglichen Titel des Angebots.
+* **Weiterleitungsschaltfläche hinzufügen:** Sie können dem Heute-Angebot-Widget eine anklickbare Schaltfläche hinzufügen, die zu dem Ort führt, an dem Kunden das Angebot einlösen sollen.
 
-For more details, please read [Customize Today offer](../boosters/create-today-offer-widget.md).
+Weitere Details finden Sie unter [Heute-Angebot anpassen](../boosters/create-today-offer-widget.md).
 
-#### **5.4. Add a custom discount code**
+#### **5.4. Benutzerdefinierten Rabattcode hinzufügen**
 
-This section allows you to customize the discount code name to match your brand.
+In diesem Abschnitt können Sie den Namen des Rabattcodes an Ihre Marke anpassen.
 
 <figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
 \
-**Take notice:**&#x20;
+**Bitte beachten:**&#x20;
 
-* This option option is appear automatically when your Gift logic is set to Gift Function.
-* If your store uses Gift clone logic, this option is only available when you select Shipping discount as gift.
-* The discount code name must be under 256 characters and unique across all Shopify discounts.
+* Diese Option erscheint automatisch, wenn Ihre Geschenklogik auf „Gift Function“ eingestellt ist.
+* Wenn Ihr Shop die Geschenk-Klon-Logik verwendet, ist diese Option nur verfügbar, wenn Sie den Versandrabatt als Geschenk auswählen.
+* Der Name des Rabattcodes muss unter 256 Zeichen liegen und über alle Shopify-Rabatte hinweg eindeutig sein.
 
-Then choose to **combine the offer** with Order discounts or Shipping discounts
+Wählen Sie dann, ob das Angebot mit **Bestellungsrabatten** oder **Versandrabatten** kombiniert werden soll.
 
-### FAQs
+### Häufig gestellte Fragen
 
 <details>
 
-<summary><strong>How to allow customers to choose their gift?</strong></summary>
+<summary><strong>Wie kann ich Kunden erlauben, ihr Geschenk auszuwählen?</strong></summary>
 
-You can let customers pick their own gift instead of having it automatically added to their cart. There are two ways to set this up in BOGOS:
+Sie können Kunden ihr eigenes Geschenk auswählen lassen, anstatt es automatisch dem Warenkorb hinzuzufügen. Es gibt zwei Möglichkeiten, dies in BOGOS einzurichten:
 
-**Option 1: Set it in the gift offer**
+**Option 1: In dem Geschenkangebot einrichten**
 
-When creating or editing a gift offer, Under Select gifts > Choose how customer will receive, select Number of gifts customer will receive and enter how many gifts the customer can pick.
+Wählen Sie beim Erstellen oder Bearbeiten eines Geschenkangebots unter „Geschenke auswählen“ > „Wählen Sie, wie der Kunde das Geschenk erhält“ die Option „Anzahl der Geschenke, die der Kunde erhält“ aus und geben Sie ein, wie viele Geschenke der Kunde auswählen kann.
 
-**Option 2: Disable auto-add in Settings**
+**Option 2: Automatisches Hinzufügen in den Einstellungen deaktivieren**
 
-Go to Settings → Gift Condition and turn off Automatically add gift to cart. This forces the gift slider to always appear — even if you choose Automatically all gifts in your Gift Offer
+Gehen Sie zu Einstellungen → Geschenkbedingung und deaktivieren Sie „Geschenk automatisch zum Warenkorb hinzufügen“. Dadurch wird der Geschenk-Schieberegler immer angezeigt – selbst wenn Sie in Ihrem Geschenkangebot „Alle Geschenke automatisch“ ausgewählt haben.
 
-When they qualify for the offer, a gift slider will appear showing all available options for them to choose from. You can adjust the slider's text, colors, layout, and product display in Customize → Gift slider.
+Wenn Kunden sich für das Angebot qualifizieren, erscheint ein Geschenk-Schieberegler mit allen verfügbaren Optionen zur Auswahl. Sie können den Text, die Farben, das Layout und die Produktanzeige des Schiebereglers unter Anpassen → Geschenk-Schieberegler ändern.
 
 </details>
 
 <details>
 
-<summary><strong>Can I limit my gift offers to customers in specific countries?</strong></summary>
+<summary><strong>Kann ich meine Geschenkangebote auf Kunden in bestimmten Ländern beschränken?</strong></summary>
 
-Yes. Under **Sub-conditions**, you can use the **Customer Location** or **Markets** feature to ensure gifts are only available to shoppers in your selected regions, synced directly with Shopify Markets.
+Ja. Unter **Unterbedingungen** können Sie die Funktion **Kundenstandort** oder **Märkte** verwenden, um sicherzustellen, dass Geschenke nur Kunden in Ihren ausgewählten Regionen zur Verfügung stehen, synchronisiert direkt mit Shopify Markets.
 
 {% hint style="info" %}
-Location setting is based on the customer's current connection (their IP address or VPN), while the Market setting follows the specific data and regions you have already set up in your Shopify Markets settings.
+Die Standorteinstellung basiert auf der aktuellen Verbindung des Kunden (dessen IP-Adresse oder VPN), während die Markteinstellung den spezifischen Daten und Regionen folgt, die Sie bereits in Ihren Shopify-Markets-Einstellungen festgelegt haben.
 {% endhint %}
 
-**Please follow the steps here:**\
-1\. Go to the offer\
-2\. Add the sub-condition.
+**Bitte folgen Sie diesen Schritten:**\
+1\. Gehen Sie zum Angebot\
+2\. Fügen Sie die Unterbedingung hinzu.
 
 ![](<../../.gitbook/assets/unknown (196).png>)\
 \
-3\. Select Customer Location or Customer Markets<br>
+3\. Wählen Sie Kundenstandort oder Kundenmärkte<br>
 
 ![](<../../.gitbook/assets/unknown (197).png>)
 
-4\. Add the country or market(s) you want\
-5\. Save
+4\. Fügen Sie das gewünschte Land oder die gewünschten Märkte hinzu\
+5\. Speichern
 
 </details>
 
 <details>
 
-<summary><strong>I want to reward my VIP customers only. Is this possible?</strong></summary>
+<summary><strong>Ich möchte nur meine VIP-Kunden belohnen. Ist das möglich?</strong></summary>
 
-Yes! You can set a **Customer Tag** sub-condition. The gift will only be offered to logged-in customers who have the specific tag (e.g., "VIP" or "Member") in their Shopify profile.\
+Ja! Sie können eine **Kundentag**-Unterbedingung festlegen. Das Geschenk wird nur angemeldeten Kunden angeboten, die das bestimmte Tag (z. B. „VIP“ oder „Mitglied“) in ihrem Shopify-Profil haben.\
 \
-**Please follow the steps here:**\
-1\. Go to the offer\
-2\. Add Sub-condition<br>
+**Bitte folgen Sie diesen Schritten:**\
+1\. Gehen Sie zum Angebot\
+2\. Unterbedingung hinzufügen<br>
 
 ![](<../../.gitbook/assets/unknown (198).png>)
 
-3\. Select Customer tags<br>
+3\. Wählen Sie Kundentags<br>
 
 ![](<../../.gitbook/assets/unknown (199).png>)
 
-4\. Add the tag that you want to apply<br>
+4\. Fügen Sie das gewünschte Tag hinzu<br>
 
 ![](<../../.gitbook/assets/unknown (200).png>)
 
-5\. Save.
+5\. Speichern.
 
 </details>
 
 <details>
 
-<summary><strong>Is there a way to offer gifts exclusively through a marketing email or influencer link?</strong></summary>
+<summary><strong>Gibt es eine Möglichkeit, Geschenke ausschließlich über eine Marketing-E-Mail oder einen Influencer-Link anzubieten?</strong></summary>
 
-Yes. You can use the **Specific Link Address** sub-condition. This ensures that only customers who enter your store through that unique URL will see and receive the gift offer.\
+Ja. Sie können die Unterbedingung **Spezifische Linkadresse** verwenden. Dadurch wird sichergestellt, dass nur Kunden, die über diese eindeutige URL Ihren Shop betreten, das Geschenkangebot sehen und erhalten.\
 \
-**Please follow the steps here:**\
-1\. Go to the offer\
-2\. Add Sub-condition<br>
+**Bitte folgen Sie diesen Schritten:**\
+1\. Gehen Sie zum Angebot\
+2\. Unterbedingung hinzufügen<br>
 
 ![](<../../.gitbook/assets/unknown (201).png>)
 
-3\. Click Specific Link Address<br>
+3\. Klicken Sie auf Spezifische Linkadresse<br>
 
 ![](<../../.gitbook/assets/unknown (202).png>)
 
-4\. Add a simple text for the app to generate the link
+4\. Fügen Sie einen einfachen Text hinzu, damit die App den Link generiert
 
 ![](<../../.gitbook/assets/unknown (37).png>)
 
-5\. Copy the link and Save. Then you can send the link via email campaign to whom you want to reward
+5\. Kopieren Sie den Link und speichern Sie. Anschließend können Sie den Link per E-Mail-Kampagne an die Personen senden, die Sie belohnen möchten.
 
 </details>
 
 <details>
 
-<summary><strong>What’s the difference between Gift App mechanisms?</strong></summary>
+<summary><strong>Was ist der Unterschied zwischen den Geschenk-App-Mechanismen?</strong></summary>
 
-**1. Clone Products:** Gift products are indirectly added to the cart by creating duplicate versions of the original product with a discounted price using the BOGOS function. It allows customers to use a discount code at checkout. You can manage gift inventory in the Settings.
+**1. Produkte klonen:** Geschenkprodukte werden indirekt dem Warenkorb hinzugefügt, indem mithilfe der BOGOS-Funktion doppelte Versionen des Originalprodukts mit einem reduzierten Preis erstellt werden. Dies ermöglicht es Kunden, an der Kasse einen Rabattcode zu verwenden. Sie können das Geschenkinventar in den Einstellungen verwalten.
 
-[Watch guide.](https://youtu.be/gXwkfsbsWgI?si=M0TTUqjOFRReHsmb\&t=90)
+[Anleitung ansehen.](https://youtu.be/gXwkfsbsWgI?si=M0TTUqjOFRReHsmb\&t=90)
 
-**2. Gift Function:** This option doesn’t create cloned products. Gift products are directly added to the cart as the original products, discounted using Shopify’s built-in discount function.
+**2. Gift Function:** Diese Option erstellt keine geklonten Produkte. Geschenkprodukte werden direkt als Originalprodukte dem Warenkorb hinzugefügt und mit der integrierten Rabattfunktion von Shopify reduziert.
 
-[Watch tutorial.](https://youtu.be/gXwkfsbsWgI?si=XynDYGtVgg_Gdq6-\&t=147)
-
-</details>
-
-<details>
-
-<summary><strong>How to offer free gift with a discount code?</strong></summary>
-
-The only way to offer a free gift after a customer enters a discount code on Shopify is to set up a **Checkout Upsell** — but this **is only available** for Shopify Plus stores.
-
-**Here's how to set it up:**
-
-1. First, set up a discount code in Shopify's built-in Discounts. Choose Amount off products > Enter your preferred code > Enter 0 in Discount value > Under Combinations, enable Product discounts > Save
-2. Go to All offers > Create an Upsell offer > Select Checkout Upsell
-3. Choose an Upsell trigger
-4. Select an Upsell method
-5. Set the discount type to Percentage and enter 100 to make it free
-6. Under Advanced Configuration > enable Discount Code > enter exactly the discount code from Step 1
-7. Choose either Show products on Checkout page or Auto add products to cart
-8. Click Publish
-
-[Watch tutorial.](https://youtu.be/kWeZvSDxRkg?si=m4YcbI_3FLev32b3)
+[Anleitung ansehen.](https://youtu.be/gXwkfsbsWgI?si=XynDYGtVgg_Gdq6-\&t=147)
 
 </details>
 
 <details>
 
-<summary><strong>How to set up a gift card as a gift properly?</strong></summary>
+<summary><strong>Wie biete ich ein kostenloses Geschenk mit einem Rabattcode an?</strong></summary>
 
-You can easily reward your customers with a digital gift card when they purchase specific items. Here’s how to set it up:
+Die einzige Möglichkeit, einem Kunden ein kostenloses Geschenk anzubieten, nachdem er einen Rabattcode bei Shopify eingegeben hat, besteht darin, einen **Checkout-Upsell** einzurichten – dies ist jedoch **nur für Shopify-Plus-Shops verfügbar**.
 
-**1. Create Your Offer**
+**So richten Sie es ein:**
 
-* Go to All offers > Create a gift offer.
-* Under the Main Condition, select the specific products that customers need to buy to qualify.
-* Scroll down to the Gift selection section and choose your Gift card product.
+1. Richten Sie zunächst einen Rabattcode in den integrierten Rabatten von Shopify ein. Wählen Sie „Betrag auf Produkte“ > geben Sie Ihren bevorzugten Code ein > geben Sie 0 als Rabattwert ein > aktivieren Sie unter „Kombinationen“ die Option „Produktrabatte“ > Speichern
+2. Gehen Sie zu „Alle Angebote“ > „Upsell-Angebot erstellen“ > wählen Sie „Checkout-Upsell“
+3. Wählen Sie einen Upsell-Auslöser
+4. Wählen Sie eine Upsell-Methode
+5. Stellen Sie die Rabattart auf „Prozentsatz“ ein und geben Sie 100 ein, um es kostenlos zu machen
+6. Aktivieren Sie unter „Erweiterte Konfiguration“ die Option „Rabattcode“ > geben Sie genau den Rabattcode aus Schritt 1 ein
+7. Wählen Sie entweder „Produkte auf der Checkout-Seite anzeigen“ oder „Produkte automatisch zum Warenkorb hinzufügen“
+8. Klicken Sie auf „Veröffentlichen“
 
-**2. Adjust Settings for "Clone Product" Users**&#x20;
+[Anleitung ansehen.](https://youtu.be/kWeZvSDxRkg?si=m4YcbI_3FLev32b3)
 
-If your store uses the Clone product mechanism, you’ll need to make one quick adjustment to ensure the gift cards are delivered:
+</details>
 
-* Navigate to BOGOS Settings > Draft order API.
-* Turn on the Draft Order API.
-* Ensure you select "Do not allow discount" for both options.
+<details>
 
-**How it works:** Once the order is completed, your customers will automatically receive their gift card code via email.
+<summary><strong>Wie richte ich eine Geschenkkarte korrekt als Geschenk ein?</strong></summary>
+
+Sie können Ihre Kunden ganz einfach mit einer digitalen Geschenkkarte belohnen, wenn sie bestimmte Artikel kaufen. So richten Sie es ein:
+
+**1. Erstellen Sie Ihr Angebot**
+
+* Gehen Sie zu „Alle Angebote“ > „Geschenkangebot erstellen“.
+* Wählen Sie unter „Hauptbedingung“ die spezifischen Produkte aus, die Kunden kaufen müssen, um sich zu qualifizieren.
+* Scrollen Sie nach unten zum Abschnitt „Geschenkauswahl“ und wählen Sie Ihr Geschenkkartenprodukt aus.
+
+**2. Einstellungen für Nutzer von „Produkt klonen“ anpassen**&#x20;
+
+Wenn Ihr Shop den Mechanismus „Produkt klonen“ verwendet, müssen Sie eine kurze Anpassung vornehmen, um sicherzustellen, dass die Geschenkkarten geliefert werden:
+
+* Navigieren Sie zu BOGOS-Einstellungen > Draft-Order-API.
+* Aktivieren Sie die Draft-Order-API.
+* Stellen Sie sicher, dass Sie für beide Optionen „Rabatt nicht zulassen“ auswählen.
+
+**So funktioniert es:** Sobald die Bestellung abgeschlossen ist, erhalten Ihre Kunden automatisch ihren Geschenkkartencode per E-Mail.
 
 {% hint style="success" %}
-Pro-Tip: If you prefer a simpler setup, you can switch your app mechanism to **Gift Function** in the Settings. This allows you to select and manage gift cards just like any other standard gift in your offer setup.
+Profi-Tipp: Wenn Sie eine einfachere Einrichtung bevorzugen, können Sie Ihren App-Mechanismus in den Einstellungen auf **Gift Function** umstellen. Dadurch können Sie Geschenkkarten wie jedes andere Standardgeschenk in Ihrer Angebotseinrichtung auswählen und verwalten.
 {% endhint %}
 
 </details>

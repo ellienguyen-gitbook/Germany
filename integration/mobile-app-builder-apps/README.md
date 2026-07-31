@@ -1,28 +1,28 @@
-# Mobile App Builder apps
+# Mobile App Builder Apps
 
-### What each tool does
+### Was jedes Tool leistet
 
 #### BOGOS:
 
-* Create, run, and manage offer types: Free Gifts, Bundles, Upsell & Discounts.
-* Display and manage promotion widgets: Gift sliders, bundle page, discount widget, and promotional messages.
-* Apply eligibility rules: Control which customers, products, collections, or cart conditions qualify for each promotion.
+* Erstellen, ausführen und verwalten Sie Angebotstypen: Geschenke, Bündel, Upsell & Rabatte.
+* Anzeigen und verwalten Sie Werbe-Widgets: Geschenk-Slider, Bundle-Seite, Rabatt-Widget und Werbenachrichten.
+* Wenden Sie Berechtigungsregeln an: Steuern Sie, welche Kunden, Produkte, Sammlungen oder Warenkorbbedingungen für jede Aktion qualifizieren.
 
 #### Mobile App Builder:&#x20;
 
-Lets merchants create a branded mobile app (iOS/Android) without coding. It controls how products, collections, and promotions appear inside the app.
+Ermöglicht Händlern die Erstellung einer markenbezogenen mobilen App (iOS/Android) ohne Programmierung. Sie steuert, wie Produkte, Sammlungen und Aktionen innerhalb der App angezeigt werden.
 
-### What the integration enables
+### Was die Integration ermöglicht
 
-**Centralized management:**&#x20;
+**Zentralisierte Verwaltung:**&#x20;
 
-Run and update gift campaigns in BOGOS, and they’ll sync automatically to your mobile app.
+Führen und aktualisieren Sie Geschenkkampagnen in BOGOS, und sie werden automatisch mit Ihrer mobilen App synchronisiert.
 
-**Seamless inventory sync:**&#x20;
+**Nahtlose Bestandssynchronisierung:**&#x20;
 
-When a customer makes a purchase through the mobile app and receives a gift, the store’s inventory is instantly updated.
+Wenn ein Kunde über die mobile App einen Kauf tätigt und ein Geschenk erhält, wird der Lagerbestand des Shops sofort aktualisiert.
 
-### Integrated Labels & Badges apps
+### Integrierte Labels & Badges Apps
 
 [OneMobile – Mobile App Builder](https://apps.shopify.com/onemobile?utm_source=bogos\&utm_medium=partnership\&utm_campaign=integration250218)
 

@@ -1,37 +1,37 @@
 ---
-description: An overview of creating bundle offer
+description: Ein Überblick über die Erstellung von Bundle-Angeboten
 ---
 
-# Bundle offer
+# Bundle-Angebot
 
-Learn how to create powerful bundle offers that streamline shopping experiences and increase AOV with BOGOS.
+Erfahren Sie, wie Sie mit BOGOS leistungsstarke Bundle-Angebote erstellen, die das Einkaufserlebnis optimieren und den AOV steigern.
 
-### Classic bundle <a href="#h.10dadxctporw" id="h.10dadxctporw"></a>
+### Klassisches Paket <a href="#h.10dadxctporw" id="h.10dadxctporw"></a>
 
-A classic bundle is a pre-fixed collection of two or more items which is often sold together at a discounted price to encourage shoppers to purchase.
+Ein klassisches Paket ist eine fest zusammengestellte Sammlung von zwei oder mehr Artikeln, die oft zusammen zu einem ermäßigten Preis verkauft werden, um Käufer zum Kauf zu bewegen.
 
-Example: Buy Beside Table  and Black beanbag together and get a free gift.
+Beispiel: Kaufen Sie Beistelltisch und schwarzen Sitzsack zusammen und erhalten Sie ein kostenloses Geschenk.
 
 <figure><img src="../../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
 
-### Mix and match <a href="#h.51im3acf882d" id="h.51im3acf882d"></a>
+### Mischen und kombinieren <a href="#h.51im3acf882d" id="h.51im3acf882d"></a>
 
-Mix & match bundles allow customers to choose a combination of products from a pre-selected collection. These bundles are typically sold at a cheaper price compared to buying individually.
+Mit Mischen-und-kombinieren-Paketen können Kunden eine Kombination von Produkten aus einer vorausgewählten Kollektion wählen. Diese Pakete werden in der Regel zu einem günstigeren Preis verkauft als beim Einzelkauf.
 
-Example: Choose any 2 T-shirts and 1 pair of pants from the Summer Package collection and enjoy 10% off compared to purchasing them separately
+Beispiel: Wählen Sie beliebige 2 T-Shirts und 1 Hose aus der Sommerpaket-Kollektion und sparen Sie 10 % im Vergleich zum separaten Kauf
 
 <figure><img src="../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
 
-### Bundle builder <a href="#h.h43prdwsxyoh" id="h.h43prdwsxyoh"></a>
+### Bundle-Builder <a href="#h.h43prdwsxyoh" id="h.h43prdwsxyoh"></a>
 
-Bundle builder is a dedicated landing page that displays a custom-built single bundle or a range of bundles that customers can choose and customize their personalized bundles.
+Der Bundle-Builder ist eine dedizierte Landingpage, die ein individuell erstelltes einzelnes Bundle oder eine Reihe von Bundles anzeigt, die Kunden auswählen und individuell anpassen können.
 
-Example: Customize your own bundle from the Limited Summer Edition and save upto 30%
+Beispiel: Stellen Sie sich Ihr eigenes Bundle aus der Limited Summer Edition zusammen und sparen Sie bis zu 30 %
 
 <figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
-### Bundle product page <a href="#h.f4ckkxuprt2" id="h.f4ckkxuprt2"></a>
+### Bundle-Produktseite <a href="#h.f4ckkxuprt2" id="h.f4ckkxuprt2"></a>
 
-Bundle Product Page by BOGOS lets you create **a dedicated product page for your bundle,** where customers can mix and match products, select variants, and adjust quantities directly on the page.&#x20;
+Mit der Bundle-Produktseite von BOGOS können Sie **eine dedizierte Produktseite für Ihr Bundle erstellen,** auf der Kunden Produkte mischen und kombinieren, Varianten auswählen und Mengen direkt auf der Seite anpassen können.
 
 <figure><img src="../../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>

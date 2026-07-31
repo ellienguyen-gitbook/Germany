@@ -1,48 +1,48 @@
 ---
 description: >-
-  Upsell Analytics gives you a complete view of your upsell performance. It
-  provides detailed insights into how your upsells are working, helping you
-  optimize for better results.
+  Upsell Analytik gibt Ihnen einen vollständigen Überblick über Ihre
+  Upsell-Leistung. Sie bietet detaillierte Einblicke in die Funktionsweise
+  Ihrer Upsells und hilft Ihnen, diese für bessere Ergebnisse zu optimieren.
 ---
 
-# Upsell Analytics
+# Upsell Analytik
 
 {% embed url="https://youtu.be/vd_Z9KEHm-8?si=IpqCxb53th_I16Pu&t=250" %}
 
-To use this feature, navigate to **Analytics** → select "**Upsell**" in the first dropdown filter. Then, you'll see all data related to upsells, including those that have been deleted or expired.
+Um diese Funktion zu nutzen, navigieren Sie zu **Analytik** → wählen Sie „**Upsell**“ im ersten Dropdown-Filter aus. Anschließend sehen Sie alle Daten zu Upsells, einschließlich gelöschter oder abgelaufener Upsells.
 
-<figure><img src="../../.gitbook/assets/BOGOS Upsell Analystic -  Full.png" alt=""><figcaption><p>The Interface of Upsell Analytics in BOGOS Shopify App</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/BOGOS Upsell Analystic -  Full.png" alt=""><figcaption><p>Die Oberfläche der Upsell Analytik in der BOGOS Shopify App</p></figcaption></figure>
 
-### 1. Filter Options
+### 1. Filteroptionen
 
-#### Filter by Offer
+#### Nach Angebot filtern
 
-Evaluate the performance of each upsell offer individually.
+Bewerten Sie die Leistung jedes einzelnen Upsell-Angebots.
 
 <figure><img src="../../.gitbook/assets/BOGOS Upsell Analystic - View by Offer.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-All upsells that resulted in an order will appear in the filter to be selected, even deleted/expired upsells.
+Alle Upsells, die zu einer Bestellung geführt haben, erscheinen im Filter zur Auswahl, auch gelöschte/abgelaufene Upsells.
 {% endhint %}
 
-#### Filter by Timeframe
+#### Nach Zeitraum filtern
 
-Analyze campaign performance for a specific period by selecting either a predefined or custom timeframe.
+Analysieren Sie die Kampagnenleistung für einen bestimmten Zeitraum, indem Sie entweder einen vordefinierten oder benutzerdefinierten Zeitraum auswählen.
 
 <figure><img src="../../.gitbook/assets/BOGOS Upsell Analystic - Time Filter.png" alt=""><figcaption></figcaption></figure>
 
-### 2. Key Metrics
+### 2. Wichtige Kennzahlen
 
-BOGOS helps you track all essential upsell figures, including:
+BOGOS hilft Ihnen dabei, alle wesentlichen Upsell-Kennzahlen zu verfolgen, darunter:
 
-<table><thead><tr><th width="282">Field</th><th>Definition</th></tr></thead><tbody><tr><td>Total Order Revenue</td><td>The total revenue from all orders that include an upsell.</td></tr><tr><td>Total Upsell Revenue</td><td>The total revenue generated from upsells within orders.</td></tr><tr><td>Orders with Upsell</td><td>The total number of orders that contain at least one upsell.</td></tr></tbody></table>
+<table><thead><tr><th width="282">Feld</th><th>Definition</th></tr></thead><tbody><tr><td>Gesamter Bestellumsatz</td><td>Der Gesamtumsatz aus allen Bestellungen, die einen Upsell enthalten.</td></tr><tr><td>Gesamter Upsell-Umsatz</td><td>Der Gesamtumsatz, der durch Upsells innerhalb von Bestellungen generiert wird.</td></tr><tr><td>Bestellungen mit Upsell</td><td>Die Gesamtzahl der Bestellungen, die mindestens einen Upsell enthalten.</td></tr></tbody></table>
 
-### 3. Overview Funnel
+### 3. Übersichts-Funnel
 
-Gain insight into how your upsell offers perform across three key stages of conversion.
+Gewinnen Sie Einblicke, wie Ihre Upsell-Angebote in drei wichtigen Phasen der Conversion abschneiden.
 
-<table><thead><tr><th width="282">Field</th><th>Definition</th></tr></thead><tbody><tr><td>Upsell View</td><td>The number of times a product page containing a bundle has been viewed.</td></tr><tr><td>Add to cart</td><td>The number of times a customer clicks "Add to Cart" on an upsell.</td></tr><tr><td>Orders with Upsell</td><td>The total number of orders that contain at least one upsell.</td></tr></tbody></table>
+<table><thead><tr><th width="282">Feld</th><th>Definition</th></tr></thead><tbody><tr><td>Upsell-Ansicht</td><td>Die Anzahl der Aufrufe einer Produktseite, die ein Bündel enthält.</td></tr><tr><td>In den Warenkorb legen</td><td>Die Anzahl der Klicks eines Kunden auf „In den Warenkorb legen“ bei einem Upsell.</td></tr><tr><td>Bestellungen mit Upsell</td><td>Die Gesamtzahl der Bestellungen, die mindestens einen Upsell enthalten.</td></tr></tbody></table>
 
-### 4. Order Details
+### 4. Bestelldetails
 
-<table><thead><tr><th width="170">Field</th><th width="111">Format</th><th>Definition</th></tr></thead><tbody><tr><td>Order</td><td>String</td><td>Order ID</td></tr><tr><td>Date</td><td>Date Time</td><td>The time when the order was created.</td></tr><tr><td>Upsell name</td><td>Text</td><td>Product title of the gift product included in the order.</td></tr><tr><td>Upsell type</td><td>Text</td><td>Revenue of the order.</td></tr><tr><td>Upsell items</td><td>Text</td><td>The names of upsell items.</td></tr><tr><td>Upsell value</td><td>Currency</td><td>The total revenue generated from the upsell within orders.</td></tr><tr><td>Order value</td><td>Currency</td><td>The total revenue of order</td></tr><tr><td>Action</td><td>Button</td><td><p>View: Open order details in Shopify Admin. </p><p>Delete: Remove order from Analytics.</p></td></tr></tbody></table>
+<table><thead><tr><th width="170">Feld</th><th width="111">Format</th><th>Definition</th></tr></thead><tbody><tr><td>Bestellung</td><td>String</td><td>Bestell-ID</td></tr><tr><td>Datum</td><td>Datum/Uhrzeit</td><td>Der Zeitpunkt, an dem die Bestellung erstellt wurde.</td></tr><tr><td>Upsell-Name</td><td>Text</td><td>Produkttitel des Geschenkprodukts, das in der Bestellung enthalten ist.</td></tr><tr><td>Upsell-Typ</td><td>Text</td><td>Umsatz der Bestellung.</td></tr><tr><td>Upsell-Artikel</td><td>Text</td><td>Die Namen der Upsell-Artikel.</td></tr><tr><td>Upsell-Wert</td><td>Währung</td><td>Der Gesamtumsatz, der durch den Upsell innerhalb der Bestellungen generiert wird.</td></tr><tr><td>Bestellwert</td><td>Währung</td><td>Der Gesamtumsatz der Bestellung</td></tr><tr><td>Aktion</td><td>Schaltfläche</td><td><p>Ansehen: Bestelldetails im Shopify Admin öffnen. </p><p>Löschen: Bestellung aus der Analytik entfernen.</p></td></tr></tbody></table>

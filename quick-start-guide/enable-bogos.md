@@ -3,26 +3,26 @@ description: Enable BOGOS to work with your theme
 icon: toggle-large-on
 ---
 
-# Enable BOGOS
+# BOGOS aktivieren
 
-To enable BOGOS app:
+So aktivieren Sie die BOGOS-App:
 
-1.  From your Shopify Admin, go to Themes > Edit theme
+1.  Gehen Sie in Ihrem Shopify-Admin zu Themes > Theme bearbeiten
 
     <figure><img src="../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
-2. Navigate to App embeds > Search for "BOGOS: Free Gift" > Turn it on.&#x20;
-3. Click Save button.
+2. Navigieren Sie zu App-Einbettungen > Suchen Sie nach „BOGOS: Free Gift“ > Aktivieren Sie es.&#x20;
+3. Klicken Sie auf die Schaltfläche Speichern.
 
 {% hint style="info" %}
-BOGOS works as App embedded and Theme app extension. These are Shopify's recommendations for a clean and safe app installation.&#x20;
+BOGOS funktioniert als App-Einbettung und Theme-App-Erweiterung. Dies sind Shopifys Empfehlungen für eine saubere und sichere App-Installation.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-Once the Save button is done, it will turn grey. If the Save button is still active, you probably haven't clicked on it yet.
+Sobald der Speichern-Vorgang abgeschlossen ist, wird die Schaltfläche grau. Wenn die Schaltfläche Speichern noch aktiv ist, haben Sie wahrscheinlich noch nicht darauf geklickt.
 {% endhint %}
 
 {% hint style="danger" %}
-Please ensure to have all the offers turned off or deleted while BOGOS' status is disabled or uninstalled.&#x20;
+Bitte stellen Sie sicher, dass alle Angebote deaktiviert oder gelöscht werden, während der Status von BOGOS deaktiviert ist oder die App deinstalliert wird.&#x20;
 {% endhint %}
 
-If you have any questions, send us a message via Live Chat or email us at help@bogos.io. Good luck with your promotion campaign!
+Wenn Sie Fragen haben, senden Sie uns eine Nachricht über den Live-Chat oder schreiben Sie uns eine E-Mail an help@bogos.io. Viel Erfolg mit Ihrer Werbekampagne!

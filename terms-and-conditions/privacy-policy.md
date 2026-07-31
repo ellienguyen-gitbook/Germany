@@ -1,98 +1,98 @@
-# Privacy Policy
+# Datenschutzrichtlinie
 
-## Introduction
+## Einleitung
 
-Welcome to the Privacy Policy of BOGOS: Free gift & Buy X Get Y app!
+Willkommen zur Datenschutzrichtlinie von BOGOS: Free gift & Buy X Get Y app!
 
-We are BOGOS, a part of the Secomapp group (the “we”, “us” or “our”). This Privacy Policy outlines the collection and usage of personal data, as well as the rights granted to our visitors, customers, and merchants in relation to their respective data. For purposes of this Privacy Policy, “you” and “your” means you as the user of the services, or any individual whose information we have collected pursuant to this Privacy Policy.
+Wir sind BOGOS, ein Teil der Secomapp-Gruppe („wir“, „uns“ oder „unser“). Diese Datenschutzrichtlinie beschreibt die Erhebung und Nutzung personenbezogener Daten sowie die Rechte, die unseren Besuchern, Kunden und Händlern in Bezug auf ihre jeweiligen Daten gewährt werden. Im Sinne dieser Datenschutzrichtlinie bedeutet „Sie“ und „Ihr“ Sie als Nutzer der Dienste oder jede Person, deren Informationen wir im Rahmen dieser Datenschutzrichtlinie erhoben haben.
 
-By accessing or utilizing this website, our apps, or any of our services, you indicate your consent to abide by the terms stated in this Privacy Policy, as well as other terms and policies published on our website. If you do not agree with this Privacy Policy, kindly refrain from using this website and discontinue all use of our services.
+Durch den Zugriff auf oder die Nutzung dieser Website, unserer Apps oder eines unserer Dienste erklären Sie sich damit einverstanden, die in dieser Datenschutzrichtlinie sowie in anderen auf unserer Website veröffentlichten Bedingungen und Richtlinien festgelegten Bestimmungen einzuhalten. Wenn Sie mit dieser Datenschutzrichtlinie nicht einverstanden sind, verzichten Sie bitte auf die Nutzung dieser Website und beenden Sie jegliche Nutzung unserer Dienste.
 
-Occasionally, we may update this Privacy Policy to reflect changes in our privacy practices, and operational procedures, or to comply with legal or regulatory requirements. In the event of substantial modifications, we will notify you of such changes by posting the revised policy on this website and, when appropriate, through other means. By continuing to use our apps, website, or services following the posting of these changes, you agree to be bound by the updated policy.
+Gelegentlich können wir diese Datenschutzrichtlinie aktualisieren, um Änderungen in unseren Datenschutzpraktiken und betrieblichen Verfahren widerzuspiegeln oder um gesetzliche oder regulatorische Anforderungen zu erfüllen. Bei wesentlichen Änderungen werden wir Sie durch Veröffentlichung der überarbeiteten Richtlinie auf dieser Website und, sofern angemessen, auf anderen Wegen darüber informieren. Durch die fortgesetzte Nutzung unserer Apps, Website oder Dienste nach Veröffentlichung dieser Änderungen erklären Sie sich mit der aktualisierten Richtlinie einverstanden.
 
-## Information collected from Merchants
+## Von Händlern erhobene Informationen
 
-Upon installation of our app, we have the capability to automatically retrieve specific information from your Shopify account. The details regarding this information can be found [here](https://shopify.dev/docs/api/admin-rest/2023-04/resources/shop#resource_object). We gather this information to facilitate the provision of our services, which may include verifying your identity, establishing communication with you, offering customer support when you reach out to us, as well as delivering targeted advertising and marketing materials.
+Nach der Installation unserer App sind wir in der Lage, bestimmte Informationen automatisch aus Ihrem Shopify-Konto abzurufen. Details zu diesen Informationen finden Sie [hier](https://shopify.dev/docs/api/admin-rest/2023-04/resources/shop#resource_object). Wir erheben diese Informationen, um die Bereitstellung unserer Dienste zu ermöglichen, was die Überprüfung Ihrer Identität, die Kontaktaufnahme mit Ihnen, die Bereitstellung von Kundensupport, wenn Sie sich an uns wenden, sowie die Bereitstellung gezielter Werbung und Marketingmaterialien umfassen kann.
 
-## Information collected from Merchants' customers&#x20;
+## Von Kunden unserer Händler erhobene Informationen&#x20;
 
-We do not collect any personal data from the customers of our merchants. Our focus is solely on providing services and support to merchants themselves, and we do not gather any information about their customers.
+Wir erheben keine personenbezogenen Daten von den Kunden unserer Händler. Unser Fokus liegt ausschließlich auf der Bereitstellung von Diensten und Support für die Händler selbst, und wir sammeln keine Informationen über deren Kunden.
 
-## Information collected when you visit our website
+## Informationen, die wir erheben, wenn Sie unsere Website besuchen
 
-When you visit our website, certain information about your device, such as your web browser, IP address, time zone, and some installed cookies, is automatically collected. We gather this information using various technologies like cookies, log files, web beacons, tags, and pixels.
+Wenn Sie unsere Website besuchen, werden bestimmte Informationen über Ihr Gerät, wie Ihr Webbrowser, Ihre IP-Adresse, Ihre Zeitzone und einige installierte Cookies, automatisch erfasst. Wir erheben diese Informationen mithilfe verschiedener Technologien wie Cookies, Protokolldateien, Web-Beacons, Tags und Pixel.
 
-Our website may provide links to websites or other online platforms operated by third parties. If you follow links to sites not affiliated or controlled by us, you should review their privacy and security policies and other terms and conditions. We do not guarantee and are not responsible for the privacy or security of such sites, including the accuracy, completeness, or reliability of information found on these sites.
+Unsere Website kann Links zu Websites oder anderen Online-Plattformen enthalten, die von Dritten betrieben werden. Wenn Sie Links zu Websites folgen, die nicht mit uns verbunden sind oder von uns kontrolliert werden, sollten Sie deren Datenschutz- und Sicherheitsrichtlinien sowie andere Geschäftsbedingungen prüfen. Wir garantieren nicht für die Privatsphäre oder Sicherheit solcher Websites, einschließlich der Genauigkeit, Vollständigkeit oder Zuverlässigkeit der auf diesen Websites gefundenen Informationen, und sind dafür nicht verantwortlich.
 
-## How we share information
+## Wie wir Informationen weitergeben
 
-We do not sell your personal data to other organizations for commercial purposes. We may share your information with certain third-party services to support our business and provide better services to you. These include Mixpanel, Clarity, Zendesk, and Customer.io.&#x20;
+Wir verkaufen Ihre personenbezogenen Daten nicht zu kommerziellen Zwecken an andere Organisationen. Wir können Ihre Informationen mit bestimmten Drittanbieterdiensten teilen, um unser Geschäft zu unterstützen und Ihnen bessere Dienste zu bieten. Dazu gehören Mixpanel, Clarity, Zendesk und Customer.io.&#x20;
 
-* We use Mixpanel to understand how customers use our app. You can read more about how Mixpanel collects your information at: [https://mixpanel.com/legal/privacy-policy](https://mixpanel.com/legal/privacy-policy)&#x20;
-* We use Clarity for insights into app analytics. You can read more about how Clarity collects your information at: [https://privacy.microsoft.com/en-US/privacystatement](https://privacy.microsoft.com/en-US/privacystatement)&#x20;
-* We used Zendesk for communication and merchant support. You can read more about how Zendesk collects your information at: [https://www.zendesk.com/company/agreements-and-terms/privacy-notice/](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/)&#x20;
-* We used Customer.io for email marketing and maintaining customer lists. You can read more about how Customer.io collects your information at: [https://customer.io/legal/privacy-policy/](https://customer.io/legal/privacy-policy/)
+* Wir verwenden Mixpanel, um zu verstehen, wie Kunden unsere App nutzen. Weitere Informationen darüber, wie Mixpanel Ihre Informationen erhebt, finden Sie unter: [https://mixpanel.com/legal/privacy-policy](https://mixpanel.com/legal/privacy-policy)&#x20;
+* Wir verwenden Clarity für Einblicke in die App-Analytik. Weitere Informationen darüber, wie Clarity Ihre Informationen erhebt, finden Sie unter: [https://privacy.microsoft.com/en-US/privacystatement](https://privacy.microsoft.com/en-US/privacystatement)&#x20;
+* Wir haben Zendesk für die Kommunikation und den Händlersupport verwendet. Weitere Informationen darüber, wie Zendesk Ihre Informationen erhebt, finden Sie unter: [https://www.zendesk.com/company/agreements-and-terms/privacy-notice/](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/)&#x20;
+* Wir haben Customer.io für E-Mail-Marketing und die Pflege von Kundenlisten verwendet. Weitere Informationen darüber, wie Customer.io Ihre Informationen erhebt, finden Sie unter: [https://customer.io/legal/privacy-policy/](https://customer.io/legal/privacy-policy/)
 
-## Cross-border transfer&#x20;
+## Grenzüberschreitende Übermittlung&#x20;
 
-Please note that we may transfer, store, and process your personal information outside the country you live in, including the United States. Your personal information is also processed by staff and third-party service providers and partners in these countries.
+Bitte beachten Sie, dass wir Ihre personenbezogenen Daten außerhalb des Landes, in dem Sie leben, übertragen, speichern und verarbeiten können, einschließlich der Vereinigten Staaten. Ihre personenbezogenen Daten werden auch von Mitarbeitern und Drittanbietern sowie Partnern in diesen Ländern verarbeitet.
 
-## Use of BOGOS by Children
+## Nutzung von BOGOS durch Kinder
 
-BOGOS are not intended to be used by children. If you are under 13, you may use the site and services only with the supervision of your parents or guardian.
+BOGOS ist nicht für die Nutzung durch Kinder bestimmt. Wenn Sie unter 13 Jahre alt sind, dürfen Sie die Website und die Dienste nur unter der Aufsicht Ihrer Eltern oder Erziehungsberechtigten nutzen.
 
-## Your Rights
+## Ihre Rechte
 
-We recognize and respect your rights over your personal information. We take reasonable measures to enable you to access, correct, amend, delete, port, or restrict the use of your personal information. If you are a merchant and wish to exercise these rights, please contact us through help@bogos.io. We may require you to provide acceptable verification of your identity before granting access to such information.
+Wir erkennen Ihre Rechte an Ihren personenbezogenen Daten an und respektieren diese. Wir ergreifen angemessene Maßnahmen, um Ihnen den Zugriff auf, die Berichtigung, Änderung, Löschung, Übertragung oder Einschränkung der Nutzung Ihrer personenbezogenen Daten zu ermöglichen. Wenn Sie ein Händler sind und diese Rechte ausüben möchten, kontaktieren Sie uns bitte über help@bogos.io. Wir können verlangen, dass Sie eine akzeptable Verifizierung Ihrer Identität vorlegen, bevor wir Ihnen Zugriff auf solche Informationen gewähren.
 
-If you are a customer of a merchant and want to exercise these rights, please directly contact the merchants you interacted with. We act as a processor on their behalf and can only forward your request to them for their response.
+Wenn Sie Kunde eines Händlers sind und diese Rechte ausüben möchten, wenden Sie sich bitte direkt an die Händler, mit denen Sie interagiert haben. Wir handeln als Auftragsverarbeiter in deren Auftrag und können Ihre Anfrage nur zur Beantwortung an sie weiterleiten.
 
-Your privacy and control over your personal information are important to us, and we are committed to assisting you in the exercise of your rights.
+Ihre Privatsphäre und Ihre Kontrolle über Ihre personenbezogenen Daten sind uns wichtig, und wir setzen uns dafür ein, Sie bei der Ausübung Ihrer Rechte zu unterstützen.
 
-## Retention
+## Aufbewahrung
 
-We understand the importance of data retention and strive to maintain appropriate retention practices. Your personal data and the data associated with your store will be deleted within 30 days after uninstalling the app. If you require immediate removal of your data, whether as a merchant or a buyer, please reach out to us at help@bogos.io. Please note that we may request acceptable verification of your identity before proceeding with the removal of your information.
+Wir verstehen die Bedeutung der Datenaufbewahrung und bemühen uns, angemessene Aufbewahrungspraktiken einzuhalten. Ihre personenbezogenen Daten und die mit Ihrem Shop verbundenen Daten werden innerhalb von 30 Tagen nach der Deinstallation der App gelöscht. Wenn Sie eine sofortige Entfernung Ihrer Daten wünschen, sei es als Händler oder als Käufer, wenden Sie sich bitte an uns unter help@bogos.io. Bitte beachten Sie, dass wir vor der Entfernung Ihrer Informationen eine akzeptable Verifizierung Ihrer Identität verlangen können.
 
-We take the security and privacy of your data seriously and aim to ensure that it is handled in accordance with applicable laws and regulations.
+Wir nehmen die Sicherheit und den Schutz Ihrer Daten ernst und streben an, dass diese in Übereinstimmung mit geltenden Gesetzen und Vorschriften behandelt werden.
 
-## Security incident response policy
+## Richtlinie zur Reaktion auf Sicherheitsvorfälle
 
-The objective of this policy is to establish a systematic framework for identifying, reporting, evaluating, and addressing security incidents. The primary goal is to mitigate the effects of such incidents on the operations, reputation, and assets of the business. By implementing this policy, we aim to enhance our ability to effectively manage and respond to security-related events, ensuring the safeguarding of our organization’s integrity and interests.
+Das Ziel dieser Richtlinie ist es, einen systematischen Rahmen für die Identifizierung, Meldung, Bewertung und Behandlung von Sicherheitsvorfällen zu schaffen. Das Hauptziel ist es, die Auswirkungen solcher Vorfälle auf den Betrieb, den Ruf und die Vermögenswerte des Unternehmens zu mindern. Durch die Umsetzung dieser Richtlinie wollen wir unsere Fähigkeit verbessern, sicherheitsrelevante Ereignisse effektiv zu verwalten und darauf zu reagieren, um die Integrität und die Interessen unserer Organisation zu schützen.
 
-### Incident severity scales
+### Schweregrade von Vorfällen
 
-* Level 1 (Low): Incidents that have minor impact and can be resolved quickly without causing significant damage.
-* Level 2 (Moderate): Incidents that have a noticeable impact on the organization and require immediate attention to avoid further damage.
-* Level 3 (High): Incidents that have a severe impact on the organization’s operations and require immediate action to contain and resolve the incident.
+* Stufe 1 (Niedrig): Vorfälle mit geringfügigen Auswirkungen, die schnell und ohne erheblichen Schaden behoben werden können.
+* Stufe 2 (Mittel): Vorfälle mit spürbaren Auswirkungen auf die Organisation, die sofortige Aufmerksamkeit erfordern, um weiteren Schaden zu vermeiden.
+* Stufe 3 (Hoch): Vorfälle mit schwerwiegenden Auswirkungen auf den Betrieb der Organisation, die sofortiges Handeln erfordern, um den Vorfall einzudämmen und zu beheben.
 
-### Roles and responsibilities
+### Rollen und Verantwortlichkeiten
 
-* Incident Response Team (IRT): This team is accountable for handling security incidents and comprises IT staff, security personnel, and other relevant stakeholders. They work together to promptly respond to and mitigate incidents.
-* Incident Coordinator: This individual oversees the incident response process. Their responsibilities include coordinating with the IRT and other stakeholders, evaluating the severity of the incident, and ensuring that the response is efficient and effective.
-* IT/Security Staff: These professionals are responsible for identifying, investigating, and resolving security incidents. They possess the necessary expertise to analyze the incidents, implement necessary measures, and restore normal operations as quickly as possible.
+* Incident-Response-Team (IRT): Dieses Team ist für die Behandlung von Sicherheitsvorfällen verantwortlich und besteht aus IT-Mitarbeitern, Sicherheitspersonal und anderen relevanten Interessengruppen. Sie arbeiten zusammen, um schnell auf Vorfälle zu reagieren und diese zu mindern.
+* Incident-Koordinator: Diese Person überwacht den Incident-Response-Prozess. Zu ihren Verantwortlichkeiten gehören die Koordination mit dem IRT und anderen Interessengruppen, die Bewertung des Schweregrads des Vorfalls und die Sicherstellung, dass die Reaktion effizient und wirksam ist.
+* IT-/Sicherheitspersonal: Diese Fachkräfte sind verantwortlich für die Identifizierung, Untersuchung und Behebung von Sicherheitsvorfällen. Sie verfügen über das notwendige Fachwissen, um die Vorfälle zu analysieren, erforderliche Maßnahmen umzusetzen und den normalen Betrieb so schnell wie möglich wiederherzustellen.
 
-### Escalation paths
+### Eskalationswege
 
-* Incident Reporting: As soon as incidents are identified, they must be reported to the Incident Response Team (IRT). This can be accomplished through a dedicated incident reporting system, an email address, or a phone number. The incident report should provide a description of the incident, its impact on the organization, and any pertinent evidence.
-* Initial Assessment: The IRT will conduct an initial assessment of the incident to determine its severity and impact. Based on this assessment, the IRT may decide whether to escalate the incident to a higher level.
-* Level 1 Escalation: For incidents of low-level severity, the IRT may be capable of resolving the incident without further escalation. This may involve implementing temporary solutions, applying security patches, or updating security policies.
-* Level 2 Escalation: In the case of moderate-level incidents, the IRT will escalate the incident to the Incident Coordinator. The Incident Coordinator will evaluate the incident and determine the appropriate response, which might involve engaging additional resources or experts. The Incident Coordinator will also keep relevant stakeholders, such as management and legal departments, informed about the incident and any response actions.
-* Level 3 Escalation: High-level incidents prompt the IRT to escalate the matter to senior management or executive leadership. This may entail activating the organization’s emergency response plan or enlisting external experts or consultants to aid in the response. The Incident Coordinator will continue to coordinate the response efforts but with added oversight from senior management or executive leadership.
+* Meldung von Vorfällen: Sobald Vorfälle identifiziert werden, müssen sie dem Incident-Response-Team (IRT) gemeldet werden. Dies kann über ein dediziertes Meldesystem, eine E-Mail-Adresse oder eine Telefonnummer erfolgen. Der Vorfallbericht sollte eine Beschreibung des Vorfalls, seine Auswirkungen auf die Organisation und alle relevanten Beweise enthalten.
+* Erstbewertung: Das IRT führt eine Erstbewertung des Vorfalls durch, um dessen Schweregrad und Auswirkungen zu bestimmen. Auf Grundlage dieser Bewertung kann das IRT entscheiden, ob der Vorfall auf eine höhere Ebene eskaliert werden soll.
+* Eskalation Stufe 1: Bei Vorfällen mit niedrigem Schweregrad kann das IRT in der Lage sein, den Vorfall ohne weitere Eskalation zu beheben. Dies kann die Umsetzung vorübergehender Lösungen, das Einspielen von Sicherheitspatches oder die Aktualisierung von Sicherheitsrichtlinien umfassen.
+* Eskalation Stufe 2: Bei Vorfällen mittleren Schweregrads eskaliert das IRT den Vorfall an den Incident-Koordinator. Der Incident-Koordinator bewertet den Vorfall und bestimmt die geeignete Reaktion, was den Einsatz zusätzlicher Ressourcen oder Experten umfassen kann. Der Incident-Koordinator hält auch relevante Interessengruppen, wie Management- und Rechtsabteilungen, über den Vorfall und alle Reaktionsmaßnahmen auf dem Laufenden.
+* Eskalation Stufe 3: Vorfälle mit hohem Schweregrad veranlassen das IRT, die Angelegenheit an das obere Management oder die Geschäftsleitung zu eskalieren. Dies kann die Aktivierung des Notfallreaktionsplans der Organisation oder die Hinzuziehung externer Experten oder Berater zur Unterstützung der Reaktion beinhalten. Der Incident-Koordinator koordiniert die Reaktionsmaßnahmen weiterhin, jedoch mit zusätzlicher Aufsicht durch das obere Management oder die Geschäftsleitung.
 
-### Evidence collection&#x20;
+### Beweissicherung&#x20;
 
-Upon detection or reporting of an incident, all pertinent systems, devices, and logs will be safeguarded to prevent any subsequent alterations or deletions of data. This entails the collection and preservation of electronic data, such as system logs, network traffic, and application data. The purpose is to ensure that the integrity of the evidence is maintained for further investigation and analysis.
+Bei Erkennung oder Meldung eines Vorfalls werden alle relevanten Systeme, Geräte und Protokolle gesichert, um nachträgliche Änderungen oder Löschungen von Daten zu verhindern. Dies umfasst die Erfassung und Aufbewahrung elektronischer Daten wie Systemprotokolle, Netzwerkverkehr und Anwendungsdaten. Der Zweck besteht darin, sicherzustellen, dass die Integrität der Beweise für die weitere Untersuchung und Analyse erhalten bleibt.
 
-### Required actions
+### Erforderliche Maßnahmen
 
-* Incident Identification: All employees will receive training to promptly detect and report any security incidents. This includes reporting suspicious activities, unauthorized access, data breaches, malware infections, and other security-related incidents.
-* Incident Categorization: The IRT will perform an initial assessment of the incident’s severity and impact. The incident will be categorized using a predefined severity scale to determine the appropriate response level.
-* Incident Containment: Immediate measures will be taken by the IRT to contain the incident and prevent further data loss or damage. This may involve isolating affected systems, disabling network connections, or shutting down impacted services.
-* Incident Analysis: The IRT will analyze the incident to ascertain its root cause and identify any indicators of compromise. This analysis may involve gathering and examining system logs, network traffic, and other pertinent data.
-* Incident Response: The IRT will develop a response plan based on the incident’s severity and its impact on the organization. The plan will encompass clear procedures for communication, coordination, and collaboration among IRT members and other relevant stakeholders.
-* Incident Recovery: The IRT will diligently work to restore normal operations while ensuring the security of systems and data. This may involve restoring from backups, patching vulnerabilities, or rebuilding systems.
-* Incident Review: Once the incident is resolved, the IRT will conduct a post-incident review to identify lessons learned and areas for improvement. This review will inform updates to the organization’s security incident response policy and procedures, enhancing preparedness for future incidents.
+* Identifizierung von Vorfällen: Alle Mitarbeiter werden geschult, Sicherheitsvorfälle umgehend zu erkennen und zu melden. Dies umfasst die Meldung verdächtiger Aktivitäten, unbefugten Zugriffs, Datenschutzverletzungen, Malware-Infektionen und anderer sicherheitsrelevanter Vorfälle.
+* Kategorisierung von Vorfällen: Das IRT führt eine Erstbewertung des Schweregrads und der Auswirkungen des Vorfalls durch. Der Vorfall wird anhand einer vordefinierten Schweregradskala kategorisiert, um die geeignete Reaktionsebene zu bestimmen.
+* Eindämmung von Vorfällen: Das IRT ergreift sofortige Maßnahmen, um den Vorfall einzudämmen und weiteren Datenverlust oder Schaden zu verhindern. Dies kann die Isolierung betroffener Systeme, die Deaktivierung von Netzwerkverbindungen oder die Abschaltung betroffener Dienste umfassen.
+* Analyse von Vorfällen: Das IRT analysiert den Vorfall, um dessen Grundursache zu ermitteln und alle Kompromittierungsindikatoren zu identifizieren. Diese Analyse kann die Sammlung und Untersuchung von Systemprotokollen, Netzwerkverkehr und anderen relevanten Daten umfassen.
+* Reaktion auf Vorfälle: Das IRT entwickelt einen Reaktionsplan basierend auf dem Schweregrad des Vorfalls und seinen Auswirkungen auf die Organisation. Der Plan umfasst klare Verfahren für Kommunikation, Koordination und Zusammenarbeit zwischen den IRT-Mitgliedern und anderen relevanten Interessengruppen.
+* Wiederherstellung nach Vorfällen: Das IRT arbeitet sorgfältig daran, den normalen Betrieb wiederherzustellen und dabei die Sicherheit von Systemen und Daten zu gewährleisten. Dies kann die Wiederherstellung aus Backups, das Patchen von Schwachstellen oder den Wiederaufbau von Systemen umfassen.
+* Überprüfung von Vorfällen: Nach Behebung des Vorfalls führt das IRT eine Nachbesprechung durch, um daraus gewonnene Erkenntnisse und Verbesserungsmöglichkeiten zu identifizieren. Diese Überprüfung fließt in Aktualisierungen der Richtlinie und der Verfahren zur Reaktion auf Sicherheitsvorfälle der Organisation ein und verbessert die Vorbereitung auf zukünftige Vorfälle.
 
-## Contact information
+## Kontaktinformationen
 
-If you have any inquiries regarding your personal data or this Privacy Policy, or if you wish to file a complaint regarding how we handle your personal data, please feel free to reach out to us via email at help@bogos.io.
+Wenn Sie Fragen zu Ihren personenbezogenen Daten oder dieser Datenschutzrichtlinie haben oder eine Beschwerde darüber einreichen möchten, wie wir Ihre personenbezogenen Daten behandeln, kontaktieren Sie uns bitte per E-Mail unter help@bogos.io.

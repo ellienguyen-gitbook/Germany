@@ -23,109 +23,109 @@ layout:
 
 # Tapcart
 
-[**Tapcart**](https://apps.shopify.com/freegifts?app_code=bogos\&referral_code=tapcart\&utm_term=tapcart\&utm_campaign=integration_helpdoc\&utm_medium=Tapcart\&utm_source=Partner\&sca_ref_code=tapcart\&sca_ref_offer=all) is a mobile app builder for Shopify merchants who want a fully branded iOS and Android app without any developer work. With App Studio, your marketing team can independently control design and content, while built-in AI helps personalize campaigns, product recommendations, and customer journeys based on shopper behavior.
+[**Tapcart**](https://apps.shopify.com/freegifts?app_code=bogos\&referral_code=tapcart\&utm_term=tapcart\&utm_campaign=integration_helpdoc\&utm_medium=Tapcart\&utm_source=Partner\&sca_ref_code=tapcart\&sca_ref_offer=all) ist ein Mobile-App-Builder für Shopify-Händler, die eine vollständig gebrandete iOS- und Android-App ohne Entwicklerarbeit möchten. Mit App Studio kann Ihr Marketingteam Design und Inhalte unabhängig steuern, während integrierte KI dabei hilft, Kampagnen, Produktempfehlungen und Customer Journeys basierend auf dem Verhalten der Käufer zu personalisieren.
 
-With the integration between [BOGOS](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Tapcart) and [Tapcart](https://apps.shopify.com/freegifts?app_code=bogos\&referral_code=tapcart\&utm_term=tapcart\&utm_campaign=integration_helpdoc\&utm_medium=Tapcart\&utm_source=Partner\&sca_ref_code=tapcart\&sca_ref_offer=all), you can easily create, manage, and display gift promotions on your mobile app from a single dashboard.
+Durch die Integration zwischen [BOGOS](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Tapcart) und [Tapcart](https://apps.shopify.com/freegifts?app_code=bogos\&referral_code=tapcart\&utm_term=tapcart\&utm_campaign=integration_helpdoc\&utm_medium=Tapcart\&utm_source=Partner\&sca_ref_code=tapcart\&sca_ref_offer=all) können Sie ganz einfach Geschenkaktionen von einem einzigen Dashboard aus erstellen, verwalten und in Ihrer Mobile App anzeigen.
 
-**Tapcart’s key features:**
+**Die wichtigsten Funktionen von Tapcart:**
 
-* No-code app builder – Launch a fully branded mobile app quickly with full creative control
-* Personalized engagement – Use AI to deliver tailored campaigns, recommendations, and user journeys
-* Push notifications – Reach customers directly on their home screen with targeted messages
-* Retention-focused tools – Improve loyalty with customized onboarding and order experiences
-* Real-time insights – Optimize performance with analytics and automatic updates
+* No-Code-App-Builder – Starten Sie schnell eine vollständig gebrandete Mobile App mit voller kreativer Kontrolle
+* Personalisiertes Engagement – Nutzen Sie KI, um maßgeschneiderte Kampagnen, Empfehlungen und Nutzerreisen bereitzustellen
+* Push-Benachrichtigungen – Erreichen Sie Kunden direkt auf ihrem Homescreen mit gezielten Nachrichten
+* Auf Kundenbindung ausgerichtete Tools – Verbessern Sie die Loyalität mit individuellem Onboarding und Bestellerlebnissen
+* Echtzeit-Einblicke – Optimieren Sie die Leistung mit Analysen und automatischen Updates
 
-_**Note:**_
+_**Hinweis:**_
 
-Gift offers only work on the mobile app when the Gift mechanism is set to Gift Clone.
+Geschenkangebote funktionieren in der Mobile App nur, wenn der Geschenkmechanismus auf Gift Clone eingestellt ist.
 
-To configure this:
+So konfigurieren Sie dies:
 
-* Go to BOGOS → Settings.
-* Find Gift logic mechanism, then select Clone product.
+* Gehen Sie zu BOGOS → Einstellungen.
+* Suchen Sie den Geschenklogik-Mechanismus und wählen Sie Produkt klonen aus.
 
 <figure><img src="../../.gitbook/assets/unknown (224).png" alt=""><figcaption></figcaption></figure>
 
-## How to integrate BOGOS with Tapcart
+## So integrieren Sie BOGOS mit Tapcart
 
-**Step 1:** Install [BOGOS](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Tapcart) and [Tapcart](https://apps.shopify.com/freegifts?app_code=bogos\&referral_code=tapcart\&utm_term=tapcart\&utm_campaign=integration_helpdoc\&utm_medium=Tapcart\&utm_source=Partner\&sca_ref_code=tapcart\&sca_ref_offer=all) from Shopify App Store&#x20;
+**Schritt 1:** Installieren Sie [BOGOS](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Tapcart) und [Tapcart](https://apps.shopify.com/freegifts?app_code=bogos\&referral_code=tapcart\&utm_term=tapcart\&utm_campaign=integration_helpdoc\&utm_medium=Tapcart\&utm_source=Partner\&sca_ref_code=tapcart\&sca_ref_offer=all) aus dem Shopify App Store&#x20;
 
-Currently, we haven’t deployed the Tapcart integration to production yet. For testing purposes, please send a collaborator request to **bogos-tapcart-integration.myshopify.com** (code: 2315).&#x20;
+Derzeit haben wir die Tapcart-Integration noch nicht in Produktion bereitgestellt. Für Testzwecke senden Sie bitte eine Kollaborator-Anfrage an **bogos-tapcart-integration.myshopify.com** (Code: 2315).&#x20;
 
-For any setup requests, please contact the Tapcart team for assistance.&#x20;
+Für alle Einrichtungsanfragen wenden Sie sich bitte an das Tapcart-Team.&#x20;
 
-**Step 2:** Set up gift offers on **BOGOS App**
+**Schritt 2:** Richten Sie Geschenkangebote in der **BOGOS App** ein
 
-To set up gift offers, you should follow the guidelines here:[ Create Gift Offer](https://bogos-guideline.gitbook.io/user-guide/detailed-guide/gift-offer/create-gift-offer#id-4.-select-gifts).          &#x20;
+Um Geschenkangebote einzurichten, folgen Sie bitte der Anleitung hier: [Geschenkangebot erstellen](https://bogos-guideline.gitbook.io/user-guide/detailed-guide/gift-offer/create-gift-offer#id-4.-select-gifts).          &#x20;
 
-To set up auto add gift(s) to cart, choose **"Automatically add all gifts"** when setting up gift offer.
+Um das automatische Hinzufügen von Geschenk(en) zum Warenkorb einzurichten, wählen Sie **„Alle Geschenke automatisch hinzufügen“** bei der Einrichtung des Geschenkangebots.
 
 <figure><img src="../../.gitbook/assets/unknown (225).png" alt=""><figcaption></figcaption></figure>
 
-_**Note**_:&#x20;
+_**Hinweis**_:&#x20;
 
-* Please make sure the **“Automatically add gift to cart”** option is turned on. To check this, go to Settings → Gift Condition.&#x20;
+* Bitte stellen Sie sicher, dass die Option **„Geschenk automatisch zum Warenkorb hinzufügen“** aktiviert ist. Um dies zu überprüfen, gehen Sie zu Einstellungen → Geschenkbedingung.&#x20;
 
 <figure><img src="../../.gitbook/assets/unknown (226).png" alt=""><figcaption></figcaption></figure>
 
-* Uncheck the box **"Automatically add gift to cart",** if you want to always display gift(s) on a gift slider.
+* Deaktivieren Sie das Kontrollkästchen **„Geschenk automatisch zum Warenkorb hinzufügen“**, wenn Sie Geschenk(e) immer in einem Geschenk-Slider anzeigen möchten.
 
-If you want customers to select a gift from a gift slider, tick “**Number of gifts customer will receive**”, then fill a number that is less than the number of gifts selected.&#x20;
+Wenn Kunden ein Geschenk aus einem Geschenk-Slider auswählen sollen, aktivieren Sie „**Anzahl der Geschenke, die der Kunde erhält**“ und geben Sie eine Zahl ein, die kleiner ist als die Anzahl der ausgewählten Geschenke.&#x20;
 
-**Step 3:** Activate gift offer on **Tapcart**&#x20;
+**Schritt 3:** Aktivieren Sie das Geschenkangebot auf **Tapcart**&#x20;
 
-* In **BOGOS**, go to **Settings**.
-* Scroll down to **Clone gift product**, Click to **Edit Sale channels**.
-* Tick **Tapcart - Mobile App,** then **Done**.
+* Gehen Sie in **BOGOS** zu **Einstellungen**.
+* Scrollen Sie nach unten zu **Geschenkprodukt klonen** und klicken Sie auf **Verkaufskanäle bearbeiten**.
+* Aktivieren Sie **Tapcart - Mobile App** und klicken Sie dann auf **Fertig**.
 
 <figure><img src="../../.gitbook/assets/unknown (227).png" alt=""><figcaption></figcaption></figure>
 
-**Step 4:** Add BOGOS Gift Slider and BOGOS core in **Tapcart**
+**Schritt 4:** Fügen Sie den BOGOS Gift Slider und den BOGOS Core in **Tapcart** hinzu
 
-* In Tapcart, go to the **App Studio** section and choose **My Blocks**.
-* Open the **Legacy Custom Blocks**
-* Drag and drop the **BOGOS Blocks**.
+* Gehen Sie in Tapcart zum Bereich **App Studio** und wählen Sie **My Blocks**.
+* Öffnen Sie die **Legacy Custom Blocks**
+* Ziehen Sie die **BOGOS Blocks** per Drag-and-drop.
 
-**BOGOS CORE**: Drag it to the **Home page** or **Cart page** for better performance.   &#x20;
+**BOGOS CORE**: Ziehen Sie ihn für eine bessere Leistung auf die **Startseite** oder die **Warenkorbseite**.   &#x20;
 
-**BOGOS - Gift slider:** Drag it into the **Cart page** or any other location where you want customers to see the gift slider.
+**BOGOS - Gift Slider:** Ziehen Sie ihn auf die **Warenkorbseite** oder an eine andere Stelle, an der Kunden den Geschenk-Slider sehen sollen.
 
 <figure><img src="../../.gitbook/assets/unknown (228).png" alt=""><figcaption></figcaption></figure>
 
-**Step 5:** Add BOGOS gift products to **Tapcart**
+**Schritt 5:** Fügen Sie BOGOS-Geschenkprodukte zu **Tapcart** hinzu
 
-* In **Shopify**, go to **Products**.
-* Select all gift products from BOGOS offers.&#x20;
+* Gehen Sie in **Shopify** zu **Produkte**.
+* Wählen Sie alle Geschenkprodukte aus den BOGOS-Angeboten aus.&#x20;
 
-_**Note:**_ To find gift products, go to the **Search & Filter tab**, choose **Tag**, and select “**bogos-gift**.”&#x20;
+_**Hinweis:**_ Um Geschenkprodukte zu finden, gehen Sie zum Tab **Suchen & Filtern**, wählen Sie **Tag** und dann „**bogos-gift**“ aus.&#x20;
 
-* Click the “…” icon and choose Include in sales channels.
-* Select **Tapcart** and Click **Include products**.
+* Klicken Sie auf das „…“-Symbol und wählen Sie In Verkaufskanäle aufnehmen.
+* Wählen Sie **Tapcart** aus und klicken Sie auf **Produkte aufnehmen**.
 
 <figure><img src="../../.gitbook/assets/unknown (229).png" alt=""><figcaption></figcaption></figure>
 
-**Step 6:** Test your offers on **Tapcart** to ensure everything works smoothly
+**Schritt 6:** Testen Sie Ihre Angebote auf **Tapcart**, um sicherzustellen, dass alles reibungslos funktioniert
 
-#### Run gift offer only on Mobile App Channel
+#### Geschenkangebot nur im Mobile-App-Kanal ausführen
 
-This feature creates gift offers that are exclusively available on Mobile App, meaning they can only be available when buying via their Mobile App store version.
+Mit dieser Funktion erstellen Sie Geschenkangebote, die ausschließlich in der Mobile App verfügbar sind, das heißt, sie sind nur beim Einkauf über die Mobile-App-Version verfügbar.
 
-To set it up:
+So richten Sie dies ein:
 
-* Open BOGOS app > Create a new or select an existing gift offer.
-* Add **Offer sub-condition** > Add **Mobile app channel**
-* Click **Publish your offer**
+* Öffnen Sie die BOGOS App > Erstellen Sie ein neues oder wählen Sie ein bestehendes Geschenkangebot aus.
+* Fügen Sie **Unterbedingung des Angebots** hinzu > Fügen Sie **Mobile-App-Kanal** hinzu
+* Klicken Sie auf **Ihr Angebot veröffentlichen**
 
 <figure><img src="../../.gitbook/assets/unknown (230).png" alt=""><figcaption></figcaption></figure>
 
-_**Note:**_ Other sub-conditions will not work on the mobile app.
+_**Hinweis:**_ Andere Unterbedingungen funktionieren in der Mobile App nicht.
 
-Manage Gift Inventory on Mobile App
+Geschenkbestand in der Mobile App verwalten
 
-For the Gift Clone mechanism, the gift quantity follows the configuration in your Settings:
+Beim Gift-Clone-Mechanismus richtet sich die Geschenkmenge nach der Konfiguration in Ihren Einstellungen:
 
-* Sync clone products’ quantity with originals automatically – The gift quantity in the mobile app stays synchronized with the original product’s inventory.
-* Input gift product inventory manually – You can manually control the gift quantity independently from the original product.
+* Menge der geklonten Produkte automatisch mit den Originalen synchronisieren – Die Geschenkmenge in der Mobile App bleibt mit dem Lagerbestand des Originalprodukts synchronisiert.
+* Geschenkproduktbestand manuell eingeben – Sie können die Geschenkmenge unabhängig vom Originalprodukt manuell steuern.
 
 <figure><img src="../../.gitbook/assets/unknown (231).png" alt=""><figcaption></figcaption></figure>
 

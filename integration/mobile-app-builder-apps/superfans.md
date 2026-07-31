@@ -2,96 +2,96 @@
 
 {% embed url="https://youtu.be/0KbAk1bzALk?si=Zyvot70_HsUNLS0a" %}
 
-[**Superfans**](https://apps.shopify.com/vajro?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration_helpdoc) is a no-code mobile app builder for Shopify and Shopify Plus brands, designed to convert mobile shoppers into loyal customers through native iOS and Android apps. With its intuitive builder and powerful engagement tools, Superfans enables merchants to deliver fast, engaging, and high-converting mobile shopping experiences.
+[**Superfans**](https://apps.shopify.com/vajro?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration_helpdoc) ist ein No-Code-Mobile-App-Builder für Shopify- und Shopify-Plus-Marken, der entwickelt wurde, um mobile Käufer über native iOS- und Android-Apps in treue Kunden zu verwandeln. Mit seinem intuitiven Builder und leistungsstarken Engagement-Tools ermöglicht Superfans es Händlern, schnelle, ansprechende und conversion-starke mobile Einkaufserlebnisse zu bieten.
 
-With the integration between [BOGOS](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Superfans) and [Superfans](https://apps.shopify.com/vajro?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration_helpdoc), you can easily create, manage, and display gift promotions on your mobile app directly from a single dashboard.&#x20;
+Durch die Integration zwischen [BOGOS](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Superfans) und [Superfans](https://apps.shopify.com/vajro?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration_helpdoc) können Sie Geschenkaktionen ganz einfach über ein einziges Dashboard erstellen, verwalten und in Ihrer mobilen App anzeigen.&#x20;
 
-**Superfans key features:**
+**Superfans Hauptfunktionen:**
 
-* No-code mobile app builder – Create native iOS and Android apps with an easy drag-and-drop interface
-* Unlimited push notifications – Send targeted mobile notifications to specific customer segments.
-* One-click integrations – Connect your existing Shopify apps and tech stack seamlessly.
-* Live selling capabilities – Host live sessions on your mobile app and Facebook to engage shoppers and drive more sales.
+* No-Code-Mobile-App-Builder – Erstellen Sie native iOS- und Android-Apps mit einer einfachen Drag-and-Drop-Oberfläche
+* Unbegrenzte Push-Benachrichtigungen – Senden Sie gezielte mobile Benachrichtigungen an bestimmte Kundensegmente.
+* One-Click-Integrationen – Verbinden Sie Ihre bestehenden Shopify-Apps und Ihren Tech-Stack nahtlos.
+* Live-Selling-Funktionen – Veranstalten Sie Live-Sessions in Ihrer mobilen App und auf Facebook, um Käufer einzubinden und mehr Verkäufe zu erzielen.
 
-_**Note:**_ Gift offers only work on the mobile app when the Gift mechanism is set to Gift Clone.
+_**Hinweis:**_ Geschenkangebote funktionieren in der mobilen App nur, wenn der Geschenkmechanismus auf Gift Clone eingestellt ist.
 
-To configure this:
+So konfigurieren Sie dies:
 
-* Go to BOGOS → Settings.
-* Find Gift logic mechanism, then select Clone product.
+* Gehen Sie zu BOGOS → Einstellungen.
+* Suchen Sie den Geschenklogik-Mechanismus und wählen Sie dann Clone product aus.
 
 <figure><img src="../../.gitbook/assets/unknown (177).png" alt=""><figcaption></figcaption></figure>
 
-## How to integrate BOGOS with Superfans
+## So integrieren Sie BOGOS mit Superfans
 
-**Step 1:** Install [BOGOS](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Superfans) and [Superfans](https://apps.shopify.com/vajro?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration_helpdoc) from Shopify app store&#x20;
+**Schritt 1:** Installieren Sie [BOGOS](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Superfans) und [Superfans](https://apps.shopify.com/vajro?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration_helpdoc) aus dem Shopify App Store&#x20;
 
-**Step 2:** Set up gift offers on BOGOS App
+**Schritt 2:** Richten Sie Geschenkangebote in der BOGOS-App ein
 
-To set up auto add gift(s) to cart, double-check if you enable 'Automatically add gift to cart' setting under Settings → Gift Condition.
+Um das automatische Hinzufügen von Geschenk(en) zum Warenkorb einzurichten, prüfen Sie, ob Sie die Einstellung „Geschenk automatisch zum Warenkorb hinzufügen“ unter Einstellungen → Geschenkbedingung aktiviert haben.
 
 <figure><img src="../../.gitbook/assets/unknown (178).png" alt=""><figcaption></figcaption></figure>
 
-When creating the offer, choose 'Automatically add all gifts'.
+Wählen Sie beim Erstellen des Angebots „Alle Geschenke automatisch hinzufügen“ aus.
 
 <figure><img src="../../.gitbook/assets/unknown (179).png" alt=""><figcaption></figcaption></figure>
 
-For details, please visit[ Create Gift Offer](https://bogos-guideline.gitbook.io/user-guide/detailed-guide/gift-offer/create-gift-offer#id-4.-select-gifts) guide.          &#x20;
+Weitere Details finden Sie in der Anleitung [Geschenkangebot erstellen](https://bogos-guideline.gitbook.io/user-guide/detailed-guide/gift-offer/create-gift-offer#id-4.-select-gifts).          &#x20;
 
-**Step 3:** Activate the BOGOS integration in Superfans
+**Schritt 3:** Aktivieren Sie die BOGOS-Integration in Superfans
 
-* In Superfans, navigate to Plugins.&#x20;
-* Find BOGOS and click View details or enable the toggle.
+* Navigieren Sie in Superfans zu Plugins.&#x20;
+* Suchen Sie BOGOS und klicken Sie auf Details anzeigen oder aktivieren Sie den Schalter.
 
 <figure><img src="../../.gitbook/assets/unknown (180).png" alt=""><figcaption></figcaption></figure>
 
-* Enter your BOGOS API Key (Contact the BOGOS support team to obtain this key).
-* Then, click Save and enable plugin.
+* Geben Sie Ihren BOGOS-API-Schlüssel ein (kontaktieren Sie das BOGOS-Support-Team, um diesen Schlüssel zu erhalten).
+* Klicken Sie dann auf Speichern und Plugin aktivieren.
 
 <figure><img src="../../.gitbook/assets/unknown (181).png" alt=""><figcaption></figcaption></figure>
 
-**Step 4:** Add BOGOS Gift Slider and BOGOS core in Superfans
+**Schritt 4:** Fügen Sie BOGOS Gift Slider und BOGOS Core in Superfans hinzu
 
-* In Superfans, go to the Themes section and open your store theme.
-* Open the Cart page.
-* Click Add block → Plugin.
+* Gehen Sie in Superfans zum Bereich Themes und öffnen Sie das Theme Ihres Shops.
+* Öffnen Sie die Warenkorbseite.
+* Klicken Sie auf Block hinzufügen → Plugin.
 
 <figure><img src="../../.gitbook/assets/unknown (182).png" alt=""><figcaption></figcaption></figure>
 
-* Add the following blocks: **BOGOS Gift Slider** & **BOGOS Core**
+* Fügen Sie die folgenden Blöcke hinzu: **BOGOS Gift Slider** & **BOGOS Core**
 
 <figure><img src="../../.gitbook/assets/unknown (183).png" alt=""><figcaption></figcaption></figure>
 
-**Step 5:** Add BOGOS gift products to Superfans
+**Schritt 5:** Fügen Sie BOGOS-Geschenkprodukte zu Superfans hinzu
 
-* In Shopify, go to Products.
-* Select all gift products from BOGOS offers.
-* Click the “…” icon and choose Include in sales channels.
-* Select Superfans and Click Include products.
+* Gehen Sie in Shopify zu Produkte.
+* Wählen Sie alle Geschenkprodukte aus den BOGOS-Angeboten aus.
+* Klicken Sie auf das Symbol „…“ und wählen Sie In Verkaufskanäle aufnehmen.
+* Wählen Sie Superfans aus und klicken Sie auf Produkte aufnehmen.
 
 <figure><img src="../../.gitbook/assets/unknown (184).png" alt=""><figcaption></figcaption></figure>
 
-**Step 6:** Test your offers on Superfans to ensure everything works smoothly
+**Schritt 6:** Testen Sie Ihre Angebote in Superfans, um sicherzustellen, dass alles reibungslos funktioniert
 
-#### Run gift offer only on Mobile App Channel
+#### Geschenkangebot nur im Mobile-App-Kanal ausführen
 
-This feature creates gift offers that are exclusively available on Mobile App, meaning they can only be available when buying via their Mobile App store version.
+Diese Funktion erstellt Geschenkangebote, die ausschließlich in der mobilen App verfügbar sind, das heißt, sie sind nur beim Kauf über die mobile App-Version des Shops verfügbar.
 
-**To set it up:**
+**So richten Sie es ein:**
 
-* Open BOGOS app > Create a new or select an existing gift offer.
-* Add Offer sub-condition > Add Mobile app channel
-* Click Publish your offer
+* Öffnen Sie die BOGOS-App > Erstellen Sie ein neues Geschenkangebot oder wählen Sie ein bestehendes aus.
+* Fügen Sie eine Unterbedingung des Angebots hinzu > Fügen Sie Mobile app channel hinzu
+* Klicken Sie auf Ihr Angebot veröffentlichen
 
 <figure><img src="../../.gitbook/assets/unknown (188).png" alt=""><figcaption></figcaption></figure>
 
-_Note: Other sub-conditions will **not work** on the mobile app._
+_Hinweis: Andere Unterbedingungen funktionieren **nicht** in der mobilen App._
 
-#### Manage Gift Inventory on Mobile App
+#### Geschenkbestand in der mobilen App verwalten
 
-For the Gift Clone mechanism, the gift quantity follows the configuration in your Settings:
+Beim Gift Clone-Mechanismus richtet sich die Geschenkmenge nach der Konfiguration in Ihren Einstellungen:
 
-* Sync clone products’ quantity with originals automatically – The gift quantity in the mobile app stays synchronized with the original product’s inventory.
-* Input gift product inventory manually – You can manually control the gift quantity independently from the original product.
+* Menge der Klonprodukte automatisch mit den Originalen synchronisieren – Die Geschenkmenge in der mobilen App bleibt mit dem Lagerbestand des Originalprodukts synchronisiert.
+* Geschenkprodukt-Lagerbestand manuell eingeben – Sie können die Geschenkmenge unabhängig vom Originalprodukt manuell steuern.
 
 <figure><img src="../../.gitbook/assets/unknown (187).png" alt=""><figcaption></figcaption></figure>

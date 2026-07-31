@@ -1,25 +1,25 @@
-# Custom Code
+# Benutzerdefinierter Code
 
-The Custom Code feature allows you to add custom CSS and JavaScript to modify your offers created by BOGOS.
+Mit der Funktion Benutzerdefinierter Code können Sie benutzerdefiniertes CSS und JavaScript hinzufügen, um Ihre von BOGOS erstellten Angebote anzupassen.
 
 {% hint style="success" %}
-* **If you are comfortable with CSS and JavaScript,** you can add your code directly.&#x20;
-* **If not**, please contact our support team via live chat - we will handle the customization for you.
+* **Wenn Sie mit CSS und JavaScript vertraut sind,** können Sie Ihren Code direkt hinzufügen.&#x20;
+* **Wenn nicht**, wenden Sie sich bitte über den Live-Chat an unser Support-Team – wir übernehmen die Anpassung für Sie.
 {% endhint %}
 
 {% hint style="danger" %}
-If you uninstall the BOGOS app, all custom code added here will be permanently removed - even if you reinstall BOGOS later.&#x20;
+Wenn Sie die BOGOS-App deinstallieren, wird der hier hinzugefügte benutzerdefinierte Code dauerhaft entfernt – selbst wenn Sie BOGOS später erneut installieren.&#x20;
 {% endhint %}
 
-**To add Custom code to your theme**, follow these steps:
+**Um benutzerdefinierten Code zu Ihrem Theme hinzuzufügen**, gehen Sie wie folgt vor:
 
-1. Open the BOGOS app > On the left panel, go to **Customize** > **Custom Code**.
-2. Enter your code in the CSS or JS editor.
-3. To target a specific offer, use that offer's ID selector in your code. If not, the code applies to all BOGOS offers by default.
-4. Click **Save**.
+1. Öffnen Sie die BOGOS-App > Gehen Sie im linken Bereich zu **Anpassen** > **Benutzerdefinierter Code**.
+2. Geben Sie Ihren Code im CSS- oder JS-Editor ein.
+3. Um ein bestimmtes Angebot anzusprechen, verwenden Sie den ID-Selektor dieses Angebots in Ihrem Code. Andernfalls gilt der Code standardmäßig für alle BOGOS-Angebote.
+4. Klicken Sie auf **Speichern**.
 
 <img src="../../.gitbook/assets/unknown (292).png" alt="" height="383" width="624">
 
-**Need Help?**
+**Brauchen Sie Hilfe?**
 
-If you need any assistance, feel free to reach out to our customer support team via live chat within the BOGOS app.
+Wenn Sie Unterstützung benötigen, wenden Sie sich gerne über den Live-Chat innerhalb der BOGOS-App an unser Kundensupport-Team.

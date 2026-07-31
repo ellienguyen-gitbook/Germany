@@ -1,197 +1,197 @@
-# Create Announcement Bar
+# Ankündigungsleiste erstellen
 
-The Announcement Bar is a new booster developed by BOGOS: Free Gift Bundle Upsell app that displays promotional messages across your store or specific pages you choose to grab attention and drive more clicks.&#x20;
+Die Ankündigungsleiste ist ein neuer Booster, entwickelt von BOGOS: Free Gift Bundle Upsell App, der Werbebotschaften in Ihrem gesamten Shop oder auf bestimmten von Ihnen ausgewählten Seiten anzeigt, um Aufmerksamkeit zu erregen und mehr Klicks zu erzielen.&#x20;
 
 <figure><img src="../../.gitbook/assets/announcement bar - example.png" alt=""><figcaption></figcaption></figure>
 
-→ [View demo](https://demo-store-by-bogos.myshopify.com/?utm_source=HelpDoc\&utm_medium=Booster\&utm_campaign=AnnouncementBar).
+→ [Demo ansehen](https://demo-store-by-bogos.myshopify.com/?utm_source=HelpDoc\&utm_medium=Booster\&utm_campaign=AnnouncementBar).
 
-Setting up and styling the Announcement Bar with BOGOS includes 5 steps:
+Die Einrichtung und Gestaltung der Ankündigungsleiste mit BOGOS umfasst 5 Schritte:
 
-1. Open Boosters > Announcement Bar.
-2. Set up the bar content ([Content](create-announcement-bar.md#content)).
-3. Style the bar's look ([Style](create-announcement-bar.md#style)).
-4. Choose where the bar appears ([Placement](create-announcement-bar.md#placement)).
-5. Click Save draft or Publish.
+1. Öffnen Sie Booster > Ankündigungsleiste.
+2. Richten Sie den Inhalt der Leiste ein ([Inhalt](create-announcement-bar.md#content)).
+3. Gestalten Sie das Erscheinungsbild der Leiste ([Stil](create-announcement-bar.md#style)).
+4. Wählen Sie, wo die Leiste erscheint ([Platzierung](create-announcement-bar.md#placement)).
+5. Klicken Sie auf „Entwurf speichern“ oder „Veröffentlichen“.
 
 {% hint style="info" %}
-The preview on the right shows the mobile view by default.&#x20;
+Die Vorschau auf der rechten Seite zeigt standardmäßig die mobile Ansicht.&#x20;
 
-Click **Show fullwidth** to get the preview on desktop.
+Klicken Sie auf **Volle Breite anzeigen**, um die Vorschau auf dem Desktop zu sehen.
 {% endhint %}
 
-## Content
+## Inhalt
 
-This tab controls the content of your Announcement Bar. The available options change with the display mode you choose.
+Dieser Tab steuert den Inhalt Ihrer Ankündigungsleiste. Die verfügbaren Optionen ändern sich je nach gewähltem Anzeigemodus.
 
-### General
+### Allgemein
 
 ![](<../../.gitbook/assets/unknown (343).png>)
 
-To set it up:
+So richten Sie es ein:
 
-1. Enter a **Booster name**. For easily managing within BOGOS app only.
-2. **Choose a bar display mode** among:
+1. Geben Sie einen **Booster-Namen** ein. Dient nur der einfachen Verwaltung innerhalb der BOGOS-App.
+2. **Wählen Sie einen Anzeigemodus für die Leiste** aus:
 
-* Static: Shows a single message.
-* Marquee: Shows multiple messages scrolling together.
-* Slider: Shows multiple messages one at a time, rotating through them.
+* Statisch: Zeigt eine einzelne Nachricht.
+* Lauftext: Zeigt mehrere Nachrichten, die zusammen durchlaufen.
+* Schieberegler: Zeigt mehrere Nachrichten nacheinander, die im Wechsel angezeigt werden.
 
-### Content
+### Inhalt
 
-This section is to customize the content of your announcement bar.
+Dieser Abschnitt dient der Anpassung des Inhalts Ihrer Ankündigungsleiste.
 
 ![](<../../.gitbook/assets/unknown (344).png>)
 
-To set it up:
+So richten Sie es ein:
 
-1. Choose the **content source** between:
+1. Wählen Sie die **Inhaltsquelle** zwischen:
 
-* **Manual**: You write the message text yourself
-* **Offers**: BOGOS pulls content from your available offers automatically. Click Select offers to choose which offers to display.
+* **Manuell**: Sie schreiben den Nachrichtentext selbst
+* **Angebote**: BOGOS bezieht den Inhalt automatisch aus Ihren verfügbaren Angeboten. Klicken Sie auf „Angebote auswählen“, um festzulegen, welche Angebote angezeigt werden sollen.
 
 {% hint style="info" %}
-If choosing Offers, please notice that:
+Bei Auswahl von „Angebote“ beachten Sie bitte Folgendes:
 
-* For the "**Static"** display mode, you can only choose one offer.
-* **Inactive offers** can be selected, but won't show on the bar until activated.
-* If you **update your offer title** after saving your announcement bar, please back to the that announcement bar setup, re-select the offer, and save again to let BOGOS sync with your newest updates.
+* Für den Anzeigemodus **„Statisch“** können Sie nur ein Angebot auswählen.
+* **Inaktive Angebote** können ausgewählt werden, erscheinen aber erst auf der Leiste, wenn sie aktiviert wurden.
+* Wenn Sie **Ihren Angebotstitel aktualisieren**, nachdem Sie Ihre Ankündigungsleiste gespeichert haben, gehen Sie bitte zurück zu dieser Ankündigungsleisten-Einrichtung, wählen Sie das Angebot erneut aus und speichern Sie erneut, damit BOGOS mit Ihren neuesten Aktualisierungen synchronisiert.
 {% endhint %}
 
-2. Customize the **message list** (what your messages show). The message list differs depending on the bar display mode you selected.
+2. Passen Sie die **Nachrichtenliste** an (was Ihre Nachrichten anzeigen). Die Nachrichtenliste unterscheidet sich je nach gewähltem Anzeigemodus der Leiste.
 
-* **Static**: Shows only one message with one redirect link.
-* **Marquee**: Add multiple messages that share one redirect link. Click + Add message to add more, and drag the handle to reorder them.
-* **Slider**: Add multiple messages, each with its own message and redirect link per message. Click + Add message to add more, and drag the handle to reorder them.
+* **Statisch**: Zeigt nur eine Nachricht mit einem Weiterleitungslink.
+* **Lauftext**: Fügen Sie mehrere Nachrichten hinzu, die sich einen Weiterleitungslink teilen. Klicken Sie auf „+ Nachricht hinzufügen“, um weitere hinzuzufügen, und ziehen Sie den Griff, um sie neu anzuordnen.
+* **Schieberegler**: Fügen Sie mehrere Nachrichten hinzu, jede mit eigener Nachricht und eigenem Weiterleitungslink. Klicken Sie auf „+ Nachricht hinzufügen“, um weitere hinzuzufügen, und ziehen Sie den Griff, um sie neu anzuordnen.
 
-If available, you can fill in:
+Falls verfügbar, können Sie Folgendes ausfüllen:
 
-* **Message text**: The text shown on the bar.
-  * For the “Manual” content source, fill in the text you want by yourself.
-  * For the “Offers” content source, this is filled in automatically from your offer title.
-* **Emoji**: Click the emoji icon to pick from the available emojis, or paste your own into the field.
-* **Open link**: Insert a link that the bar will redirect to when customers click. Select one of the following:
-  * None: No redirect.
-  * When click on redirect button: Adds a redirect button to the bar. Fill in the Button text.
-  * When click on the entire bar: Makes the whole bar clickable, with no separate button.
-* **Open in new tab**: Enable to open the link in a new browser tab.
+* **Nachrichtentext**: Der auf der Leiste angezeigte Text.
+  * Bei der Inhaltsquelle „Manuell“ füllen Sie den gewünschten Text selbst aus.
+  * Bei der Inhaltsquelle „Angebote“ wird dieser automatisch aus Ihrem Angebotstitel ausgefüllt.
+* **Emoji**: Klicken Sie auf das Emoji-Symbol, um aus den verfügbaren Emojis zu wählen, oder fügen Sie Ihr eigenes in das Feld ein.
+* **Link öffnen**: Fügen Sie einen Link ein, zu dem die Leiste weiterleiten soll, wenn Kunden klicken. Wählen Sie eine der folgenden Optionen:
+  * Keine: Keine Weiterleitung.
+  * Beim Klick auf die Weiterleitungsschaltfläche: Fügt der Leiste eine Weiterleitungsschaltfläche hinzu. Füllen Sie den Schaltflächentext aus.
+  * Beim Klick auf die gesamte Leiste: Macht die gesamte Leiste anklickbar, ohne separate Schaltfläche.
+* **In neuem Tab öffnen**: Aktivieren, um den Link in einem neuen Browser-Tab zu öffnen.
 
-### Marquee Setting
+### Lauftext-Einstellung
 
-This section is available only when you select the Marquee display mode.
+Dieser Abschnitt ist nur verfügbar, wenn Sie den Anzeigemodus „Lauftext“ auswählen.
 
 ![](<../../.gitbook/assets/unknown (345).png>)
 
-To set it up, adjust these fields:
+Passen Sie zur Einrichtung diese Felder an:
 
-* **Running direction**: Choose which direction the messages scroll - Right to left or Left to right.
-* **Running speed (1 - 100)**: Drag the slider to set how fast the messages scroll.
-* **Stop scrolling when hover on bar**: Tick to pause scrolling when a customer hovers over the bar.
+* **Laufrichtung**: Wählen Sie, in welche Richtung die Nachrichten laufen sollen – von rechts nach links oder von links nach rechts.
+* **Laufgeschwindigkeit (1–100)**: Ziehen Sie den Schieberegler, um festzulegen, wie schnell die Nachrichten laufen.
+* **Beim Überfahren der Leiste anhalten**: Aktivieren, um das Laufen zu pausieren, wenn ein Kunde mit der Maus über die Leiste fährt.
 
-### Slider Setting
+### Schieberegler-Einstellung
 
-This section is available only when you select the Slider display mode.
+Dieser Abschnitt ist nur verfügbar, wenn Sie den Anzeigemodus „Schieberegler“ auswählen.
 
 ![](<../../.gitbook/assets/unknown (346).png>)
 
-To set it up, adjust these fields:
+Passen Sie zur Einrichtung diese Felder an:
 
-* **Choose slider icon style**: Select the navigation arrow style - Chevron, Filled, Arrow, or None.
-* **Auto sliding**: Enable to rotate messages automatically. When it’s on:
-* **Slide to next message after (seconds)**: Set the delay before the next message appears.
-* **Auto sliding direction**: Choose which direction the messages slide - Right to left or Left to right.
-* **Stop sliding when hover on bar**: Tick to pause rotation when a customer hovers over the bar.
+* **Wählen Sie den Stil des Schiebereglersymbols**: Wählen Sie den Stil des Navigationspfeils – Chevron, Gefüllt, Pfeil oder Keiner.
+* **Automatisches Wechseln**: Aktivieren, um Nachrichten automatisch zu wechseln. Wenn aktiviert:
+* **Nächste Nachricht wechseln nach (Sekunden)**: Legen Sie die Verzögerung fest, bevor die nächste Nachricht erscheint.
+* **Richtung des automatischen Wechsels**: Wählen Sie, in welche Richtung die Nachrichten wechseln sollen – von rechts nach links oder von links nach rechts.
+* **Beim Überfahren der Leiste anhalten**: Aktivieren, um den Wechsel zu pausieren, wenn ein Kunde mit der Maus über die Leiste fährt.
 
-## Style
+## Stil
 
-This tab controls how your Announcement Bar looks.
+Dieser Tab steuert, wie Ihre Ankündigungsleiste aussieht.
 
 ![](<../../.gitbook/assets/unknown (347).png>)
 
 ### Position
 
-Choose where the bar appears on the page:
+Wählen Sie, wo die Leiste auf der Seite erscheint:
 
-* Top: Sits above the header.
-* Top, fixed: Always sticks to the top as customers scroll.
-* Top, shows on scroll up: Appears at the top when customers scroll up.
-* Bottom, fixed: Always sticks to the bottom as customers scroll.
-* Bottom, shows on scroll down: Appears at the bottom when customers scroll down.
+* Oben: Sitzt über der Kopfzeile.
+* Oben, fixiert: Bleibt immer oben, während Kunden scrollen.
+* Oben, erscheint beim Hochscrollen: Erscheint oben, wenn Kunden nach oben scrollen.
+* Unten, fixiert: Bleibt immer unten, während Kunden scrollen.
+* Unten, erscheint beim Herunterscrollen: Erscheint unten, wenn Kunden nach unten scrollen.
 
-### Typography
+### Typografie
 
-Control the font and text size of your bar.&#x20;
+Steuern Sie die Schriftart und Textgröße Ihrer Leiste.&#x20;
 
-To set it up:
+So richten Sie es ein:
 
-1. **Choose a font** from 2 options:
+1. **Wählen Sie eine Schriftart** aus 2 Optionen:
 
-* Inherit from Store theme: BOGOS automatically detects and uses your store's existing font.
-* Choose custom font: You pick from available Google Fonts.
+* Vom Shop-Theme übernehmen: BOGOS erkennt automatisch die vorhandene Schriftart Ihres Shops und verwendet sie.
+* Benutzerdefinierte Schriftart wählen: Sie wählen aus den verfügbaren Google Fonts.
 
-2. Adjust the **message** and **button font size:** Set each for Desktop and Mobile.
+2. Passen Sie die Schriftgröße von **Nachricht** und **Schaltfläche** an: Legen Sie diese jeweils für Desktop und Mobilgerät fest.
 
 {% hint style="info" %}
-Click “Full width” on the Preview panel to check your changes on desktop.
+Klicken Sie im Vorschaubereich auf „Volle Breite“, um Ihre Änderungen auf dem Desktop zu überprüfen.
 {% endhint %}
 
 ### Theme
 
 ![](<../../.gitbook/assets/unknown (348).png>)
 
-To customize the appearance of your announcement bar:
+So passen Sie das Erscheinungsbild Ihrer Ankündigungsleiste an:
 
-1. Pick a **ready-made theme** from the dropdown (optional).
-2. Under the **Bar background style**, the fields change with your choice:
+1. Wählen Sie ein **vorgefertigtes Theme** aus dem Dropdown-Menü (optional).
+2. Unter **Hintergrundstil der Leiste** ändern sich die Felder je nach Ihrer Auswahl:
 
-* Solid color: Set the Bar color.
-* Gradient: Set two bar colors and the Gradient direction.
-* Image: Upload an image as the bar background and enable these to highlight the texts better:
-* Blur image to soften the background
-* Add overlay color to layer a color on top of the image
+* Einfarbig: Legen Sie die Leistenfarbe fest.
+* Verlauf: Legen Sie zwei Leistenfarben und die Verlaufsrichtung fest.
+* Bild: Laden Sie ein Bild als Hintergrund der Leiste hoch und aktivieren Sie diese Optionen, um Texte besser hervorzuheben:
+* Bild weichzeichnen, um den Hintergrund abzuschwächen
+* Überlagerungsfarbe hinzufügen, um eine Farbe über das Bild zu legen
 
-3. Adjust the colors of other elements, including text and button color.&#x20;
-4. Set **Padding top** and **Padding bottom** for Desktop and Mobile.
+3. Passen Sie die Farben der anderen Elemente an, einschließlich Text- und Schaltflächenfarbe.&#x20;
+4. Legen Sie **Padding oben** und **Padding unten** für Desktop und Mobilgerät fest.
 
 {% hint style="info" %}
-Click “Full width” on the Preview panel to check your changes on desktop.
+Klicken Sie im Vorschaubereich auf „Volle Breite“, um Ihre Änderungen auf dem Desktop zu überprüfen.
 {% endhint %}
 
-When you're done, click Save draft to keep your changes, or Publish to make the bar live.
+Wenn Sie fertig sind, klicken Sie auf „Entwurf speichern“, um Ihre Änderungen zu behalten, oder auf „Veröffentlichen“, um die Leiste live zu schalten.
 
-## Placement
+## Platzierung
 
-This tab controls where your Announcement Bar appears.
+Dieser Tab steuert, wo Ihre Ankündigungsleiste erscheint.
 
 ![](<../../.gitbook/assets/unknown (349).png>)
 
-### Page display
+### Seitenanzeige
 
-Control which pages your bar appears on between 2 options:
+Steuern Sie, auf welchen Seiten Ihre Leiste zwischen 2 Optionen erscheint:
 
-**Show on all pages**: Display bar across your whole store.
+**Auf allen Seiten anzeigen**: Leiste in Ihrem gesamten Shop anzeigen.
 
-**Show on specific pages**: Show the bar only on selected pages. Tick the pages to display it on:
+**Auf bestimmten Seiten anzeigen**: Leiste nur auf ausgewählten Seiten anzeigen. Wählen Sie die Seiten aus, auf denen sie angezeigt werden soll:
 
-* **Home page**
-* **Cart page**
-* **Product page** (all product pages).
-* **Collection page** (all collection pages).
-* **Custom page**: Show or hide the bar on specific pages. There are 4 options to choose from:
-  * Equal to: Enter the exact URL where you want the widget to show (a link to a specific collection, a specific product page,...).
-  * Not equal to: Enter the URL where you do NOT want the widget to show.
-  * Contains: Enter a term. The widget will show only on pages with that term in the URL. Example: "summer-sale".
-  * Not contains: Enter a term to hide the widget on pages with that term in the URL. Example: "summer-sale".
+* **Startseite**
+* **Warenkorbseite**
+* **Produktseite** (alle Produktseiten).
+* **Sammlungsseite** (alle Sammlungsseiten).
+* **Benutzerdefinierte Seite**: Leiste auf bestimmten Seiten anzeigen oder ausblenden. Es gibt 4 Optionen zur Auswahl:
+  * Gleich wie: Geben Sie die genaue URL ein, auf der das Widget angezeigt werden soll (ein Link zu einer bestimmten Sammlung, einer bestimmten Produktseite …).
+  * Nicht gleich wie: Geben Sie die URL ein, auf der das Widget NICHT angezeigt werden soll.
+  * Enthält: Geben Sie einen Begriff ein. Das Widget wird nur auf Seiten angezeigt, die diesen Begriff in der URL enthalten. Beispiel: „summer-sale“.
+  * Enthält nicht: Geben Sie einen Begriff ein, um das Widget auf Seiten auszublenden, die diesen Begriff in der URL enthalten. Beispiel: „summer-sale“.
 
-### Filter by location
+### Nach Standort filtern
 
-Control which countries your bar is shown in or hidden from. BOGOS detects each customer's country based on their IP address.
+Steuern Sie, in welchen Ländern Ihre Leiste angezeigt oder ausgeblendet wird. BOGOS erkennt das Land jedes Kunden anhand seiner IP-Adresse.
 
-To set it up:
+So richten Sie es ein:
 
-* Click **Select location** to choose the target countries.
-* Enable **Exclude selected locations** to hide the bar from the countries you just selected above.
+* Klicken Sie auf **Standort auswählen**, um die Zielländer festzulegen.
+* Aktivieren Sie **Ausgewählte Standorte ausschließen**, um die Leiste in den oben ausgewählten Ländern auszublenden.
 
-## Need Help?
+## Benötigen Sie Hilfe?
 
-If you need any assistance, feel free to reach out to our customer support team via live chat within our BOGOS app.
+Wenn Sie Unterstützung benötigen, wenden Sie sich gerne über den Live-Chat in unserer BOGOS-App an unser Kundensupport-Team.

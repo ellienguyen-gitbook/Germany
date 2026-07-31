@@ -1,179 +1,179 @@
-# Create Product Discount
+# Produktrabatt erstellen
 
-A product discount **applies a discount per product** in your store, and the discounted price applies automatically in the cart, with no manual coupon entry needed.&#x20;
+Ein Produktrabatt **wendet einen Rabatt pro Produkt** in Ihrem Shop an, und der reduzierte Preis wird automatisch im Warenkorb angewendet, ohne dass eine manuelle Gutscheineingabe erforderlich ist.&#x20;
 
-You can also run store-wide sales, flash sales, or private sales that rewards a specific group of customers.
+Sie können auch shopweite Verkäufe, Blitzverkäufe oder private Verkäufe durchführen, die eine bestimmte Kundengruppe belohnen.
 
 ![](<../../.gitbook/assets/unknown (320).png>)
 
-Setting up a Product Discount offer with BOGOS app includes the 9 steps:
+Die Einrichtung eines Produktrabatt-Angebots mit der BOGOS-App umfasst 9 Schritte:
 
-1. On the Menu, open All Offers > Create Offers > Discount > Product Discount.
-2. [Set up offer information](create-product-discount.md#set-up-offer-information).
-3. [Define which products the offer applies to](create-product-discount.md#define-offers-apply-to-which-products).
-4. [Add sub-condition](create-product-discount.md#add-sub-condition) (optional).
-5. [Set up maximum discount uses](create-product-discount.md#set-up-maximum-discount-uses) (optional).
-6. [Set up a discount](create-product-discount.md#set-up-discount).
-7. [Custom discount code & combination](create-product-discount.md#custom-discount-code-name-1) (optional).
-8. Click Publish.
-9. [Customize the display of discounted price & countdown widget](../customize/customize-product-discount.md).
+1. Öffnen Sie im Menü Alle Angebote > Angebote erstellen > Rabatt > Produktrabatt.
+2. [Richten Sie die Angebotsinformationen ein](create-product-discount.md#set-up-offer-information).
+3. [Legen Sie fest, für welche Produkte das Angebot gilt](create-product-discount.md#define-offers-apply-to-which-products).
+4. [Fügen Sie eine Unterbedingung hinzu](create-product-discount.md#add-sub-condition) (optional).
+5. [Richten Sie die maximale Anzahl an Rabattnutzungen ein](create-product-discount.md#set-up-maximum-discount-uses) (optional).
+6. [Richten Sie einen Rabatt ein](create-product-discount.md#set-up-discount).
+7. [Individueller Rabattcode & Kombination](create-product-discount.md#custom-discount-code-name-1) (optional).
+8. Klicken Sie auf Veröffentlichen.
+9. [Passen Sie die Anzeige des reduzierten Preises & des Countdown-Widgets an](../customize/customize-product-discount.md).
 
 {% embed url="https://youtu.be/wcDYt8VEct0?si=GRiLmJzTg2WKlN4G" %}
 
-## 1. Set up Offer Information
+## 1. Angebotsinformationen einrichten
 
-This section sets the basic information for your Product Discount offer.
+Dieser Bereich legt die grundlegenden Informationen für Ihr Produktrabatt-Angebot fest.
 
 <figure><img src="../../.gitbook/assets/image (428).png" alt=""><figcaption></figcaption></figure>
 
-To set it up, fill in these fields:
+Füllen Sie zur Einrichtung diese Felder aus:
 
-#### **1.1. Offer name**
+#### **1.1. Angebotsname**
 
-For management in BOGOS only.
+Nur zur Verwaltung in BOGOS.
 
-#### **1.2. Offer title, block description**
+#### **1.2. Angebotstitel, Blockbeschreibung**
 
-Text shown on the countdown timer.
+Text, der im Countdown-Timer angezeigt wird.
 
-#### **1.3. Start time / End time** (optional)
+#### **1.3. Startzeit / Endzeit** (optional)
 
-Schedule when the offer goes live and when it ends.
+Planen Sie, wann das Angebot live geht und wann es endet.
 
 {% hint style="info" %}
-Setting the offer End time will trigger a countdown timer on the product page. [Customize the countdown timer](../customize/customize-product-discount.md).
+Wenn Sie die Endzeit des Angebots festlegen, wird ein Countdown-Timer auf der Produktseite ausgelöst. [Passen Sie den Countdown-Timer an](../customize/customize-product-discount.md).
 {% endhint %}
 
-#### 1.4. Recurring time (optional)
+#### 1.4. Wiederkehrende Zeit (optional)
 
-Enable the offer on a repeating schedule within its active period, ideal for daily flash sales, weekend promotions, or monthly campaigns. When enabled, the active period's End time is automatically synced with the recurrence end date.
+Aktivieren Sie das Angebot nach einem wiederkehrenden Zeitplan innerhalb seines aktiven Zeitraums, ideal für tägliche Blitzverkäufe, Wochenendaktionen oder monatliche Kampagnen. Wenn aktiviert, wird die Endzeit des aktiven Zeitraums automatisch mit dem Enddatum der Wiederholung synchronisiert.
 
-To set it up, configure the following:
+Zur Einrichtung konfigurieren Sie Folgendes:
 
-**1.4.1. Frequency**
+**1.4.1. Häufigkeit**
 
-Select how often the offer repeats: Daily, or Weekly.
+Wählen Sie, wie oft sich das Angebot wiederholt: Täglich oder Wöchentlich.
 
-* **Daily:** The offer runs every day within the chosen time window.
+* **Täglich:** Das Angebot läuft jeden Tag innerhalb des gewählten Zeitfensters.
 
 <figure><img src="../../.gitbook/assets/image (452).png" alt=""><figcaption></figcaption></figure>
 
-* **Weekly:** The offer runs on selected days of the week.&#x20;
+* **Wöchentlich:** Das Angebot läuft an den ausgewählten Wochentagen.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure>
 
-**1.4.2. Start time (in day) / End time (in day)**
+**1.4.2. Startzeit (in Tag) / Endzeit (in Tag)**
 
-The daily time window when the offer is active during each recurring session (e.g., 09:00 to 11:00). Times are set to your store's current timezone.
+Das tägliche Zeitfenster, in dem das Angebot während jeder wiederkehrenden Sitzung aktiv ist (z. B. 09:00 bis 11:00 Uhr). Die Zeiten richten sich nach der aktuellen Zeitzone Ihres Shops.
 
 {% hint style="warning" %}
-When created with Recurring time enabled, the offer appears with Scheduled status so you can track upcoming runs.&#x20;
+Wenn das Angebot mit aktivierter wiederkehrender Zeit erstellt wird, erscheint es mit dem Status Geplant, damit Sie kommende Ausführungen verfolgen können.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-If an offer expires while a customer is still in the checkout process, the discount is automatically removed, and products are charged at their original price.&#x20;
+Wenn ein Angebot abläuft, während sich ein Kunde noch im Checkout-Prozess befindet, wird der Rabatt automatisch entfernt und die Produkte werden zum Originalpreis berechnet.&#x20;
 {% endhint %}
 
-## 2. Define Offers Apply to Which Products
+## 2. Festlegen, für welche Produkte die Angebote gelten
 
-This setting controls which products the discount applies to.
+Diese Einstellung steuert, für welche Produkte der Rabatt gilt.
 
 ![](<../../.gitbook/assets/unknown (323).png>)
 
-To set it up, select one of the following from Apply discount to:
+Wählen Sie zur Einrichtung eine der folgenden Optionen unter Rabatt anwenden auf:
 
-* any products
-* all except selected products
-* all except selected types/vendors/collections
-* selected products
-* products in selected types/vendors/collections
+* alle Produkte
+* alle außer ausgewählten Produkten
+* alle außer ausgewählten Typen/Anbietern/Sammlungen
+* ausgewählte Produkte
+* Produkte in ausgewählten Typen/Anbietern/Sammlungen
 
 {% hint style="warning" %}
-When a product has multiple discounts active at the same time, only the largest discount is applied.&#x20;
+Wenn für ein Produkt mehrere Rabatte gleichzeitig aktiv sind, wird nur der größte Rabatt angewendet.&#x20;
 {% endhint %}
 
-## 3. Add Sub-condition
+## 3. Unterbedingung hinzufügen
 
-Sub-conditions add extra rules that decide who can see and receive the discount. Only customers who meet the conditions will see and get the offer; others won't see it at all.
+Unterbedingungen fügen zusätzliche Regeln hinzu, die entscheiden, wer den Rabatt sehen und erhalten kann. Nur Kunden, die die Bedingungen erfüllen, sehen und erhalten das Angebot; andere sehen es gar nicht.
 
 ![](<../../.gitbook/assets/unknown (326).png>)
 
-Click Add sub-condition, then choose one or more:
+Klicken Sie auf Unterbedingung hinzufügen und wählen Sie dann eine oder mehrere:
 
-* Specific link address
-* Customers' order history
-* Customer tags
-* Customer location
+* Spezifische Linkadresse
+* Bestellhistorie der Kunden
+* Kunden-Tags
+* Kundenstandort
 * Markets
 
 {% hint style="info" %}
-You can combine multiple sub-conditions. Customers must meet ALL selected criteria to qualify.
+Sie können mehrere Unterbedingungen kombinieren. Kunden müssen ALLE ausgewählten Kriterien erfüllen, um berechtigt zu sein.
 {% endhint %}
 
-_For more details, visit our \[_[_Sub-Condition on Bundle, Upsell, Discount_](../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)_] guide._
+_Weitere Details finden Sie in unserem \[_[_Leitfaden zu Unterbedingungen bei Bundle, Upsell, Rabatt_](../detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)_]._
 
-## 4. Set up Maximum Discount Uses
+## 4. Maximale Anzahl an Rabattnutzungen einrichten
 
-This section lets you limit how many times the discount can be claimed in total or per customer, useful for running time-limited or exclusive discounts.
+In diesem Bereich können Sie begrenzen, wie oft der Rabatt insgesamt oder pro Kunde eingelöst werden kann, nützlich für zeitlich begrenzte oder exklusive Rabatte.
 
 ![](<../../.gitbook/assets/unknown (341).png>)
 
-To set it up, enable one or both of the following:
+Aktivieren Sie zur Einrichtung eine oder beide der folgenden Optionen:
 
-* **Limit number of times this discount can be used in total**: Set a maximum number of times the discount can be redeemed across all customers.
+* **Anzahl, wie oft dieser Rabatt insgesamt genutzt werden kann, begrenzen**: Legen Sie eine maximale Anzahl fest, wie oft der Rabatt über alle Kunden hinweg eingelöst werden kann.
 
 {% hint style="info" %}
-The “X/Y used” counter shows current usage.
+Der Zähler „X/Y genutzt“ zeigt die aktuelle Nutzung an.
 {% endhint %}
 
-* **Limit to one use per customer**: Ensure each customer can only redeem the discount once.
-  * **For logged-in customers**, BOGOS checks their account usage. If they’ve reached the limit, the discount will be hidden and unavailable.
-  * **For guest customers**, the discount stays visible and can be applied in cart. However, at checkout, BOGOS will check their email’s past orders. If the email has reached the limit, the discount is removed automatically.
+* **Auf eine Nutzung pro Kunde begrenzen**: Stellen Sie sicher, dass jeder Kunde den Rabatt nur einmal einlösen kann.
+  * **Bei angemeldeten Kunden** prüft BOGOS die Nutzung ihres Kontos. Wenn sie das Limit erreicht haben, wird der Rabatt ausgeblendet und ist nicht verfügbar.
+  * **Bei Gastkunden** bleibt der Rabatt sichtbar und kann im Warenkorb angewendet werden. Beim Checkout prüft BOGOS jedoch die vergangenen Bestellungen der E-Mail-Adresse. Wenn die E-Mail-Adresse das Limit erreicht hat, wird der Rabatt automatisch entfernt.
 
-## 5. Set up Discount
+## 5. Rabatt einrichten
 
-This section sets how much customers save.
+Dieser Bereich legt fest, wie viel Kunden sparen.
 
 ![](<../../.gitbook/assets/unknown (329).png>)
 
-To set it up, fill in these fields:
+Füllen Sie zur Einrichtung diese Felder aus:
 
-* **Discount type**: Choose how the discount is calculated:
-  * Percentage (e.g., 10% off)
-  * Fixed amount (e.g., $10 off)
-  * Fixed price (e.g., buy this product at $9.99) (tip: a flat-price sale across your whole store).
-* **Set maximum discount value** (for Percentage only): Cap the maximum amount a customer can save
-  * Example: 10% off, up to $10.
-* **Override cents**: Replace the cents portion of the final price with a value you set, for cleaner price endings.
-  * Example: Override cents = 0.99 means if the discounted price is $12.34, the final price shown to customers is $12.99.
-* **Add currency** (for Fixed amount, Fixed price, Maximum discount value only): If you use Shopify Markets, you can add currency to set a custom discount value for each market's currency.
+* **Rabattart**: Wählen Sie, wie der Rabatt berechnet wird:
+  * Prozentsatz (z. B., 10 % Rabatt)
+  * Fester Betrag (z. B., 10 $ Rabatt)
+  * Festpreis (z. B., dieses Produkt für 9,99 $ kaufen) (Tipp: ein Pauschalpreis-Verkauf für Ihren gesamten Shop).
+* **Maximalen Rabattwert festlegen** (nur für Prozentsatz): Begrenzen Sie den maximalen Betrag, den ein Kunde sparen kann
+  * Beispiel: 10 % Rabatt, bis zu 10 $.
+* **Cent-Betrag überschreiben**: Ersetzen Sie den Centanteil des Endpreises durch einen von Ihnen festgelegten Wert, für saubere Preisendungen.
+  * Beispiel: Cent-Betrag überschreiben = 0,99 bedeutet, wenn der reduzierte Preis 12,34 $ beträgt, wird Kunden der Endpreis 12,99 $ angezeigt.
+* **Währung hinzufügen** (nur für Festen Betrag, Festpreis, Maximalen Rabattwert): Wenn Sie Shopify Markets verwenden, können Sie eine Währung hinzufügen, um einen individuellen Rabattwert für die Währung jedes Marktes festzulegen.
 
 <img src="../../.gitbook/assets/unknown (331).png" alt="" height="150" width="447">
 
 <br>
 
-## 6. Custom Discount Code Name
+## 6. Individueller Rabattcode-Name
 
 ![](<../../.gitbook/assets/unknown (333).png>)
 
-### 6.1. Add a custom discount code name
+### 6.1. Einen individuellen Rabattcode-Namen hinzufügen
 
-By default, BOGOS auto-generates and auto-applies a discount code for the offer (e.g; BOGOS-PpOp12).
+Standardmäßig generiert und wendet BOGOS automatisch einen Rabattcode für das Angebot an (z. B.; BOGOS-PpOp12).
 
-To customize that code, tick **Add a custom discount code** and enter a name that fits your strategy (e.g., SUMMER20).&#x20;
+Um diesen Code anzupassen, aktivieren Sie **Individuellen Rabattcode hinzufügen** und geben Sie einen Namen ein, der zu Ihrer Strategie passt (z. B., SUMMER20).&#x20;
 
 ![](<../../.gitbook/assets/unknown (335).png>)
 
 {% hint style="info" %}
-The code must be under 256 characters and unique across all discounts created with Shopify Discounts.
+Der Code muss unter 256 Zeichen liegen und über alle mit Shopify-Rabatten erstellten Rabatte hinweg eindeutig sein.
 {% endhint %}
 
-### 6.2. Combine with other discounts
+### 6.2. Mit anderen Rabatten kombinieren
 
-By default, the product discount can combine with Order and Shipping discounts. Combination follows Shopify's discount rules. Make sure the other discounts are also set to allow combination on their end.
+Standardmäßig kann der Produktrabatt mit Bestell- und Versandrabatten kombiniert werden. Die Kombination folgt den Rabattregeln von Shopify. Stellen Sie sicher, dass auch die anderen Rabatte auf ihrer Seite die Kombination zulassen.
 
-To stop it from combining, **untick the option** you don't want.
+Um die Kombination zu verhindern, **deaktivieren Sie die Option**, die Sie nicht möchten.
 
-### Need Help?
+### Benötigen Sie Hilfe?
 
-If you need any assistance, feel free to reach out to our customer support team via live chat within our BOGOS app.
+Wenn Sie Unterstützung benötigen, kontaktieren Sie gerne unser Kundensupport-Team über den Live-Chat in unserer BOGOS-App.

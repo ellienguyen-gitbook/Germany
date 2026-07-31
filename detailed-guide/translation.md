@@ -1,30 +1,30 @@
 ---
 description: >-
-  The BOGOS app now supports a Translation feature, enabling users to change the
-  app’s element display language based on store language settings.
+  Die BOGOS App unterstützt jetzt eine Übersetzungsfunktion, die es Nutzern ermöglicht, die
+  Anzeigesprache der App-Elemente basierend auf den Sprachein­stellungen des Shops zu ändern.
 ---
 
-# Translation
+# Übersetzung
 
 {% embed url="https://www.youtube.com/watch?v=U-J0kL-rLaE" %}
 
 <img src="../.gitbook/assets/unknown (290).png" alt="" height="320" width="624">
 
-1. ### Translation by BOGOS
+1. ### Übersetzung durch BOGOS
 
-* Users can manually create translations for the app elements or use the automatic translation option provided by AI.
-* When the store language setting is changed, the elements of the app will automatically update to match the selected language.
+* Nutzer können manuell Übersetzungen für die App-Elemente erstellen oder die von KI bereitgestellte automatische Übersetzungsoption verwenden.
+* Wenn die Sprachein­stellung des Shops geändert wird, werden die Elemente der App automatisch aktualisiert, um der ausgewählten Sprache zu entsprechen.
 
 {% hint style="warning" %}
-IMPORTANT\
-**Product names** within the Gift Slider and Classic Bundle sections are not translatable and will remain in original languages.
+WICHTIG\
+**Produktnamen** innerhalb der Bereiche Geschenkschieberegler und Classic Bundle sind nicht übersetzbar und bleiben in der Originalsprache.
 
-**Discount values (percentage or amount off)** within the Classic Bundle section also cannot be translated.
+**Rabattwerte (Prozentsatz oder Betrag Nachlass)** innerhalb des Bereichs Classic Bundle können ebenfalls nicht übersetzt werden.
 {% endhint %}
 
-### 2. Translation by 3rd-Party Integration
+### 2. Übersetzung durch Integration von Drittanbietern
 
-* When a 3rd-party translation service is integrated (currently supported: Transcy, with Weglot integration coming soon), BOGOS will automatically adopt the translations provided by the external service.
-* In this mode, BOGOS’s own translation system will be disabled, and the app will rely entirely on the 3rd-party service for language translation.
+* Wenn ein Übersetzungsdienst eines Drittanbieters integriert ist (aktuell unterstützt: Transcy, Weglot-Integration folgt in Kürze), übernimmt BOGOS automatisch die vom externen Dienst bereitgestellten Übersetzungen.
+* In diesem Modus wird das eigene Übersetzungssystem von BOGOS deaktiviert, und die App verlässt sich vollständig auf den Drittanbieterdienst für die Sprachübersetzung.
 
-**How to integrate BOGOS with 3rd-party translation apps?** Read our guide on the [Integration x Translation apps](../integration/translation-apps/).
+**Wie integriert man BOGOS mit Übersetzungs-Apps von Drittanbietern?** Lesen Sie unseren Leitfaden zu [Integration x Übersetzungs-Apps](../integration/translation-apps/).

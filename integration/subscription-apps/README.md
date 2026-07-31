@@ -1,28 +1,28 @@
-# Subscription apps
+# Abonnement-Apps
 
-### What each tool does
+### Was jedes Tool leistet
 
 #### BOGOS:
 
-* Create, run, and manage offer types: Free Gifts, Bundles, Upsell & Discounts.
-* Display and manage promotion widgets: Gift sliders, bundle page, discount widget, and promotional messages.
-* Apply eligibility rules: Control which customers, products, collections, or cart conditions qualify for each promotion.
+* Erstellen, ausführen und verwalten Sie Angebotstypen: Werbegeschenke, Bündel, Upsell & Rabatte.
+* Anzeige und Verwaltung von Werbe-Widgets: Geschenkschieberegler, Bündelseite, Rabatt-Widget und Werbenachrichten.
+* Anwenden von Berechtigungsregeln: Legen Sie fest, welche Kunden, Produkte, Kollektionen oder Warenkorbbedingungen für jede Werbeaktion in Frage kommen.
 
-#### Subscription app:&#x20;
+#### Abonnement-App:&#x20;
 
-Enables merchants to sell products on a recurring basis (weekly, monthly, etc.), giving customers the option to “subscribe & save” instead of making a one-time purchase.
+Ermöglicht Händlern den Verkauf von Produkten auf wiederkehrender Basis (wöchentlich, monatlich usw.) und bietet Kunden die Möglichkeit, „zu abonnieren & zu sparen“, anstatt einen einmaligen Kauf zu tätigen.
 
-### What the integration enables
+### Was die Integration ermöglicht
 
-**Subscription options inside BOGOS widgets:**&#x20;
+**Abonnement-Optionen innerhalb von BOGOS-Widgets:**&#x20;
 
-Customers can select subscription products directly within BOGOS volume discount widgets, without leaving the promotional flow.\
+Kunden können Abonnement-Produkte direkt innerhalb der BOGOS-Mengenrabatt-Widgets auswählen, ohne den Werbeablauf zu verlassen.\
 \
-**Seamless checkout experience:**&#x20;
+**Nahtloses Checkout-Erlebnis:**&#x20;
 
-Whether a customer chooses one-time purchase or subscription, the correct discount logic and recurring order setup flow smoothly to checkout.
+Ob ein Kunde einen einmaligen Kauf oder ein Abonnement wählt, die richtige Rabattlogik und der Ablauf für die Einrichtung wiederkehrender Bestellungen laufen reibungslos bis zum Checkout.
 
-### Integrated Labels & Badges apps
+### Integrierte Labels- & Badges-Apps
 
 [Appstle - Subscription Apps](https://apps.shopify.com/subscriptions-by-appstle?utm_source=Partner\&utm_medium=BOGOS\&utm_campaign=Integration)
 
