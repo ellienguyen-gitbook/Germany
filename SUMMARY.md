@@ -1,14 +1,14 @@
-# Inhaltsverzeichnis
+# Table of contents
 
 * [🤗 Offizielle BOGOS App-Hilfedokumente](README.md)
 
-## ÜBER DIE BOGOS APP
+## ÜBER DIE BOGOS APP <a href="#about-bogos-app" id="about-bogos-app"></a>
 
 * [Was ist die BOGOS-App?](about-bogos-app/what-is-bogos-app.md)
 * [BOGOS Funktionsübersicht](about-bogos-app/bogos-feature-overview.md)
 * [Preisplan](about-bogos-app/pricing-plan.md)
 
-## Schnellstartanleitung
+## Schnellstartanleitung <a href="#quick-start-guide" id="quick-start-guide"></a>
 
 * [Starten Sie Ihr erstes Angebot](quick-start-guide/launch-your-first-offer.md)
 * [Widget-Farbe anpassen](quick-start-guide/customize-widget-color.md)
@@ -18,7 +18,7 @@
 * [Ein Überblick über BOGOS.io](quick-start-guide/an-overview-of-bogos.io.md)
 * [Grundbegriffe verstehen](quick-start-guide/understanding-basic-terms.md)
 
-## 📚 AUSFÜHRLICHER LEITFADEN
+## 📚 AUSFÜHRLICHER LEITFADEN <a href="#detailed-guide" id="detailed-guide"></a>
 
 * [Geschenkangebot](detailed-guide/gift-offer/README.md)
   * [Geschenkangebot erstellen](detailed-guide/gift-offer/create-gift-offer.md)
@@ -77,7 +77,7 @@
 * [Detaillierte Dokumentation](detailed-guide/detailed-doc/README.md)
   * [Wie fügt man BOGOS-Unterbedingungen zu Bundle, Upsell, Rabatt hinzu?](detailed-guide/detailed-doc/how-to-add-bogos-sub-conditions-to-bundle-upsell-discount.md)
 
-## ⚙️ Erweiterte Anpassung
+## ⚙️ Erweiterte Anpassung <a href="#advanced-customization" id="advanced-customization"></a>
 
 * [Erweiterte Anpassung (für Entwickler)](advanced-customization/advance-customization-for-devs/README.md)
   * [Anpassung mithilfe von Events](advanced-customization/advance-customization-for-devs/customize-using-events.md)
@@ -119,7 +119,7 @@
 * [3. Wie wird die Rechnung berechnet?](faqs/3.-how-to-calculate-the-bill.md)
 * [4. Welchen BOGOS-Plan habe ich?](faqs/4.-what-is-my-bogos-plan.md)
 
-## 📄 Allgemeine Geschäftsbedingungen
+## 📄 Allgemeine Geschäftsbedingungen <a href="#terms-and-conditions" id="terms-and-conditions"></a>
 
 * [Allgemeine Geschäftsbedingungen](terms-and-conditions/general-terms-and-condition.md)
 * [Rückerstattungsrichtlinie](terms-and-conditions/refund-policy.md)
