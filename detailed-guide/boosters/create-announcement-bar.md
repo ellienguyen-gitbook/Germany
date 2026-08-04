@@ -1,10 +1,12 @@
 # Ankündigungsleiste erstellen
 
-Die Ankündigungsleiste ist ein neuer Booster, entwickelt von BOGOS: Free Gift Bundle Upsell App, der Werbebotschaften in Ihrem gesamten Shop oder auf bestimmten von Ihnen ausgewählten Seiten anzeigt, um Aufmerksamkeit zu erregen und mehr Klicks zu erzielen.&#x20;
+Die Ankündigungsleiste ist ein neuer Booster, entwickelt von BOGOS: Free Gift Bundle Upsell App, der Werbebotschaften in Ihrem gesamten Shop oder auf bestimmten von Ihnen ausgewählten Seiten anzeigt, um Aufmerksamkeit zu erregen und mehr Klicks zu erzielen.
 
 <figure><img src="../../.gitbook/assets/announcement bar - example.png" alt=""><figcaption></figcaption></figure>
 
 → [Demo ansehen](https://demo-store-by-bogos.myshopify.com/?utm_source=HelpDoc\&utm_medium=Booster\&utm_campaign=AnnouncementBar).
+
+{% embed url="https://youtu.be/VYGWig6VdB4?si=CskwHogoOZZF6kJm" %}
 
 Die Einrichtung und Gestaltung der Ankündigungsleiste mit BOGOS umfasst 5 Schritte:
 
@@ -15,7 +17,7 @@ Die Einrichtung und Gestaltung der Ankündigungsleiste mit BOGOS umfasst 5 Schri
 5. Klicken Sie auf „Entwurf speichern“ oder „Veröffentlichen“.
 
 {% hint style="info" %}
-Die Vorschau auf der rechten Seite zeigt standardmäßig die mobile Ansicht.&#x20;
+Die Vorschau auf der rechten Seite zeigt standardmäßig die mobile Ansicht.
 
 Klicken Sie auf **Volle Breite anzeigen**, um die Vorschau auf dem Desktop zu sehen.
 {% endhint %}
@@ -120,7 +122,7 @@ Wählen Sie, wo die Leiste auf der Seite erscheint:
 
 ### Typografie
 
-Steuern Sie die Schriftart und Textgröße Ihrer Leiste.&#x20;
+Steuern Sie die Schriftart und Textgröße Ihrer Leiste.
 
 So richten Sie es ein:
 
@@ -150,7 +152,7 @@ So passen Sie das Erscheinungsbild Ihrer Ankündigungsleiste an:
 * Bild weichzeichnen, um den Hintergrund abzuschwächen
 * Überlagerungsfarbe hinzufügen, um eine Farbe über das Bild zu legen
 
-3. Passen Sie die Farben der anderen Elemente an, einschließlich Text- und Schaltflächenfarbe.&#x20;
+3. Passen Sie die Farben der anderen Elemente an, einschließlich Text- und Schaltflächenfarbe.
 4. Legen Sie **Padding oben** und **Padding unten** für Desktop und Mobilgerät fest.
 
 {% hint style="info" %}
